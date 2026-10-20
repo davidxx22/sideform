@@ -1,0 +1,17 @@
+{
+  "equalPurchaseControls": true,
+  "favoriteAlignment": true,
+  "transparentCaptions": true,
+  "hiddenQuantityLabelAndCartNote": true,
+  "stockUpdates": true,
+  "shareRemoved": true,
+  "sizeGuideAlignment": true,
+  "widths": [
+    1440,
+    990,
+    768,
+    390,
+    320
+  ],
+  "errors": []
+}

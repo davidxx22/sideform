@@ -1,0 +1,30 @@
+{
+  "fourPhotoGallery": true,
+  "fallbackGallery": true,
+  "modelCaption": true,
+  "noPhotographyNotice": true,
+  "favorites": {
+    "persistence": true,
+    "headerDialog": true,
+    "removal": true,
+    "crossTab": true,
+    "escapeFocusReturn": true
+  },
+  "variantSelection": true,
+  "sizeGuide": true,
+  "soldOut": true,
+  "cart": {
+    "add": true,
+    "quantity": true,
+    "remove": true
+  },
+  "widths": [
+    1920,
+    1440,
+    990,
+    768,
+    390,
+    320
+  ],
+  "errors": []
+}

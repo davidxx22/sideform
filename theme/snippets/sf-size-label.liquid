@@ -1,0 +1,7 @@
+{%- assign size_text = value | append: '' -%}
+{%- case size_text -%}
+  {%- when 'Small' -%}S
+  {%- when 'Medium' -%}M
+  {%- when 'Large' -%}L
+  {%- else -%}{{- size_text | escape -}}
+{%- endcase -%}

@@ -1,0 +1,7 @@
+{% assign model_profile = product.metafields.custom.model_profile.value %}
+{% if model_profile.height_cm != blank and model_profile.wearing_size != blank %}
+  {% assign height_inches = model_profile.height_cm | divided_by: 2.54 | round %}
+  {% assign height_feet = height_inches | divided_by: 12 | floor %}
+  {% assign remaining_inches = height_inches | modulo: 12 %}
+  <p class="sf-model-caption">Model: {{ height_feet }}' {{ remaining_inches }}&quot;<br>Wearing size: {{ model_profile.wearing_size | escape }}</p>
+{% endif %}

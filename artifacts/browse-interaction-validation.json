@@ -1,0 +1,47 @@
+{
+  "environment": "Local Shopify-object emulator",
+  "fallback": false,
+  "initialColors": [
+    "Black",
+    "White",
+    "Grey",
+    "Black",
+    "White",
+    "Grey",
+    "Black",
+    "White",
+    "Grey",
+    "Black",
+    "White",
+    "Grey"
+  ],
+  "categories": [
+    {
+      "category": "Tops",
+      "products": 7,
+      "inPlace": true,
+      "colorPreviews": 21
+    },
+    {
+      "category": "Bottoms",
+      "products": 3,
+      "inPlace": true,
+      "colorPreviews": 9
+    },
+    {
+      "category": "Outerwear",
+      "products": 2,
+      "inPlace": true,
+      "colorPreviews": 6
+    },
+    {
+      "category": "All",
+      "products": 12,
+      "inPlace": true,
+      "colorPreviews": 36
+    }
+  ],
+  "mobileKeyboard": true,
+  "failedPhotoRetry": true,
+  "uncaughtErrors": []
+}

@@ -1,0 +1,4 @@
+{% assign favorite_image = product.featured_media | image_url: width: 480 %}
+{% if product.tags contains 'ai-sample-media' %}{% assign favorite_asset = 'sf-packshot-' | append: product.handle | append: '-black-front-480.jpg' %}{% assign favorite_image = favorite_asset | asset_url %}{% endif %}
+<button type="button" class="sf-favorite-button" data-sf-favorite="{{ product.handle }}" data-title="{{ product.title | escape }}" data-url="{{ product.url }}" data-image="{{ favorite_image | escape }}" data-price="{{ product.price | money_with_currency | escape }}" aria-pressed="false">{% render 'sf-heart' %}<span data-sf-favorite-label>Add to favorites</span></button>
+<p class="visually-hidden" role="status" data-sf-favorite-status></p>

@@ -1,0 +1,10 @@
+{
+  "environment": "Local fixtures, emulated Shopify endpoints",
+  "passed": [
+    "Missing sizing hides guide",
+    "Native Dawn lightbox: selected color, Escape",
+    "422 stock error feedback",
+    "Network failure retry guidance"
+  ],
+  "uncaughtErrors": []
+}

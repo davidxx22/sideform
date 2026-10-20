@@ -1,0 +1,6 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Use case: product-mockup / precise garment reference. Create one photorealistic SIDEFORM streetwear editorial photograph. Image 1 is the exact garment reference: Grey Grid Cargo Pant, preserve its grey cotton twill, straight wide legs, waistband, belt loops, side cargo flap pockets, seams and unbranded design. Image 2 is ONLY framing/pose inspiration: close angled three-quarter side/rear view of baggy pants, waist to sneakers, casual walking step, emphasis on drape, pockets and silhouette. Photograph an adult wearing the exact grey cargo pants from image 1, cropped from just above waistband to shoes, no head or face. Small edge of a dark oversized tee at top, clean black/white unbranded low sneakers, neutral concrete studio floor and grey wall, natural soft directional light, high-end urban streetwear campaign. Pants fill most of portrait 4:5 frame with complete waistband and both hems visible; avoid excessive floor. No logos on pants, no text, interface elements, watermark, collage, beige or olive pants, no added pocket styles. Do not copy the reference brand graphics or screenshot UI.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a4e7c6a9-5125-4e6d-b2b6-63940bb5ce66.png",
+  "saved": "catalog/cargo-editorial-grey.png"
+}

@@ -1,0 +1,151 @@
+{
+  "products": [
+    {
+      "handle": "offset-heavy-tee",
+      "colors": 3,
+      "views": 4,
+      "zoomChecks": 12,
+      "widths": [
+        1440,
+        390,
+        320
+      ],
+      "status": "passed"
+    },
+    {
+      "handle": "plane-box-tee",
+      "colors": 3,
+      "views": 4,
+      "zoomChecks": 12,
+      "widths": [
+        1440,
+        390,
+        320
+      ],
+      "status": "passed"
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "colors": 3,
+      "views": 4,
+      "zoomChecks": 12,
+      "widths": [
+        1440,
+        390,
+        320
+      ],
+      "status": "passed"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "colors": 3,
+      "views": 4,
+      "zoomChecks": 12,
+      "widths": [
+        1440,
+        390,
+        320
+      ],
+      "status": "passed"
+    },
+    {
+      "handle": "volume-pullover",
+      "colors": 3,
+      "views": 4,
+      "zoomChecks": 12,
+      "widths": [
+        1440,
+        390,
+        320
+      ],
+      "status": "passed"
+    },
+    {
+      "handle": "structure-hoodie",
+      "colors": 3,
+      "views": 4,
+      "zoomChecks": 12,
+      "widths": [
+        1440,
+        390,
+        320
+      ],
+      "status": "passed"
+    },
+    {
+      "handle": "contour-crew",
+      "colors": 3,
+      "views": 4,
+      "zoomChecks": 12,
+      "widths": [
+        1440,
+        390,
+        320
+      ],
+      "status": "passed"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "colors": 3,
+      "views": 4,
+      "zoomChecks": 12,
+      "widths": [
+        1440,
+        390,
+        320
+      ],
+      "status": "passed"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "colors": 3,
+      "views": 4,
+      "zoomChecks": 12,
+      "widths": [
+        1440,
+        390,
+        320
+      ],
+      "status": "passed"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "colors": 3,
+      "views": 4,
+      "zoomChecks": 12,
+      "widths": [
+        1440,
+        390,
+        320
+      ],
+      "status": "passed"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "colors": 3,
+      "views": 4,
+      "zoomChecks": 12,
+      "widths": [
+        1440,
+        390,
+        320
+      ],
+      "status": "passed"
+    },
+    {
+      "handle": "interval-utility-short",
+      "colors": 3,
+      "views": 4,
+      "zoomChecks": 12,
+      "widths": [
+        1440,
+        390,
+        320
+      ],
+      "status": "passed"
+    }
+  ],
+  "colorViewChecks": 144,
+  "zoomChecks": 144,
+  "errors": []
+}

@@ -1,0 +1,186 @@
+{
+  "tool": "Built-in imagegen",
+  "scope": "Chest marks on garment-only tops and jackets; bottoms excluded",
+  "images": [
+    {
+      "handle": "plane-box-tee",
+      "color": "white",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the white SIDEFORM plane-box-tee garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide black SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/plane-box-tee-white-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-80e83e3e-e36f-46e2-bb09-2cdd84360291.png"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "black",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the black SIDEFORM plane-box-tee garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide off-white SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/plane-box-tee-black-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-dd71dae4-7c72-4e79-ba8f-1056b7c050d0.png"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "grey",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the grey SIDEFORM plane-box-tee garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide black SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/plane-box-tee-grey-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ea5a2a68-546a-4a4d-a287-2e50365ccbfa.png"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "black",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the black SIDEFORM frame-long-sleeve garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide off-white SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/frame-long-sleeve-black-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-3b48da36-1ecc-4388-a6ba-24d7ac690c83.png"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "white",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the white SIDEFORM frame-long-sleeve garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide black SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/frame-long-sleeve-white-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-feba21f7-9c48-4000-98a2-e669b8423b19.png"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "grey",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the grey SIDEFORM frame-long-sleeve garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide black SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/frame-long-sleeve-grey-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9b2210fa-780c-41b1-9c1d-2bee1ed9494a.png"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "black",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the black SIDEFORM volume-pullover garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide off-white SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/volume-pullover-black-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-f3844f84-04ea-4797-bb76-f51e2e15104c.png"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "white",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the white SIDEFORM volume-pullover garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide black SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/volume-pullover-white-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ffcc8829-d196-44d0-875a-3aacd0f47e44.png"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "grey",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the grey SIDEFORM volume-pullover garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide black SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/volume-pullover-grey-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-4f6ba553-3c27-4eb6-b924-2a88207b5bcd.png"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "black",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the black SIDEFORM contour-crew garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide off-white SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/contour-crew-black-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-fed0ac4e-e46a-4a98-a411-5feda7883179.png"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "white",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the white SIDEFORM contour-crew garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide black SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/contour-crew-white-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-d46c89dc-7df1-4886-82e9-850fe12de3f2.png"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "grey",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the grey SIDEFORM contour-crew garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide black SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/contour-crew-grey-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-992d5271-2f45-42f7-9071-f6bd37148d4f.png"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "black",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the black SIDEFORM shell-utility-jacket garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide off-white SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/shell-utility-jacket-black-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-41bac6ac-3f40-4b69-a29f-84b4758e1f94.png"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "white",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the white SIDEFORM shell-utility-jacket garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide black SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/shell-utility-jacket-white-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-0a2e9677-14dd-419e-982b-2b612792a8a4.png"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "grey",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the grey SIDEFORM shell-utility-jacket garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide black SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/shell-utility-jacket-grey-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-32726767-8fad-47e7-8ac8-41ce7f185fcd.png"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "black",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the black SIDEFORM transit-work-jacket garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide off-white SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/transit-work-jacket-black-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-13da71b1-f0c8-4f86-9b3e-3c714c085642.png"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "white",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the white SIDEFORM transit-work-jacket garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide black SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/transit-work-jacket-white-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7b9e4ed3-9166-4fff-a295-b91f95b116be.png"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "grey",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target, the grey SIDEFORM transit-work-jacket garment-only front packshot. Image 2 is the exact two-rectangle logo reference; ignore its paper background. Add one discreet small 3cm-wide black SIDEFORM symbol at the wearer's LEFT upper chest (RIGHT side of picture), above any pockets. Two equal short horizontal rectangles, the second offset diagonally DOWN AND RIGHT with a small gap, exactly matching reference proportions. NOT an equals sign or connected L. Preserve garment cut, all fabric details, seams, pockets, buttons, labels, color, lighting, background, flat lay composition, entire garment visibility and original portrait dimensions. No person, mannequin, text, or other graphics. Existing side seam/pocket label may remain. Change only this chest logo.",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/transit-work-jacket-grey-front.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sideform-symbol.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-6dd2626f-a3e5-4f16-840c-157a9779f3f5.png"
+    }
+  ]
+}

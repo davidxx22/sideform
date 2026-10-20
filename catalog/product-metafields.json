@@ -1,0 +1,422 @@
+[
+  {
+    "handle": "offset-heavy-tee",
+    "metafields": [
+      {
+        "namespace": "custom",
+        "key": "material",
+        "type": "multi_line_text_field",
+        "value": "240 gsm cotton jersey"
+      },
+      {
+        "namespace": "custom",
+        "key": "fit",
+        "type": "multi_line_text_field",
+        "value": "Wide body, dropped shoulders, oversized sleeves."
+      },
+      {
+        "namespace": "custom",
+        "key": "care",
+        "type": "multi_line_text_field",
+        "value": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use."
+      },
+      {
+        "namespace": "custom",
+        "key": "size_guide",
+        "type": "json",
+        "value": "{\"sample\": true, \"unit\": \"cm\", \"basis\": \"garment_flat\", \"columns\": [\"Chest width\", \"Body length\", \"Shoulder width\", \"Sleeve length\"], \"rows\": [{\"size\": \"Small\", \"values\": [60, 72, 58, 24]}, {\"size\": \"Medium\", \"values\": [63, 74, 60, 25]}, {\"size\": \"Large\", \"values\": [66, 76, 62, 26]}], \"instructions\": \"Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff.\"}"
+      },
+      {
+        "namespace": "custom",
+        "key": "model_profile",
+        "type": "json",
+        "value": "{\"height_cm\": 185, \"wearing_size\": \"Large\", \"assumed\": true}"
+      }
+    ]
+  },
+  {
+    "handle": "plane-box-tee",
+    "metafields": [
+      {
+        "namespace": "custom",
+        "key": "material",
+        "type": "multi_line_text_field",
+        "value": "260 gsm cotton jersey"
+      },
+      {
+        "namespace": "custom",
+        "key": "fit",
+        "type": "multi_line_text_field",
+        "value": "Boxy and oversized with a slightly cropped body."
+      },
+      {
+        "namespace": "custom",
+        "key": "care",
+        "type": "multi_line_text_field",
+        "value": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use."
+      },
+      {
+        "namespace": "custom",
+        "key": "size_guide",
+        "type": "json",
+        "value": "{\"sample\": true, \"unit\": \"cm\", \"basis\": \"garment_flat\", \"columns\": [\"Chest width\", \"Body length\", \"Shoulder width\", \"Sleeve length\"], \"rows\": [{\"size\": \"Small\", \"values\": [62, 68, 60, 23]}, {\"size\": \"Medium\", \"values\": [65, 70, 62, 24]}, {\"size\": \"Large\", \"values\": [68, 72, 64, 25]}], \"instructions\": \"Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff.\"}"
+      },
+      {
+        "namespace": "custom",
+        "key": "model_profile",
+        "type": "json",
+        "value": "{\"height_cm\": 173, \"wearing_size\": \"Medium\", \"assumed\": true}"
+      }
+    ]
+  },
+  {
+    "handle": "axis-long-sleeve",
+    "metafields": [
+      {
+        "namespace": "custom",
+        "key": "material",
+        "type": "multi_line_text_field",
+        "value": "220 gsm cotton jersey"
+      },
+      {
+        "namespace": "custom",
+        "key": "fit",
+        "type": "multi_line_text_field",
+        "value": "Relaxed body with long, dropped sleeves."
+      },
+      {
+        "namespace": "custom",
+        "key": "care",
+        "type": "multi_line_text_field",
+        "value": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use."
+      },
+      {
+        "namespace": "custom",
+        "key": "size_guide",
+        "type": "json",
+        "value": "{\"sample\": true, \"unit\": \"cm\", \"basis\": \"garment_flat\", \"columns\": [\"Chest width\", \"Body length\", \"Shoulder width\", \"Sleeve length\"], \"rows\": [{\"size\": \"Small\", \"values\": [59, 73, 57, 59]}, {\"size\": \"Medium\", \"values\": [62, 75, 59, 60]}, {\"size\": \"Large\", \"values\": [65, 77, 61, 61]}], \"instructions\": \"Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff.\"}"
+      },
+      {
+        "namespace": "custom",
+        "key": "model_profile",
+        "type": "json",
+        "value": "{\"height_cm\": 185, \"wearing_size\": \"Large\", \"assumed\": true}"
+      }
+    ]
+  },
+  {
+    "handle": "frame-long-sleeve",
+    "metafields": [
+      {
+        "namespace": "custom",
+        "key": "material",
+        "type": "multi_line_text_field",
+        "value": "240 gsm cotton jersey"
+      },
+      {
+        "namespace": "custom",
+        "key": "fit",
+        "type": "multi_line_text_field",
+        "value": "Wide torso, dropped shoulder, straight hem."
+      },
+      {
+        "namespace": "custom",
+        "key": "care",
+        "type": "multi_line_text_field",
+        "value": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use."
+      },
+      {
+        "namespace": "custom",
+        "key": "size_guide",
+        "type": "json",
+        "value": "{\"sample\": true, \"unit\": \"cm\", \"basis\": \"garment_flat\", \"columns\": [\"Chest width\", \"Body length\", \"Shoulder width\", \"Sleeve length\"], \"rows\": [{\"size\": \"Small\", \"values\": [61, 71, 59, 58]}, {\"size\": \"Medium\", \"values\": [64, 73, 61, 59]}, {\"size\": \"Large\", \"values\": [67, 75, 63, 60]}], \"instructions\": \"Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff.\"}"
+      },
+      {
+        "namespace": "custom",
+        "key": "model_profile",
+        "type": "json",
+        "value": "{\"height_cm\": 173, \"wearing_size\": \"Medium\", \"assumed\": true}"
+      }
+    ]
+  },
+  {
+    "handle": "volume-pullover",
+    "metafields": [
+      {
+        "namespace": "custom",
+        "key": "material",
+        "type": "multi_line_text_field",
+        "value": "400 gsm cotton-rich loopback; 80% cotton, 20% polyester"
+      },
+      {
+        "namespace": "custom",
+        "key": "fit",
+        "type": "multi_line_text_field",
+        "value": "Oversized with a roomy hood and ribbed hem."
+      },
+      {
+        "namespace": "custom",
+        "key": "care",
+        "type": "multi_line_text_field",
+        "value": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use."
+      },
+      {
+        "namespace": "custom",
+        "key": "size_guide",
+        "type": "json",
+        "value": "{\"sample\": true, \"unit\": \"cm\", \"basis\": \"garment_flat\", \"columns\": [\"Chest width\", \"Body length\", \"Shoulder width\", \"Sleeve length\"], \"rows\": [{\"size\": \"Small\", \"values\": [64, 71, 62, 58]}, {\"size\": \"Medium\", \"values\": [67, 73, 64, 59]}, {\"size\": \"Large\", \"values\": [70, 75, 66, 60]}], \"instructions\": \"Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff.\"}"
+      },
+      {
+        "namespace": "custom",
+        "key": "model_profile",
+        "type": "json",
+        "value": "{\"height_cm\": 185, \"wearing_size\": \"Large\", \"assumed\": true}"
+      }
+    ]
+  },
+  {
+    "handle": "structure-hoodie",
+    "metafields": [
+      {
+        "namespace": "custom",
+        "key": "material",
+        "type": "multi_line_text_field",
+        "value": "420 gsm cotton-rich fleece; 80% cotton, 20% polyester"
+      },
+      {
+        "namespace": "custom",
+        "key": "fit",
+        "type": "multi_line_text_field",
+        "value": "Boxy through the body with a slightly cropped hem."
+      },
+      {
+        "namespace": "custom",
+        "key": "care",
+        "type": "multi_line_text_field",
+        "value": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use."
+      },
+      {
+        "namespace": "custom",
+        "key": "size_guide",
+        "type": "json",
+        "value": "{\"sample\": true, \"unit\": \"cm\", \"basis\": \"garment_flat\", \"columns\": [\"Chest width\", \"Body length\", \"Shoulder width\", \"Sleeve length\"], \"rows\": [{\"size\": \"Small\", \"values\": [66, 68, 64, 57]}, {\"size\": \"Medium\", \"values\": [69, 70, 66, 58]}, {\"size\": \"Large\", \"values\": [72, 72, 68, 59]}], \"instructions\": \"Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff.\"}"
+      },
+      {
+        "namespace": "custom",
+        "key": "model_profile",
+        "type": "json",
+        "value": "{\"height_cm\": 185, \"wearing_size\": \"Large\", \"assumed\": true}"
+      }
+    ]
+  },
+  {
+    "handle": "contour-crew",
+    "metafields": [
+      {
+        "namespace": "custom",
+        "key": "material",
+        "type": "multi_line_text_field",
+        "value": "380 gsm cotton-rich loopback; 80% cotton, 20% polyester"
+      },
+      {
+        "namespace": "custom",
+        "key": "fit",
+        "type": "multi_line_text_field",
+        "value": "Relaxed and wide with a dropped shoulder."
+      },
+      {
+        "namespace": "custom",
+        "key": "care",
+        "type": "multi_line_text_field",
+        "value": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use."
+      },
+      {
+        "namespace": "custom",
+        "key": "size_guide",
+        "type": "json",
+        "value": "{\"sample\": true, \"unit\": \"cm\", \"basis\": \"garment_flat\", \"columns\": [\"Chest width\", \"Body length\", \"Shoulder width\", \"Sleeve length\"], \"rows\": [{\"size\": \"Small\", \"values\": [62, 70, 60, 58]}, {\"size\": \"Medium\", \"values\": [65, 72, 62, 59]}, {\"size\": \"Large\", \"values\": [68, 74, 64, 60]}], \"instructions\": \"Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff.\"}"
+      },
+      {
+        "namespace": "custom",
+        "key": "model_profile",
+        "type": "json",
+        "value": "{\"height_cm\": 185, \"wearing_size\": \"Large\", \"assumed\": true}"
+      }
+    ]
+  },
+  {
+    "handle": "shell-utility-jacket",
+    "metafields": [
+      {
+        "namespace": "custom",
+        "key": "material",
+        "type": "multi_line_text_field",
+        "value": "Cotton-nylon woven shell; 65% cotton, 35% nylon"
+      },
+      {
+        "namespace": "custom",
+        "key": "fit",
+        "type": "multi_line_text_field",
+        "value": "Oversized outer layer with room for a sweatshirt."
+      },
+      {
+        "namespace": "custom",
+        "key": "care",
+        "type": "multi_line_text_field",
+        "value": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use."
+      },
+      {
+        "namespace": "custom",
+        "key": "size_guide",
+        "type": "json",
+        "value": "{\"sample\": true, \"unit\": \"cm\", \"basis\": \"garment_flat\", \"columns\": [\"Chest width\", \"Body length\", \"Shoulder width\", \"Sleeve length\"], \"rows\": [{\"size\": \"Small\", \"values\": [65, 73, 61, 60]}, {\"size\": \"Medium\", \"values\": [68, 75, 63, 61]}, {\"size\": \"Large\", \"values\": [71, 77, 65, 62]}], \"instructions\": \"Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff.\"}"
+      },
+      {
+        "namespace": "custom",
+        "key": "model_profile",
+        "type": "json",
+        "value": "{\"height_cm\": 173, \"wearing_size\": \"Medium\", \"assumed\": true}"
+      }
+    ]
+  },
+  {
+    "handle": "transit-work-jacket",
+    "metafields": [
+      {
+        "namespace": "custom",
+        "key": "material",
+        "type": "multi_line_text_field",
+        "value": "320 gsm cotton canvas"
+      },
+      {
+        "namespace": "custom",
+        "key": "fit",
+        "type": "multi_line_text_field",
+        "value": "Boxy, wide shoulder, hip-length body."
+      },
+      {
+        "namespace": "custom",
+        "key": "care",
+        "type": "multi_line_text_field",
+        "value": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use."
+      },
+      {
+        "namespace": "custom",
+        "key": "size_guide",
+        "type": "json",
+        "value": "{\"sample\": true, \"unit\": \"cm\", \"basis\": \"garment_flat\", \"columns\": [\"Chest width\", \"Body length\", \"Shoulder width\", \"Sleeve length\"], \"rows\": [{\"size\": \"Small\", \"values\": [64, 69, 60, 59]}, {\"size\": \"Medium\", \"values\": [67, 71, 62, 60]}, {\"size\": \"Large\", \"values\": [70, 73, 64, 61]}], \"instructions\": \"Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff.\"}"
+      },
+      {
+        "namespace": "custom",
+        "key": "model_profile",
+        "type": "json",
+        "value": "{\"height_cm\": 185, \"wearing_size\": \"Large\", \"assumed\": true}"
+      }
+    ]
+  },
+  {
+    "handle": "grid-cargo-pant",
+    "metafields": [
+      {
+        "namespace": "custom",
+        "key": "material",
+        "type": "multi_line_text_field",
+        "value": "260 gsm cotton twill"
+      },
+      {
+        "namespace": "custom",
+        "key": "fit",
+        "type": "multi_line_text_field",
+        "value": "Loose through hip and thigh; straight wide leg."
+      },
+      {
+        "namespace": "custom",
+        "key": "care",
+        "type": "multi_line_text_field",
+        "value": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use."
+      },
+      {
+        "namespace": "custom",
+        "key": "size_guide",
+        "type": "json",
+        "value": "{\"sample\": true, \"unit\": \"cm\", \"basis\": \"garment_flat\", \"columns\": [\"Waist width\", \"Hip width\", \"Inseam\", \"Overall length\"], \"rows\": [{\"size\": \"Small\", \"values\": [38, 56, 73, 102]}, {\"size\": \"Medium\", \"values\": [40, 58, 74, 104]}, {\"size\": \"Large\", \"values\": [42, 60, 75, 106]}], \"instructions\": \"Lay the garment flat without stretching. Waist: across the waistband. Hip: across the fullest seat. Inseam: crotch seam to hem. Overall length: waistband top to hem along the outer seam.\"}"
+      },
+      {
+        "namespace": "custom",
+        "key": "model_profile",
+        "type": "json",
+        "value": "{\"height_cm\": 173, \"wearing_size\": \"Medium\", \"assumed\": true}"
+      }
+    ]
+  },
+  {
+    "handle": "drift-baggy-jean",
+    "metafields": [
+      {
+        "namespace": "custom",
+        "key": "material",
+        "type": "multi_line_text_field",
+        "value": "12 oz cotton denim"
+      },
+      {
+        "namespace": "custom",
+        "key": "fit",
+        "type": "multi_line_text_field",
+        "value": "Baggy through seat and leg, full length."
+      },
+      {
+        "namespace": "custom",
+        "key": "care",
+        "type": "multi_line_text_field",
+        "value": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use."
+      },
+      {
+        "namespace": "custom",
+        "key": "size_guide",
+        "type": "json",
+        "value": "{\"sample\": true, \"unit\": \"cm\", \"basis\": \"garment_flat\", \"columns\": [\"Waist width\", \"Hip width\", \"Inseam\", \"Overall length\"], \"rows\": [{\"size\": \"Small\", \"values\": [38, 57, 76, 106]}, {\"size\": \"Medium\", \"values\": [40, 59, 77, 108]}, {\"size\": \"Large\", \"values\": [42, 61, 78, 110]}], \"instructions\": \"Lay the garment flat without stretching. Waist: across the waistband. Hip: across the fullest seat. Inseam: crotch seam to hem. Overall length: waistband top to hem along the outer seam.\"}"
+      },
+      {
+        "namespace": "custom",
+        "key": "model_profile",
+        "type": "json",
+        "value": "{\"height_cm\": 185, \"wearing_size\": \"Large\", \"assumed\": true}"
+      }
+    ]
+  },
+  {
+    "handle": "interval-utility-short",
+    "metafields": [
+      {
+        "namespace": "custom",
+        "key": "material",
+        "type": "multi_line_text_field",
+        "value": "240 gsm cotton twill"
+      },
+      {
+        "namespace": "custom",
+        "key": "fit",
+        "type": "multi_line_text_field",
+        "value": "Relaxed hip, wide leg opening, knee length."
+      },
+      {
+        "namespace": "custom",
+        "key": "care",
+        "type": "multi_line_text_field",
+        "value": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use."
+      },
+      {
+        "namespace": "custom",
+        "key": "size_guide",
+        "type": "json",
+        "value": "{\"sample\": true, \"unit\": \"cm\", \"basis\": \"garment_flat\", \"columns\": [\"Waist width\", \"Hip width\", \"Inseam\", \"Overall length\"], \"rows\": [{\"size\": \"Small\", \"values\": [37, 55, 27, 56]}, {\"size\": \"Medium\", \"values\": [39, 57, 28, 58]}, {\"size\": \"Large\", \"values\": [41, 59, 29, 60]}], \"instructions\": \"Lay the garment flat without stretching. Waist: across the waistband. Hip: across the fullest seat. Inseam: crotch seam to hem. Overall length: waistband top to hem along the outer seam.\"}"
+      },
+      {
+        "namespace": "custom",
+        "key": "model_profile",
+        "type": "json",
+        "value": "{\"height_cm\": 173, \"wearing_size\": \"Medium\", \"assumed\": true}"
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "results": [
+    {
+      "handle": "offset-heavy-tee",
+      "soldOutPriceBadge": false,
+      "purchaseDisabled": true,
+      "stockStatusRetained": true
+    },
+    {
+      "handle": "plane-box-tee",
+      "soldOutPriceBadge": false,
+      "purchaseDisabled": true,
+      "stockStatusRetained": true
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "soldOutPriceBadge": false,
+      "purchaseDisabled": true,
+      "stockStatusRetained": true
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "soldOutPriceBadge": false,
+      "purchaseDisabled": true,
+      "stockStatusRetained": true
+    },
+    {
+      "handle": "volume-pullover",
+      "soldOutPriceBadge": false,
+      "purchaseDisabled": true,
+      "stockStatusRetained": true
+    },
+    {
+      "handle": "structure-hoodie",
+      "soldOutPriceBadge": false,
+      "purchaseDisabled": true,
+      "stockStatusRetained": true
+    },
+    {
+      "handle": "contour-crew",
+      "soldOutPriceBadge": false,
+      "purchaseDisabled": true,
+      "stockStatusRetained": true
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "soldOutPriceBadge": false,
+      "purchaseDisabled": true,
+      "stockStatusRetained": true
+    },
+    {
+      "handle": "transit-work-jacket",
+      "soldOutPriceBadge": false,
+      "purchaseDisabled": true,
+      "stockStatusRetained": true
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "soldOutPriceBadge": false,
+      "purchaseDisabled": true,
+      "stockStatusRetained": true
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "soldOutPriceBadge": false,
+      "purchaseDisabled": true,
+      "stockStatusRetained": true
+    },
+    {
+      "handle": "interval-utility-short",
+      "soldOutPriceBadge": false,
+      "purchaseDisabled": true,
+      "stockStatusRetained": true
+    }
+  ]
+}

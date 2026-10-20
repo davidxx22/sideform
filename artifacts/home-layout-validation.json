@@ -1,0 +1,81 @@
+{
+  "removedTopStrips": true,
+  "textOnlyHeader": true,
+  "categoryLinks": 4,
+  "results": [
+    {
+      "width": 1920,
+      "centeredWordmark": true,
+      "editorialPhotos": 3,
+      "noOverflow": true
+    },
+    {
+      "width": 1440,
+      "centeredWordmark": true,
+      "editorialPhotos": 3,
+      "noOverflow": true
+    },
+    {
+      "width": 990,
+      "centeredWordmark": true,
+      "editorialPhotos": 3,
+      "noOverflow": true
+    },
+    {
+      "width": 768,
+      "centeredWordmark": true,
+      "editorialPhotos": 3,
+      "noOverflow": true
+    },
+    {
+      "width": 390,
+      "centeredWordmark": true,
+      "editorialPhotos": 3,
+      "noOverflow": true
+    },
+    {
+      "width": 320,
+      "centeredWordmark": true,
+      "editorialPhotos": 3,
+      "noOverflow": true
+    }
+  ],
+  "sticky": [
+    {
+      "width": 1440,
+      "route": "/",
+      "transparent": false,
+      "scrollUpAndDown": "passed"
+    },
+    {
+      "width": 1440,
+      "route": "/collections/all",
+      "transparent": false,
+      "scrollUpAndDown": "passed"
+    },
+    {
+      "width": 1440,
+      "route": "/products/offset-heavy-tee",
+      "transparent": false,
+      "scrollUpAndDown": "passed"
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "transparent": false,
+      "scrollUpAndDown": "passed"
+    },
+    {
+      "width": 390,
+      "route": "/collections/all",
+      "transparent": false,
+      "scrollUpAndDown": "passed"
+    },
+    {
+      "width": 390,
+      "route": "/products/offset-heavy-tee",
+      "transparent": false,
+      "scrollUpAndDown": "passed"
+    }
+  ]
+}

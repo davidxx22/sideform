@@ -1,0 +1,18 @@
+{
+  "products": 12,
+  "individual_photos": 108,
+  "on_model_fronts": 36,
+  "responsive_jpegs": 216,
+  "unique_photos": 108,
+  "delivery_bytes": 24830959,
+  "checks": [
+    "complete product/color/view matrix",
+    "all JPEGs decode",
+    "portrait aspect ratio",
+    "unique files",
+    "36 on-model originals and prompts",
+    "Black < Grey < White garment luminance",
+    "legacy drawings removed",
+    "108-row media manifest"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "handle": "main-menu",
+  "title": "Main menu",
+  "items": [
+    {
+      "title": "Home",
+      "url": "/",
+      "type": "http_link",
+      "items": []
+    },
+    {
+      "title": "Shop",
+      "url": "/collections/all",
+      "type": "collection_link",
+      "items": [
+        {
+          "title": "Shop All",
+          "url": "/collections/all",
+          "type": "collection_link",
+          "items": []
+        },
+        {
+          "title": "New Arrivals",
+          "url": "/collections/new-arrivals",
+          "type": "collection_link",
+          "items": []
+        },
+        {
+          "title": "Tops",
+          "url": "/collections/tops",
+          "type": "collection_link",
+          "items": []
+        },
+        {
+          "title": "Bottoms",
+          "url": "/collections/bottoms",
+          "type": "collection_link",
+          "items": []
+        },
+        {
+          "title": "Outerwear",
+          "url": "/collections/outerwear",
+          "type": "collection_link",
+          "items": []
+        }
+      ]
+    },
+    {
+      "title": "About",
+      "url": "/pages/about",
+      "type": "page_link",
+      "items": []
+    },
+    {
+      "title": "Contact",
+      "url": "/pages/contact",
+      "type": "page_link",
+      "items": []
+    }
+  ]
+}

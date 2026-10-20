@@ -1,0 +1,25 @@
+<footer class="sf-footer"><div class="page-width"><div class="sf-footer__grid"><div>{% render 'sf-wordmark' %}<p>{{ section.settings.description | escape }}</p>{% render 'social-icons' %}</div><nav aria-label="Footer navigation"><h2 class="sf-kicker">EXPLORE</h2>{% for link in section.settings.menu.links %}<a href="{{ link.url }}">{{ link.title | escape }}</a>{% else %}<a href="{{ routes.all_products_collection_url }}">Shop All</a><a href="{{ routes.search_url }}">Search</a>{% endfor %}</nav><div><h2 class="sf-kicker">INFORMATION</h2>{% assign policy_types = 'privacy_policy,refund_policy,shipping_policy,terms_of_service' | split: ',' %}{% for type in policy_types %}{% assign policy = shop[type] %}{% if policy.body != blank %}<a href="{{ policy.url }}">{{ policy.title | escape }}</a>{% else %}<p class="sf-policy-pending">{{ type | replace: '_', ' ' | capitalize }} — merchant content required</p>{% endif %}{% endfor %}</div></div><div class="sf-footer__bottom"><span>© {{ 'now' | date: '%Y' }} {{ shop.name | escape }}</span></div></div></footer>
+{% schema %}
+{
+  "name": "SIDEFORM footer",
+  "settings": [
+    {
+      "type": "link_list",
+      "id": "menu",
+      "label": "Footer navigation"
+    },
+    {
+      "type": "text",
+      "id": "description",
+      "label": "Brand description",
+      "default": "Independent streetwear. Oversized silhouettes, utility details and everyday city movement."
+    },
+    {
+      "type": "text",
+      "id": "note",
+      "label": "Footer note",
+      "default": "SAMPLE COLLECTION · AI-GENERATED PRODUCT PHOTOGRAPHY"
+    }
+  ]
+}
+{% endschema %}

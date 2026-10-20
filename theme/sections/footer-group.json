@@ -1,0 +1,15 @@
+{
+  "name": "Footer",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "sf-footer",
+      "settings": {
+        "menu": "footer"
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

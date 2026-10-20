@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Material",
+    "namespace": "custom",
+    "key": "material",
+    "type": "multi_line_text_field",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  },
+  {
+    "name": "Fit",
+    "namespace": "custom",
+    "key": "fit",
+    "type": "multi_line_text_field",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  },
+  {
+    "name": "Care",
+    "namespace": "custom",
+    "key": "care",
+    "type": "multi_line_text_field",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  },
+  {
+    "name": "Size Guide",
+    "namespace": "custom",
+    "key": "size_guide",
+    "type": "json",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  },
+  {
+    "name": "Model styling profile",
+    "namespace": "custom",
+    "key": "model_profile",
+    "type": "json",
+    "ownerType": "PRODUCT",
+    "access": {
+      "storefront": "PUBLIC_READ"
+    }
+  }
+]

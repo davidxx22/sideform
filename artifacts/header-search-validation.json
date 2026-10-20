@@ -1,0 +1,44 @@
+{
+  "results": [
+    {
+      "width": 1920,
+      "badge": "16px circle",
+      "searchOpen": true,
+      "suggestions": true,
+      "emptyQueryResult": true,
+      "closeAndEscape": true
+    },
+    {
+      "width": 1440,
+      "badge": "16px circle",
+      "searchOpen": true,
+      "suggestions": true,
+      "emptyQueryResult": true,
+      "closeAndEscape": true
+    },
+    {
+      "width": 390,
+      "badge": "16px circle",
+      "searchOpen": true,
+      "suggestions": true,
+      "emptyQueryResult": true,
+      "closeAndEscape": true
+    },
+    {
+      "width": 320,
+      "badge": "16px circle",
+      "searchOpen": true,
+      "suggestions": true,
+      "emptyQueryResult": true,
+      "closeAndEscape": true
+    }
+  ],
+  "resultNavigation": true,
+  "fullSearchSubmit": true,
+  "routes": [
+    "/",
+    "/collections/all",
+    "/products/offset-heavy-tee"
+  ],
+  "errors": []
+}

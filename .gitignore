@@ -7,3 +7,10 @@ node_modules/
 *.log
 .openai/
 work/
+tooling/dawn-upstream-git/
+tooling/python/
+__pycache__/
+
+# Rebuildable delivery archives and temporary inspection scripts
+artifacts/*.zip
+artifacts/inspect-*.cjs

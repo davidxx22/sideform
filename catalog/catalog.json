@@ -1,0 +1,1534 @@
+[
+  {
+    "handle": "offset-heavy-tee",
+    "title": "Offset Heavy Tee",
+    "type": "Oversized T-shirt",
+    "price": 42,
+    "description": "A dropped-shoulder everyday tee with a small offset chest mark.",
+    "material": "240 gsm cotton jersey",
+    "fit": "Wide body, dropped shoulders, oversized sleeves.",
+    "care": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use.",
+    "tags": [
+      "sample-data",
+      "tops",
+      "new-arrivals",
+      "ai-sample-media",
+      "sf-four-photo-gallery"
+    ],
+    "size_guide": {
+      "sample": true,
+      "unit": "cm",
+      "basis": "garment_flat",
+      "columns": [
+        "Chest width",
+        "Body length",
+        "Shoulder width",
+        "Sleeve length"
+      ],
+      "rows": [
+        {
+          "size": "Small",
+          "values": [
+            60,
+            72,
+            58,
+            24
+          ]
+        },
+        {
+          "size": "Medium",
+          "values": [
+            63,
+            74,
+            60,
+            25
+          ]
+        },
+        {
+          "size": "Large",
+          "values": [
+            66,
+            76,
+            62,
+            26
+          ]
+        }
+      ],
+      "instructions": "Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff."
+    },
+    "variants": [
+      {
+        "sku": "SF-001-BLA-S",
+        "color": "Black",
+        "size": "Small",
+        "price": 42,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-001-BLA-M",
+        "color": "Black",
+        "size": "Medium",
+        "price": 42,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-001-BLA-L",
+        "color": "Black",
+        "size": "Large",
+        "price": 42,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-001-WHI-S",
+        "color": "White",
+        "size": "Small",
+        "price": 42,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-001-WHI-M",
+        "color": "White",
+        "size": "Medium",
+        "price": 42,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-001-WHI-L",
+        "color": "White",
+        "size": "Large",
+        "price": 42,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-001-GRE-S",
+        "color": "Grey",
+        "size": "Small",
+        "price": 42,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-001-GRE-M",
+        "color": "Grey",
+        "size": "Medium",
+        "price": 42,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-001-GRE-L",
+        "color": "Grey",
+        "size": "Large",
+        "price": 42,
+        "inventory": 0
+      }
+    ],
+    "model_profile": {
+      "height_cm": 185,
+      "wearing_size": "Large",
+      "assumed": true
+    }
+  },
+  {
+    "handle": "plane-box-tee",
+    "title": "Plain Box Tee",
+    "type": "Oversized T-shirt",
+    "price": 45,
+    "description": "A box-cut tee with a clean neckline and a shorter, structured body. Finished with the small SIDEFORM offset chest mark.",
+    "material": "260 gsm cotton jersey",
+    "fit": "Boxy and oversized with a slightly cropped body.",
+    "care": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use.",
+    "tags": [
+      "sample-data",
+      "tops",
+      "new-arrivals",
+      "ai-sample-media",
+      "sf-four-photo-gallery"
+    ],
+    "size_guide": {
+      "sample": true,
+      "unit": "cm",
+      "basis": "garment_flat",
+      "columns": [
+        "Chest width",
+        "Body length",
+        "Shoulder width",
+        "Sleeve length"
+      ],
+      "rows": [
+        {
+          "size": "Small",
+          "values": [
+            62,
+            68,
+            60,
+            23
+          ]
+        },
+        {
+          "size": "Medium",
+          "values": [
+            65,
+            70,
+            62,
+            24
+          ]
+        },
+        {
+          "size": "Large",
+          "values": [
+            68,
+            72,
+            64,
+            25
+          ]
+        }
+      ],
+      "instructions": "Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff."
+    },
+    "variants": [
+      {
+        "sku": "SF-002-BLA-S",
+        "color": "Black",
+        "size": "Small",
+        "price": 45,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-002-BLA-M",
+        "color": "Black",
+        "size": "Medium",
+        "price": 45,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-002-BLA-L",
+        "color": "Black",
+        "size": "Large",
+        "price": 45,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-002-WHI-S",
+        "color": "White",
+        "size": "Small",
+        "price": 45,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-002-WHI-M",
+        "color": "White",
+        "size": "Medium",
+        "price": 45,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-002-WHI-L",
+        "color": "White",
+        "size": "Large",
+        "price": 45,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-002-GRE-S",
+        "color": "Grey",
+        "size": "Small",
+        "price": 45,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-002-GRE-M",
+        "color": "Grey",
+        "size": "Medium",
+        "price": 45,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-002-GRE-L",
+        "color": "Grey",
+        "size": "Large",
+        "price": 45,
+        "inventory": 0
+      }
+    ],
+    "model_profile": {
+      "height_cm": 173,
+      "wearing_size": "Medium",
+      "assumed": true
+    }
+  },
+  {
+    "handle": "axis-long-sleeve",
+    "title": "Axis Long Sleeve",
+    "type": "Long-sleeve T-shirt",
+    "price": 54,
+    "description": "An easy long sleeve with a small chest mark and ribbed cuffs.",
+    "material": "220 gsm cotton jersey",
+    "fit": "Relaxed body with long, dropped sleeves.",
+    "care": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use.",
+    "tags": [
+      "sample-data",
+      "tops",
+      "new-arrivals",
+      "ai-sample-media",
+      "sf-four-photo-gallery"
+    ],
+    "size_guide": {
+      "sample": true,
+      "unit": "cm",
+      "basis": "garment_flat",
+      "columns": [
+        "Chest width",
+        "Body length",
+        "Shoulder width",
+        "Sleeve length"
+      ],
+      "rows": [
+        {
+          "size": "Small",
+          "values": [
+            59,
+            73,
+            57,
+            59
+          ]
+        },
+        {
+          "size": "Medium",
+          "values": [
+            62,
+            75,
+            59,
+            60
+          ]
+        },
+        {
+          "size": "Large",
+          "values": [
+            65,
+            77,
+            61,
+            61
+          ]
+        }
+      ],
+      "instructions": "Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff."
+    },
+    "variants": [
+      {
+        "sku": "SF-003-BLA-S",
+        "color": "Black",
+        "size": "Small",
+        "price": 54,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-003-BLA-M",
+        "color": "Black",
+        "size": "Medium",
+        "price": 54,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-003-BLA-L",
+        "color": "Black",
+        "size": "Large",
+        "price": 54,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-003-WHI-S",
+        "color": "White",
+        "size": "Small",
+        "price": 54,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-003-WHI-M",
+        "color": "White",
+        "size": "Medium",
+        "price": 54,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-003-WHI-L",
+        "color": "White",
+        "size": "Large",
+        "price": 54,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-003-GRE-S",
+        "color": "Grey",
+        "size": "Small",
+        "price": 54,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-003-GRE-M",
+        "color": "Grey",
+        "size": "Medium",
+        "price": 54,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-003-GRE-L",
+        "color": "Grey",
+        "size": "Large",
+        "price": 54,
+        "inventory": 0
+      }
+    ],
+    "model_profile": {
+      "height_cm": 185,
+      "wearing_size": "Large",
+      "assumed": true
+    }
+  },
+  {
+    "handle": "frame-long-sleeve",
+    "title": "Frame Long Sleeve",
+    "type": "Long-sleeve T-shirt",
+    "price": 58,
+    "description": "A wide long sleeve shaped by subtle panel seams. Finished with the small SIDEFORM offset chest mark.",
+    "material": "240 gsm cotton jersey",
+    "fit": "Wide torso, dropped shoulder, straight hem.",
+    "care": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use.",
+    "tags": [
+      "sample-data",
+      "tops",
+      "new-arrivals",
+      "ai-sample-media",
+      "sf-four-photo-gallery"
+    ],
+    "size_guide": {
+      "sample": true,
+      "unit": "cm",
+      "basis": "garment_flat",
+      "columns": [
+        "Chest width",
+        "Body length",
+        "Shoulder width",
+        "Sleeve length"
+      ],
+      "rows": [
+        {
+          "size": "Small",
+          "values": [
+            61,
+            71,
+            59,
+            58
+          ]
+        },
+        {
+          "size": "Medium",
+          "values": [
+            64,
+            73,
+            61,
+            59
+          ]
+        },
+        {
+          "size": "Large",
+          "values": [
+            67,
+            75,
+            63,
+            60
+          ]
+        }
+      ],
+      "instructions": "Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff."
+    },
+    "variants": [
+      {
+        "sku": "SF-004-BLA-S",
+        "color": "Black",
+        "size": "Small",
+        "price": 58,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-004-BLA-M",
+        "color": "Black",
+        "size": "Medium",
+        "price": 58,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-004-BLA-L",
+        "color": "Black",
+        "size": "Large",
+        "price": 58,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-004-WHI-S",
+        "color": "White",
+        "size": "Small",
+        "price": 58,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-004-WHI-M",
+        "color": "White",
+        "size": "Medium",
+        "price": 58,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-004-WHI-L",
+        "color": "White",
+        "size": "Large",
+        "price": 58,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-004-GRE-S",
+        "color": "Grey",
+        "size": "Small",
+        "price": 58,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-004-GRE-M",
+        "color": "Grey",
+        "size": "Medium",
+        "price": 58,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-004-GRE-L",
+        "color": "Grey",
+        "size": "Large",
+        "price": 58,
+        "inventory": 0
+      }
+    ],
+    "model_profile": {
+      "height_cm": 173,
+      "wearing_size": "Medium",
+      "assumed": true
+    }
+  },
+  {
+    "handle": "volume-pullover",
+    "title": "Volume Pullover",
+    "type": "Hoodie",
+    "price": 88,
+    "description": "A generous pullover with a double-layer hood and front pocket. Finished with the small SIDEFORM offset chest mark.",
+    "material": "400 gsm cotton-rich loopback; 80% cotton, 20% polyester",
+    "fit": "Oversized with a roomy hood and ribbed hem.",
+    "care": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use.",
+    "tags": [
+      "sample-data",
+      "tops",
+      "new-arrivals",
+      "ai-sample-media",
+      "sf-four-photo-gallery"
+    ],
+    "size_guide": {
+      "sample": true,
+      "unit": "cm",
+      "basis": "garment_flat",
+      "columns": [
+        "Chest width",
+        "Body length",
+        "Shoulder width",
+        "Sleeve length"
+      ],
+      "rows": [
+        {
+          "size": "Small",
+          "values": [
+            64,
+            71,
+            62,
+            58
+          ]
+        },
+        {
+          "size": "Medium",
+          "values": [
+            67,
+            73,
+            64,
+            59
+          ]
+        },
+        {
+          "size": "Large",
+          "values": [
+            70,
+            75,
+            66,
+            60
+          ]
+        }
+      ],
+      "instructions": "Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff."
+    },
+    "variants": [
+      {
+        "sku": "SF-005-BLA-S",
+        "color": "Black",
+        "size": "Small",
+        "price": 88,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-005-BLA-M",
+        "color": "Black",
+        "size": "Medium",
+        "price": 88,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-005-BLA-L",
+        "color": "Black",
+        "size": "Large",
+        "price": 88,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-005-WHI-S",
+        "color": "White",
+        "size": "Small",
+        "price": 88,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-005-WHI-M",
+        "color": "White",
+        "size": "Medium",
+        "price": 88,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-005-WHI-L",
+        "color": "White",
+        "size": "Large",
+        "price": 88,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-005-GRE-S",
+        "color": "Grey",
+        "size": "Small",
+        "price": 88,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-005-GRE-M",
+        "color": "Grey",
+        "size": "Medium",
+        "price": 88,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-005-GRE-L",
+        "color": "Grey",
+        "size": "Large",
+        "price": 88,
+        "inventory": 0
+      }
+    ],
+    "model_profile": {
+      "height_cm": 185,
+      "wearing_size": "Large",
+      "assumed": true
+    }
+  },
+  {
+    "handle": "structure-hoodie",
+    "title": "Structure Hoodie",
+    "type": "Hoodie",
+    "price": 94,
+    "description": "A shorter hoodie with a broad shoulder and discreet offset mark.",
+    "material": "420 gsm cotton-rich fleece; 80% cotton, 20% polyester",
+    "fit": "Boxy through the body with a slightly cropped hem.",
+    "care": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use.",
+    "tags": [
+      "sample-data",
+      "tops",
+      "new-arrivals",
+      "ai-sample-media",
+      "sf-four-photo-gallery"
+    ],
+    "size_guide": {
+      "sample": true,
+      "unit": "cm",
+      "basis": "garment_flat",
+      "columns": [
+        "Chest width",
+        "Body length",
+        "Shoulder width",
+        "Sleeve length"
+      ],
+      "rows": [
+        {
+          "size": "Small",
+          "values": [
+            66,
+            68,
+            64,
+            57
+          ]
+        },
+        {
+          "size": "Medium",
+          "values": [
+            69,
+            70,
+            66,
+            58
+          ]
+        },
+        {
+          "size": "Large",
+          "values": [
+            72,
+            72,
+            68,
+            59
+          ]
+        }
+      ],
+      "instructions": "Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff."
+    },
+    "variants": [
+      {
+        "sku": "SF-006-BLA-S",
+        "color": "Black",
+        "size": "Small",
+        "price": 94,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-006-BLA-M",
+        "color": "Black",
+        "size": "Medium",
+        "price": 94,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-006-BLA-L",
+        "color": "Black",
+        "size": "Large",
+        "price": 94,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-006-WHI-S",
+        "color": "White",
+        "size": "Small",
+        "price": 94,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-006-WHI-M",
+        "color": "White",
+        "size": "Medium",
+        "price": 94,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-006-WHI-L",
+        "color": "White",
+        "size": "Large",
+        "price": 94,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-006-GRE-S",
+        "color": "Grey",
+        "size": "Small",
+        "price": 94,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-006-GRE-M",
+        "color": "Grey",
+        "size": "Medium",
+        "price": 94,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-006-GRE-L",
+        "color": "Grey",
+        "size": "Large",
+        "price": 94,
+        "inventory": 0
+      }
+    ],
+    "model_profile": {
+      "height_cm": 185,
+      "wearing_size": "Large",
+      "assumed": true
+    }
+  },
+  {
+    "handle": "contour-crew",
+    "title": "Contour Crew",
+    "type": "Crewneck Sweatshirt",
+    "price": 76,
+    "description": "A crewneck sweatshirt with an open silhouette and restrained rib detailing. Finished with the small SIDEFORM offset chest mark.",
+    "material": "380 gsm cotton-rich loopback; 80% cotton, 20% polyester",
+    "fit": "Relaxed and wide with a dropped shoulder.",
+    "care": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use.",
+    "tags": [
+      "sample-data",
+      "tops",
+      "new-arrivals",
+      "ai-sample-media",
+      "sf-four-photo-gallery"
+    ],
+    "size_guide": {
+      "sample": true,
+      "unit": "cm",
+      "basis": "garment_flat",
+      "columns": [
+        "Chest width",
+        "Body length",
+        "Shoulder width",
+        "Sleeve length"
+      ],
+      "rows": [
+        {
+          "size": "Small",
+          "values": [
+            62,
+            70,
+            60,
+            58
+          ]
+        },
+        {
+          "size": "Medium",
+          "values": [
+            65,
+            72,
+            62,
+            59
+          ]
+        },
+        {
+          "size": "Large",
+          "values": [
+            68,
+            74,
+            64,
+            60
+          ]
+        }
+      ],
+      "instructions": "Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff."
+    },
+    "variants": [
+      {
+        "sku": "SF-007-BLA-S",
+        "color": "Black",
+        "size": "Small",
+        "price": 76,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-007-BLA-M",
+        "color": "Black",
+        "size": "Medium",
+        "price": 76,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-007-BLA-L",
+        "color": "Black",
+        "size": "Large",
+        "price": 76,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-007-WHI-S",
+        "color": "White",
+        "size": "Small",
+        "price": 76,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-007-WHI-M",
+        "color": "White",
+        "size": "Medium",
+        "price": 76,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-007-WHI-L",
+        "color": "White",
+        "size": "Large",
+        "price": 76,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-007-GRE-S",
+        "color": "Grey",
+        "size": "Small",
+        "price": 76,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-007-GRE-M",
+        "color": "Grey",
+        "size": "Medium",
+        "price": 76,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-007-GRE-L",
+        "color": "Grey",
+        "size": "Large",
+        "price": 76,
+        "inventory": 0
+      }
+    ],
+    "model_profile": {
+      "height_cm": 185,
+      "wearing_size": "Large",
+      "assumed": true
+    }
+  },
+  {
+    "handle": "shell-utility-jacket",
+    "title": "Shell Utility Jacket",
+    "type": "Streetwear Jacket",
+    "price": 128,
+    "description": "A light utility layer with broad panels and two front pockets. Finished with the small SIDEFORM offset chest mark.",
+    "material": "Cotton-nylon woven shell; 65% cotton, 35% nylon",
+    "fit": "Oversized outer layer with room for a sweatshirt.",
+    "care": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use.",
+    "tags": [
+      "sample-data",
+      "outerwear",
+      "new-arrivals",
+      "ai-sample-media",
+      "sf-four-photo-gallery"
+    ],
+    "size_guide": {
+      "sample": true,
+      "unit": "cm",
+      "basis": "garment_flat",
+      "columns": [
+        "Chest width",
+        "Body length",
+        "Shoulder width",
+        "Sleeve length"
+      ],
+      "rows": [
+        {
+          "size": "Small",
+          "values": [
+            65,
+            73,
+            61,
+            60
+          ]
+        },
+        {
+          "size": "Medium",
+          "values": [
+            68,
+            75,
+            63,
+            61
+          ]
+        },
+        {
+          "size": "Large",
+          "values": [
+            71,
+            77,
+            65,
+            62
+          ]
+        }
+      ],
+      "instructions": "Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff."
+    },
+    "variants": [
+      {
+        "sku": "SF-008-BLA-S",
+        "color": "Black",
+        "size": "Small",
+        "price": 128,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-008-BLA-M",
+        "color": "Black",
+        "size": "Medium",
+        "price": 128,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-008-BLA-L",
+        "color": "Black",
+        "size": "Large",
+        "price": 128,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-008-WHI-S",
+        "color": "White",
+        "size": "Small",
+        "price": 128,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-008-WHI-M",
+        "color": "White",
+        "size": "Medium",
+        "price": 128,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-008-WHI-L",
+        "color": "White",
+        "size": "Large",
+        "price": 128,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-008-GRE-S",
+        "color": "Grey",
+        "size": "Small",
+        "price": 128,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-008-GRE-M",
+        "color": "Grey",
+        "size": "Medium",
+        "price": 128,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-008-GRE-L",
+        "color": "Grey",
+        "size": "Large",
+        "price": 128,
+        "inventory": 0
+      }
+    ],
+    "model_profile": {
+      "height_cm": 173,
+      "wearing_size": "Medium",
+      "assumed": true
+    }
+  },
+  {
+    "handle": "transit-work-jacket",
+    "title": "Transit Work Jacket",
+    "type": "Streetwear Jacket",
+    "price": 138,
+    "description": "A square workwear-inspired jacket with a straight hem and patch pockets. Finished with the small SIDEFORM offset chest mark.",
+    "material": "320 gsm cotton canvas",
+    "fit": "Boxy, wide shoulder, hip-length body.",
+    "care": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use.",
+    "tags": [
+      "sample-data",
+      "outerwear",
+      "ai-sample-media",
+      "sf-four-photo-gallery"
+    ],
+    "size_guide": {
+      "sample": true,
+      "unit": "cm",
+      "basis": "garment_flat",
+      "columns": [
+        "Chest width",
+        "Body length",
+        "Shoulder width",
+        "Sleeve length"
+      ],
+      "rows": [
+        {
+          "size": "Small",
+          "values": [
+            64,
+            69,
+            60,
+            59
+          ]
+        },
+        {
+          "size": "Medium",
+          "values": [
+            67,
+            71,
+            62,
+            60
+          ]
+        },
+        {
+          "size": "Large",
+          "values": [
+            70,
+            73,
+            64,
+            61
+          ]
+        }
+      ],
+      "instructions": "Lay the garment flat without stretching. Chest: armpit to armpit. Body length: high shoulder beside the neck to hem. Shoulder: seam to seam across the back. Sleeve: shoulder seam to cuff."
+    },
+    "variants": [
+      {
+        "sku": "SF-009-BLA-S",
+        "color": "Black",
+        "size": "Small",
+        "price": 138,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-009-BLA-M",
+        "color": "Black",
+        "size": "Medium",
+        "price": 138,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-009-BLA-L",
+        "color": "Black",
+        "size": "Large",
+        "price": 138,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-009-WHI-S",
+        "color": "White",
+        "size": "Small",
+        "price": 138,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-009-WHI-M",
+        "color": "White",
+        "size": "Medium",
+        "price": 138,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-009-WHI-L",
+        "color": "White",
+        "size": "Large",
+        "price": 138,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-009-GRE-S",
+        "color": "Grey",
+        "size": "Small",
+        "price": 138,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-009-GRE-M",
+        "color": "Grey",
+        "size": "Medium",
+        "price": 138,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-009-GRE-L",
+        "color": "Grey",
+        "size": "Large",
+        "price": 138,
+        "inventory": 0
+      }
+    ],
+    "model_profile": {
+      "height_cm": 185,
+      "wearing_size": "Large",
+      "assumed": true
+    }
+  },
+  {
+    "handle": "grid-cargo-pant",
+    "title": "Grid Cargo Pant",
+    "type": "Cargo Pants",
+    "price": 98,
+    "description": "A loose cargo pant with straight legs and low-profile utility pockets.",
+    "material": "260 gsm cotton twill",
+    "fit": "Loose through hip and thigh; straight wide leg.",
+    "care": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use.",
+    "tags": [
+      "sample-data",
+      "bottoms",
+      "ai-sample-media",
+      "sf-four-photo-gallery"
+    ],
+    "size_guide": {
+      "sample": true,
+      "unit": "cm",
+      "basis": "garment_flat",
+      "columns": [
+        "Waist width",
+        "Hip width",
+        "Inseam",
+        "Overall length"
+      ],
+      "rows": [
+        {
+          "size": "Small",
+          "values": [
+            38,
+            56,
+            73,
+            102
+          ]
+        },
+        {
+          "size": "Medium",
+          "values": [
+            40,
+            58,
+            74,
+            104
+          ]
+        },
+        {
+          "size": "Large",
+          "values": [
+            42,
+            60,
+            75,
+            106
+          ]
+        }
+      ],
+      "instructions": "Lay the garment flat without stretching. Waist: across the waistband. Hip: across the fullest seat. Inseam: crotch seam to hem. Overall length: waistband top to hem along the outer seam."
+    },
+    "variants": [
+      {
+        "sku": "SF-010-BLA-S",
+        "color": "Black",
+        "size": "Small",
+        "price": 98,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-010-BLA-M",
+        "color": "Black",
+        "size": "Medium",
+        "price": 98,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-010-BLA-L",
+        "color": "Black",
+        "size": "Large",
+        "price": 98,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-010-WHI-S",
+        "color": "White",
+        "size": "Small",
+        "price": 98,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-010-WHI-M",
+        "color": "White",
+        "size": "Medium",
+        "price": 98,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-010-WHI-L",
+        "color": "White",
+        "size": "Large",
+        "price": 98,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-010-GRE-S",
+        "color": "Grey",
+        "size": "Small",
+        "price": 98,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-010-GRE-M",
+        "color": "Grey",
+        "size": "Medium",
+        "price": 98,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-010-GRE-L",
+        "color": "Grey",
+        "size": "Large",
+        "price": 98,
+        "inventory": 0
+      }
+    ],
+    "model_profile": {
+      "height_cm": 173,
+      "wearing_size": "Medium",
+      "assumed": true
+    }
+  },
+  {
+    "handle": "drift-baggy-jean",
+    "title": "Drift Baggy Jean",
+    "type": "Baggy Jeans",
+    "price": 108,
+    "description": "A wide denim silhouette with a long line and clean rear pockets.",
+    "material": "12 oz cotton denim",
+    "fit": "Baggy through seat and leg, full length.",
+    "care": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use.",
+    "tags": [
+      "sample-data",
+      "bottoms",
+      "ai-sample-media",
+      "sf-four-photo-gallery"
+    ],
+    "size_guide": {
+      "sample": true,
+      "unit": "cm",
+      "basis": "garment_flat",
+      "columns": [
+        "Waist width",
+        "Hip width",
+        "Inseam",
+        "Overall length"
+      ],
+      "rows": [
+        {
+          "size": "Small",
+          "values": [
+            38,
+            57,
+            76,
+            106
+          ]
+        },
+        {
+          "size": "Medium",
+          "values": [
+            40,
+            59,
+            77,
+            108
+          ]
+        },
+        {
+          "size": "Large",
+          "values": [
+            42,
+            61,
+            78,
+            110
+          ]
+        }
+      ],
+      "instructions": "Lay the garment flat without stretching. Waist: across the waistband. Hip: across the fullest seat. Inseam: crotch seam to hem. Overall length: waistband top to hem along the outer seam."
+    },
+    "variants": [
+      {
+        "sku": "SF-011-BLA-S",
+        "color": "Black",
+        "size": "Small",
+        "price": 108,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-011-BLA-M",
+        "color": "Black",
+        "size": "Medium",
+        "price": 108,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-011-BLA-L",
+        "color": "Black",
+        "size": "Large",
+        "price": 108,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-011-WHI-S",
+        "color": "White",
+        "size": "Small",
+        "price": 108,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-011-WHI-M",
+        "color": "White",
+        "size": "Medium",
+        "price": 108,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-011-WHI-L",
+        "color": "White",
+        "size": "Large",
+        "price": 108,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-011-GRE-S",
+        "color": "Grey",
+        "size": "Small",
+        "price": 108,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-011-GRE-M",
+        "color": "Grey",
+        "size": "Medium",
+        "price": 108,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-011-GRE-L",
+        "color": "Grey",
+        "size": "Large",
+        "price": 108,
+        "inventory": 0
+      }
+    ],
+    "model_profile": {
+      "height_cm": 185,
+      "wearing_size": "Large",
+      "assumed": true
+    }
+  },
+  {
+    "handle": "interval-utility-short",
+    "title": "Interval Utility Short",
+    "type": "Streetwear Shorts",
+    "price": 68,
+    "description": "A wide everyday short with utility pockets and a clean knee-length line.",
+    "material": "240 gsm cotton twill",
+    "fit": "Relaxed hip, wide leg opening, knee length.",
+    "care": "Machine wash cold with similar colors. Wash inside out. Line dry. Do not bleach. Follow the verified care label before use.",
+    "tags": [
+      "sample-data",
+      "bottoms",
+      "ai-sample-media",
+      "sf-four-photo-gallery"
+    ],
+    "size_guide": {
+      "sample": true,
+      "unit": "cm",
+      "basis": "garment_flat",
+      "columns": [
+        "Waist width",
+        "Hip width",
+        "Inseam",
+        "Overall length"
+      ],
+      "rows": [
+        {
+          "size": "Small",
+          "values": [
+            37,
+            55,
+            27,
+            56
+          ]
+        },
+        {
+          "size": "Medium",
+          "values": [
+            39,
+            57,
+            28,
+            58
+          ]
+        },
+        {
+          "size": "Large",
+          "values": [
+            41,
+            59,
+            29,
+            60
+          ]
+        }
+      ],
+      "instructions": "Lay the garment flat without stretching. Waist: across the waistband. Hip: across the fullest seat. Inseam: crotch seam to hem. Overall length: waistband top to hem along the outer seam."
+    },
+    "variants": [
+      {
+        "sku": "SF-012-BLA-S",
+        "color": "Black",
+        "size": "Small",
+        "price": 68,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-012-BLA-M",
+        "color": "Black",
+        "size": "Medium",
+        "price": 68,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-012-BLA-L",
+        "color": "Black",
+        "size": "Large",
+        "price": 68,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-012-WHI-S",
+        "color": "White",
+        "size": "Small",
+        "price": 68,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-012-WHI-M",
+        "color": "White",
+        "size": "Medium",
+        "price": 68,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-012-WHI-L",
+        "color": "White",
+        "size": "Large",
+        "price": 68,
+        "inventory": 20
+      },
+      {
+        "sku": "SF-012-GRE-S",
+        "color": "Grey",
+        "size": "Small",
+        "price": 68,
+        "inventory": 12
+      },
+      {
+        "sku": "SF-012-GRE-M",
+        "color": "Grey",
+        "size": "Medium",
+        "price": 68,
+        "inventory": 16
+      },
+      {
+        "sku": "SF-012-GRE-L",
+        "color": "Grey",
+        "size": "Large",
+        "price": 68,
+        "inventory": 0
+      }
+    ],
+    "model_profile": {
+      "height_cm": 173,
+      "wearing_size": "Medium",
+      "assumed": true
+    }
+  }
+]

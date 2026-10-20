@@ -1,0 +1,26 @@
+{
+  "product": "offset-heavy-tee",
+  "views": [
+    "front",
+    "full",
+    "lineup",
+    "detail"
+  ],
+  "colors": 3,
+  "zoomChecks": 12,
+  "nativeZoomScaleMatch": [
+    1440,
+    390
+  ],
+  "gaplessGallery": true,
+  "featuresClosedOnEntry": true,
+  "purchaseDescriptionRemoved": true,
+  "modelCaptions": 2,
+  "widths": [
+    1440,
+    390,
+    320
+  ],
+  "unchangedNativeGallery": true,
+  "errors": []
+}

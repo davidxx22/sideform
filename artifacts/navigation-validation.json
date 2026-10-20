@@ -1,0 +1,31 @@
+{
+  "topLevel": [
+    "Home",
+    "Shop",
+    "About",
+    "Contact"
+  ],
+  "shop": [
+    "Shop All",
+    "New Arrivals",
+    "Tops",
+    "Bottoms",
+    "Outerwear"
+  ],
+  "desktopWidths": [
+    1920,
+    1440,
+    990
+  ],
+  "mobileWidths": [
+    390,
+    320
+  ],
+  "clickAndKeyboard": true,
+  "escape": true,
+  "activeCategory": true,
+  "sticky": true,
+  "contactFormRendered": true,
+  "localContactDelivery": false,
+  "errors": []
+}

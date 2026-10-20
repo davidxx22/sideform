@@ -1,0 +1,16 @@
+{
+  "counts": {
+    "all": 12,
+    "newArrivals": 8,
+    "tops": 7,
+    "bottoms": 3,
+    "outerwear": 2
+  },
+  "inPlace": true,
+  "sortPreserved": true,
+  "backForward": true,
+  "mobileKeyboard": true,
+  "swatches": true,
+  "failedRequestRetry": true,
+  "errors": []
+}

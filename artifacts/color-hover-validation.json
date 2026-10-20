@@ -1,0 +1,13 @@
+{
+  "hoverPreviews": 72,
+  "restoresOriginal": true,
+  "clickPersists": true,
+  "lateResponseGuard": true,
+  "home": true,
+  "shop": true,
+  "noNavigation": true,
+  "replacedCategory": true,
+  "keyboardFocus": true,
+  "mobileTap": true,
+  "errors": []
+}

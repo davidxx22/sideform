@@ -1,0 +1,12 @@
+{
+  "removeReadd": true,
+  "reopenClearsStatus": true,
+  "crossTabClearsStatus": true,
+  "removeRed": true,
+  "noUnderline": true,
+  "widths": [
+    1440,
+    390
+  ],
+  "errors": []
+}

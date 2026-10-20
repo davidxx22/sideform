@@ -1,0 +1,111 @@
+<section class="sf-editorial page-width" style="padding-top:{{ section.settings.spacing }}px;padding-bottom:{{ section.settings.spacing }}px">
+ {% for block in section.blocks %}<article class="sf-editorial__tile sf-editorial__tile--{{ block.settings.tone }} sf-editorial__tile--{{ forloop.index }} sf-editorial__tile--{{ block.settings.demo_photo }}" {{ block.shopify_attributes }}>
+  {% liquid
+    assign demo_asset = ''
+    assign demo_width = 1122
+    assign demo_height = 1402
+    case block.settings.demo_photo
+      when 'hoodie'
+        assign demo_asset = 'sf-photo-volume-pullover-white-front.jpg'
+      when 'jacket'
+        assign demo_asset = 'sf-photo-shell-utility-jacket-grey-front.jpg'
+      when 'cargo'
+        assign demo_asset = 'sf-editorial-cargo-black-pale.jpg'
+        assign demo_width = 1536
+        assign demo_height = 1024
+    endcase
+  %}
+  {% if block.settings.image != blank %}<div class="sf-editorial__photo">{{ block.settings.image | image_url: width: 1400 | image_tag: widths: '450, 750, 1100, 1400', sizes: '(min-width: 750px) 40vw, 100vw', loading: 'lazy' }}</div>{% elsif demo_asset != '' %}<div class="sf-editorial__photo sf-editorial__photo--{{ block.settings.demo_photo }}"><img src="{{ demo_asset | asset_url }}" srcset="{{ demo_asset | replace: '.jpg', '-480.jpg' | asset_url }} 480w, {{ demo_asset | asset_url }} {{ demo_width }}w" sizes="(min-width: 750px) 35vw, 75vw" alt="AI-generated sample photograph of a model wearing SIDEFORM {{ block.settings.demo_photo | escape }}" width="{{ demo_width }}" height="{{ demo_height }}" loading="lazy"></div>{% endif %}
+  <div class="sf-editorial__copy"><p class="sf-kicker">{{ block.settings.eyebrow | escape }}</p><h2>{{ block.settings.heading | escape | newline_to_br }}</h2>{% if block.settings.collection != blank %}<a class="button button--secondary" href="{{ block.settings.collection.url }}">{{ block.settings.label | escape }} {% render 'sf-button-arrow' %}</a>{% elsif block.settings.link != blank %}<a class="button button--secondary" href="{{ block.settings.link }}">{{ block.settings.label | escape }} {% render 'sf-button-arrow' %}</a>{% endif %}</div>
+ </article>{% endfor %}
+</section>
+{% schema %}
+{
+  "name": "SIDEFORM editorial",
+  "tag": "section",
+  "settings": [
+    {
+      "type": "range",
+      "id": "spacing",
+      "label": "Vertical spacing",
+      "min": 0,
+      "max": 100,
+      "step": 4,
+      "default": 40,
+      "unit": "px"
+    }
+  ],
+  "max_blocks": 4,
+  "blocks": [
+    {
+      "type": "collection",
+      "name": "Editorial collection",
+      "settings": [
+        {"type":"select","id":"demo_photo","label":"Sample photograph","default":"none","options":[{"value":"none","label":"None / text card"},{"value":"hoodie","label":"White hoodie on model"},{"value":"jacket","label":"Grey jacket on model"},{"value":"cargo","label":"Black cargo pants — full photographic background"}]},
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Photograph"
+        },
+        {
+          "type": "collection",
+          "id": "collection",
+          "label": "Collection"
+        },
+        {
+          "type": "url",
+          "id": "link",
+          "label": "Fallback link"
+        },
+        {
+          "type": "text",
+          "id": "eyebrow",
+          "label": "Eyebrow",
+          "default": "EVERYDAY STRUCTURES"
+        },
+        {
+          "type": "textarea",
+          "id": "heading",
+          "label": "Heading",
+          "default": "Outside the\nexpected."
+        },
+        {
+          "type": "text",
+          "id": "label",
+          "label": "Button label",
+          "default": "Explore the edit"
+        },
+        {
+          "type": "select",
+          "id": "tone",
+          "label": "Background",
+          "default": "concrete",
+          "options": [
+            {
+              "value": "concrete",
+              "label": "Concrete"
+            },
+            {
+              "value": "olive",
+              "label": "Muted olive"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "SIDEFORM editorial",
+      "blocks": [
+        {
+          "type": "collection"
+        },
+        {
+          "type": "collection"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}

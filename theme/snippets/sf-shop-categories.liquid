@@ -1,0 +1,9 @@
+<nav class="sf-collection-links sf-shop-categories page-width" aria-label="Shop categories">
+  <a href="{{ routes.all_products_collection_url }}" data-sf-shop-category{% if collection.handle == 'all' %} class="is-current" aria-current="page"{% endif %}>All</a>
+  {% assign shop_category_handles = 'new-arrivals,tops,bottoms,outerwear' | split: ',' %}
+  {% for handle in shop_category_handles %}
+    {% assign category = collections[handle] %}
+    {% if category != blank %}<a href="{{ category.url }}" data-sf-shop-category{% if collection.handle == handle %} class="is-current" aria-current="page"{% endif %}>{{ category.title | escape }}</a>{% endif %}
+  {% endfor %}
+</nav>
+<p class="visually-hidden" role="status" data-sf-shop-status></p>

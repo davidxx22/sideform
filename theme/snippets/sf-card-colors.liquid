@@ -1,0 +1,62 @@
+{% for option in card_product.options_with_values %}{% if option.name == 'Color' %}
+<div class="sf-card-colors" aria-label="Product colors">
+{% for value in option.values %}
+{% liquid
+  assign shade = value.name | default: value | append: ''
+  assign shade_handle = shade | handleize
+  assign color_variant = nil
+  assign color_available = false
+  for variant in card_product.variants
+    if variant.option1 == shade
+      if color_variant == nil
+        assign color_variant = variant
+      endif
+      if variant.available
+        assign color_variant = variant
+        assign color_available = true
+        break
+      endif
+    endif
+  endfor
+  assign color_media = color_variant.featured_media
+  assign color_marker = '[color:' | append: shade | append: ']'
+  if color_media == blank
+    for media in card_product.media
+      if media.alt contains color_marker
+        assign color_media = media
+        break
+      endif
+    endfor
+  endif
+  assign photo_url = ''
+  assign photo_srcset = ''
+  assign photo_alt = color_media.alt
+  if card_product.tags contains 'ai-sample-media'
+    assign color_media = ''
+  endif
+  if color_media != blank
+    assign photo_url = color_media | image_url: width: 1066
+    capture photo_srcset
+      echo color_media | image_url: width: 480
+      echo ' 480w, '
+      echo color_media | image_url: width: 1066
+      echo ' 1066w'
+    endcapture
+  elsif card_product.tags contains 'ai-sample-media'
+    assign photo_asset = 'sf-packshot-' | append: card_product.handle | append: '-' | append: shade_handle | append: '-front.jpg'
+    assign photo_url = photo_asset | asset_url
+    capture photo_srcset
+      echo photo_asset | replace: '.jpg', '-480.jpg' | asset_url
+      echo ' 480w, '
+      echo photo_url
+      echo ' 1122w'
+    endcapture
+    assign photo_alt = 'AI-generated sample photograph — ' | append: card_product.title | append: ', ' | append: shade | append: ', garment-only front view.'
+  endif
+%}
+<button type="button" class="sf-card-color" data-sf-card-color="{{ shade | escape }}" data-sf-photo="{{ photo_url | escape }}" data-sf-srcset="{{ photo_srcset | strip | escape }}" data-sf-alt="{{ photo_alt | escape }}" data-sf-variant-url="{{ card_product.url }}?variant={{ color_variant.id }}" aria-label="Show {{ shade | escape }} — {{ card_product.title | escape }}{% unless color_available %} — sold out{% endunless %}" aria-pressed="{% if shade == selected_color %}true{% else %}false{% endif %}" title="{{ shade | escape }}{% unless color_available %} — sold out{% endunless %}"{% if photo_url == '' %} disabled{% endif %}><i class="sf-swatch sf-swatch--{{ shade_handle }}" aria-hidden="true"></i></button>
+{% if color_variant != nil %}<template data-sf-card-price="{{ shade | escape }}">{% render 'price', product: color_variant, price_class: '', show_compare_at_price: true %}</template>{% endif %}
+{% endfor %}
+<span class="visually-hidden" role="status" data-sf-color-status></span>
+</div>
+{% endif %}{% endfor %}

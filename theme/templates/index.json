@@ -1,0 +1,108 @@
+{
+  "sections": {
+    "campaign": {
+      "type": "sf-campaign",
+      "settings": {}
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "swipe_on_mobile": false,
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "padding_top": 80,
+        "padding_bottom": 40,
+        "sf_center_heading": true,
+        "sf_show_categories": true
+      }
+    },
+    "editorial": {
+      "type": "sf-editorial",
+      "blocks": {
+        "tops": {
+          "type": "collection",
+          "settings": {
+            "collection": "tops",
+            "link": "/collections/tops",
+            "eyebrow": "EVERYDAY STRUCTURES",
+            "heading": "Room to\nmove.",
+            "label": "Shop Tops",
+            "demo_photo": "hoodie",
+            "tone": "concrete"
+          }
+        },
+        "outerwear": {
+          "type": "collection",
+          "settings": {
+            "collection": "outerwear",
+            "link": "/collections/outerwear",
+            "eyebrow": "OUTSIDE THE EXPECTED",
+            "heading": "A different\nlayer.",
+            "label": "Shop Outerwear",
+            "demo_photo": "jacket",
+            "tone": "concrete"
+          }
+        },
+        "bottoms": {
+          "type": "collection",
+          "settings": {
+            "collection": "bottoms",
+            "link": "/collections/bottoms",
+            "eyebrow": "BUILT FOR THE EVERYDAY",
+            "heading": "Find your\nstride.",
+            "label": "Shop Bottoms",
+            "demo_photo": "cargo",
+            "tone": "concrete"
+          }
+        },
+        "collection": {
+          "type": "collection",
+          "settings": {
+            "collection": "all",
+            "link": "/collections/all",
+            "eyebrow": "SIDEFORM / COLLECTION 001",
+            "heading": "Off the\ngrid.",
+            "label": "Explore the Collection",
+            "demo_photo": "none",
+            "tone": "olive"
+          }
+        }
+      },
+      "block_order": [
+        "tops",
+        "outerwear",
+        "bottoms",
+        "collection"
+      ],
+      "settings": {}
+    },
+    "perspective": {
+      "type": "sf-perspective",
+      "settings": {}
+    }
+  },
+  "order": [
+    "campaign",
+    "featured_collection",
+    "editorial",
+    "perspective"
+  ]
+}

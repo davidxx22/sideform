@@ -1,0 +1,6 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Use case: precise-object-edit, lighting-weather. Edit this SIDEFORM black cargo pants banner photograph. Change ONLY the concrete wall and floor from medium grey to a very light neutral OFF-WHITE concrete, approximately #e7e7e3, matching a clean pale fashion studio backdrop. Preserve subtle realistic concrete texture, wall/floor join and gentle natural contact shadows. Keep the entire background photographic and continuous edge-to-edge, no panels, mask fades, gradients or graphics. Preserve EXACTLY the black cargo pants, their darkness, texture, unbranded pockets, fit, pose, shirt edge, sneakers, original landscape 3:2 composition and the empty left side for website text. Do not brighten or recolor the clothing. No text, logos or watermark.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-532239e4-83b5-4aa2-a620-38c86bab1b0d.png",
+  "saved": "catalog/cargo-editorial-black-pale.png"
+}

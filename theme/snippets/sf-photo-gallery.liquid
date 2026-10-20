@@ -1,0 +1,25 @@
+{% assign photo_handles = 'offset-heavy-tee,plane-box-tee,axis-long-sleeve,frame-long-sleeve,volume-pullover,structure-hoodie,contour-crew,shell-utility-jacket,transit-work-jacket,grid-cargo-pant,drift-baggy-jean,interval-utility-short' | split: ',' %}
+{% if photo_handles contains product.handle %}
+  {% assign initial_color = product.selected_or_first_available_variant.option1 | default: 'Black' | downcase %}
+  <sf-photo-gallery class="sf-photo-gallery" data-color="{{ initial_color }}" data-section="{{ section.id }}">
+    <div class="sf-photo-gallery__grid">
+      {% assign views = 'front,back,detail' | split: ',' %}
+      {% if product.tags contains 'sf-four-photo-gallery' %}{% assign views = 'front,full,lineup,detail' | split: ',' %}{% endif %}
+      {% for view in views %}
+        <button class="sf-photo-gallery__tile" type="button" data-sf-view="{{ view }}" data-sf-enlarge aria-label="Enlarge {{ view }} photograph">
+          {% render 'sf-product-image', product: product, color: initial_color, view: view, sizes: '(min-width: 990px) 30vw, 50vw' %}
+          {% if view == 'front' or view == 'full' %}{% render 'sf-model-caption', product: product %}{% endif %}
+          <span class="sf-enlarge">+</span>
+        </button>
+      {% endfor %}
+    </div>
+    <sf-dialog>
+      <dialog class="sf-dialog sf-image-dialog" aria-label="Enlarged product photograph">
+        <button type="button" data-sf-close class="sf-dialog__close" aria-label="Close enlarged image">×</button>
+        <div data-sf-enlarged></div>
+      </dialog>
+    </sf-dialog>
+  </sf-photo-gallery>
+{% else %}
+  <p class="sf-sample-note">Photography is not yet available for {{ product.title | escape }}. Add garment photographs in Shopify.</p>
+{% endif %}

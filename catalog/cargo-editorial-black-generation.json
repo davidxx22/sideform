@@ -1,0 +1,6 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Use case: precise-object-edit. Image 1 is the edit target: close angled SIDEFORM grey cargo pants editorial. Image 2 is the exact Black Grid Cargo Pant color/material reference. Change ONLY the pants from grey to true washed BLACK, preserving every pocket, seam, wide silhouette, walking pose, shoes, shirt, lighting and concrete wall/floor. No logo on pants. Reframe/extend into a landscape 3:2 editorial banner: keep the wearer on the RIGHT 55% of frame, waist to shoes visible, and extend the SAME realistic concrete wall and floor seamlessly across the LEFT 45% as quiet empty space for website text. The entire image must be photographic concrete background with no white panel, no artificial fade, no gradient overlay, no text or graphics. Preserve the angled close view and casual walking step. Black twill texture and cargo flap pocket must remain readable. No face/head, no extra people, no beige or grey trousers.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-0981bc83-0b30-4eb4-aa9e-50345d5ccbae.png",
+  "saved": "catalog/cargo-editorial-black.png"
+}

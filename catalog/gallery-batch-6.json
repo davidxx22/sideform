@@ -1,0 +1,249 @@
+{
+  "tool": "Built-in imagegen",
+  "done": [
+    {
+      "name": "axis-long-sleeve-black-full",
+      "handle": "axis-long-sleeve",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Axis Long Sleeve in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Axis Long Sleeve silhouette, Relaxed body with long, dropped sleeves. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 220 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c3e45f63-df01-484f-8bb6-55c527edf05a.png"
+    },
+    {
+      "name": "axis-long-sleeve-white-full",
+      "handle": "axis-long-sleeve",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Axis Long Sleeve in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Axis Long Sleeve silhouette, Relaxed body with long, dropped sleeves. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 220 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c842f08c-7fc5-4a74-8346-84f7e46510c2.png"
+    },
+    {
+      "name": "axis-long-sleeve-black-lineup",
+      "handle": "axis-long-sleeve",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Axis Long Sleeve. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Axis Long Sleeve to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Long-sleeve T-shirt: Relaxed body with long, dropped sleeves. Fabric 220 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-02844723-c46d-4d43-b5b2-ceae2cb3af3d.png"
+    },
+    {
+      "name": "axis-long-sleeve-grey-full",
+      "handle": "axis-long-sleeve",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Axis Long Sleeve in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Axis Long Sleeve silhouette, Relaxed body with long, dropped sleeves. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 220 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-af186d4a-e49a-49e3-a9c0-1e51d48f4f5b.png"
+    },
+    {
+      "name": "axis-long-sleeve-white-lineup",
+      "handle": "axis-long-sleeve",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Axis Long Sleeve. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Axis Long Sleeve to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Long-sleeve T-shirt: Relaxed body with long, dropped sleeves. Fabric 220 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9a6bdc25-cc17-4b80-9363-c2763e2773c4.png"
+    },
+    {
+      "name": "axis-long-sleeve-grey-lineup",
+      "handle": "axis-long-sleeve",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Axis Long Sleeve. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Axis Long Sleeve to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Long-sleeve T-shirt: Relaxed body with long, dropped sleeves. Fabric 220 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-f5837efb-f5b7-46d8-b361-861e3efc2c57.png"
+    },
+    {
+      "name": "frame-long-sleeve-black-full",
+      "handle": "frame-long-sleeve",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Frame Long Sleeve in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Frame Long Sleeve silhouette, Wide torso, dropped shoulder, straight hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 240 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a7bb523c-1786-4e6a-a68e-922832410797.png"
+    },
+    {
+      "name": "frame-long-sleeve-black-lineup",
+      "handle": "frame-long-sleeve",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Frame Long Sleeve. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Frame Long Sleeve to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Long-sleeve T-shirt: Wide torso, dropped shoulder, straight hem. Fabric 240 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ed65b005-4444-4753-a603-98a76ac5b85e.png"
+    },
+    {
+      "name": "frame-long-sleeve-grey-full",
+      "handle": "frame-long-sleeve",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Frame Long Sleeve in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Frame Long Sleeve silhouette, Wide torso, dropped shoulder, straight hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 240 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b90dd096-5164-4c6c-a787-945a17d5e9a9.png"
+    },
+    {
+      "name": "frame-long-sleeve-white-full",
+      "handle": "frame-long-sleeve",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Frame Long Sleeve in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Frame Long Sleeve silhouette, Wide torso, dropped shoulder, straight hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 240 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-62e38487-f234-42ac-bd9a-6d55c3cadcb2.png"
+    },
+    {
+      "name": "frame-long-sleeve-grey-lineup",
+      "handle": "frame-long-sleeve",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Frame Long Sleeve. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Frame Long Sleeve to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Long-sleeve T-shirt: Wide torso, dropped shoulder, straight hem. Fabric 240 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-aee9e7ee-5025-4115-86f6-2e6a700ef199.png"
+    },
+    {
+      "name": "volume-pullover-black-full",
+      "handle": "volume-pullover",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-volume-pullover-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Volume Pullover in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Volume Pullover silhouette, Oversized with a roomy hood and ribbed hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 400 gsm cotton-rich loopback; 80% cotton, 20% polyester. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7d417175-830a-4732-b6e6-c7fb4866ccbe.png"
+    },
+    {
+      "name": "frame-long-sleeve-white-lineup",
+      "handle": "frame-long-sleeve",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Frame Long Sleeve. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Frame Long Sleeve to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Long-sleeve T-shirt: Wide torso, dropped shoulder, straight hem. Fabric 240 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2745a0d7-c225-4c18-950a-adc1c37b8f52.png"
+    },
+    {
+      "name": "volume-pullover-black-lineup",
+      "handle": "volume-pullover",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Volume Pullover. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Volume Pullover to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Hoodie: Oversized with a roomy hood and ribbed hem. Fabric 400 gsm cotton-rich loopback; 80% cotton, 20% polyester. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-3e47451f-2e49-402c-921b-a18abea4326e.png"
+    },
+    {
+      "name": "volume-pullover-white-lineup",
+      "handle": "volume-pullover",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Volume Pullover. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Volume Pullover to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Hoodie: Oversized with a roomy hood and ribbed hem. Fabric 400 gsm cotton-rich loopback; 80% cotton, 20% polyester. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b4efa7b7-4b73-4fb6-8794-894227acf428.png"
+    },
+    {
+      "name": "volume-pullover-white-full",
+      "handle": "volume-pullover",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-volume-pullover-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Volume Pullover in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Volume Pullover silhouette, Oversized with a roomy hood and ribbed hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 400 gsm cotton-rich loopback; 80% cotton, 20% polyester. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-4a5ed672-5eb2-48d3-96d0-8bc65d9a20a2.png"
+    },
+    {
+      "name": "volume-pullover-grey-full",
+      "handle": "volume-pullover",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-volume-pullover-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Volume Pullover in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Volume Pullover silhouette, Oversized with a roomy hood and ribbed hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 400 gsm cotton-rich loopback; 80% cotton, 20% polyester. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-99259cbe-63eb-4ef1-8b0a-d3afdb730162.png"
+    },
+    {
+      "name": "volume-pullover-grey-lineup",
+      "handle": "volume-pullover",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Volume Pullover. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Volume Pullover to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Hoodie: Oversized with a roomy hood and ribbed hem. Fabric 400 gsm cotton-rich loopback; 80% cotton, 20% polyester. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c8c2db1e-d4a8-45ff-bbef-5b801e63b427.png"
+    }
+  ],
+  "failures": []
+}

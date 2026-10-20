@@ -1,0 +1,107 @@
+{
+  "environment": "Local LiquidJS fixture; real Dawn assets with emulated Shopify endpoints",
+  "results": [
+    {
+      "name": "Homepage",
+      "status": "passed",
+      "detail": "12 products; 4 primary navigation items"
+    },
+    {
+      "name": "Homepage responsive 1920",
+      "status": "passed",
+      "detail": "No horizontal overflow or broken images"
+    },
+    {
+      "name": "Homepage responsive 768",
+      "status": "passed",
+      "detail": "No horizontal overflow or broken images"
+    },
+    {
+      "name": "Homepage responsive 390",
+      "status": "passed",
+      "detail": "No horizontal overflow or broken images"
+    },
+    {
+      "name": "Homepage responsive 320",
+      "status": "passed",
+      "detail": "No horizontal overflow or broken images"
+    },
+    {
+      "name": "Explicit selection required",
+      "status": "passed"
+    },
+    {
+      "name": "Default Black / Small can be explicitly selected",
+      "status": "passed"
+    },
+    {
+      "name": "Native variant and imagery update",
+      "status": "passed",
+      "detail": "White / Medium ID 104"
+    },
+    {
+      "name": "Gallery grid, enlargement and Escape focus return",
+      "status": "passed"
+    },
+    {
+      "name": "Product size guide",
+      "status": "passed",
+      "detail": "3 garment measurement rows; Escape returns focus"
+    },
+    {
+      "name": "Sold-out prevention",
+      "status": "passed",
+      "detail": "Grey / Large disabled"
+    },
+    {
+      "name": "Dawn add-to-cart",
+      "status": "passed",
+      "detail": "Drawer opens with selected variant and synchronized count"
+    },
+    {
+      "name": "Dawn cart quantity and totals",
+      "status": "passed",
+      "detail": "2 × $42 = $84"
+    },
+    {
+      "name": "Dawn cart removal",
+      "status": "passed",
+      "detail": "Empty state and zero count"
+    },
+    {
+      "name": "Bottoms-specific size guide",
+      "status": "passed",
+      "detail": "Waist, hip, inseam and overall length"
+    },
+    {
+      "name": "Mobile product and size guide",
+      "status": "passed",
+      "detail": "390px; no overflow or broken images"
+    },
+    {
+      "name": "Dawn media gallery color grouping",
+      "status": "passed",
+      "detail": "Only 3 matching views visible for White"
+    },
+    {
+      "name": "Collection catalog and native sorting",
+      "status": "passed",
+      "detail": "12 products rendered"
+    },
+    {
+      "name": "Search",
+      "status": "passed",
+      "detail": "Matching results and useful empty state"
+    },
+    {
+      "name": "Checkout navigation",
+      "status": "passed",
+      "detail": "Local /checkout route only; hosted checkout requires development store"
+    },
+    {
+      "name": "Browser runtime",
+      "status": "passed",
+      "detail": "No uncaught JavaScript errors in tested flows"
+    }
+  ]
+}

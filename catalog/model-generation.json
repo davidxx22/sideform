@@ -1,0 +1,384 @@
+{
+  "tool": "Built-in imagegen",
+  "date": "2026-10-19",
+  "images": [
+    {
+      "handle": "offset-heavy-tee",
+      "color": "black",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-d1a45fae-4144-4a87-9516-a83d93752782.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic SIDEFORM ecommerce catalog portrait, 4:5 aspect. Input image is the exact garment reference: Offset Heavy Tee BLACK. Dress a realistic adult male fashion model with dark skin, short natural textured hair in this exact oversized black cotton tee. Preserve its dropped shoulder, elbow-length broad sleeves, long wide body, small two offset ivory bars on wearer's left chest, neckline and construction. Full head through mid-thigh crop, centered, front facing with subtle natural stance, arms relaxed outside the shirt, face visible. Plain muted grey wide trousers. Warm light-grey seamless studio background, soft upper-left light, realistic cotton drape and skin texture, premium minimal urban look. The entire garment including both sleeves and hem must be visible, not tucked. No additional logos, no accessories, no captions, no watermark. Reference is garment design only; replace flat lay presentation with a person wearing it.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/offset-heavy-tee-black-front.png",
+      "reference": "catalog/product-photos/offset-heavy-tee-black-front.png"
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "white",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-629506e6-97e7-450d-851f-cc552eeb246a.png",
+      "prompt": "Use case: precise-object-edit. Input is SIDEFORM offset-heavy-tee BLACK on-model catalog photograph, the edit target. Create the matching WHITE colorway photograph. Change ONLY the featured upper garment fabric to neutral clean WHITE, not cream. Keep exactly the SAME adult model identity, face, skin, hair, pose, crop, proportions, light grey trousers, pale warm-grey studio, lighting and shadows. Preserve the garment silhouette, every seam, neckline, pocket, cuff, hood, material texture, oversized fit and hem position. If a two-offset-bar chest mark is present, use small black bars for contrast on this white colorway, same size and position. Do not add or remove any design features. Natural realistic fabric shading, no uniform flat fill. One vertical 4:5 catalog photo, no extra objects, text or watermark.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/offset-heavy-tee-white-front.png",
+      "reference": "catalog/model-photos/offset-heavy-tee-black-front.png"
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "grey",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-196535cc-4afd-48fc-96d0-cb62c07e997e.png",
+      "prompt": "Use case: precise-object-edit. Input is SIDEFORM offset-heavy-tee BLACK on-model catalog photograph, the edit target. Create the matching GREY colorway photograph. Change ONLY the featured upper garment fabric to medium neutral GREY, clearly between white and black, not olive. Keep exactly the SAME adult model identity, face, skin, hair, pose, crop, proportions, light grey trousers, pale warm-grey studio, lighting and shadows. Preserve the garment silhouette, every seam, neckline, pocket, cuff, hood, material texture, oversized fit and hem position. If a two-offset-bar chest mark is present, use small black bars for contrast on this grey colorway, same size and position. Do not add or remove any design features. Natural realistic fabric shading, no uniform flat fill. One vertical 4:5 catalog photo, no extra objects, text or watermark.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/offset-heavy-tee-grey-front.png",
+      "reference": "catalog/model-photos/offset-heavy-tee-black-front.png"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "black",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-981106f5-f790-4446-b4d4-e16e16333bdd.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target: SIDEFORM plane-box-tee, black garment worn by an adult model. Image 2 is the exact SIDEFORM symbol reference, only its two rectangles, ignore its paper background. Add ONE small, clearly legible OFF-WHITE two-rectangle SIDEFORM symbol printed on the featured black garment at the wearer's LEFT upper chest (RIGHT side of the image), matching a discreet 3cm-wide chest logo. Exact mark: two equal short HORIZONTAL rectangles, the second offset diagonally DOWN AND RIGHT, preserving image 2's proportions and spacing. They must remain separate, no connecting stroke. NOT an equals sign, plus, letter, text, diagonal stripes or square. Preserve EVERYTHING else in image 1: identical face, hair, skin, anatomy, hands, pose, expression, black garment shape/cut, neckline/hood/collar, all pockets and closures, seams, texture, folds, background, lighting, grey trousers, crop and 4:5 resolution. Logo ink follows fabric perspective and tiny surface folds naturally, clean sharp edges. No words, watermark or other graphics. Retain any existing small side-seam label; this addition belongs only on the featured upper garment.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/plane-box-tee-black-front.png",
+      "reference": "catalog/model-photos-before-branding/plane-box-tee-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "white",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-3cc4c0a4-4ff5-4f6f-af95-c4723281b999.png",
+      "prompt": "Use case: precise-object-edit. Input is the branded BLACK SIDEFORM plane-box-tee on-model photo, the edit target. Create its WHITE colorway. Change ONLY the featured upper garment fabric to clean neutral WHITE, not cream and change the small chest logo ink to BLACK for contrast. Keep EXACTLY the same two-rectangle SIDEFORM mark: same size, position, spacing and shape, two equal short horizontal bars staggered down and right. Do not add a logo to the grey styling trousers; keep those trousers completely unchanged. Preserve everything else: model identity, face, hair, skin, anatomy, hands, pose, crop, garment cut, seams, neckline, cuffs, hem, fabric texture, drape, studio background, lighting. Same single vertical 4:5 photograph. No text, watermark or extra graphics.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/plane-box-tee-white-front.png",
+      "reference": "catalog/branded-model-photos/plane-box-tee-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "grey",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-cc43543a-0e1b-44e9-be9b-aada976f1455.png",
+      "prompt": "Use case: precise-object-edit. Input is the branded BLACK SIDEFORM plane-box-tee on-model photo, the edit target. Create its GREY colorway. Change ONLY the featured upper garment fabric to medium neutral GREY, clearly between white and black, not olive and change the small chest logo ink to BLACK for contrast. Keep EXACTLY the same two-rectangle SIDEFORM mark: same size, position, spacing and shape, two equal short horizontal bars staggered down and right. Do not add a logo to the grey styling trousers; keep those trousers completely unchanged. Preserve everything else: model identity, face, hair, skin, anatomy, hands, pose, crop, garment cut, seams, neckline, cuffs, hem, fabric texture, drape, studio background, lighting. Same single vertical 4:5 photograph. No text, watermark or extra graphics.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/plane-box-tee-grey-front.png",
+      "reference": "catalog/branded-model-photos/plane-box-tee-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "black",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-4dc09597-7f7a-44f4-b628-fea5661dc0b6.png",
+      "prompt": "Use case: product-mockup. One photorealistic SIDEFORM ecommerce studio portrait, 4:5 vertical. Exact garment reference in input. Dress a realistic adult male fashion model with light olive skin and short dark hair, neutral expression in the exact BLACK garment. Preserve cut, neckline, seams, hem, sleeve lengths, material, and small two offset ivory bars on wearer's left chest. Head to mid-thigh crop, centered front facing, arms relaxed outside garment, fully show both sleeves and untucked hem. Light grey loose trousers. Pale warm-grey seamless studio, soft upper-left light, realistic skin and fabric drape, minimalist streetwear look. No text, no watermark, no accessories. Replace flat lay with person wearing it. Garment: Axis Long Sleeve, black oversized cotton long sleeve tee with ribbed cuffs and offset two-bar chest mark.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/axis-long-sleeve-black-front.png",
+      "reference": "catalog/product-photos/axis-long-sleeve-black-front.png"
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "white",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-d72e4c6b-1847-4e78-bbc0-7b0d83472298.png",
+      "prompt": "Use case: precise-object-edit. Input is SIDEFORM axis-long-sleeve BLACK on-model catalog photograph, the edit target. Create the matching WHITE colorway photograph. Change ONLY the featured upper garment fabric to neutral clean WHITE, not cream. Keep exactly the SAME adult model identity, face, skin, hair, pose, crop, proportions, light grey trousers, pale warm-grey studio, lighting and shadows. Preserve the garment silhouette, every seam, neckline, pocket, cuff, hood, material texture, oversized fit and hem position. If a two-offset-bar chest mark is present, use small black bars for contrast on this white colorway, same size and position. Do not add or remove any design features. Natural realistic fabric shading, no uniform flat fill. One vertical 4:5 catalog photo, no extra objects, text or watermark.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/axis-long-sleeve-white-front.png",
+      "reference": "catalog/model-photos/axis-long-sleeve-black-front.png"
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "grey",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-3dfc014e-72af-446b-b438-1f404147b8a7.png",
+      "prompt": "Use case: precise-object-edit. Input is SIDEFORM axis-long-sleeve BLACK on-model catalog photograph, the edit target. Create the matching GREY colorway photograph. Change ONLY the featured upper garment fabric to medium neutral GREY, clearly between white and black, not olive. Keep exactly the SAME adult model identity, face, skin, hair, pose, crop, proportions, light grey trousers, pale warm-grey studio, lighting and shadows. Preserve the garment silhouette, every seam, neckline, pocket, cuff, hood, material texture, oversized fit and hem position. If a two-offset-bar chest mark is present, use small black bars for contrast on this grey colorway, same size and position. Do not add or remove any design features. Natural realistic fabric shading, no uniform flat fill. One vertical 4:5 catalog photo, no extra objects, text or watermark.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/axis-long-sleeve-grey-front.png",
+      "reference": "catalog/model-photos/axis-long-sleeve-black-front.png"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "black",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-53a274fd-1d76-456e-a10c-66dbb0a80597.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target: SIDEFORM frame-long-sleeve, black garment worn by an adult model. Image 2 is the exact SIDEFORM symbol reference, only its two rectangles, ignore its paper background. Add ONE small, clearly legible OFF-WHITE two-rectangle SIDEFORM symbol printed on the featured black garment at the wearer's LEFT upper chest (RIGHT side of the image), matching a discreet 3cm-wide chest logo. Exact mark: two equal short HORIZONTAL rectangles, the second offset diagonally DOWN AND RIGHT, preserving image 2's proportions and spacing. They must remain separate, no connecting stroke. NOT an equals sign, plus, letter, text, diagonal stripes or square. Preserve EVERYTHING else in image 1: identical face, hair, skin, anatomy, hands, pose, expression, black garment shape/cut, neckline/hood/collar, all pockets and closures, seams, texture, folds, background, lighting, grey trousers, crop and 4:5 resolution. Logo ink follows fabric perspective and tiny surface folds naturally, clean sharp edges. No words, watermark or other graphics. Retain any existing small side-seam label; this addition belongs only on the featured upper garment.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/frame-long-sleeve-black-front.png",
+      "reference": "catalog/model-photos-before-branding/frame-long-sleeve-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "white",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-1fdacfb3-885a-43dd-beb1-058796f75deb.png",
+      "prompt": "Use case: precise-object-edit. Input is the branded BLACK SIDEFORM frame-long-sleeve on-model photo, the edit target. Create its WHITE colorway. Change ONLY the featured upper garment fabric to clean neutral WHITE, not cream and change the small chest logo ink to BLACK for contrast. Keep EXACTLY the same two-rectangle SIDEFORM mark: same size, position, spacing and shape, two equal short horizontal bars staggered down and right. Do not add a logo to the grey styling trousers; keep those trousers completely unchanged. Preserve everything else: model identity, face, hair, skin, anatomy, hands, pose, crop, garment cut, seams, neckline, cuffs, hem, fabric texture, drape, studio background, lighting. Same single vertical 4:5 photograph. No text, watermark or extra graphics.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/frame-long-sleeve-white-front.png",
+      "reference": "catalog/branded-model-photos/frame-long-sleeve-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "grey",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-15e56adc-be60-4abe-adb7-84713877a90e.png",
+      "prompt": "Use case: precise-object-edit. Input is the branded BLACK SIDEFORM frame-long-sleeve on-model photo, the edit target. Create its GREY colorway. Change ONLY the featured upper garment fabric to medium neutral GREY, clearly between white and black, not olive and change the small chest logo ink to BLACK for contrast. Keep EXACTLY the same two-rectangle SIDEFORM mark: same size, position, spacing and shape, two equal short horizontal bars staggered down and right. Do not add a logo to the grey styling trousers; keep those trousers completely unchanged. Preserve everything else: model identity, face, hair, skin, anatomy, hands, pose, crop, garment cut, seams, neckline, cuffs, hem, fabric texture, drape, studio background, lighting. Same single vertical 4:5 photograph. No text, watermark or extra graphics.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/frame-long-sleeve-grey-front.png",
+      "reference": "catalog/branded-model-photos/frame-long-sleeve-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "black",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-88cab86d-5f1d-4b4d-863d-b1c7834dd0d4.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target: SIDEFORM volume-pullover, black garment worn by an adult model. Image 2 is the exact SIDEFORM symbol reference, only its two rectangles, ignore its paper background. Add ONE small, clearly legible OFF-WHITE two-rectangle SIDEFORM symbol printed on the featured black garment at the wearer's LEFT upper chest (RIGHT side of the image), matching a discreet 3cm-wide chest logo. Exact mark: two equal short HORIZONTAL rectangles, the second offset diagonally DOWN AND RIGHT, preserving image 2's proportions and spacing. They must remain separate, no connecting stroke. NOT an equals sign, plus, letter, text, diagonal stripes or square. Preserve EVERYTHING else in image 1: identical face, hair, skin, anatomy, hands, pose, expression, black garment shape/cut, neckline/hood/collar, all pockets and closures, seams, texture, folds, background, lighting, grey trousers, crop and 4:5 resolution. Logo ink follows fabric perspective and tiny surface folds naturally, clean sharp edges. No words, watermark or other graphics. Retain any existing small side-seam label; this addition belongs only on the featured upper garment.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/volume-pullover-black-front.png",
+      "reference": "catalog/model-photos-before-branding/volume-pullover-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "white",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-70662147-0da6-4cee-8bff-6196f85232af.png",
+      "prompt": "Use case: precise-object-edit. Input is the branded BLACK SIDEFORM volume-pullover on-model photograph, edit target. Create its WHITE colorway. Change ONLY the featured upper garment fabric to neutral clean WHITE, not ivory or cream and change the small chest mark ink to BLACK for contrast. Keep the EXACT SAME two-rectangle SIDEFORM logo: same position, proportions, size and gap, two equal horizontal short rectangles offset diagonally down and right, separate not connected. Keep jacket zipper/hardware dark. Preserve the adult model face, hair, skin, pose and anatomy, garment construction, seams, neckline/hood/collar, pockets, cuffs, hem, natural drape and texture, background and lighting, framing and 4:5 aspect. Do NOT add any logo to trousers. Grey styling trousers remain entirely unchanged and unbranded. No words, watermark or extra graphics.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/volume-pullover-white-front.png",
+      "reference": "catalog/branded-model-photos/volume-pullover-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "grey",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-fe030b40-733c-4257-b164-d908f90e46b6.png",
+      "prompt": "Use case: precise-object-edit. Input is the branded BLACK SIDEFORM volume-pullover on-model photograph, edit target. Create its GREY colorway. Change ONLY the featured upper garment fabric to medium neutral GREY, clearly between white and black, not olive and change the small chest mark ink to BLACK for contrast. Keep the EXACT SAME two-rectangle SIDEFORM logo: same position, proportions, size and gap, two equal horizontal short rectangles offset diagonally down and right, separate not connected. Keep jacket zipper/hardware dark. Preserve the adult model face, hair, skin, pose and anatomy, garment construction, seams, neckline/hood/collar, pockets, cuffs, hem, natural drape and texture, background and lighting, framing and 4:5 aspect. Do NOT add any logo to trousers. Grey styling trousers remain entirely unchanged and unbranded. No words, watermark or extra graphics.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/volume-pullover-grey-front.png",
+      "reference": "catalog/branded-model-photos/volume-pullover-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "black",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b92e11b7-71d3-4e1b-ada7-aee27f004fa1.png",
+      "prompt": "Use case: product-mockup. ONE photorealistic SIDEFORM ecommerce studio model photograph, vertical 4:5. Input is exact BLACK garment reference, preserve all design, cut, seams, pockets, cuffs, hood, marks and material. 420 gsm dense cotton-rich fleece pullover hoodie; distinctly cropped square body, very broad dropped shoulders, sculptural double-layer hood, long voluminous sleeves ending in wide ribbed cuffs, wide ribbed hem, no front pocket and no drawstrings. Tiny off-white offset two-horizontal-bar chest mark. Dress a realistic adult male fashion model with light olive skin and short dark hair in this exact BLACK garment. Centered straight-on, full head to mid-thigh, natural relaxed standing pose, arms at sides, whole untucked garment and both sleeves visible. Plain light grey wide trousers. Pale warm-grey seamless studio background, soft upper-left lighting, natural skin and fabric drape, minimal premium urban catalog. Hood down if hoodie. Do not add or remove pockets, no extra brands, accessories, text, watermarks. Single view only, no collage.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/structure-hoodie-black-front.png",
+      "reference": "catalog/product-photos/structure-hoodie-black-front.png"
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "white",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-1f12fece-2648-437e-ba6b-eddba3d58100.png",
+      "prompt": "Use case: precise-object-edit. Input is SIDEFORM structure-hoodie BLACK on-model catalog photograph, the edit target. Create matching WHITE colorway. Change ONLY the featured upper garment fabric to neutral clean WHITE, not cream. Keep exactly the SAME adult model identity, face, skin, hair, pose, crop, proportions, light grey trousers, warm-grey studio background, lighting. Preserve the garment silhouette, every seam, neckline, pocket, cuff, hood, material and hem position. If a two-offset-bar chest mark is present use black bars for contrast, same size and position. Keep jacket metal hardware and zipper dark. Do not add or remove any design features. Natural realistic fabric shading, single vertical 4:5 photograph, no additional objects, text or watermarks.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/structure-hoodie-white-front.png",
+      "reference": "catalog/model-photos/structure-hoodie-black-front.png"
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "grey",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a1efbe53-1b0a-4dd0-baa0-bfc3214099b3.png",
+      "prompt": "Use case: precise-object-edit. Input is SIDEFORM structure-hoodie BLACK on-model catalog photograph, the edit target. Create matching GREY colorway. Change ONLY the featured upper garment fabric to medium neutral GREY, clearly between white and black, not olive. Keep exactly the SAME adult model identity, face, skin, hair, pose, crop, proportions, light grey trousers, warm-grey studio background, lighting. Preserve the garment silhouette, every seam, neckline, pocket, cuff, hood, material and hem position. If a two-offset-bar chest mark is present use black bars for contrast, same size and position. Keep jacket metal hardware and zipper dark. Do not add or remove any design features. Natural realistic fabric shading, single vertical 4:5 photograph, no additional objects, text or watermarks.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/structure-hoodie-grey-front.png",
+      "reference": "catalog/model-photos/structure-hoodie-black-front.png"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "black",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-1042d15d-a42f-4abd-be74-34abbb95eab0.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target: SIDEFORM contour-crew, black garment worn by an adult model. Image 2 is the exact SIDEFORM symbol reference, only its two rectangles, ignore its paper background. Add ONE small, clearly legible OFF-WHITE two-rectangle SIDEFORM symbol printed on the featured black garment at the wearer's LEFT upper chest (RIGHT side of the image), matching a discreet 3cm-wide chest logo. Exact mark: two equal short HORIZONTAL rectangles, the second offset diagonally DOWN AND RIGHT, preserving image 2's proportions and spacing. They must remain separate, no connecting stroke. NOT an equals sign, plus, letter, text, diagonal stripes or square. Preserve EVERYTHING else in image 1: identical face, hair, skin, anatomy, hands, pose, expression, black garment shape/cut, neckline/hood/collar, all pockets and closures, seams, texture, folds, background, lighting, grey trousers, crop and 4:5 resolution. Logo ink follows fabric perspective and tiny surface folds naturally, clean sharp edges. No words, watermark or other graphics. Retain any existing small side-seam label; this addition belongs only on the featured upper garment.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/contour-crew-black-front.png",
+      "reference": "catalog/model-photos-before-branding/contour-crew-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "white",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-87c1cd4c-2bc7-4126-80c6-552a58b1be28.png",
+      "prompt": "Use case: precise-object-edit. Input is the branded BLACK SIDEFORM contour-crew on-model photograph, edit target. Create its WHITE colorway. Change ONLY the featured upper garment fabric to neutral clean WHITE, not ivory or cream and change the small chest mark ink to BLACK for contrast. Keep the EXACT SAME two-rectangle SIDEFORM logo: same position, proportions, size and gap, two equal horizontal short rectangles offset diagonally down and right, separate not connected. Keep jacket zipper/hardware dark. Preserve the adult model face, hair, skin, pose and anatomy, garment construction, seams, neckline/hood/collar, pockets, cuffs, hem, natural drape and texture, background and lighting, framing and 4:5 aspect. Do NOT add any logo to trousers. Grey styling trousers remain entirely unchanged and unbranded. No words, watermark or extra graphics.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/contour-crew-white-front.png",
+      "reference": "catalog/branded-model-photos/contour-crew-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "grey",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9f27ea48-83dc-4259-b251-54c594324e30.png",
+      "prompt": "Use case: precise-object-edit. Input is the branded BLACK SIDEFORM contour-crew on-model photograph, edit target. Create its GREY colorway. Change ONLY the featured upper garment fabric to medium neutral GREY, clearly between white and black, not olive and change the small chest mark ink to BLACK for contrast. Keep the EXACT SAME two-rectangle SIDEFORM logo: same position, proportions, size and gap, two equal horizontal short rectangles offset diagonally down and right, separate not connected. Keep jacket zipper/hardware dark. Preserve the adult model face, hair, skin, pose and anatomy, garment construction, seams, neckline/hood/collar, pockets, cuffs, hem, natural drape and texture, background and lighting, framing and 4:5 aspect. Do NOT add any logo to trousers. Grey styling trousers remain entirely unchanged and unbranded. No words, watermark or extra graphics.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/contour-crew-grey-front.png",
+      "reference": "catalog/branded-model-photos/contour-crew-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "black",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-bca6adc8-37f0-484e-8915-33dffece4f27.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target: SIDEFORM shell-utility-jacket, black garment worn by an adult model. Image 2 is the exact SIDEFORM symbol reference, only its two rectangles, ignore its paper background. Add ONE small, clearly legible OFF-WHITE two-rectangle SIDEFORM symbol printed on the featured black garment at the wearer's LEFT upper chest (RIGHT side of the image), matching a discreet 3cm-wide chest logo. Exact mark: two equal short HORIZONTAL rectangles, the second offset diagonally DOWN AND RIGHT, preserving image 2's proportions and spacing. They must remain separate, no connecting stroke. NOT an equals sign, plus, letter, text, diagonal stripes or square. Preserve EVERYTHING else in image 1: identical face, hair, skin, anatomy, hands, pose, expression, black garment shape/cut, neckline/hood/collar, all pockets and closures, seams, texture, folds, background, lighting, grey trousers, crop and 4:5 resolution. Logo ink follows fabric perspective and tiny surface folds naturally, clean sharp edges. No words, watermark or other graphics. Retain any existing small side-seam label; this addition belongs only on the featured upper garment.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/shell-utility-jacket-black-front.png",
+      "reference": "catalog/model-photos-before-branding/shell-utility-jacket-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "white",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a7311bf8-bfdd-4468-8fbf-051a017dad73.png",
+      "prompt": "Use case: precise-object-edit. Input is the branded BLACK SIDEFORM shell-utility-jacket on-model photograph, edit target. Create its WHITE colorway. Change ONLY the featured upper garment fabric to neutral clean WHITE, not ivory or cream and change the small chest mark ink to BLACK for contrast. Keep the EXACT SAME two-rectangle SIDEFORM logo: same position, proportions, size and gap, two equal horizontal short rectangles offset diagonally down and right, separate not connected. Keep jacket zipper/hardware dark. Preserve the adult model face, hair, skin, pose and anatomy, garment construction, seams, neckline/hood/collar, pockets, cuffs, hem, natural drape and texture, background and lighting, framing and 4:5 aspect. Do NOT add any logo to trousers. Grey styling trousers remain entirely unchanged and unbranded. No words, watermark or extra graphics.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/shell-utility-jacket-white-front.png",
+      "reference": "catalog/branded-model-photos/shell-utility-jacket-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "grey",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-11ecd48b-c1fb-4246-88e4-1d24541828b8.png",
+      "prompt": "Use case: precise-object-edit. Input is the branded BLACK SIDEFORM shell-utility-jacket on-model photograph, edit target. Create its GREY colorway. Change ONLY the featured upper garment fabric to medium neutral GREY, clearly between white and black, not olive and change the small chest mark ink to BLACK for contrast. Keep the EXACT SAME two-rectangle SIDEFORM logo: same position, proportions, size and gap, two equal horizontal short rectangles offset diagonally down and right, separate not connected. Keep jacket zipper/hardware dark. Preserve the adult model face, hair, skin, pose and anatomy, garment construction, seams, neckline/hood/collar, pockets, cuffs, hem, natural drape and texture, background and lighting, framing and 4:5 aspect. Do NOT add any logo to trousers. Grey styling trousers remain entirely unchanged and unbranded. No words, watermark or extra graphics.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/shell-utility-jacket-grey-front.png",
+      "reference": "catalog/branded-model-photos/shell-utility-jacket-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "black",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-31faca0b-038c-4715-b156-1d01539697a9.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the edit target: SIDEFORM transit-work-jacket, black garment worn by an adult model. Image 2 is the exact SIDEFORM symbol reference, only its two rectangles, ignore its paper background. Add ONE small, clearly legible OFF-WHITE two-rectangle SIDEFORM symbol printed on the featured black garment at the wearer's LEFT upper chest (RIGHT side of the image), matching a discreet 3cm-wide chest logo. Exact mark: two equal short HORIZONTAL rectangles, the second offset diagonally DOWN AND RIGHT, preserving image 2's proportions and spacing. They must remain separate, no connecting stroke. NOT an equals sign, plus, letter, text, diagonal stripes or square. Preserve EVERYTHING else in image 1: identical face, hair, skin, anatomy, hands, pose, expression, black garment shape/cut, neckline/hood/collar, all pockets and closures, seams, texture, folds, background, lighting, grey trousers, crop and 4:5 resolution. Logo ink follows fabric perspective and tiny surface folds naturally, clean sharp edges. No words, watermark or other graphics. Retain any existing small side-seam label; this addition belongs only on the featured upper garment.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/transit-work-jacket-black-front.png",
+      "reference": "catalog/model-photos-before-branding/transit-work-jacket-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "white",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-8edb7177-953f-46e9-86d6-8a623e6bd8c8.png",
+      "prompt": "Use case: precise-object-edit. Input is the branded BLACK SIDEFORM Transit Work Jacket on-model photo, edit target. Create the WHITE colorway. Change ONLY jacket fabric to clean neutral WHITE, not cream, and the small upper-left chest symbol ink to BLACK. Keep its EXACT same two-rectangle staggered SIDEFORM mark, size, gap, placement and shape. Preserve the same adult model, face, hair, skin, hands, pose, grey styling trousers, off-white undershirt glimpse, studio, light, all jacket pockets, buttons and construction. Keep buttons dark. Do NOT add any logo or print to the trousers; keep them unchanged. Preserve 4:5 framing and natural fabric texture. No words, watermarks or additional graphics.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/transit-work-jacket-white-front.png",
+      "reference": "catalog/branded-model-photos/transit-work-jacket-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "grey",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e48fc760-991d-4b8e-a01b-1d8bb35ca1ed.png",
+      "prompt": "Use case: precise-object-edit. Input is the branded BLACK SIDEFORM Transit Work Jacket on-model photo, edit target. Create the GREY colorway. Change ONLY jacket fabric to medium neutral GREY, not olive, and the small upper-left chest symbol ink to BLACK. Keep its EXACT same two-rectangle staggered SIDEFORM mark, size, gap, placement and shape. Preserve the same adult model, face, hair, skin, hands, pose, grey styling trousers, off-white undershirt glimpse, studio, light, all jacket pockets, buttons and construction. Keep buttons dark. Do NOT add any logo or print to the trousers; keep them unchanged. Preserve 4:5 framing and natural fabric texture. No words, watermarks or additional graphics.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/transit-work-jacket-grey-front.png",
+      "reference": "catalog/branded-model-photos/transit-work-jacket-black-front.png",
+      "branding": "Two offset horizontal rectangles on upper left chest"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "black",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-669c7381-5d3c-4d9a-8b6f-0c682065d1b6.png",
+      "prompt": "Use case: product-mockup. ONE photorealistic SIDEFORM ecommerce model photograph, vertical 4:5. Input image is exact BLACK garment design reference. 260 gsm cotton twill cargo pants; full-length straight wide legs, loose hips and thighs, structured waistband with belt loops, matte center button and zipper fly, curved front hand pockets, one low-profile rectangular flap cargo pocket on the outer side of each thigh, plain hems, two flat welt rear pockets. No straps, no drawcords. Tiny tonal offset-bar woven side label. Dress a realistic adult female fashion model with medium olive skin and dark shoulder-length hair in this exact black garment. Preserve all construction, pocket number, closures, seams, material, cut and silhouette. Full body head to shoes framing, entire garment waistband to hems clearly visible, plain light grey fitted crewneck tee tucked in and minimal off-white sneakers, arms relaxed clear of pockets. Clothing focus on the pants or shorts. Centered front facing, relaxed natural stance, neutral expression. Pale warm-grey seamless studio background, soft broad upper-left light, realistic natural skin and cotton drape, premium minimal urban catalog. No accessories, additional logos, text, watermarks or collage.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/grid-cargo-pant-black-front.png",
+      "reference": "catalog/product-photos/grid-cargo-pant-black-front.png"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "white",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-bc535849-a18b-4134-ab0a-fc23795831ff.png",
+      "prompt": "Use case: precise-object-edit. Input is SIDEFORM grid-cargo-pant BLACK on-model catalog photograph, the edit target. Create matching WHITE colorway. Change ONLY the featured pants or shorts fabric to neutral clean WHITE, not cream. Keep exactly the SAME adult model identity, face, skin, hair, pose, crop, proportions, light grey tee, off-white sneakers, studio background and lighting. Preserve garment fit and construction: every pocket, seam, closure, cuff, waistband, hem and fabric texture. Do not recolor the tee or shoes. Entire waistband to hems and shoes visible. Natural realistic fabric shading, premium catalog photography. Do not add design features, accessories, graphics, text or watermarks. Single vertical 4:5 photograph.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/grid-cargo-pant-white-front.png",
+      "reference": "catalog/model-photos/grid-cargo-pant-black-front.png"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "grey",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-6e45908f-fcaf-4a2f-8687-1209e55b1470.png",
+      "prompt": "Use case: precise-object-edit. Input is SIDEFORM grid-cargo-pant BLACK on-model catalog photograph, the edit target. Create matching GREY colorway. Change ONLY the featured pants or shorts fabric to medium neutral GREY, clearly between white and black, not olive. Keep exactly the SAME adult model identity, face, skin, hair, pose, crop, proportions, light grey tee, off-white sneakers, studio background and lighting. Preserve garment fit and construction: every pocket, seam, closure, cuff, waistband, hem and fabric texture. Do not recolor the tee or shoes. Entire waistband to hems and shoes visible. Natural realistic fabric shading, premium catalog photography. Do not add design features, accessories, graphics, text or watermarks. Single vertical 4:5 photograph.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/grid-cargo-pant-grey-front.png",
+      "reference": "catalog/model-photos/grid-cargo-pant-black-front.png"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "black",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-07b0b932-e16f-4e22-a768-9d6f908f2951.png",
+      "prompt": "Use case: product-mockup. ONE photorealistic SIDEFORM ecommerce model photograph, vertical 4:5. Input image is exact BLACK garment design reference. 12 oz cotton denim baggy jeans; full-length extra-wide legs, relaxed seat, five-pocket construction, classic curved front pockets with coin pocket, belt loops, matte button and zip fly, two plain pentagonal back patch pockets, clean long hems. No tears, no distressing, no printed graphics. Tiny tonal offset-bar woven waistband label. Dress a realistic adult male fashion model with dark skin and short natural textured hair in this exact black garment. Preserve all construction, pocket number, closures, seams, material, cut and silhouette. Full body head to shoes framing, entire garment waistband to hems clearly visible, plain light grey fitted crewneck tee tucked in and minimal off-white sneakers, arms relaxed clear of pockets. Clothing focus on the pants or shorts. Centered front facing, relaxed natural stance, neutral expression. Pale warm-grey seamless studio background, soft broad upper-left light, realistic natural skin and cotton drape, premium minimal urban catalog. No accessories, additional logos, text, watermarks or collage.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/drift-baggy-jean-black-front.png",
+      "reference": "catalog/product-photos/drift-baggy-jean-black-front.png"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "white",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-8490f2d8-bfe0-48ab-a67c-b274c6a59b69.png",
+      "prompt": "Use case: precise-object-edit. Input is SIDEFORM drift-baggy-jean BLACK on-model catalog photograph, the edit target. Create matching WHITE colorway. Change ONLY the featured pants or shorts fabric to neutral clean WHITE, not cream. Keep exactly the SAME adult model identity, face, skin, hair, pose, crop, proportions, light grey tee, off-white sneakers, studio background and lighting. Preserve garment fit and construction: every pocket, seam, closure, cuff, waistband, hem and fabric texture. Do not recolor the tee or shoes. Entire waistband to hems and shoes visible. Natural realistic fabric shading, premium catalog photography. Do not add design features, accessories, graphics, text or watermarks. Single vertical 4:5 photograph.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/drift-baggy-jean-white-front.png",
+      "reference": "catalog/model-photos/drift-baggy-jean-black-front.png"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "grey",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-012085ea-8d60-4e84-9b95-597eaee6c522.png",
+      "prompt": "Use case: precise-object-edit. Input is SIDEFORM drift-baggy-jean BLACK on-model catalog photograph, the edit target. Create matching GREY colorway. Change ONLY the featured pants or shorts fabric to medium neutral GREY, clearly between white and black, not olive. Keep exactly the SAME adult model identity, face, skin, hair, pose, crop, proportions, light grey tee, off-white sneakers, studio background and lighting. Preserve garment fit and construction: every pocket, seam, closure, cuff, waistband, hem and fabric texture. Do not recolor the tee or shoes. Entire waistband to hems and shoes visible. Natural realistic fabric shading, premium catalog photography. Do not add design features, accessories, graphics, text or watermarks. Single vertical 4:5 photograph.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/drift-baggy-jean-grey-front.png",
+      "reference": "catalog/model-photos/drift-baggy-jean-black-front.png"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "black",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-534638e1-cbf4-4a24-9a47-90bfa3fb3985.png",
+      "prompt": "Use case: product-mockup. ONE photorealistic SIDEFORM ecommerce model photograph, vertical 4:5. Input image is exact BLACK garment design reference. 240 gsm cotton twill utility shorts; knee-length wide leg openings, relaxed hip, structured waistband with belt loops, matte button and zip fly, front slash hand pockets, two compact low-profile outer-leg utility flap pockets, two flat rear welt pockets, straight hems. Tiny tonal offset-bar woven side label. Dress a realistic adult female fashion model with medium olive skin and dark shoulder-length hair in this exact black garment. Preserve all construction, pocket number, closures, seams, material, cut and silhouette. Full body head to shoes framing, entire garment waistband to hems clearly visible, plain light grey fitted crewneck tee tucked in and minimal off-white sneakers, arms relaxed clear of pockets. Clothing focus on the pants or shorts. Centered front facing, relaxed natural stance, neutral expression. Pale warm-grey seamless studio background, soft broad upper-left light, realistic natural skin and cotton drape, premium minimal urban catalog. No accessories, additional logos, text, watermarks or collage.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/interval-utility-short-black-front.png",
+      "reference": "catalog/product-photos/interval-utility-short-black-front.png"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "white",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-38382f1e-f151-4683-b998-586fb3bfd177.png",
+      "prompt": "Use case: precise-object-edit. Input is SIDEFORM interval-utility-short BLACK on-model catalog photograph, the edit target. Create matching WHITE colorway. Change ONLY the featured pants or shorts fabric to neutral clean WHITE, not cream. Keep exactly the SAME adult model identity, face, skin, hair, pose, crop, proportions, light grey tee, off-white sneakers, studio background and lighting. Preserve garment fit and construction: every pocket, seam, closure, cuff, waistband, hem and fabric texture. Do not recolor the tee or shoes. Entire waistband to hems and shoes visible. Natural realistic fabric shading, premium catalog photography. Do not add design features, accessories, graphics, text or watermarks. Single vertical 4:5 photograph.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/interval-utility-short-white-front.png",
+      "reference": "catalog/model-photos/interval-utility-short-black-front.png"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "grey",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2e785097-019d-42a0-87b4-98c609a2db4b.png",
+      "prompt": "Use case: precise-object-edit. Input is SIDEFORM interval-utility-short BLACK on-model catalog photograph, the edit target. Create matching GREY colorway. Change ONLY the featured pants or shorts fabric to medium neutral GREY, clearly between white and black, not olive. Keep exactly the SAME adult model identity, face, skin, hair, pose, crop, proportions, light grey tee, off-white sneakers, studio background and lighting. Preserve garment fit and construction: every pocket, seam, closure, cuff, waistband, hem and fabric texture. Do not recolor the tee or shoes. Entire waistband to hems and shoes visible. Natural realistic fabric shading, premium catalog photography. Do not add design features, accessories, graphics, text or watermarks. Single vertical 4:5 photograph.",
+      "view": "front",
+      "presentation": "on-model",
+      "path": "catalog/model-photos/interval-utility-short-grey-front.png",
+      "reference": "catalog/model-photos/interval-utility-short-black-front.png"
+    }
+  ]
+}

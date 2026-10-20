@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Shop All",
+    "handle": "all",
+    "condition": "Native /collections/all includes all published products"
+  },
+  {
+    "title": "New Arrivals",
+    "handle": "new-arrivals",
+    "condition": "Tag equals new-arrivals"
+  },
+  {
+    "title": "Tops",
+    "handle": "tops",
+    "condition": "Tag equals tops"
+  },
+  {
+    "title": "Bottoms",
+    "handle": "bottoms",
+    "condition": "Tag equals bottoms"
+  },
+  {
+    "title": "Outerwear",
+    "handle": "outerwear",
+    "condition": "Tag equals outerwear"
+  }
+]

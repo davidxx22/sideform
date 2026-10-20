@@ -1,0 +1,15 @@
+<nav class="sf-collection-links page-width" aria-label="Browse collections">
+  {% if section.settings.sf_category_menu != blank %}
+    {% for link in section.settings.sf_category_menu.links %}<a href="{{ link.url }}" data-sf-category="{{ link.url }}"{% if forloop.first %} class="is-current" aria-current="true"{% endif %}>{{ link.title | escape }}</a>{% endfor %}
+  {% else %}
+    <a class="is-current" aria-current="true" data-sf-category="{{ section.settings.collection.url | default: routes.all_products_collection_url }}" href="{{ section.settings.collection.url | default: routes.all_products_collection_url }}">All</a>
+    {% assign category_handles = 'tops,bottoms,outerwear' | split: ',' %}
+    {% for handle in category_handles %}{% assign category = collections[handle] %}{% if category != blank %}<a href="{{ category.url }}" data-sf-category="{{ category.url }}">{{ category.title | escape }}</a>{% endif %}{% endfor %}
+  {% endif %}
+</nav>
+{% if section.settings.sf_category_menu != blank %}
+  {% for link in section.settings.sf_category_menu.links %}{% if link.type == 'collection_link' and link.object != blank %}{% render 'sf-category-grid', category: link.object, section: section %}{% endif %}{% endfor %}
+{% else %}
+  {% for handle in category_handles %}{% assign category = collections[handle] %}{% if category != blank %}{% render 'sf-category-grid', category: category, section: section %}{% endif %}{% endfor %}
+{% endif %}
+<p class="visually-hidden" role="status" data-sf-browse-status></p>

@@ -1,0 +1,52 @@
+<section class="sf-perspective page-width" style="padding-block:{{ section.settings.spacing }}px"><p class="sf-kicker">{{ section.settings.eyebrow | escape }}</p><h2>{{ section.settings.heading | escape }}</h2><div>{{ section.settings.text }}</div>{% if section.settings.link != blank %}<a class="sf-text-link" href="{{ section.settings.link }}">{{ section.settings.label | escape }} ↗</a>{% endif %}</section>
+{% schema %}
+{
+  "name": "SIDEFORM perspective",
+  "settings": [
+    {
+      "type": "text",
+      "id": "eyebrow",
+      "label": "Eyebrow",
+      "default": "THE SIDEFORM PERSPECTIVE"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label": "Heading",
+      "default": "Streetwear. In your own form."
+    },
+    {
+      "type": "richtext",
+      "id": "text",
+      "label": "Copy",
+      "default": "<p>SIDEFORM is a streetwear brand built around oversized silhouettes, utility details and a neutral palette. From heavyweight tees and hoodies to cargo pants and jackets, each piece is made for layering, movement and everyday city life.</p>"
+    },
+    {
+      "type": "url",
+      "id": "link",
+      "label": "Link"
+    },
+    {
+      "type": "text",
+      "id": "label",
+      "label": "Link label",
+      "default": "Our direction"
+    },
+    {
+      "type": "range",
+      "id": "spacing",
+      "label": "Vertical spacing",
+      "min": 20,
+      "max": 120,
+      "step": 4,
+      "default": 72,
+      "unit": "px"
+    }
+  ],
+  "presets": [
+    {
+      "name": "SIDEFORM perspective"
+    }
+  ]
+}
+{% endschema %}
