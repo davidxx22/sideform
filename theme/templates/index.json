@@ -3,7 +3,8 @@
     "campaign": {
       "type": "sf-campaign",
       "settings": {
-        "eyebrow": ""
+        "eyebrow": "",
+        "label": "Shop now"
       }
     },
     "shop_by_category": {
