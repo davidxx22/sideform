@@ -21,11 +21,16 @@ const handler = require('../api/storefront');
       assert.equal(response.status, 200, route);
       const html = await response.text();
       assert(html.includes('SIDEFORM'), route);
+      assert(html.includes('<title>SIDEFORM</title>'), route);
+      assert(html.includes('rel="icon" type="image/svg+xml" href="/assets/sideform-favicon.svg"'), route);
       console.log('PASS render', route);
     }
     const css = fs.readFileSync('theme/assets/sideform.css');
     assert(css.equals(fs.readFileSync('public/assets/sideform.css')));
     assert.equal((await fetch(origin + '/assets/sideform.css')).status, 200);
+    const favicon = await fetch(origin + '/assets/sideform-favicon.svg');
+    assert.equal(favicon.status, 200);
+    assert(favicon.headers.get('content-type').includes('image/svg+xml'));
     const id = 100; // First available sample variant in the review catalog.
     for (const parsed of [false, true]) {
       const response = await fetch(origin + '/cart/add.js', {
