@@ -2537,11 +2537,11 @@
   },
   {
     "path": "theme/assets/sideform.css",
-    "sha256": "4820057b5c5e3048e68524ab5fd0304b1a7c65ee29bbffc7be4cee2d1d271062"
+    "sha256": "0038d52292dca8b0e1102ed123423dba71d7fab1913bf050c63706b6fd4aaedf"
   },
   {
     "path": "theme/assets/sideform.js",
-    "sha256": "922ca0fe7f24e2b4de6860757f09bc9cf9893294c39e0ac3b3cc6d8fca62eb1b"
+    "sha256": "050a4be8309d75f3e45f896d51a2712fd5eec1964b808d0a4524f5e9d652393a"
   },
   {
     "path": "theme/assets/sparkle.gif",
@@ -2933,7 +2933,7 @@
   },
   {
     "path": "theme/sections/main-product.liquid",
-    "sha256": "c4facafff5b61b3aacb1356f52225f6864b4e117ced454949ccb0621950e3be6"
+    "sha256": "78ba277cf7eee649a9d3188cdc766784cef3d7c0ef289a34f589f7baf09552dd"
   },
   {
     "path": "theme/sections/main-search.liquid",

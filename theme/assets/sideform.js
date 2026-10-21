@@ -285,6 +285,36 @@
   }
   customElements.define('sf-photo-gallery', SfPhotoGallery);
 
+  class SfProductSubtotal extends HTMLElement {
+    connectedCallback() {
+      this.info = this.closest('product-info');
+      this.price = Number(this.dataset.unitPrice);
+      this.onQuantity = event => {
+        if (event.target.matches('input[name="quantity"]')) this.update();
+      };
+      this.info?.addEventListener('input', this.onQuantity);
+      this.info?.addEventListener('change', this.onQuantity);
+      this.update();
+    }
+    disconnectedCallback() {
+      this.info?.removeEventListener('input', this.onQuantity);
+      this.info?.removeEventListener('change', this.onQuantity);
+    }
+    update(variant) {
+      if (variant !== undefined) this.price = variant ? Number(variant.price) : NaN;
+      const input = this.info?.querySelector('input[name="quantity"]');
+      const quantity = Number(input?.value);
+      this.hidden = !input || !input.validity.valid || !Number.isInteger(quantity) || quantity <= 1 || !Number.isFinite(this.price);
+      if (this.hidden) return;
+      const currency = this.dataset.currency || 'USD';
+      const amount = new Intl.NumberFormat(document.documentElement.lang || 'en', {
+        style: 'currency', currency, currencyDisplay: 'narrowSymbol'
+      }).format(this.price * quantity / 100);
+      this.textContent = `Subtotal (${quantity} items): ${amount} ${currency}`;
+    }
+  }
+  customElements.define('sf-product-subtotal', SfProductSubtotal);
+
   function selectedColor(info) {
     return info.querySelector('variant-selects input[data-option-name="Color"]:checked')?.value ||
       info.querySelector('variant-selects select[name="options[Color]"]')?.value;
@@ -369,7 +399,7 @@
     if (typeof subscribe === 'function') {
       subscribe(PUB_SUB_EVENTS.variantChange, ({ data }) => {
         const info = document.getElementById(`MainProduct-${data.sectionId}`);
-        if (info) { filterMedia(info); }
+        if (info) { filterMedia(info); info.querySelector('sf-product-subtotal')?.update(data.variant); }
       });
     }
   });

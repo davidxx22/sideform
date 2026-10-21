@@ -504,6 +504,7 @@
                     section_id: section.id,
                     show_pickup_availability: true
                   -%}
+                  <sf-product-subtotal class="sf-product-subtotal" data-unit-price="{{ product.selected_or_first_available_variant.price }}" data-currency="{{ cart.currency.iso_code | default: 'USD' }}" role="status" aria-live="polite" aria-atomic="true" hidden></sf-product-subtotal>
                   <p class="sf-stock-status" id="SfStock-{{ section.id }}" role="status">{% if product.selected_or_first_available_variant.available %}{{ 'products.product.inventory_in_stock' | t }}{% else %}{{ 'products.product.inventory_out_of_stock' | t }}{% endif %}</p>
                   {% render 'sf-favorite-button', product: product %}
                   {% if product.tags contains 'collection-001' %}<p class="sf-product-collection-note">COLLECTION 001 / OFF THE GRID</p>{% endif %}

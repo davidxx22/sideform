@@ -748,3 +748,15 @@ body>#MainContent{flex:1 0 auto}
  .header__icon--cart .cart-count-bubble>span:not(.visually-hidden){font-size:inherit;line-height:1}
  .header__icon--favorites .sf-favorites-count[hidden]{display:none}
 }
+
+.sf-product-page .sf-product-subtotal{display:block;grid-column:1/-1;margin:10px 0 0;font-size:13px;line-height:1.5;color:#60655d}
+.sf-product-page .sf-product-subtotal[hidden]{display:none}
+
+/* Keep mobile cart column headings aligned with the actual item columns. */
+@media(max-width:749px){
+ .cart-drawer .cart-items thead{display:block;width:100%}
+ .cart-drawer .cart-items thead tr{display:grid;grid-template-columns:minmax(0,1fr) auto;width:100%}
+ .cart-drawer #CartDrawer-ColumnProduct{grid-column:1;grid-row:1;width:auto;padding-left:0;text-align:left}
+ .cart-drawer #CartDrawer-ColumnTotal{grid-column:2;grid-row:1;text-align:right;padding-right:0}
+ .cart-drawer #CartDrawer-ColumnProductImage,.cart-drawer #CartDrawer-ColumnQuantity{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+}

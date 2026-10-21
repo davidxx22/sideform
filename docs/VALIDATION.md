@@ -221,3 +221,7 @@ Card photo hover zoom: 4% over 300ms on fine-pointer hover devices. Verified hom
 Carousel positioning: explicit block gallery and regular positioned viewport now anchor the overlay. scripts/test-carousel-position.cjs passed Chromium and WebKit at 320, 390, 414 (iPhone 11), 768, 896 landscape, 989 and 1024px; checked side arrow centers, bottom-centered fraction, next-photo navigation and desktop control visibility. This is browser-engine simulation, not a physical iPhone test.
 
 Bottoms second-photo pose updates: visually reviewed nine generated outputs, exported 1122x1402 and 480x600 JPEGs, verified Black/White/Grey switching and second-slide access for all three bottoms at 414, 768 and 1440px, with no horizontal page overflow.
+
+Product subtotal trial: a 13px live line appears below quantity/Add to Cart and above stock only for quantities greater than one. Unit price stays unchanged. Verified 2 and 3 items, typed quantities, hiding at one/empty input, synchronization after native variant/quantity-rule updates, and placement at 390, 768 and 1440px (scripts/test-product-subtotal.cjs).
+
+Mobile cart heading: TOTAL now occupies the right header column and shares the product amount's right edge. Verified at 320, 390, 440 and 749px; table column-header semantics retained.
