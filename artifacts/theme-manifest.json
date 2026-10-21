@@ -2977,7 +2977,7 @@
   },
   {
     "path": "theme/sections/sf-campaign.liquid",
-    "sha256": "e3497e7e2dbd223501b92dcc96b45f0befb2c94b99fa8b7e07668e13c943d167"
+    "sha256": "a0ba1948117d26790a0ed101651d57c75e13570f5f3df3991d73fdacd2e0c935"
   },
   {
     "path": "theme/sections/sf-editorial.liquid",
@@ -3261,7 +3261,7 @@
   },
   {
     "path": "theme/templates/index.json",
-    "sha256": "bfa378bc4b21e9f6a76b50edfa10428bab9c46af57250719e2367b1b209d9f9e"
+    "sha256": "f8816aa587648e1a22978e7553b0eade664a1013b2399a86b4e56fe10b67e720"
   },
   {
     "path": "theme/templates/list-collections.json",

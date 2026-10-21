@@ -225,3 +225,5 @@ Bottoms second-photo pose updates: visually reviewed nine generated outputs, exp
 Product subtotal trial: a 13px live line appears below quantity/Add to Cart and above stock only for quantities greater than one. Unit price stays unchanged. Verified 2 and 3 items, typed quantities, hiding at one/empty input, synchronization after native variant/quantity-rule updates, and placement at 390, 768 and 1440px (scripts/test-product-subtotal.cjs).
 
 Mobile cart heading: TOTAL now occupies the right header column and shares the product amount's right edge. Verified at 320, 390, 440 and 749px; table column-header semantics retained.
+
+New Arrivals curation updated: Volume Pullover, Structure Hoodie, Shell Utility Jacket and Transit Work Jacket are now the four Collection 002 products in that order. All eight other products are Collection 001. Verified homepage, New Arrivals and both collection pages at 390, 768 and 1440px, labels/notes for all twelve products, and matching CSV tags with all 108 variants preserved.

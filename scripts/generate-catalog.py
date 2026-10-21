@@ -21,7 +21,7 @@ specs=[
 ('Grid Cargo Pant','Cargo Pants',98,'A loose cargo pant with straight legs and low-profile utility pockets.','260 gsm cotton twill','Loose through hip and thigh; straight wide leg.',[38,56,73,102]),
 ('Drift Baggy Jean','Baggy Jeans',108,'A wide denim silhouette with a long line and clean rear pockets.','12 oz cotton denim','Baggy through seat and leg, full length.',[38,57,76,106]),
 ('Interval Utility Short','Streetwear Shorts',68,'A wide everyday short with utility pockets and a clean knee-length line.','240 gsm cotton twill','Relaxed hip, wide leg opening, knee length.',[37,55,27,56])]
-NEW_ARRIVALS={'offset-heavy-tee','volume-pullover','shell-utility-jacket','grid-cargo-pant'}
+NEW_ARRIVALS={'volume-pullover','structure-hoodie','shell-utility-jacket','transit-work-jacket'}
 catalog=[];rows=[];metafields=[];inventory=[];media=[]
 headers=['Handle','Title','Body (HTML)','Vendor','Type','Tags','Published','Option1 Name','Option1 Value','Option2 Name','Option2 Value','Variant SKU','Variant Grams','Variant Inventory Tracker','Variant Inventory Qty','Variant Inventory Policy','Variant Fulfillment Service','Variant Price','Variant Requires Shipping','Variant Taxable','Status']
 for n,(title,kind,price,description,material,fit,base) in enumerate(specs,1):

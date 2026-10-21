@@ -21,7 +21,7 @@ If starting from `SIDEFORM-handoff.zip`, extract it into a folder, then extract 
 
 ## Collections and navigation
 
-Create automated collections with the exact handles below. Only Offset Heavy Tee, Volume Pullover, Shell Utility Jacket and Grid Cargo Pant carry the `new-arrivals` and `collection-002` tags; the other eight products carry `collection-001`.
+Create automated collections with the exact handles below. Only Volume Pullover, Structure Hoodie, Shell Utility Jacket and Transit Work Jacket carry the `new-arrivals` and `collection-002` tags; the other eight products carry `collection-001`.
 
 | Menu label | Handle / link | Rule |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ The default homepage is campaign → Shop by category (five image cards) → New
 
 - **SIDEFORM campaign:** replaceable desktop/mobile photographs, independent image positioning, headline, short copy, button label/link, text color and copy spacing. Desktop copy occupies the left open space. With no mobile override, mobile shows the full photograph above the text to retain both models and their clothing.
 - **SIDEFORM shop by category:** five image cards for Hoodies, T-shirts, Pants, Jackets and Shorts, each with a category name and Shop now overlay. Assign the matching automated collections in the theme editor using the exact handles above. Each block supports replacement photography and a fallback link. Desktop shows one row; mobile scrolls horizontally with a partial next card visible.
-- **SIDEFORM new arrivals:** selects four curated products through the native product-list setting: Offset Heavy Tee, Volume Pullover, Shell Utility Jacket and Grid Cargo Pant. Keep New Arrivals selected as the fallback collection if no products are picked. The extra View all new arrivals link has been removed. Four columns on desktop, two on mobile. The New Arrivals collection contains exactly these four products, matching the homepage picks, and is treated as Collection 002. No artificial release dates were added.
+- **SIDEFORM new arrivals:** selects four curated products through the native product-list setting: Volume Pullover, Structure Hoodie, Shell Utility Jacket and Transit Work Jacket. Keep New Arrivals selected as the fallback collection if no products are picked. The extra View all new arrivals link has been removed. Four columns on desktop, two on mobile. The New Arrivals collection contains exactly these four products, matching the homepage picks, and is treated as Collection 002. No artificial release dates were added.
 - The prior twelve-card Collections grid and repeated editorial collage are replaced by these two sections. The original Featured collection and SIDEFORM editorial sections remain available for reuse in the theme editor. `test-browse-interactions.cjs` describes that earlier in-place homepage experiment; current homepage checks are `test-homepage-edit.cjs`, `test-color-hover.cjs` and `test-storefront.cjs`.
 - **SIDEFORM perspective:** editable brand copy and About link.
 - **SIDEFORM footer:** brand description, menu and development note. Social links are populated from Dawn's social settings. Unconfigured policies display “merchant content required” instead of dead links. Set approved policies in **Settings → Policies**; actual policy links then appear automatically.

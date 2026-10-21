@@ -5,7 +5,7 @@ const assert=require('node:assert/strict'),fs=require('node:fs'),catalog=require
  try{
   const page=await browser.newPage({viewport:{width:1440,height:1000},reducedMotion:'reduce'}),errors=[];
   page.on('pageerror',e=>errors.push(e.message));
-  const newProducts=['offset-heavy-tee','volume-pullover','shell-utility-jacket','grid-cargo-pant'];
+  const newProducts=['volume-pullover','structure-hoodie','shell-utility-jacket','transit-work-jacket'];
   assert.deepEqual(catalog.filter(p=>p.tags.includes('new-arrivals')).map(p=>p.handle),newProducts);
   for(const product of catalog){
    await page.goto('http://localhost:4173/products/'+product.handle);await page.waitForLoadState('networkidle');
