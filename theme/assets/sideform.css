@@ -738,3 +738,11 @@ body>#MainContent{flex:1 0 auto}
  .product-card-wrapper .sf-card-photo img,
  .product-card-wrapper .card__media .media>img{transform:none!important;transition:none!important}
 }
+
+/* Keep header counts compact and centered on phones and small tablets. */
+@media(max-width:989px){
+ .header__icon--favorites .sf-favorites-count,
+ .header__icon--cart .cart-count-bubble{min-width:14px;min-height:14px;height:14px;padding:0 3px;font-size:9px;font-weight:400;line-height:1;display:flex;align-items:center;justify-content:center}
+ .header__icon--cart .cart-count-bubble>span:not(.visually-hidden){font-size:inherit;line-height:1}
+ .header__icon--favorites .sf-favorites-count[hidden]{display:none}
+}
