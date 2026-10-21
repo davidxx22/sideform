@@ -961,5 +961,6 @@
       "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c8c2db1e-d4a8-45ff-bbef-5b801e63b427.png",
       "workspace_source": "catalog/product-gallery-photos/volume-pullover-grey-lineup.png"
     }
-  ]
+  ],
+  "pose_updates": "bottoms-pose-generation.json supersedes full-view records for all three bottoms in Black, White and Grey."
 }

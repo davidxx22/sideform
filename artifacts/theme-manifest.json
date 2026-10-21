@@ -877,11 +877,11 @@
   },
   {
     "path": "theme/assets/sf-gallery-drift-baggy-jean-black-full-480.jpg",
-    "sha256": "e1e575766104525b9316d01ae8f3505bbbf737b89fd6284f3c58b50f3bcf8bb9"
+    "sha256": "651bf2c72cc761c68347c801bca93201eab0b0f927bd62b80a40a51adb5815c0"
   },
   {
     "path": "theme/assets/sf-gallery-drift-baggy-jean-black-full.jpg",
-    "sha256": "2e0ca4d26d51bb0c8419e7d217de8b4fd90f0e74ba995160f8af12a91b39a7b7"
+    "sha256": "3d0784af764a0c5a43974b311d62cd60291e902709d50f5b7f799bc7b682b577"
   },
   {
     "path": "theme/assets/sf-gallery-drift-baggy-jean-black-lineup-480.jpg",
@@ -893,11 +893,11 @@
   },
   {
     "path": "theme/assets/sf-gallery-drift-baggy-jean-grey-full-480.jpg",
-    "sha256": "b82c3954d741c3b06427d6b39d58245e93c6ef98c3ac8092064281179e3413b7"
+    "sha256": "03a7841d5798a00af19c1f74142b640588a26dff9faac6ec725177af68c08b9d"
   },
   {
     "path": "theme/assets/sf-gallery-drift-baggy-jean-grey-full.jpg",
-    "sha256": "4e54110a3384ff9a4beed662b91a3dc58c126e6c138c7ecc1d7366d014e3ad84"
+    "sha256": "a79dfbda452586da1a8951a0cb2725807ec6277cd4dd68f3b3b8cb0de223898b"
   },
   {
     "path": "theme/assets/sf-gallery-drift-baggy-jean-grey-lineup-480.jpg",
@@ -909,11 +909,11 @@
   },
   {
     "path": "theme/assets/sf-gallery-drift-baggy-jean-white-full-480.jpg",
-    "sha256": "7ac49c104d66337fea5fceba11cde4ca1e35de42504b8177d564dd9387fc50a2"
+    "sha256": "1a882fc8e4955f3989ae114d089f6cbe51256245fc3cfc62e54b3c75e65ddc31"
   },
   {
     "path": "theme/assets/sf-gallery-drift-baggy-jean-white-full.jpg",
-    "sha256": "5051d9b5408881634eab35c0a852df6922604022fbe8bbc79eee3f91be2e37b1"
+    "sha256": "42aa1d3b856275d77710c5282031d6372b76993de638ca0cf5d674923c1ef46a"
   },
   {
     "path": "theme/assets/sf-gallery-drift-baggy-jean-white-lineup-480.jpg",
@@ -973,11 +973,11 @@
   },
   {
     "path": "theme/assets/sf-gallery-grid-cargo-pant-black-full-480.jpg",
-    "sha256": "1aa0d983692d191b4364fd07836e1cfb2e38091da7f4c16bc78c4785947cf424"
+    "sha256": "64744616b77f3741262ff1074656b8eb4492f61d34413d9882b36309c024668f"
   },
   {
     "path": "theme/assets/sf-gallery-grid-cargo-pant-black-full.jpg",
-    "sha256": "7db6f9c24264b0c3f20e8f9d25e4f4a33c1b55d03eec5a007bd938998979824e"
+    "sha256": "297924118ff560099e75ebff94f577d7263e3796120c6ed56d2506d161b08cc9"
   },
   {
     "path": "theme/assets/sf-gallery-grid-cargo-pant-black-lineup-480.jpg",
@@ -989,11 +989,11 @@
   },
   {
     "path": "theme/assets/sf-gallery-grid-cargo-pant-grey-full-480.jpg",
-    "sha256": "5a737a728fcc609f900b51ede57d3085e5d68c0d834d15a10ebea3c12ef637d7"
+    "sha256": "6e4e630c4fb9a34df11deb6b936afa0e2171aa1743a79da200dd810c0ca29f57"
   },
   {
     "path": "theme/assets/sf-gallery-grid-cargo-pant-grey-full.jpg",
-    "sha256": "7acb3aa769791b79efe60bf4d1231a72280e05cb0267debe8e5c47db2e90386d"
+    "sha256": "6d5077fbd34f4db1be571e72486b7b9a28272aca2e91cb3d37d066d9473bab67"
   },
   {
     "path": "theme/assets/sf-gallery-grid-cargo-pant-grey-lineup-480.jpg",
@@ -1005,11 +1005,11 @@
   },
   {
     "path": "theme/assets/sf-gallery-grid-cargo-pant-white-full-480.jpg",
-    "sha256": "c11798e195fc2e627a9e4b01a5dfc9dd95056d359ad17ea87700dfd5f309f25a"
+    "sha256": "8744d393f0e873b5c96b8867290f9869bcdac3e8d23ab89aa34349af3af5ac69"
   },
   {
     "path": "theme/assets/sf-gallery-grid-cargo-pant-white-full.jpg",
-    "sha256": "1496dbd81eedf453ee118335dfc02704ab2b8c6884155c95099a3fd717fe9260"
+    "sha256": "e0cd6f2af0b7fb2f09cd16b6449e1dba6f525e772decc69ee0667cd19a9546ff"
   },
   {
     "path": "theme/assets/sf-gallery-grid-cargo-pant-white-lineup-480.jpg",
@@ -1021,11 +1021,11 @@
   },
   {
     "path": "theme/assets/sf-gallery-interval-utility-short-black-full-480.jpg",
-    "sha256": "233fc70c07f43f7f52e48fc1d73a8e9b6d731c93717eb0afbadf148db0a3c885"
+    "sha256": "00cd977b8e8ae7a1528295386e28623bf2e1c67e8f433dbc4dfbb143c4ab6e7c"
   },
   {
     "path": "theme/assets/sf-gallery-interval-utility-short-black-full.jpg",
-    "sha256": "2b127be12e1af22c490502ccd9a9e967fe791cf21fd4200eeb90bccfea52bca5"
+    "sha256": "1ff4a1dbb1a05b3ceba746a2a2f158106d63e217544c38a872fd0bdf3abba183"
   },
   {
     "path": "theme/assets/sf-gallery-interval-utility-short-black-lineup-480.jpg",
@@ -1037,11 +1037,11 @@
   },
   {
     "path": "theme/assets/sf-gallery-interval-utility-short-grey-full-480.jpg",
-    "sha256": "287f6ab2523a36b48fe0236f8d569c036fc20fcddb1a1b065f32c391ba13ca00"
+    "sha256": "0074be70feea27197ded62437c1627fcaf9f5cdde9b0a85e94476e09583dea60"
   },
   {
     "path": "theme/assets/sf-gallery-interval-utility-short-grey-full.jpg",
-    "sha256": "9f227e7c95731449ff5a85d5d13133d40d91e5d3b856e720e9d3e899df3f25b2"
+    "sha256": "3d1f5b7ef4fc2d009ca4d77dc7a94ad30106e05f104439f6727dad6e580a36fe"
   },
   {
     "path": "theme/assets/sf-gallery-interval-utility-short-grey-lineup-480.jpg",
@@ -1053,11 +1053,11 @@
   },
   {
     "path": "theme/assets/sf-gallery-interval-utility-short-white-full-480.jpg",
-    "sha256": "8c3a4fd801e1a3ab8817a03dd508cbf75ffd25c0088bf960eb47c8308d7592fa"
+    "sha256": "f4bc917754a009bc04f792a7daea67afd8bf189131ba292b175ee196ff2a8830"
   },
   {
     "path": "theme/assets/sf-gallery-interval-utility-short-white-full.jpg",
-    "sha256": "af843b0a5457e2bf1643df53d1ef633679448e209e4707cc86d83dfe6e5ef9ac"
+    "sha256": "5d006d0ff67d981d56dee608b8580f3f1d54787a0a6f753bccf3202d65e72ea0"
   },
   {
     "path": "theme/assets/sf-gallery-interval-utility-short-white-lineup-480.jpg",
@@ -2528,12 +2528,16 @@
     "sha256": "79d97a39476bf84615105f3e6848ce25ed628a2edb39c07f5dac5349e530be40"
   },
   {
+    "path": "theme/assets/sideform-favicon.svg",
+    "sha256": "d1874499d4d977c83418b461de74fa6dbd1bcdc0b229d941187bd7cfcb0b8231"
+  },
+  {
     "path": "theme/assets/sideform-symbol.png",
     "sha256": "53550ad894ccdbaa11c85fcbd9af3497e5e8e94c1afaf5aec7992c39e37b6152"
   },
   {
     "path": "theme/assets/sideform.css",
-    "sha256": "31b6a9b3c53ecfeb053c1b2fc215a592031e55336f305bc8456225498036857a"
+    "sha256": "4820057b5c5e3048e68524ab5fd0304b1a7c65ee29bbffc7be4cee2d1d271062"
   },
   {
     "path": "theme/assets/sideform.js",
@@ -2581,7 +2585,7 @@
   },
   {
     "path": "theme/layout/theme.liquid",
-    "sha256": "f7878ff136c9e80563b5974fa2753d8c069e34d55e31354940150d21a20d9045"
+    "sha256": "5a4c6f37c35ed4d8afd04722a31446902f90801a9ec4278b10cc6ec2499f2442"
   },
   {
     "path": "theme/locales/bg.json",
@@ -3181,7 +3185,7 @@
   },
   {
     "path": "theme/snippets/sf-photo-gallery.liquid",
-    "sha256": "bcdc8555dd39ea8079aabc5c221428c541efedfaaca1101f6f24c689b9c51cb6"
+    "sha256": "13c70f51bfcc360f883a2ca43a1e705b22f8461450b19938fafbf9ef0ef7f4be"
   },
   {
     "path": "theme/snippets/sf-product-details.liquid",
