@@ -2,6 +2,7 @@
 {% if photo_handles contains product.handle %}
   {% assign initial_color = product.selected_or_first_available_variant.option1 | default: 'Black' | downcase %}
   <sf-photo-gallery class="sf-photo-gallery" data-color="{{ initial_color }}" data-section="{{ section.id }}">
+    <div class="sf-photo-gallery__viewport">
     <div class="sf-photo-gallery__grid" tabindex="0" aria-label="Product photographs">
       {% assign views = 'front,back,detail' | split: ',' %}
       {% if product.tags contains 'sf-four-photo-gallery' %}{% assign views = 'front,full,lineup,detail' | split: ',' %}{% endif %}
@@ -18,6 +19,7 @@
       <span class="sf-gallery-counter" aria-hidden="true" data-sf-gallery-counter>1/{{ views.size }}</span>
       <button type="button" data-sf-gallery-step="1" aria-label="Next photo"><svg width="12" height="20" viewBox="0 0 16 24" fill="none" aria-hidden="true"><path d="m5 5 7 7-7 7" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
       <span class="visually-hidden" role="status" data-sf-gallery-status>Photo 1 of {{ views.size }}</span>
+    </div>
     </div>
     <sf-dialog>
       <dialog class="sf-dialog sf-image-dialog" aria-label="Enlarged product photograph">

@@ -217,3 +217,5 @@ Collection Back navigation: verified at 320, 440, 768, 820, 989 and 1024px. Arro
 Category button hover: matched editorial button dark outline and paper background; verified all five cards at 390, 768 and 1440px with unchanged button dimensions and keyboard focus. Animation respects reduced motion.
 
 Card photo hover zoom: 4% over 300ms on fine-pointer hover devices. Verified homepage, collections, search results, related products and category cards; existing category crops remain intact, zoom is clipped within photos, and reduced-motion preference disables it.
+
+Carousel positioning: explicit block gallery and regular positioned viewport now anchor the overlay. scripts/test-carousel-position.cjs passed Chromium and WebKit at 320, 390, 414 (iPhone 11), 768, 896 landscape, 989 and 1024px; checked side arrow centers, bottom-centered fraction, next-photo navigation and desktop control visibility. This is browser-engine simulation, not a physical iPhone test.
