@@ -1,0 +1,30 @@
+{
+  "newTab": true,
+  "existingTabSync": true,
+  "removeSync": true,
+  "reload": true,
+  "isolatedBrowser": true,
+  "dropdownRemoved": true,
+  "swatches": [
+    {
+      "x": 961,
+      "width": 36,
+      "height": 36,
+      "inner": 28
+    },
+    {
+      "x": 1005.171875,
+      "width": 36,
+      "height": 36,
+      "inner": 28
+    },
+    {
+      "x": 1049.34375,
+      "width": 36,
+      "height": 36,
+      "inner": 28
+    }
+  ],
+  "errors": [],
+  "previewRestart": true
+}

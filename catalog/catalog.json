@@ -11,9 +11,11 @@
     "tags": [
       "sample-data",
       "tops",
-      "new-arrivals",
       "ai-sample-media",
-      "sf-four-photo-gallery"
+      "sf-four-photo-gallery",
+      "t-shirts",
+      "new-arrivals",
+      "collection-002"
     ],
     "size_guide": {
       "sample": true,
@@ -139,9 +141,10 @@
     "tags": [
       "sample-data",
       "tops",
-      "new-arrivals",
       "ai-sample-media",
-      "sf-four-photo-gallery"
+      "sf-four-photo-gallery",
+      "t-shirts",
+      "collection-001"
     ],
     "size_guide": {
       "sample": true,
@@ -267,9 +270,10 @@
     "tags": [
       "sample-data",
       "tops",
-      "new-arrivals",
       "ai-sample-media",
-      "sf-four-photo-gallery"
+      "sf-four-photo-gallery",
+      "collection-001",
+      "sweatshirts"
     ],
     "size_guide": {
       "sample": true,
@@ -395,9 +399,10 @@
     "tags": [
       "sample-data",
       "tops",
-      "new-arrivals",
       "ai-sample-media",
-      "sf-four-photo-gallery"
+      "sf-four-photo-gallery",
+      "collection-001",
+      "sweatshirts"
     ],
     "size_guide": {
       "sample": true,
@@ -523,9 +528,11 @@
     "tags": [
       "sample-data",
       "tops",
-      "new-arrivals",
       "ai-sample-media",
-      "sf-four-photo-gallery"
+      "sf-four-photo-gallery",
+      "hoodies",
+      "new-arrivals",
+      "collection-002"
     ],
     "size_guide": {
       "sample": true,
@@ -651,9 +658,10 @@
     "tags": [
       "sample-data",
       "tops",
-      "new-arrivals",
       "ai-sample-media",
-      "sf-four-photo-gallery"
+      "sf-four-photo-gallery",
+      "hoodies",
+      "collection-001"
     ],
     "size_guide": {
       "sample": true,
@@ -779,9 +787,10 @@
     "tags": [
       "sample-data",
       "tops",
-      "new-arrivals",
       "ai-sample-media",
-      "sf-four-photo-gallery"
+      "sf-four-photo-gallery",
+      "collection-001",
+      "sweatshirts"
     ],
     "size_guide": {
       "sample": true,
@@ -907,9 +916,11 @@
     "tags": [
       "sample-data",
       "outerwear",
-      "new-arrivals",
       "ai-sample-media",
-      "sf-four-photo-gallery"
+      "sf-four-photo-gallery",
+      "jackets",
+      "new-arrivals",
+      "collection-002"
     ],
     "size_guide": {
       "sample": true,
@@ -1036,7 +1047,9 @@
       "sample-data",
       "outerwear",
       "ai-sample-media",
-      "sf-four-photo-gallery"
+      "sf-four-photo-gallery",
+      "jackets",
+      "collection-001"
     ],
     "size_guide": {
       "sample": true,
@@ -1163,7 +1176,10 @@
       "sample-data",
       "bottoms",
       "ai-sample-media",
-      "sf-four-photo-gallery"
+      "sf-four-photo-gallery",
+      "pants",
+      "new-arrivals",
+      "collection-002"
     ],
     "size_guide": {
       "sample": true,
@@ -1290,7 +1306,9 @@
       "sample-data",
       "bottoms",
       "ai-sample-media",
-      "sf-four-photo-gallery"
+      "sf-four-photo-gallery",
+      "pants",
+      "collection-001"
     ],
     "size_guide": {
       "sample": true,
@@ -1417,7 +1435,9 @@
       "sample-data",
       "bottoms",
       "ai-sample-media",
-      "sf-four-photo-gallery"
+      "sf-four-photo-gallery",
+      "shorts",
+      "collection-001"
     ],
     "size_guide": {
       "sample": true,

@@ -1,0 +1,45 @@
+{
+  "results": [
+    {
+      "width": 320,
+      "carousel": true,
+      "desktopGrid": false
+    },
+    {
+      "width": 390,
+      "carousel": true,
+      "desktopGrid": false
+    },
+    {
+      "width": 430,
+      "carousel": true,
+      "desktopGrid": false
+    },
+    {
+      "width": 749,
+      "carousel": true,
+      "desktopGrid": false
+    },
+    {
+      "width": 768,
+      "carousel": true,
+      "desktopGrid": false
+    },
+    {
+      "width": 1024,
+      "carousel": false,
+      "desktopGrid": true
+    },
+    {
+      "width": 1440,
+      "carousel": false,
+      "desktopGrid": true
+    }
+  ],
+  "sweatshirts": [
+    "axis-long-sleeve",
+    "frame-long-sleeve",
+    "contour-crew"
+  ],
+  "errors": []
+}

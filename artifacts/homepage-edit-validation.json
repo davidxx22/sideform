@@ -1,0 +1,26 @@
+{
+  "categories": 5,
+  "categoryCounts": {
+    "hoodies": 2,
+    "t-shirts": 2,
+    "pants": 2,
+    "jackets": 2,
+    "shorts": 1
+  },
+  "featuredProducts": [
+    "Offset Heavy Tee",
+    "Volume Pullover",
+    "Shell Utility Jacket",
+    "Grid Cargo Pant"
+  ],
+  "newArrivals": 4,
+  "hoverRestore": true,
+  "widths": [
+    1920,
+    1440,
+    768,
+    390,
+    320
+  ],
+  "errors": []
+}

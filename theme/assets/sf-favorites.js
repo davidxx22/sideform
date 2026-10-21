@@ -7,7 +7,9 @@
   if (!dialog) return;
   let opener;
   function clearStatus() {
-    dialog.querySelector('[data-sf-favorites-status]').textContent = '';
+    const status = dialog.querySelector('[data-sf-favorites-status]');
+    status.textContent = '';
+    status.classList.add('visually-hidden');
   }
   function read() {
     try {
@@ -23,6 +25,7 @@
     document.querySelectorAll('[data-sf-favorite]').forEach(button => {
       const saved = items.some(item => item.handle === button.dataset.sfFavorite);
       button.setAttribute('aria-pressed', String(saved));
+      if (button.classList.contains('sf-card-favorite')) button.setAttribute('aria-label', `${saved ? 'Remove' : 'Add'} ${button.dataset.title} ${saved ? 'from' : 'to'} favorites`);
       const label = button.querySelector('[data-sf-favorite-label]');
       if (label) label.textContent = saved ? 'Saved to favorites' : 'Add to favorites';
     });
@@ -30,14 +33,14 @@
   }
   function write(items, status) {
     try { localStorage.setItem(key, JSON.stringify(items)); sync(); return true; }
-    catch { if (status) status.textContent = 'Unable to save favorites in this browser. Check your browser storage settings.'; return false; }
+    catch { if (status) { status.classList.remove('visually-hidden'); status.textContent = 'Unable to save favorites in this browser. Check your browser storage settings.'; } return false; }
   }
   function render() {
     const list = dialog.querySelector('[data-sf-favorites-list]');
     list.replaceChildren();
     const items = read();
     if (!items.length) {
-      const p = document.createElement('p'); p.textContent = 'Save the pieces you like using the heart on a product page.';
+      const p = document.createElement('p'); p.textContent = 'Save the pieces you like using the heart beside a product.';
       const link = document.createElement('a'); link.href = '/collections/all'; link.className = 'button'; link.textContent = 'Explore the collection';
       list.append(p, link); return;
     }
@@ -79,5 +82,8 @@
   window.addEventListener('storage', event => { if (event.key === key) sync(); });
   document.addEventListener('shopify:section:load', sync);
   document.addEventListener('product-info:loaded', sync);
+  new MutationObserver(records => {
+    if (records.some(record => [...record.addedNodes].some(node => node.nodeType === 1 && (node.matches('[data-sf-favorite]') || node.querySelector('[data-sf-favorite]'))))) sync();
+  }).observe(document.body, { childList:true, subtree:true });
   sync();
 })();

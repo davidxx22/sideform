@@ -75,6 +75,7 @@
   {% assign variant_images = product.images | where: 'attached_to_variant?', true | map: 'src' %}
   <product-component view-event-payload="{{ product | standard_event_data: 'view', context: 'page' | escape }}">
     <div class="page-width">
+      <a class="sf-product-back" data-sf-product-back href="{{ routes.all_products_collection_url }}"><svg width="10" height="16" viewBox="0 0 16 24" fill="none" aria-hidden="true"><path d="m11 5-7 7 7 7" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Back</span></a>
       <div class="product product--{{ section.settings.media_size }} product--{{ section.settings.media_position }} product--{{ section.settings.gallery_layout }} product--mobile-{{ section.settings.mobile_thumbnails }} grid grid--1-col grid--2-col-tablet">
         <div class="grid__item product__media-wrapper">
           {% if product.tags contains 'sf-four-photo-gallery' %}{% render 'sf-photo-gallery', product: product %}{% elsif product.media.size > 0 %}{% render 'product-media-gallery', variant_images: variant_images %}{% else %}{% render 'sf-photo-gallery', product: product %}{% endif %}
@@ -95,7 +96,11 @@
                     class="product__text inline-richtext{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}"
                     {{ block.shopify_attributes }}
                   >
-                    {{- block.settings.text -}}
+                    {%- if block.settings.text == 'SIDEFORM / COLLECTION 001' and product.tags contains 'collection-002' -%}
+                      SIDEFORM / COLLECTION 002
+                    {%- else -%}
+                      {{- block.settings.text -}}
+                    {%- endif -%}
                   </p>
                 {%- when 'title' -%}
                   <div class="product__title" {{ block.shopify_attributes }}>
@@ -501,6 +506,7 @@
                   -%}
                   <p class="sf-stock-status" id="SfStock-{{ section.id }}" role="status">{% if product.selected_or_first_available_variant.available %}{{ 'products.product.inventory_in_stock' | t }}{% else %}{{ 'products.product.inventory_out_of_stock' | t }}{% endif %}</p>
                   {% render 'sf-favorite-button', product: product %}
+                  {% if product.tags contains 'collection-001' %}<p class="sf-product-collection-note">COLLECTION 001 / OFF THE GRID</p>{% endif %}
                 {%- when 'rating' -%}
                   {%- if product.metafields.reviews.rating.value != blank -%}
                     <div class="rating-wrapper">

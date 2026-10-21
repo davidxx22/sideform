@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "width": 320,
+      "compactSort": true,
+      "menu70Percent": true,
+      "phoneStyleCategories": true
+    },
+    {
+      "width": 390,
+      "compactSort": true,
+      "menu70Percent": true,
+      "phoneStyleCategories": true
+    },
+    {
+      "width": 430,
+      "compactSort": true,
+      "menu70Percent": true,
+      "phoneStyleCategories": true
+    },
+    {
+      "width": 768,
+      "compactSort": false,
+      "menu70Percent": false,
+      "phoneStyleCategories": true
+    },
+    {
+      "width": 820,
+      "compactSort": false,
+      "menu70Percent": false,
+      "phoneStyleCategories": true
+    },
+    {
+      "width": 989,
+      "compactSort": false,
+      "menu70Percent": false,
+      "phoneStyleCategories": true
+    },
+    {
+      "width": 1024,
+      "compactSort": false,
+      "menu70Percent": false,
+      "phoneStyleCategories": false
+    }
+  ],
+  "grouping": true,
+  "errors": []
+}

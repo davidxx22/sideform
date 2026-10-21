@@ -717,11 +717,15 @@
   },
   {
     "path": "theme/assets/section-related-products.css",
-    "sha256": "1b2b088f6d8819aa6be9e41ede708ba12db8ce01d12babede7fe8a4ece5bb7f4"
+    "sha256": "f46bae4c9c97f77181e8717ae62ccf5b756b1484136112bea8ee6fc7680675d4"
   },
   {
     "path": "theme/assets/section-rich-text.css",
     "sha256": "c6e8f94743561edc6dadfa732189fe36fe3f1025131e74cea33f849ca40d164b"
+  },
+  {
+    "path": "theme/assets/sf-cart-sync.js",
+    "sha256": "58c680eec5aef50c98a8d5d0e44e731167cd0a82a384402d2b8a72420bf63fbd"
   },
   {
     "path": "theme/assets/sf-editorial-cargo-black-480.jpg",
@@ -748,8 +752,32 @@
     "sha256": "3871ad8858f3288b02f32e5e69ebb836b6356c9f52b35e6c54f87ac495a790f5"
   },
   {
+    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-cutout-480.png",
+    "sha256": "84a38266c975437064a0b151eb06c8a91c2590f56b476f7ee9f42cd9008d88a0"
+  },
+  {
+    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-cutout.png",
+    "sha256": "2726345a77b926055ea8fda361809264abce3d7caed3cca88ccd3f64974f3d8f"
+  },
+  {
+    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-full-480.jpg",
+    "sha256": "f7d2d4e4872cc26a34d3876024630352f259cdb904cbe3938af75a8532c9df4d"
+  },
+  {
+    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-full.jpg",
+    "sha256": "c7ce83968c4962101517ce558988631dccbb2d9410b740c3aa8af58388fd71aa"
+  },
+  {
+    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-neutral-480.jpg",
+    "sha256": "00d974b4f4ef1bcba11ee95f5f9c887b86a47ba742c399172c02c49bdd4d34df"
+  },
+  {
+    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-neutral.jpg",
+    "sha256": "4e97bf39997082fd1bf81f64bdf8fecd9ffea58573de2d7c60778db2b397f322"
+  },
+  {
     "path": "theme/assets/sf-favorites.js",
-    "sha256": "942403a86b83c0b826d3a2e494c6015391341034389a3baaed2542c997f0700f"
+    "sha256": "fb73377205434527e9a2fdcf6ba02eec7019187e7bbf62f89b81083e9223c495"
   },
   {
     "path": "theme/assets/sf-gallery-axis-long-sleeve-black-full-480.jpg",
@@ -2505,11 +2533,11 @@
   },
   {
     "path": "theme/assets/sideform.css",
-    "sha256": "fb730a27ff1846d9dffc77866604cc6af84d212de7ad77b83e02142836347354"
+    "sha256": "31b6a9b3c53ecfeb053c1b2fc215a592031e55336f305bc8456225498036857a"
   },
   {
     "path": "theme/assets/sideform.js",
-    "sha256": "6199350eefc6726db0b254a147424788c703ffdf9fdd3fb2a4a23888f0fc0ea0"
+    "sha256": "922ca0fe7f24e2b4de6860757f09bc9cf9893294c39e0ac3b3cc6d8fca62eb1b"
   },
   {
     "path": "theme/assets/sparkle.gif",
@@ -2553,7 +2581,7 @@
   },
   {
     "path": "theme/layout/theme.liquid",
-    "sha256": "3bf5c043a8959e70ed18a973b7c1d54894b807c39533c8161330d4a650f95eb4"
+    "sha256": "f7878ff136c9e80563b5974fa2753d8c069e34d55e31354940150d21a20d9045"
   },
   {
     "path": "theme/locales/bg.json",
@@ -2877,7 +2905,7 @@
   },
   {
     "path": "theme/sections/main-collection-banner.liquid",
-    "sha256": "d9cc977d708055f896b7f2923a0dd4f1350f5b8d6ed07a3e345336544a1f977b"
+    "sha256": "e7fbe5c9dc4d746b66c20abe25d5ca253bb1a655229d8d9efd5886f5d8911792"
   },
   {
     "path": "theme/sections/main-collection-product-grid.liquid",
@@ -2901,11 +2929,11 @@
   },
   {
     "path": "theme/sections/main-product.liquid",
-    "sha256": "f75ba251d15b0280c9af524bd7609db58066e7eda1e9725b4919bbd46837ceb1"
+    "sha256": "c4facafff5b61b3aacb1356f52225f6864b4e117ced454949ccb0621950e3be6"
   },
   {
     "path": "theme/sections/main-search.liquid",
-    "sha256": "36c422bab082e3adf7d1efefa67e031254557d636e2d30e6d7db0db29352b64f"
+    "sha256": "3132e4a074f1b9f19f50000b07f201d792c9354a5e91b252c695307fdb7f8b0d"
   },
   {
     "path": "theme/sections/multicolumn.liquid",
@@ -2945,23 +2973,31 @@
   },
   {
     "path": "theme/sections/sf-campaign.liquid",
-    "sha256": "b811c20aecb330ea5cc238e73b1d340ab6fabeba268fbe491a49b372e96bf2d2"
+    "sha256": "e3497e7e2dbd223501b92dcc96b45f0befb2c94b99fa8b7e07668e13c943d167"
   },
   {
     "path": "theme/sections/sf-editorial.liquid",
-    "sha256": "4938a46accaf40c23c93dfdecfe99c45b619dd0102f82997ae36cce6430b491c"
+    "sha256": "a5e308557585f099bf00c1fd8e64820bc985972a16ac87e3a78dae6f8e53d036"
   },
   {
     "path": "theme/sections/sf-footer.liquid",
     "sha256": "94fa839c76568b3e0c22a053455552fe25f3f12c6b99456e014aba35d2d2f010"
   },
   {
+    "path": "theme/sections/sf-new-arrivals.liquid",
+    "sha256": "ed76355883921c6aa6b3855bf0b13a8be94ca714a265a3719c62ef44b39e3e51"
+  },
+  {
     "path": "theme/sections/sf-perspective.liquid",
-    "sha256": "853089136cad8d321988789c8332a371f3a1eca0f11ef13e9927d445fb87d804"
+    "sha256": "79de0dc869bc2299fd65b181ca9eb27424b7c270562709b172ea46b0e7181aff"
   },
   {
     "path": "theme/sections/sf-product-description.liquid",
-    "sha256": "a3b7d3eed6051c9039545d6c763f9419383468bde28c35de49da14c835bb43e0"
+    "sha256": "690d1ec60f8a300be64ed5aa623b00d33945568cf37404a9f04c9e1976213386"
+  },
+  {
+    "path": "theme/sections/sf-shop-by-category.liquid",
+    "sha256": "0a9d2ef554eea1d60e6991fa726ccf11557ceac3fe53e946652021ac62cbc1ff"
   },
   {
     "path": "theme/sections/slideshow.liquid",
@@ -3005,7 +3041,7 @@
   },
   {
     "path": "theme/snippets/facets.liquid",
-    "sha256": "78d740ff297723135f3eb176d50b43af2c5cf115ca09099a6c377a895e73eead"
+    "sha256": "5d12ec357ea4e0dbd943182eeb87ce098c2d999703bac3c649d5331835a64008"
   },
   {
     "path": "theme/snippets/gift-card-recipient-form.liquid",
@@ -3025,7 +3061,7 @@
   },
   {
     "path": "theme/snippets/header-search.liquid",
-    "sha256": "cee83c4a057c279df03b05ec38146b37b66718364694d82a4fe2f74c4ae9d658"
+    "sha256": "3cdab8f59d1ef919ee332948de27fde8ebd2a0185166215a0030430c7eec7f82"
   },
   {
     "path": "theme/snippets/icon-accordion.liquid",
@@ -3113,7 +3149,11 @@
   },
   {
     "path": "theme/snippets/sf-card-colors.liquid",
-    "sha256": "9267fc61d0fd78ede6e5402c8c412a8fa91e782e9229f81c3160c2f6c7301401"
+    "sha256": "d68169dec5b305b52b53fc98535fc21b94697a4dc7931cbe737b1557f3bf0675"
+  },
+  {
+    "path": "theme/snippets/sf-card-favorite.liquid",
+    "sha256": "d64367b35e61b18df519de7fa1688db9215eeff520a228c098df6abcb4869afd"
   },
   {
     "path": "theme/snippets/sf-category-grid.liquid",
@@ -3129,7 +3169,7 @@
   },
   {
     "path": "theme/snippets/sf-favorites-dialog.liquid",
-    "sha256": "18c359c5fa4be18dae060206c8d263517a4742c6be9e03305b29c229de3ff5cb"
+    "sha256": "100e1ca0624137d22b1b336c83d2f6f5361460e5ad8c7c01cfd65610b7463ec2"
   },
   {
     "path": "theme/snippets/sf-heart.liquid",
@@ -3141,7 +3181,7 @@
   },
   {
     "path": "theme/snippets/sf-photo-gallery.liquid",
-    "sha256": "649d363e089fece9c3af1b10f3096bbbf67a83f9e1858d56201f74dae5bf899a"
+    "sha256": "bcdc8555dd39ea8079aabc5c221428c541efedfaaca1101f6f24c689b9c51cb6"
   },
   {
     "path": "theme/snippets/sf-product-details.liquid",
@@ -3150,6 +3190,10 @@
   {
     "path": "theme/snippets/sf-product-image.liquid",
     "sha256": "be9fd5431344ef9dc9cee0b38f39d95f940c323ed0e58147b5ea817d572c33ee"
+  },
+  {
+    "path": "theme/snippets/sf-search-browse.liquid",
+    "sha256": "ad7d885ae098a0277454e535c9807e7f0b3a46143aa8298a58b334dba0089fc5"
   },
   {
     "path": "theme/snippets/sf-shop-categories.liquid",
@@ -3205,7 +3249,7 @@
   },
   {
     "path": "theme/templates/collection.json",
-    "sha256": "2046aefffd4be2479d3ea5a387bdbbbda05807b5e1e82f9ad8a2711c163f917f"
+    "sha256": "34b8d845bc866279b72510f622224a40ce6385407a762dd18ed04b397a391cfb"
   },
   {
     "path": "theme/templates/gift_card.liquid",
@@ -3213,7 +3257,7 @@
   },
   {
     "path": "theme/templates/index.json",
-    "sha256": "f152059450e55f3a786f0e0e83575ab5ba473e8e5f630ac71c9e3398ab921c88"
+    "sha256": "bfa378bc4b21e9f6a76b50edfa10428bab9c46af57250719e2367b1b209d9f9e"
   },
   {
     "path": "theme/templates/list-collections.json",
@@ -3237,7 +3281,7 @@
   },
   {
     "path": "theme/templates/product.json",
-    "sha256": "8dc3ce959e6a6001f189c10646be033444e928e0f60427b94cc281a8c68ce639"
+    "sha256": "6fcbfdac3d278ff1fe1020729fd4746c44ff0e430e712a080d805bbb8c8ec02f"
   },
   {
     "path": "theme/templates/search.json",

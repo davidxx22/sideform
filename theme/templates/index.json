@@ -2,87 +2,139 @@
   "sections": {
     "campaign": {
       "type": "sf-campaign",
-      "settings": {}
-    },
-    "featured_collection": {
-      "type": "featured-collection",
       "settings": {
-        "title": "Collections",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 12,
-        "columns_desktop": 4,
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "swipe_on_mobile": false,
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "columns_mobile": "2",
-        "padding_top": 80,
-        "padding_bottom": 40,
-        "sf_center_heading": true,
-        "sf_show_categories": true
+        "eyebrow": ""
       }
+    },
+    "shop_by_category": {
+      "type": "sf-shop-by-category",
+      "settings": {
+        "heading": "Shop by category"
+      },
+      "blocks": {
+        "hoodies": {
+          "type": "category",
+          "settings": {
+            "title": "Hoodies",
+            "collection": "hoodies",
+            "link": "/collections/hoodies",
+            "photo": "hoodies"
+          }
+        },
+        "t-shirts": {
+          "type": "category",
+          "settings": {
+            "title": "T-shirts",
+            "collection": "t-shirts",
+            "link": "/collections/t-shirts",
+            "photo": "t-shirts"
+          }
+        },
+        "pants": {
+          "type": "category",
+          "settings": {
+            "title": "Pants",
+            "collection": "pants",
+            "link": "/collections/pants",
+            "photo": "pants"
+          }
+        },
+        "jackets": {
+          "type": "category",
+          "settings": {
+            "title": "Jackets",
+            "collection": "jackets",
+            "link": "/collections/jackets",
+            "photo": "jackets"
+          }
+        },
+        "shorts": {
+          "type": "category",
+          "settings": {
+            "title": "Shorts",
+            "collection": "shorts",
+            "link": "/collections/shorts",
+            "photo": "shorts"
+          }
+        }
+      },
+      "block_order": [
+        "hoodies",
+        "t-shirts",
+        "pants",
+        "jackets",
+        "shorts"
+      ]
+    },
+    "new_arrivals": {
+      "type": "sf-new-arrivals",
+      "settings": {
+        "heading": "New arrivals",
+        "collection": "new-arrivals",
+        "products": [
+          "offset-heavy-tee",
+          "volume-pullover",
+          "shell-utility-jacket",
+          "grid-cargo-pant"
+        ]
+      }
+    },
+    "perspective": {
+      "type": "sf-perspective",
+      "settings": {}
     },
     "editorial": {
       "type": "sf-editorial",
+      "settings": {
+        "spacing": 40
+      },
       "blocks": {
         "tops": {
           "type": "collection",
           "settings": {
-            "collection": "tops",
-            "link": "/collections/tops",
+            "demo_photo": "hoodie",
+            "tone": "concrete",
             "eyebrow": "EVERYDAY STRUCTURES",
             "heading": "Room to\nmove.",
-            "label": "Shop Tops",
-            "demo_photo": "hoodie",
-            "tone": "concrete"
+            "label": "Shop tops",
+            "collection": "tops",
+            "link": "/collections/tops"
           }
         },
         "outerwear": {
           "type": "collection",
           "settings": {
-            "collection": "outerwear",
-            "link": "/collections/outerwear",
+            "demo_photo": "jacket",
+            "tone": "concrete",
             "eyebrow": "OUTSIDE THE EXPECTED",
             "heading": "A different\nlayer.",
-            "label": "Shop Outerwear",
-            "demo_photo": "jacket",
-            "tone": "concrete"
+            "label": "Shop outerwear",
+            "collection": "outerwear",
+            "link": "/collections/outerwear"
           }
         },
         "bottoms": {
           "type": "collection",
           "settings": {
-            "collection": "bottoms",
-            "link": "/collections/bottoms",
+            "demo_photo": "cargo",
+            "tone": "concrete",
             "eyebrow": "BUILT FOR THE EVERYDAY",
             "heading": "Find your\nstride.",
-            "label": "Shop Bottoms",
-            "demo_photo": "cargo",
-            "tone": "concrete"
+            "label": "Shop bottoms",
+            "collection": "bottoms",
+            "link": "/collections/bottoms"
           }
         },
         "collection": {
           "type": "collection",
           "settings": {
-            "collection": "all",
-            "link": "/collections/all",
-            "eyebrow": "SIDEFORM / COLLECTION 001",
-            "heading": "Off the\ngrid.",
-            "label": "Explore the Collection",
             "demo_photo": "none",
-            "tone": "olive"
+            "tone": "olive",
+            "eyebrow": "SIDEFORM",
+            "heading": "Your city.\nYour pace.\nYour form.",
+            "label": "",
+            "collection": "",
+            "link": ""
           }
         }
       },
@@ -91,17 +143,13 @@
         "outerwear",
         "bottoms",
         "collection"
-      ],
-      "settings": {}
-    },
-    "perspective": {
-      "type": "sf-perspective",
-      "settings": {}
+      ]
     }
   },
   "order": [
     "campaign",
-    "featured_collection",
+    "shop_by_category",
+    "new_arrivals",
     "editorial",
     "perspective"
   ]

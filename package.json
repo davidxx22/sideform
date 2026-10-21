@@ -1,0 +1,12 @@
+{
+  "name": "sideform-storefront-preview",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node preview/server.cjs",
+    "build": "node scripts/build-vercel.cjs"
+  },
+  "dependencies": {
+    "liquidjs": "10.30.0"
+  }
+}

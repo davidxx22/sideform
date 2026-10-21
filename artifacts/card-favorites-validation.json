@@ -1,0 +1,53 @@
+{
+  "results": [
+    {
+      "width": 320,
+      "hearts": true,
+      "alignment": true,
+      "persistence": true,
+      "asyncCards": true,
+      "overlay": true
+    },
+    {
+      "width": 390,
+      "hearts": true,
+      "alignment": true,
+      "persistence": true,
+      "asyncCards": true,
+      "overlay": true
+    },
+    {
+      "width": 768,
+      "hearts": true,
+      "alignment": true,
+      "persistence": true,
+      "asyncCards": true,
+      "overlay": true
+    },
+    {
+      "width": 820,
+      "hearts": true,
+      "alignment": true,
+      "persistence": true,
+      "asyncCards": true,
+      "overlay": true
+    },
+    {
+      "width": 989,
+      "hearts": true,
+      "alignment": true,
+      "persistence": true,
+      "asyncCards": true,
+      "overlay": true
+    },
+    {
+      "width": 1440,
+      "hearts": true,
+      "alignment": true,
+      "persistence": true,
+      "asyncCards": true,
+      "overlay": false
+    }
+  ],
+  "errors": []
+}

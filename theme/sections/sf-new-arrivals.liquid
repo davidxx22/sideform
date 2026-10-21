@@ -1,0 +1,15 @@
+{{ 'component-card.css' | asset_url | stylesheet_tag }}
+{{ 'component-price.css' | asset_url | stylesheet_tag }}
+{% assign featured = section.settings.products %}
+{% if featured == blank %}{% assign featured = section.settings.collection.products %}{% endif %}
+<section class="sf-arrivals-section page-width" aria-labelledby="ArrivalsHeading-{{ section.id }}">
+  <h2 class="sf-home-section-heading" id="ArrivalsHeading-{{ section.id }}">{{ section.settings.heading | escape }}</h2>
+  <ul class="grid product-grid grid--4-col-desktop grid--2-col-tablet-down" role="list">
+    {% for product in featured limit: 4 %}
+      <li class="grid__item">{% render 'card-product', card_product: product, media_aspect_ratio: 'square', show_secondary_image: false, show_vendor: false, show_rating: false, lazy_load: true, skip_styles: true, section_id: section.id, sf_color_index: forloop.index0, quick_add: 'none', product_view_context: 'collection' %}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% schema %}
+{"name":"SIDEFORM new arrivals","settings":[{"type":"text","id":"heading","label":"Heading","default":"New arrivals"},{"type":"collection","id":"collection","label":"New arrivals collection"},{"type":"product_list","id":"products","label":"Featured new arrivals","limit":4,"info":"Choose four products. Leave empty to show the first four from the selected collection."}],"presets":[{"name":"SIDEFORM new arrivals"}]}
+{% endschema %}

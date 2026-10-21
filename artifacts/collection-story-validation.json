@@ -1,0 +1,19 @@
+{
+  "newArrivals": [
+    "offset-heavy-tee",
+    "volume-pullover",
+    "shell-utility-jacket",
+    "grid-cargo-pant"
+  ],
+  "collection002": 4,
+  "collection001": 8,
+  "genericCollectionCaptionRemoved": true,
+  "footerAtBottom": true,
+  "widths": [
+    1920,
+    1440,
+    390,
+    320
+  ],
+  "errors": []
+}

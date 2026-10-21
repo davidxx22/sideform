@@ -1,0 +1,47 @@
+<div class="sf-search-browse">
+  <nav class="sf-search-tabs" aria-label="Browse collections">
+    <a href="{{ routes.all_products_collection_url }}" class="is-current">Shop all</a>
+    <a href="{{ collections['new-arrivals'].url | default: '/collections/new-arrivals' }}">New arrivals</a>
+    <a href="{{ collections.tops.url | default: '/collections/tops' }}">Tops</a>
+    <a href="{{ collections.bottoms.url | default: '/collections/bottoms' }}">Bottoms</a>
+    <a href="{{ collections.outerwear.url | default: '/collections/outerwear' }}">Outerwear</a>
+  </nav>
+  <div class="sf-search-browse__heading"><h2>Shop SIDEFORM</h2><a href="{{ routes.all_products_collection_url }}">View all <span aria-hidden="true">→</span></a></div>
+  <h3 class="sf-search-divider">Featured</h3>
+  <div class="sf-search-featured">
+    <a href="{{ collections.outerwear.url | default: '/collections/outerwear' }}"><img src="{{ 'sf-packshot-shell-utility-jacket-grey-front-480.jpg' | asset_url }}" width="480" height="600" alt="" loading="lazy"><span>Outerwear</span></a>
+    <a href="{{ collections['t-shirts'].url | default: '/collections/t-shirts' }}"><img src="{{ 'sf-packshot-offset-heavy-tee-black-front-480.jpg' | asset_url }}" width="480" height="600" alt="" loading="lazy"><span>T-shirts</span></a>
+    <a href="{{ collections.sweatshirts.url | default: '/collections/sweatshirts' }}"><img src="{{ 'sf-packshot-contour-crew-grey-front-480.jpg' | asset_url }}" width="480" height="600" alt="" loading="lazy"><span>Sweatshirts &amp; long sleeves</span></a>
+  </div>
+  <h3 class="sf-search-divider">All categories</h3>
+  <ul class="sf-search-category-list" role="list">
+    {% assign handles = 'jackets,t-shirts,sweatshirts,hoodies,pants,shorts' | split: ',' %}
+    {% for handle in handles %}
+      {% liquid
+        case handle
+          when 'jackets'
+            assign title = 'Jackets'
+            assign photo = 'shell-utility-jacket-grey'
+          when 't-shirts'
+            assign title = 'T-shirts'
+            assign photo = 'offset-heavy-tee-black'
+          when 'hoodies'
+            assign title = 'Hoodies'
+            assign photo = 'volume-pullover-white'
+          when 'sweatshirts'
+            assign title = 'Sweatshirts & long sleeves'
+            assign photo = 'contour-crew-grey'
+          when 'pants'
+            assign title = 'Pants & jeans'
+            assign photo = 'grid-cargo-pant-black'
+          when 'shorts'
+            assign title = 'Shorts'
+            assign photo = 'interval-utility-short-black'
+        endcase
+        assign image = 'sf-packshot-' | append: photo | append: '-front-480.jpg'
+        assign link = '/collections/' | append: handle
+      %}
+      <li><a href="{{ collections[handle].url | default: link }}"><img src="{{ image | asset_url }}" width="480" height="600" alt="" loading="lazy"><span>{{ title }}</span><span aria-hidden="true">›</span></a></li>
+    {% endfor %}
+  </ul>
+</div>

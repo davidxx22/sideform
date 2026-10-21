@@ -51,7 +51,7 @@
               type="search"
               name="q"
               value="{{ search.terms | escape }}"
-              placeholder="What are you looking for?"
+              placeholder="Search products"
               {%- if settings.predictive_search_enabled -%}
                 role="combobox"
                 aria-expanded="false"
@@ -105,6 +105,7 @@
             {{- 'icon-close.svg' | inline_asset_content -}}
           </span>
         </button>
+        {% render 'sf-search-browse' %}
       </div>
     </div>
   </details>

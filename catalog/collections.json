@@ -23,5 +23,45 @@
     "title": "Outerwear",
     "handle": "outerwear",
     "condition": "Tag equals outerwear"
+  },
+  {
+    "title": "Hoodies",
+    "handle": "hoodies",
+    "condition": "Tag equals hoodies"
+  },
+  {
+    "title": "T-shirts",
+    "handle": "t-shirts",
+    "condition": "Tag equals t-shirts"
+  },
+  {
+    "title": "Pants",
+    "handle": "pants",
+    "condition": "Tag equals pants"
+  },
+  {
+    "title": "Jackets",
+    "handle": "jackets",
+    "condition": "Tag equals jackets"
+  },
+  {
+    "title": "Shorts",
+    "handle": "shorts",
+    "condition": "Tag equals shorts"
+  },
+  {
+    "title": "Collection 001",
+    "handle": "collection-001",
+    "condition": "Tag equals collection-001"
+  },
+  {
+    "title": "Collection 002",
+    "handle": "collection-002",
+    "condition": "Tag equals collection-002"
+  },
+  {
+    "title": "Sweatshirts & long sleeves",
+    "handle": "sweatshirts",
+    "condition": "Tag equals sweatshirts"
   }
 ]

@@ -1,0 +1,53 @@
+{
+  "sizeGuide": {
+    "color": "rgb(0, 102, 204)",
+    "border": "0px",
+    "decoration": "none"
+  },
+  "checks": [
+    {
+      "width": 1920,
+      "sortRight": 1630,
+      "cardRight": 1630,
+      "countsHidden": true,
+      "overflow": false
+    },
+    {
+      "width": 1440,
+      "sortRight": 1390,
+      "cardRight": 1390,
+      "countsHidden": true,
+      "overflow": false
+    },
+    {
+      "width": 990,
+      "sortRight": 940,
+      "cardRight": 940,
+      "countsHidden": true,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "sortRight": 718,
+      "cardRight": 718,
+      "countsHidden": true,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "sortRight": 0,
+      "cardRight": 375,
+      "countsHidden": true,
+      "overflow": false
+    },
+    {
+      "width": 320,
+      "sortRight": 0,
+      "cardRight": 305,
+      "countsHidden": true,
+      "overflow": false
+    }
+  ],
+  "sorting": true,
+  "errors": []
+}

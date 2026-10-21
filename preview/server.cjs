@@ -3,7 +3,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const http = require('node:http');
-const { Liquid, Drop, Hash } = require('../tooling/node_modules/liquidjs');
+const { Liquid, Drop, Hash } = require('liquidjs');
 const root = path.resolve(__dirname, '..'), theme = path.join(root, 'theme');
 const photoStatusPath=path.join(root,'catalog/photo-status.json');
 const photoReady=fs.existsSync(photoStatusPath)&&JSON.parse(fs.readFileSync(photoStatusPath,'utf8')).completed===108;
@@ -65,7 +65,6 @@ class OptionValue extends Drop {
  valueOf(){return this.name} toString(){return this.name} toJSON(){return this.name}
 }
 class CartDrop extends Drop { valueOf(){return this.items} }
-let bag=[];
 let mediaFixtureHandle=null;
 let fallbackFixtureHandle=null;
 const menuDefinition=JSON.parse(fs.readFileSync(path.join(root,'catalog/navigation.json'),'utf8'));
@@ -90,20 +89,20 @@ function productObject(raw,index,url) {
  }
  return p;
 }
-function cartObject(products) {
- const items=bag.map((line,index)=>{
+function cartObject(products,bag) {
+ const items=bag.filter(line=>products.some(p=>p.variants.some(v=>v.id===line.id))).map((line,index)=>{
   const p=products.find(p=>p.variants.some(v=>v.id===line.id)),v=p.variants.find(v=>v.id===line.id);
   return {index,key:'preview-'+v.id,id:v.id,variant_id:v.id,image:v.featured_image,quantity:line.quantity,product:p,product_id:p.id,product_title:p.title,title:p.title,url:p.url+'?variant='+v.id,variant:v,options_with_values:[{name:'Color',value:v.color},{name:'Size',value:v.size}],original_price:v.price,final_price:v.price,price:v.price,original_line_price:v.price*line.quantity,final_line_price:v.price*line.quantity,line_level_discount_allocations:[],properties:{},has_only_default_variant:false,requires_shipping:true};
  });return Object.assign(new CartDrop(),{items,item_count:items.reduce((n,l)=>n+l.quantity,0),total_price:items.reduce((n,l)=>n+l.final_line_price,0),items_subtotal_price:items.reduce((n,l)=>n+l.final_line_price,0),currency:{iso_code:'USD'},cart_level_discount_applications:[],taxes_included:false});
 }
-function context(url){
+function context(url,bag=[]){
  if(url.pathname.startsWith('/products/')&&!url.searchParams.has('section_id'))fallbackFixtureHandle=url.searchParams.get('gallery')==='fallback'?url.pathname.split('/')[2]:null;
  if(url.searchParams.has('section_id')&&url.pathname.endsWith('/'+fallbackFixtureHandle))url.searchParams.set('gallery','fallback');
  if(url.searchParams.get('gallery')==='media')mediaFixtureHandle=url.pathname.split('/')[2];
  if(url.searchParams.has('section_id')&&url.pathname.endsWith('/'+mediaFixtureHandle)&&!fallbackFixtureHandle)url.searchParams.set('gallery','media');
  const products=catalog.map((p,i)=>productObject(p,i,url));
- const collections=Object.fromEntries(['all','new-arrivals','tops','bottoms','outerwear'].map(handle=>[handle,{handle,title:handle==='all'?'Shop All':handle.replaceAll('-',' ').replace(/\b\w/g,c=>c.toUpperCase()),url:'/collections/'+handle,products:products.filter(p=>handle==='all'||p.tags.includes(handle))}]));
- return {settings,products,collections,shop:{name:'SIDEFORM',customer_accounts_enabled:false,enabled_payment_types:[]},request:{locale:{iso_code:'en'},origin:'http://localhost:4173',design_mode:false},routes:{root_url:'/',all_products_collection_url:'/collections/all',collections_url:'/collections',search_url:'/search',predictive_search_url:'/search/suggest',cart_url:'/cart',cart_add_url:'/cart/add',cart_change_url:'/cart/change',cart_update_url:'/cart/update',account_login_url:'/account/login'},cart:cartObject(products),localization:{available_countries:[],available_languages:[]},linklists:{'main-menu':{links:menuLinks(menuDefinition.items,url.pathname)}},template:{name:'index'},form:{},recommendations:{performed:true,products:products.slice(1,5),products_count:4}};
+ const collections=Object.fromEntries(['all','new-arrivals','tops','bottoms','outerwear','hoodies','t-shirts','pants','jackets','shorts','sweatshirts','collection-001','collection-002'].map(handle=>[handle,{handle,title:handle==='all'?'Shop All':handle==='t-shirts'?'T-shirts':handle==='sweatshirts'?'Sweatshirts & long sleeves':handle.replaceAll('-',' ').replace(/\b\w/g,c=>c.toUpperCase()),url:'/collections/'+handle,products:products.filter(p=>handle==='all'||p.tags.includes(handle))}]));
+ return {settings,products,collections,shop:{name:'SIDEFORM',customer_accounts_enabled:false,enabled_payment_types:[]},request:{locale:{iso_code:'en'},origin:'http://localhost:4173',design_mode:false},routes:{root_url:'/',all_products_collection_url:'/collections/all',collections_url:'/collections',search_url:'/search',predictive_search_url:'/search/suggest',cart_url:'/cart',cart_add_url:'/cart/add',cart_change_url:'/cart/change',cart_update_url:'/cart/update',account_login_url:'/account/login'},cart:cartObject(products,bag),localization:{available_countries:[],available_languages:[]},linklists:{'main-menu':{links:menuLinks(menuDefinition.items,url.pathname)}},template:{name:'index'},form:{},recommendations:{performed:true,products:products.slice(1,5),products_count:4}};
 }
 function defaults(schema){return Object.fromEntries((schema.settings||[]).filter(s=>s.id&&s.default!==undefined).map(s=>[s.id,s.default]))}
 async function renderSection(type,id,provided,ctx){
@@ -111,8 +110,9 @@ async function renderSection(type,id,provided,ctx){
  const secSettings={...defaults(schema),...provided.settings};
  if(type==='header') secSettings.menu=ctx.linklists['main-menu'];
  if(type==='sf-footer') secSettings.menu={links:footerNav};
- if(type==='featured-collection')secSettings.collection=ctx.collections[secSettings.collection];
- const blocks=(provided.block_order||Object.keys(provided.blocks||{})).map(b=>{const block=provided.blocks[b];const spec=schema.blocks?.find(s=>s.type===block.type)||{};const bs={...defaults(spec),...block.settings};if(block.type==='collection'&&bs.collection)bs.collection=ctx.collections[bs.collection];return {...block,id:b,settings:bs,shopify_attributes:''}});
+ if(type==='featured-collection'||type==='sf-new-arrivals')secSettings.collection=ctx.collections[secSettings.collection];
+ if(type==='sf-new-arrivals')secSettings.products=(provided.settings.products||[]).map(handle=>ctx.products.find(p=>p.handle===handle)).filter(Boolean);
+ const blocks=(provided.block_order||Object.keys(provided.blocks||{})).map(b=>{const block=provided.blocks[b];const spec=schema.blocks?.find(s=>s.type===block.type)||{};const bs={...defaults(spec),...block.settings};if(bs.collection&&typeof bs.collection==='string')bs.collection=ctx.collections[bs.collection];return {...block,id:b,settings:bs,shopify_attributes:''}});
  const globals={...ctx,section:{id,settings:secSettings,blocks,index:1}};
  const html=await engine.parseAndRender(source.replace(/{%\s*schema\s*%}[\s\S]*?{%\s*endschema\s*%}/,''),{}, {globals});
  return `<div id="shopify-section-${id}" class="shopify-section section ${schema.class||''}">${html}</div>`;
@@ -123,29 +123,33 @@ const headCss=`:root{--font-body-family:Arial,sans-serif;--font-heading-family:A
 async function layout(content,ctx){
  const hg=JSON.parse(read('sections/header-group.json'));let header='';for(const id of hg.order)header+=await renderSection(hg.sections[id].type,id,hg.sections[id],ctx);
  const footer=await renderSection('sf-footer','footer',{settings:{}},ctx);
- const js=['constants.js','pubsub.js','global.js','details-disclosure.js','details-modal.js','search-form.js','sideform.js'];
+ const js=['constants.js','pubsub.js','global.js','details-disclosure.js','details-modal.js','search-form.js','sideform.js','sf-cart-sync.js'];
  const css=['base.css','component-cart-drawer.css','component-cart.css','component-cart-items.css','component-totals.css','component-price.css','component-discounts.css','sideform.css'];
  if(settings.predictive_search_enabled){css.push('component-predictive-search.css');js.push('predictive-search.js')}
- return `<!doctype html><html lang="en" class="js"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SIDEFORM · Local Shopify review</title><style>${headCss}</style>${css.map(s=>`<link rel="stylesheet" href="/assets/${s}">`).join('')}<script>window.Shopify={designMode:false};window.StandardEvents={createViewEventElement:(Base=HTMLElement)=>class extends Base{connectedCallback(){}disconnectedCallback(){}dispatchViewEvent(){}}};window.shopUrl=location.origin;window.routes=${JSON.stringify(ctx.routes)};window.variantStrings={addToCart:'Add to cart',soldOut:'Sold out',unavailable:'Unavailable'};window.cartStrings={error:'Unable to update cart',quantityError:'Only [quantity] available'};window.accessibilityStrings={imageAvailable:'Image [index] available',shareSuccess:'Link copied'};</script>${js.map(s=>`<script src="/assets/${s}" defer></script>`).join('')}</head><body><a class="skip-to-content-link button visually-hidden" href="#MainContent">Skip to content</a>${await drawer(ctx)}${header}<main id="MainContent" tabindex="-1">${content}</main>${footer}<script src="/assets/cart-drawer.js" defer></script></body></html>`;
+ return `<!doctype html><html lang="en" class="js"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SIDEFORM · Local Shopify review</title><style>${headCss}</style>${css.map(s=>`<link rel="stylesheet" href="/assets/${s}">`).join('')}<script>window.Shopify={designMode:false};window.StandardEvents={createViewEventElement:(Base=HTMLElement)=>class extends Base{connectedCallback(){}disconnectedCallback(){}dispatchViewEvent(){}}};window.shopUrl=location.origin;window.routes=${JSON.stringify(ctx.routes)};window.variantStrings={addToCart:'Add to cart',soldOut:'Sold out',unavailable:'Unavailable'};window.cartStrings={error:'Unable to update cart',quantityError:'Only [quantity] available'};window.accessibilityStrings={imageAvailable:'Image [index] available',shareSuccess:'Link copied'};</script>${js.map(s=>`<script src="/assets/${s}" defer></script>`).join('')}</head><body><a class="skip-to-content-link button visually-hidden" href="#MainContent">Skip to content</a>${await drawer(ctx)}${header}<main id="MainContent" class="content-for-layout focus-none" tabindex="-1">${content}</main>${footer}<script src="/assets/cart-drawer.js" defer></script></body></html>`;
 }
 async function sections(ctx){return {'cart-drawer':await drawer(ctx),'cart-icon-bubble':`<div class="shopify-section">${await engine.renderFile('cart-icon-bubble',{}, {globals:ctx})}</div>`}}
-async function parseBody(req){let text='';for await (const part of req)text+=part; if(req.headers['content-type']?.includes('json'))return JSON.parse(text);if(req.headers['content-type']?.includes('multipart')){const fields={};for(const m of text.matchAll(/name="([^"]+)"\r\n\r\n([\s\S]*?)(?=\r\n--)/g))fields[m[1]]=m[2];return fields}return Object.fromEntries(new URLSearchParams(text))}
-const server=http.createServer(async(req,res)=>{
+async function parseBody(req){if(req.body && typeof req.body==='object' && !Buffer.isBuffer(req.body))return req.body;let text=typeof req.body==='string'?req.body:'';for await (const part of req)text+=part; if(req.headers['content-type']?.includes('json'))return JSON.parse(text);if(req.headers['content-type']?.includes('multipart')){const fields={};for(const m of text.matchAll(/name="([^"]+)"\r\n\r\n([\s\S]*?)(?=\r\n--)/g))fields[m[1]]=m[2];return fields}return Object.fromEntries(new URLSearchParams(text))}
+const handler=async(req,res)=>{
  try{
-  const url=new URL(req.url,'http://localhost:4173');const ctx=context(url);
+  const url=new URL(req.url,'http://localhost:4173');
+  let bag=[];try{bag=JSON.parse(decodeURIComponent((req.headers.cookie||'').split('; ').find(c=>c.startsWith('sf-preview-cart='))?.split('=')[1]||'%5B%5D'));if(!Array.isArray(bag))bag=[];bag=bag.filter(l=>Number.isInteger(l.id)&&Number.isInteger(l.quantity)&&l.quantity>0)}catch{}
+  const ctx=context(url,bag);
   const send=(data,type='text/html',status=200)=>{res.writeHead(status,{'Content-Type':type+'; charset=utf-8','Cache-Control':'no-store'});res.end(data)};
   if(url.pathname.startsWith('/assets/')){const filename=path.join(theme,url.pathname);if(!filename.startsWith(theme+path.sep))return send('Forbidden','text/plain',403);const ext=path.extname(filename);return send(fs.readFileSync(filename),({'.svg':'image/svg+xml','.png':'image/png','.js':'text/javascript','.css':'text/css'})[ext]||'text/plain')}
   if(url.pathname==='/contact'&&req.method==='POST')return send(await layout('<section class="page-width" style="padding-block:70px"><h1>Contact form preview</h1><p>This local preview does not send messages. The Shopify contact form sends enquiries after the theme is configured in your store.</p><a href="/pages/contact">Return to Contact</a></section>',ctx));
   if(url.pathname==='/photo-review')return send(fs.readFileSync(path.join(__dirname,'photography-review.html'),'utf8'));
   if(url.pathname==='/favicon.ico')return send('','text/plain',204);
+  if(url.searchParams.has('sections')&&req.method==='GET')return send(JSON.stringify(await sections(ctx)),'application/json');
   if(url.pathname==='/cart.json'||url.pathname==='/cart.js')return send(JSON.stringify(ctx.cart),'application/json');
   if(['/cart/add','/cart/add.js','/cart/change','/cart/change.js','/cart/update','/cart/update.js'].includes(url.pathname)&&req.method==='POST'){
    const body=await parseBody(req);
    if(url.pathname.includes('/add')){const p=ctx.products.find(p=>p.variants.some(v=>v.id==body.id)),v=p?.variants.find(v=>v.id==body.id);const qty=Number(body.quantity||1);const old=bag.find(l=>l.id===v?.id);if(!v||qty<1||!v.available||qty+(old?.quantity||0)>v.inventory_quantity)return send(JSON.stringify({status:422,description:'This sample variant is sold out or exceeds the sample stock.'}),'application/json',422);if(old)old.quantity+=qty;else bag.push({id:v.id,quantity:qty})}
    if(url.pathname.includes('/change')){const line=bag[Number(body.line)-1];if(line){const v=ctx.products.flatMap(p=>p.variants).find(v=>v.id===line.id);if(Number(body.quantity)>v.inventory_quantity)return send(JSON.stringify({errors:'Quantity exceeds sample inventory'}),'application/json',422);line.quantity=Number(body.quantity);bag=bag.filter(l=>l.quantity>0)}}
-   const next=context(url);return send(JSON.stringify({...next.cart,id:Number(body.id),sections:await sections(next)}),'application/json');
+   res.setHeader('Set-Cookie','sf-preview-cart='+encodeURIComponent(JSON.stringify(bag))+'; Path=/; HttpOnly; SameSite=Lax; Max-Age=2592000');
+   const next=context(url,bag);return send(JSON.stringify({...next.cart,id:Number(body.id),sections:await sections(next)}),'application/json');
   }
-  if(url.pathname==='/cart'&&url.searchParams.has('section_id'))return send(await drawer(ctx));
+  if(url.pathname==='/cart'&&url.searchParams.has('section_id'))return send(url.searchParams.get('section_id')==='main-cart-items'?await template('cart',ctx):await drawer(ctx));
   if(url.pathname==='/checkout')return send(await layout('<section class="page-width" style="padding-block:70px"><h1>Checkout route reached</h1><p>This local fixture cannot open Shopify hosted checkout. Upload the theme to a development store to validate checkout navigation and test payments.</p><a href="/collections/all">Continue browsing</a></section>',ctx));
   if(url.pathname==='/cart'&&req.method==='POST'){res.writeHead(303,{Location:'/checkout'});return res.end()}
   let content;
@@ -155,7 +159,10 @@ const server=http.createServer(async(req,res)=>{
    if(url.searchParams.has('section_id')){const data=JSON.parse(read('templates/product.json'));return send(await renderSection('main-product','main',data.sections.main,ctx))}
    content=await template('product',ctx);
   }else if(url.pathname.startsWith('/collections/')){
-   ctx.collection={...(ctx.collections[url.pathname.split('/')[2]]||ctx.collections.all)};ctx.collection.description='COLLECTION 001 / OFF THE GRID';ctx.collection.all_products_count=ctx.collection.products.length;
+   ctx.template.name='collection';
+   ctx.collection={...(ctx.collections[url.pathname.split('/')[2]]||ctx.collections.all)};ctx.collection.description='';ctx.collection.all_products_count=ctx.collection.products.length;
+   ctx.current_tags=(url.pathname.split('/')[3]||'').split('+').filter(Boolean);
+   if(ctx.current_tags.length)ctx.collection.products=ctx.collection.products.filter(p=>ctx.current_tags.every(tag=>p.tags.includes(tag)));
    ctx.collection.products_count=ctx.collection.products.length;ctx.collection.default_sort_by='manual';ctx.collection.sort_by=url.searchParams.get('sort_by')||'manual';ctx.collection.sort_options=[{value:'manual',name:'Featured'},{value:'price-ascending',name:'Price, low to high'},{value:'price-descending',name:'Price, high to low'}];ctx.collection.filters=[];
    if(ctx.collection.sort_by.startsWith('price'))ctx.collection.products=[...ctx.collection.products].sort((a,b)=>ctx.collection.sort_by.endsWith('ascending')?a.price-b.price:b.price-a.price);
    content=await template('collection',ctx);
@@ -164,6 +171,7 @@ const server=http.createServer(async(req,res)=>{
    ctx.predictive_search={performed:true,terms:q,resources:{products:q?ctx.products.filter(p=>(p.title+' '+p.type).toLowerCase().includes(q.toLowerCase())).slice(0,6):[],queries:[],collections:[],pages:[],articles:[]}};
    return send(await renderSection('predictive-search','predictive-search',{settings:{}},ctx));
   }else if(url.pathname==='/search'){
+   ctx.template.name='search';
    const q=url.searchParams.get('q')||'';const results=ctx.products.filter(p=>(p.title+' '+p.type).toLowerCase().includes(q.toLowerCase()));ctx.search={performed:!!q,terms:q,results,results_count:results.length,filters:[],sort_options:[{name:'Relevance',value:'relevance'}],sort_by:'relevance'};content=await template('search',ctx);
   }else if(url.pathname==='/cart'){content=await template('cart',ctx)}
   else if(url.pathname==='/pages/contact'){ctx.page={title:'Contact',content:'<p>Questions about SIDEFORM pieces, fit or your order? Get in touch using the form below.</p>'};content=await template('page.contact',ctx)}
@@ -172,5 +180,8 @@ const server=http.createServer(async(req,res)=>{
   else content=await template('index',ctx);
   send(await layout(content,ctx));
  }catch(error){console.error(error.stack);res.writeHead(500,{'Content-Type':'text/plain'});res.end('Local fixture rendering error: '+error.message)}
-});
-server.listen(4173,'127.0.0.1',()=>console.log('SIDEFORM local review: http://localhost:4173 (Shopify endpoints emulated)'));
+};
+module.exports = handler;
+if (require.main === module) {
+ http.createServer(handler).listen(Number(process.env.PORT || 4173),'127.0.0.1',()=>console.log('SIDEFORM local review: http://localhost:'+ (process.env.PORT || 4173) +' (Shopify endpoints emulated)'));
+}

@@ -1,0 +1,11 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Use case: identity-preserve. Edit the supplied SIDEFORM model photography into one polished ecommerce editorial photograph. Image 1 is the identity, white hoodie and straight front-facing pose reference. Image 2 shows the same model full body and is a framing reference. Image 3 is the exact black SIDEFORM Grid Cargo Pant garment reference. Preserve the same young adult Black male model's face, short afro hair, body build, natural skin tone, and the white oversized pullover hoodie with its tiny black two-offset-rectangles chest logo, kangaroo pocket, dropped shoulders and ribbed cuffs. Replace all gray trousers with the black Grid Cargo Pant from image 3: loose wide straight legs, matte washed black cotton, large rectangular flap cargo pockets on both outer thighs, no logos or added lettering. Show the complete model standing relaxed and front facing with both hands naturally at sides, entire hair, head, torso, legs and both clean white low-top sneakers visible. Do not crop feet or head. Soft studio lighting, pale warm gray seamless studio wall and floor with realistic contact shadows. Portrait image 4:5. Compose model in the right 65% with ample empty gray wall along left 35% for website overlay text. Model occupies about 88% of image height with clear top and floor margins. Do not add text, UI, watermarks or extra people. Natural realistic fabric and anatomy. The purpose is the Room to move editorial tile; the image must support showing the complete outfit from head to shoes.",
+  "refs": [
+    "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-volume-pullover-white-front.jpg",
+    "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-gallery-volume-pullover-white-full.jpg",
+    "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-grid-cargo-pant-black-front.jpg"
+  ],
+  "original": "catalog/editorial-photos/white-hoodie-black-cargo-full.png",
+  "asset": "theme/assets/sf-editorial-white-hoodie-black-cargo-full.jpg"
+}

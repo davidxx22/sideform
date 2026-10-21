@@ -1,0 +1,16 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "npm ci --ignore-scripts",
+  "buildCommand": "npm run build",
+  "outputDirectory": "public",
+  "functions": {
+    "api/storefront.js": {
+      "includeFiles": "{theme/**,catalog/*.json,preview/photography-review.html}",
+      "maxDuration": 30
+    }
+  },
+  "rewrites": [
+    { "source": "/((?!assets/).*)", "destination": "/api/storefront" }
+  ]
+}

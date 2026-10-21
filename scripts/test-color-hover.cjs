@@ -8,8 +8,8 @@ const assert=require('node:assert/strict'),fs=require('node:fs');
   let previews=0;
   for(const route of ['/','/collections/all']){
    await page.goto('http://localhost:4173'+route);const url=page.url();
-   const grid=page.locator(route==='/'?'#Slider-featured_collection':'#product-grid');
-   const count=await grid.locator('.product-card-wrapper').count();assert.equal(count,12);
+   const grid=page.locator(route==='/'?'.sf-arrivals-section .product-grid':'#product-grid');
+   const count=await grid.locator('.product-card-wrapper').count();assert.equal(count,route==='/'?4:12);
    for(let index=0;index<count;index++){
     const card=grid.locator('.product-card-wrapper').nth(index);
     const original=await card.locator('img').first().getAttribute('src');

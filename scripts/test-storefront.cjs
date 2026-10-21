@@ -19,7 +19,7 @@ let browser;
   });assert.equal(broken.length,0,broken.join('\n'));
  }
  async function select(name,value){const radio=page.locator(`variant-selects:visible input[data-option-name="${name}"][value="${value}"]`);const id=await radio.getAttribute('id');await page.locator(`variant-selects:visible label[for="${id}"]`).click();await page.waitForTimeout(750)}
- await visit('/');assert.equal(await page.locator('#shopify-section-featured_collection .product-card-wrapper').count(),12);assert.equal(await page.locator('.header__inline-menu > ul > li').count(),4);report('Homepage','12 products; 4 primary navigation items');
+ await visit('/');assert.equal(await page.locator('#shopify-section-new_arrivals .product-card-wrapper').count(),4);assert.equal(await page.locator('.header__inline-menu > ul > li').count(),4);report('Homepage','4 new arrivals; 5 category cards; 4 primary navigation items');
  await checkNoOverflow();await page.screenshot({path:'artifacts/home-desktop.png',fullPage:true});
  for(const [width,height] of [[1920,1080],[768,1024],[390,844],[320,740]]){
   await page.setViewportSize({width,height});await checkNoOverflow();report('Homepage responsive '+width,'No horizontal overflow or broken images');

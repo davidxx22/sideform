@@ -47,4 +47,12 @@ with zipfile.ZipFile(root/'artifacts/SIDEFORM-handoff.zip','w',zipfile.ZIP_DEFLA
     for name in ['favorites-feedback-validation.json','favorites-feedback-1440.png','favorites-feedback-390.png']:
         if (root/'artifacts'/name).exists():archive.write(root/'artifacts'/name,'artifacts/'+name)
     if (root/'artifacts/price-badge-validation.json').exists():archive.write(root/'artifacts/price-badge-validation.json','artifacts/price-badge-validation.json')
+    for name in ['collection-story-validation.json','about-footer-1440.png','about-footer-390.png']:
+        if (root/'artifacts'/name).exists():archive.write(root/'artifacts'/name,'artifacts/'+name)
+    for name in ['homepage-edit-validation.json','home-category-arrivals-1440.png','home-category-arrivals-390.png']:
+        if (root/'artifacts'/name).exists():archive.write(root/'artifacts'/name,'artifacts/'+name)
+    for p in sorted((root/'catalog/editorial-photos').glob('*.png')):
+        archive.write(p,p.relative_to(root).as_posix())
+    for name in ['restored-editorial-validation.json','restored-editorial-390.png','restored-editorial-768.png','restored-editorial-1440.png']:
+        if (root/'artifacts'/name).exists():archive.write(root/'artifacts'/name,'artifacts/'+name)
 print(f'Packaged {len(paths)} theme files. Theme SHA256: {hashlib.sha256((root/"artifacts/SIDEFORM-theme.zip").read_bytes()).hexdigest()}')

@@ -6,16 +6,16 @@ const assert=require('node:assert/strict'),fs=require('node:fs');
   const page=await browser.newPage({viewport:{width:1440,height:1000},reducedMotion:'reduce'}),errors=[],results=[];
   page.on('pageerror',e=>errors.push(e.message));
   async function visit(route){await page.goto('http://localhost:4173'+route);await page.waitForLoadState('networkidle')}
-  await visit('/products/offset-heavy-tee');await page.locator('[data-sf-favorite]').click();
+  await visit('/products/offset-heavy-tee');await page.locator('.sf-product-page [data-sf-favorite]').click();
   for(const width of [1920,1440,390,320]){
    await page.setViewportSize({width,height:1000});await visit('/products/offset-heavy-tee');
    const badge=await page.locator('[data-sf-favorites-count]').boundingBox();assert(badge&&badge.width===16&&badge.height===16,'Circular favorite count at '+width);
    const favoriteIcon=await page.locator('[data-sf-favorites-open]').boundingBox();assert(Math.abs(badge.y-favoriteIcon.y-2)<1,'Favorite count at top');
    const opener=page.locator('.header__search summary');await opener.click();
    const search=page.locator('.header__search input[name="q"]');assert(await search.isVisible());await search.focus();
-   assert.equal(await search.getAttribute('placeholder'),'What are you looking for?');
-   assert.equal(await page.locator('.header__search .field').evaluate(e=>getComputedStyle(e).borderRadius),'24px');
-   const field=await page.locator('.header__search .field').boundingBox();assert.equal(field.height,36);assert(field.width<=744,'Compact desktop search');if(width<750)assert(field.width>width*.65,'Responsive mobile search');
+   assert.equal(await search.getAttribute('placeholder'),'Search products');
+   assert.equal(await page.locator('.header__search .field').evaluate(e=>getComputedStyle(e).borderRadius),'0px');
+   const field=await page.locator('.header__search .field').boundingBox();assert.equal(field.height,52);assert(field.width<=1000,'Contained desktop search');if(width<750)assert(field.width>width*.65,'Responsive mobile search');
    if(width===1440)await page.locator('.search-modal__content').screenshot({path:'artifacts/search-bar-1440.png'});
    assert.equal(await page.locator('.header__search .spinner:visible').count(),0);
    await search.fill('hoodie');await page.waitForSelector('.header__search predictive-search[results="true"]');

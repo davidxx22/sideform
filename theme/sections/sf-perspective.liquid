@@ -1,4 +1,4 @@
-<section class="sf-perspective page-width" style="padding-block:{{ section.settings.spacing }}px"><p class="sf-kicker">{{ section.settings.eyebrow | escape }}</p><h2>{{ section.settings.heading | escape }}</h2><div>{{ section.settings.text }}</div>{% if section.settings.link != blank %}<a class="sf-text-link" href="{{ section.settings.link }}">{{ section.settings.label | escape }} ↗</a>{% endif %}</section>
+<section class="sf-perspective page-width" style="--sf-perspective-spacing:{{ section.settings.spacing }}px"><p class="sf-kicker">{{ section.settings.eyebrow | escape }}</p><h2>{{ section.settings.heading | escape }}</h2><div>{{ section.settings.text }}</div>{% if section.settings.link != blank %}<a class="sf-text-link" href="{{ section.settings.link }}">{{ section.settings.label | escape }} ↗</a>{% endif %}</section>
 {% schema %}
 {
   "name": "SIDEFORM perspective",

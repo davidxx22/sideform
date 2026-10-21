@@ -8,12 +8,12 @@
     {% if section.settings.mobile_image != blank %}{{ section.settings.mobile_image | image_url: width: 1200 | image_tag: class: 'sf-campaign__mobile', widths: '450, 750, 1200', sizes: '100vw', loading: 'eager' }}{% endif %}
   </div>
   <div class="sf-campaign__copy">
-    <p class="sf-kicker">{{ section.settings.eyebrow | escape }}</p>
+    {% if section.settings.eyebrow != blank %}<p class="sf-kicker">{{ section.settings.eyebrow | escape }}</p>{% endif %}
     <h1>{{ section.settings.heading | escape | newline_to_br }}</h1>
     <p>{{ section.settings.text | escape }}</p>
     {% if section.settings.link != blank %}<a class="button" href="{{ section.settings.link }}">{{ section.settings.label | escape }} {% render 'sf-button-arrow' %}</a>{% endif %}
   </div>
-  <div class="sf-campaign__caption"><span>SIDEFORM — COLLECTION 001</span><span>FORM / FUNCTION / EVERYDAY</span></div>
+  <div class="sf-campaign__caption"><span>SIDEFORM</span><span>FORM / FUNCTION / EVERYDAY</span></div>
 </section>
 {% schema %}
 {
@@ -53,8 +53,7 @@
     {
       "type": "text",
       "id": "eyebrow",
-      "label": "Eyebrow",
-      "default": "COLLECTION 001 / OFF THE GRID"
+      "label": "Eyebrow"
     },
     {
       "type": "textarea",

@@ -1,0 +1,55 @@
+<section class="sf-category-section page-width" aria-labelledby="CategoryHeading-{{ section.id }}">
+  <h2 class="sf-home-section-heading" id="CategoryHeading-{{ section.id }}">{{ section.settings.heading | escape }}</h2>
+  <ul class="sf-category-grid" role="list">
+    {% for block in section.blocks %}
+      {% assign target = block.settings.collection.url | default: block.settings.link %}
+      {% assign category_sizes = '(min-width: 990px) 19vw, 44vw' %}
+      {% if block.settings.photo == 'jackets' %}{% assign category_sizes = '(min-width: 990px) 19vw, 92vw' %}{% endif %}
+      <li {{ block.shopify_attributes }}>
+        <a class="sf-category-card sf-category-card--{{ block.settings.photo }}" href="{{ target }}">
+          {% if block.settings.image != blank %}
+            {{ block.settings.image | image_url: width: 1400 | image_tag: widths: '300, 480, 750, 1100, 1400', sizes: category_sizes, loading: 'lazy', alt: '' }}
+          {% else %}
+            {% liquid
+              assign photo_width = 1122
+              assign photo_height = 1402
+              case block.settings.photo
+                when 'hoodies'
+                  assign photo = 'sf-photo-structure-hoodie-black-front'
+                when 't-shirts'
+                  assign photo = 'sf-photo-offset-heavy-tee-black-front'
+                when 'pants'
+                  assign photo = 'sf-editorial-cargo-black-pale'
+                  assign photo_width = 1536
+                  assign photo_height = 1024
+                when 'jackets'
+                  assign photo = 'sf-photo-shell-utility-jacket-grey-front'
+                when 'shorts'
+                  assign photo = 'sf-photo-interval-utility-short-black-front'
+              endcase
+              assign large = photo | append: '.jpg'
+              assign small = photo | append: '-480.jpg'
+            %}
+            <img src="{{ large | asset_url }}" srcset="{{ small | asset_url }} 480w, {{ large | asset_url }} {{ photo_width }}w" sizes="{{ category_sizes }}" width="{{ photo_width }}" height="{{ photo_height }}" alt="" loading="lazy">
+          {% endif %}
+          <span class="sf-category-card__copy"><span class="sf-category-card__name">{{ block.settings.title | escape }}</span><span class="sf-category-card__cta">Shop now {% render 'sf-button-arrow' %}</span></span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+{% schema %}
+{
+  "name":"SIDEFORM shop by category",
+  "settings":[{"type":"text","id":"heading","label":"Heading","default":"Shop by category"}],
+  "max_blocks":5,
+  "blocks":[{"type":"category","name":"Category","settings":[
+    {"type":"text","id":"title","label":"Category name","default":"Tops"},
+    {"type":"collection","id":"collection","label":"Collection"},
+    {"type":"url","id":"link","label":"Fallback link"},
+    {"type":"image_picker","id":"image","label":"Category photograph"},
+    {"type":"select","id":"photo","label":"Catalog photograph","default":"t-shirts","options":[{"value":"hoodies","label":"Hoodies"},{"value":"t-shirts","label":"T-shirts"},{"value":"pants","label":"Pants"},{"value":"jackets","label":"Jackets"},{"value":"shorts","label":"Shorts"}]}
+  ]}],
+  "presets":[{"name":"SIDEFORM shop by category"}]
+}
+{% endschema %}

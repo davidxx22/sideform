@@ -1,0 +1,340 @@
+{
+  "results": [
+    {
+      "width": 320,
+      "height": 740,
+      "layout": {
+        "media": {
+          "x": 15,
+          "y": 87,
+          "right": 305,
+          "bottom": 449.5
+        },
+        "info": {
+          "x": 15,
+          "y": 469.5
+        },
+        "qty": {
+          "x": 15,
+          "y": 778.296875,
+          "w": 139,
+          "h": 52
+        },
+        "buy": {
+          "x": 166,
+          "y": 778.296875,
+          "w": 139,
+          "h": 52
+        }
+      },
+      "categoryNavigation": true,
+      "dialogs": true,
+      "cart": true,
+      "search": true,
+      "contact": true
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "layout": {
+        "media": {
+          "x": 15,
+          "y": 87,
+          "right": 360,
+          "bottom": 518.25
+        },
+        "info": {
+          "x": 15,
+          "y": 538.25
+        },
+        "qty": {
+          "x": 15,
+          "y": 847.046875,
+          "w": 166.5,
+          "h": 52
+        },
+        "buy": {
+          "x": 193.5,
+          "y": 847.046875,
+          "w": 166.5,
+          "h": 52
+        }
+      },
+      "categoryNavigation": true,
+      "dialogs": true,
+      "cart": true,
+      "search": true,
+      "contact": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "layout": {
+        "media": {
+          "x": 15,
+          "y": 87,
+          "right": 375,
+          "bottom": 537
+        },
+        "info": {
+          "x": 15,
+          "y": 557
+        },
+        "qty": {
+          "x": 15,
+          "y": 865.796875,
+          "w": 174,
+          "h": 52
+        },
+        "buy": {
+          "x": 201,
+          "y": 865.796875,
+          "w": 174,
+          "h": 52
+        }
+      },
+      "categoryNavigation": true,
+      "dialogs": true,
+      "cart": true,
+      "search": true,
+      "contact": true
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "layout": {
+        "media": {
+          "x": 15,
+          "y": 87,
+          "right": 415,
+          "bottom": 587
+        },
+        "info": {
+          "x": 15,
+          "y": 607
+        },
+        "qty": {
+          "x": 15,
+          "y": 915.796875,
+          "w": 194,
+          "h": 52
+        },
+        "buy": {
+          "x": 221,
+          "y": 915.796875,
+          "w": 194,
+          "h": 52
+        }
+      },
+      "categoryNavigation": true,
+      "dialogs": true,
+      "cart": true,
+      "search": true,
+      "contact": true
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "layout": {
+        "media": {
+          "x": 50,
+          "y": 96,
+          "right": 397.359375,
+          "bottom": 559.1875
+        },
+        "info": {
+          "x": 397.359375,
+          "y": 96
+        },
+        "qty": {
+          "x": 421.359375,
+          "y": 410.1875,
+          "w": 142.3125,
+          "h": 52
+        },
+        "buy": {
+          "x": 575.671875,
+          "y": 410.1875,
+          "w": 142.3125,
+          "h": 52
+        }
+      },
+      "categoryNavigation": true,
+      "dialogs": true,
+      "cart": true,
+      "search": true,
+      "contact": true
+    },
+    {
+      "width": 820,
+      "height": 1180,
+      "layout": {
+        "media": {
+          "x": 50,
+          "y": 96,
+          "right": 424.390625,
+          "bottom": 564
+        },
+        "info": {
+          "x": 424.390625,
+          "y": 96
+        },
+        "qty": {
+          "x": 448.390625,
+          "y": 410.1875,
+          "w": 154.796875,
+          "h": 52
+        },
+        "buy": {
+          "x": 615.1875,
+          "y": 410.1875,
+          "w": 154.796875,
+          "h": 52
+        }
+      },
+      "categoryNavigation": true,
+      "dialogs": true,
+      "cart": true,
+      "search": true,
+      "contact": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "layout": {
+        "media": {
+          "x": 50,
+          "y": 113,
+          "right": 650.59375,
+          "bottom": 863.71875
+        },
+        "info": {
+          "x": 650.59375,
+          "y": 113
+        },
+        "qty": {
+          "x": 690.59375,
+          "y": 446.796875,
+          "w": 133.6875,
+          "h": 52
+        },
+        "buy": {
+          "x": 840.28125,
+          "y": 446.796875,
+          "w": 133.703125,
+          "h": 52
+        }
+      },
+      "categoryNavigation": true,
+      "dialogs": true,
+      "cart": true,
+      "search": true,
+      "contact": true
+    },
+    {
+      "width": 1180,
+      "height": 820,
+      "layout": {
+        "media": {
+          "x": 50,
+          "y": 113,
+          "right": 752,
+          "bottom": 990.5
+        },
+        "info": {
+          "x": 752,
+          "y": 113
+        },
+        "qty": {
+          "x": 792,
+          "y": 450.5625,
+          "w": 161,
+          "h": 52
+        },
+        "buy": {
+          "x": 969,
+          "y": 450.5625,
+          "w": 161,
+          "h": 52
+        }
+      },
+      "categoryNavigation": true,
+      "dialogs": true,
+      "cart": true,
+      "search": true,
+      "contact": true
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "layout": {
+        "media": {
+          "x": 50,
+          "y": 96,
+          "right": 436.875,
+          "bottom": 579.59375
+        },
+        "info": {
+          "x": 436.875,
+          "y": 96
+        },
+        "qty": {
+          "x": 460.875,
+          "y": 410.1875,
+          "w": 160.546875,
+          "h": 52
+        },
+        "buy": {
+          "x": 633.421875,
+          "y": 410.1875,
+          "w": 160.5625,
+          "h": 52
+        }
+      },
+      "categoryNavigation": true,
+      "dialogs": true,
+      "cart": true,
+      "search": true,
+      "contact": true
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "layout": {
+        "media": {
+          "x": 50,
+          "y": 113,
+          "right": 921,
+          "bottom": 1201.75
+        },
+        "info": {
+          "x": 921,
+          "y": 113
+        },
+        "qty": {
+          "x": 961,
+          "y": 457.75,
+          "w": 206.5,
+          "h": 52
+        },
+        "buy": {
+          "x": 1183.5,
+          "y": 457.75,
+          "w": 206.5,
+          "h": 52
+        }
+      },
+      "categoryNavigation": true,
+      "dialogs": true,
+      "cart": true,
+      "search": true,
+      "contact": true
+    }
+  ],
+  "allProductsCheckedAt": [
+    320,
+    768
+  ],
+  "errors": [],
+  "method": "Chrome viewport and touch emulation; physical iPad/iPhone Safari not tested"
+}

@@ -1,0 +1,77 @@
+{
+  "results": [
+    {
+      "width": 320,
+      "height": 740,
+      "discovery": true,
+      "predictiveSearch": true,
+      "categoryLinks": true,
+      "searchPage": true,
+      "mobileSortFilter": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "discovery": true,
+      "predictiveSearch": true,
+      "categoryLinks": true,
+      "searchPage": true,
+      "mobileSortFilter": true
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "discovery": true,
+      "predictiveSearch": true,
+      "categoryLinks": true,
+      "searchPage": true,
+      "mobileSortFilter": true
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "discovery": true,
+      "predictiveSearch": true,
+      "categoryLinks": true,
+      "searchPage": true,
+      "mobileSortFilter": false
+    },
+    {
+      "width": 820,
+      "height": 1180,
+      "discovery": true,
+      "predictiveSearch": true,
+      "categoryLinks": true,
+      "searchPage": true,
+      "mobileSortFilter": false
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "discovery": true,
+      "predictiveSearch": true,
+      "categoryLinks": true,
+      "searchPage": true,
+      "mobileSortFilter": false
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "discovery": true,
+      "predictiveSearch": true,
+      "categoryLinks": true,
+      "searchPage": true,
+      "mobileSortFilter": false
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "discovery": true,
+      "predictiveSearch": true,
+      "categoryLinks": true,
+      "searchPage": true,
+      "mobileSortFilter": false
+    }
+  ],
+  "errors": []
+}

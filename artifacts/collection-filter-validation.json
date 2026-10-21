@@ -1,0 +1,18 @@
+{
+  "collection001": 8,
+  "collection002": 4,
+  "tops001": 5,
+  "tops002": 2,
+  "sorting": true,
+  "history": true,
+  "emptyIntersection": true,
+  "widths": [
+    1920,
+    1440,
+    990,
+    768,
+    390,
+    320
+  ],
+  "errors": []
+}

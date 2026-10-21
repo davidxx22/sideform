@@ -73,9 +73,9 @@
       {
         "check": "UnusedAssign",
         "severity": "warning",
-        "start_row": 273,
+        "start_row": 274,
         "start_column": 24,
-        "end_row": 273,
+        "end_row": 274,
         "end_column": 56,
         "message": "The variable 'product_settings' is assigned but not used"
       }
@@ -107,11 +107,11 @@
       {
         "check": "LiquidComplexity",
         "severity": "warning",
-        "start_row": 864,
-        "start_column": 8,
-        "end_row": 864,
-        "end_column": 63,
-        "message": "Liquid complexity is 136, which exceeds the maximum of 120. The decision at line 865 pushed it over the limit. Consider simplifying conditional logic, or moving self-contained decision logic into snippets with the render tag."
+        "start_row": 815,
+        "start_column": 6,
+        "end_row": 815,
+        "end_column": 45,
+        "message": "Liquid complexity is 142, which exceeds the maximum of 120. The decision at line 816 pushed it over the limit. Consider simplifying conditional logic, or moving self-contained decision logic into snippets with the render tag."
       }
     ],
     "errorCount": 0,
@@ -124,18 +124,18 @@
       {
         "check": "UnusedAssign",
         "severity": "warning",
-        "start_row": 746,
+        "start_row": 751,
         "start_column": 10,
-        "end_row": 746,
+        "end_row": 751,
         "end_column": 51,
         "message": "The variable 'seo_media' is assigned but not used"
       },
       {
         "check": "UndefinedObject",
         "severity": "warning",
-        "start_row": 602,
+        "start_row": 607,
         "start_column": 46,
-        "end_row": 602,
+        "end_row": 607,
         "end_column": 54,
         "message": "Unknown object 'continue' used."
       }

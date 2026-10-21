@@ -1,5 +1,5 @@
 {% for option in card_product.options_with_values %}{% if option.name == 'Color' %}
-<div class="sf-card-colors" aria-label="Product colors">
+<div class="sf-card-colors" aria-label="Product colors and favorites">
 {% for value in option.values %}
 {% liquid
   assign shade = value.name | default: value | append: ''
@@ -57,6 +57,7 @@
 <button type="button" class="sf-card-color" data-sf-card-color="{{ shade | escape }}" data-sf-photo="{{ photo_url | escape }}" data-sf-srcset="{{ photo_srcset | strip | escape }}" data-sf-alt="{{ photo_alt | escape }}" data-sf-variant-url="{{ card_product.url }}?variant={{ color_variant.id }}" aria-label="Show {{ shade | escape }} — {{ card_product.title | escape }}{% unless color_available %} — sold out{% endunless %}" aria-pressed="{% if shade == selected_color %}true{% else %}false{% endif %}" title="{{ shade | escape }}{% unless color_available %} — sold out{% endunless %}"{% if photo_url == '' %} disabled{% endif %}><i class="sf-swatch sf-swatch--{{ shade_handle }}" aria-hidden="true"></i></button>
 {% if color_variant != nil %}<template data-sf-card-price="{{ shade | escape }}">{% render 'price', product: color_variant, price_class: '', show_compare_at_price: true %}</template>{% endif %}
 {% endfor %}
+{% render 'sf-card-favorite', card_product: card_product, selected_color: selected_color %}
 <span class="visually-hidden" role="status" data-sf-color-status></span>
 </div>
 {% endif %}{% endfor %}

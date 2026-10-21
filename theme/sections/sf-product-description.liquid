@@ -1,5 +1,5 @@
 {% assign shade = product.selected_or_first_available_variant.option1 | default: 'Black' | downcase %}
-<section class="sf-product-description page-width" style="padding-block:{{ section.settings.spacing }}px">
+<section class="sf-product-description page-width" style="--sf-description-spacing:{{ section.settings.spacing }}px">
   <h2>{{ section.settings.heading | escape }}</h2>
   <p class="sf-product-id">Product ID: {{ product.id }}</p>
   <details class="sf-description-accordion">

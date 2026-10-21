@@ -79,3 +79,6 @@ The earlier `site/` prototype is retained for history and is not in the theme up
 
 - `catalog/product-gallery-photos/`: 66 new full-body and hanger originals for the remaining eleven products. `all-product-gallery-generation.json` and `product-gallery-output-manifest.json` preserve exact prompts and selected outputs.
 - `scripts/test-catalog-galleries.cjs`: every product/color/view, 144 zoom checks, captions, gapless mobile/desktop layout and approved controls.
+
+
+- `sections/sf-shop-by-category.liquid`, `sections/sf-new-arrivals.liquid`, `templates/index.json`: five category image links and four curated product cards, replacing the previous large homepage product grid/editorial collage. Collection definitions and imported tags are in `catalog/collections.json`, catalog JSON/CSV and the generator. No new image generation required; existing approved imagery is reused.
