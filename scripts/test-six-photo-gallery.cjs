@@ -13,7 +13,7 @@ const catalog=require('../catalog/catalog.json');
   for(const product of catalog){
    await page.goto(origin+'/products/'+product.handle);
    const upper=product.tags.some(t=>['tops','outerwear'].includes(t));
-   const expected=upper?['male','duolow','duofull','female','lineup','detail']:['front','full','lineup','detail'];
+   const expected=upper?['male','duolow','duofull','female','lineup','detail']:(product.handle==='interval-utility-short'?['female','duoclose','duofull','male','lineup','detail']:['male','duoclose','duofull','female','lineup','detail']);
    const tiles=page.locator('.sf-photo-gallery__tile');
    assert.deepEqual(await tiles.evaluateAll(a=>a.map(e=>e.dataset.sfView)),expected);
    const boxes=await tiles.evaluateAll(a=>a.map(e=>{const r=e.getBoundingClientRect();return{x:r.x,y:r.y,w:r.width,h:r.height}}));
@@ -27,11 +27,12 @@ const catalog=require('../catalog/catalog.json');
     assert.match(await tiles.nth(0).innerText(),/Large/);
     assert.match(await tiles.nth(3).innerText(),/Medium/);
    }
+   if(product.handle==='interval-utility-short'){assert.match(await tiles.first().innerText(),/Medium/);assert.match(await tiles.nth(3).innerText(),/Large/);}
    if(product.handle==='grid-cargo-pant')assert.match(await tiles.first().innerText(),/Large/);
    assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1));
    report.push({handle:product.handle,views:expected,desktopGrid:true});
   }
-  for(const handle of ['offset-heavy-tee','shell-utility-jacket','grid-cargo-pant']){
+  for(const handle of ['offset-heavy-tee','shell-utility-jacket','grid-cargo-pant','drift-baggy-jean','interval-utility-short']){
    await page.goto(origin+'/products/'+handle);
    const tiles=page.locator('.sf-photo-gallery__tile'),count=await tiles.count();
    for(let i=0;i<count;i++){
@@ -69,7 +70,7 @@ const catalog=require('../catalog/catalog.json');
    await page.setViewportSize({width:1440,height:1000});
   }
   assert.deepEqual(errors,[]);
-  fs.writeFileSync('artifacts/six-photo-gallery-validation.json',JSON.stringify({products:report,zoomProducts:3,responsiveWidths:[320,390,768,989,1440],colorReset:true,keyboard:true,errors},null,2));
+  fs.writeFileSync('artifacts/six-photo-gallery-validation.json',JSON.stringify({products:report,zoomProducts:5,responsiveWidths:[320,390,768,989,1440],colorReset:true,keyboard:true,errors},null,2));
   console.log('PASS gallery order for 12 products, desktop rows, captions, zoom/focus and responsive carousel');
  } finally {await browser.close();await new Promise(r=>server.close(r))}
 })().catch(e=>{console.error(e);process.exitCode=1});

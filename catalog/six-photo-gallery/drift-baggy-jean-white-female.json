@@ -1,0 +1,12 @@
+{
+  "handle": "drift-baggy-jean",
+  "color": "white",
+  "view": "female",
+  "refs": [
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-47242fc6-0c58-45b8-ad11-b0fd9423a499.png",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-white-front.webp"
+  ],
+  "prompt": "Edit image1 changing ONLY its selected BLACK baggy wide-leg JEANS to the exact WHITE fabric shade in image2. Image2 is garment COLOR and fabric reference ONLY, do not copy its person, pose or lighting. Preserve image1's identical companion model identity, exact face/hair/skin, front-facing head and natural eyes, GREY tee with BLACK SIDEFORM chest emblem, tee cut and folds, white sneakers, pose, full-body framing and pale WARM-GREIGE studio wall/floor and shadows. All pants/shorts seams, pockets, fly, waistband and fit identical; no pants logos. The GREY T-SHIRT MUST STAY GREY and the background must not shift cooler. No text/captions/watermarks.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7ba8dd96-4bc1-4af4-b241-4653aa8eeecd.png",
+  "tool": "built-in image_gen"
+}

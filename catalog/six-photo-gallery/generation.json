@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "scope": "Nine tops and outerwear: six views. Three bottoms: four views. Grid Cargo Pant uses the curly-haired male in oversized grey tee.",
+  "scope": "All 12 products have six views per color. Bottoms retain their primary model first, paired close-up and full-body poses, companion model, hanger lineup and detail. Original studio background preserved.",
   "order": [
     "male",
     "duolow",
@@ -9,6 +9,32 @@
     "lineup",
     "detail"
   ],
+  "bottom_orders": {
+    "grid-cargo-pant": [
+      "male",
+      "duoclose",
+      "duofull",
+      "female",
+      "lineup",
+      "detail"
+    ],
+    "drift-baggy-jean": [
+      "male",
+      "duoclose",
+      "duofull",
+      "female",
+      "lineup",
+      "detail"
+    ],
+    "interval-utility-short": [
+      "female",
+      "duoclose",
+      "duofull",
+      "male",
+      "lineup",
+      "detail"
+    ]
+  },
   "main_models": {
     "grid-cargo-pant": "curly-haired male",
     "drift-baggy-jean": "Black male",
@@ -274,6 +300,50 @@
     {
       "handle": "drift-baggy-jean",
       "color": "black",
+      "view": "duoclose",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-black-front.webp",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-47242fc6-0c58-45b8-ad11-b0fd9423a499.png",
+        "C:/Users/david/OneDrive/Pictures/Screenshots/Screenshot 2026-10-22 183158.png"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Drift Baggy Jean product gallery photograph featuring TWO models wearing the SAME selected BLACK bottom. Image1 is the exact MALE model identity, outfit and background; image2 is exact FEMALE model identity, outfit and background. Preserve both identities, hair, faces/skin tones and physiques. Both must wear EXACT BLACK washed baggy wide-leg jeans, exact denim construction, five pockets, fly, waistband, belt loops and seams, no cargo pockets, matching all pockets, fly, waistband, seams and silhouette; pants/shorts stay unbranded. Preserve their own GREY short-sleeve tees with tiny BLACK offset two-bar SIDEFORM upper-left chest emblem, the man's OVERSIZED dropped-shoulder loose untucked tee, and plain white sneakers. Image3 is ONLY the POSE/CAMERA/FRAMING reference, NOT its people, garments, printed graphics, belts, footwear, lighting or backdrop. LOWER-BODY CLOSE-UP: copy image3's pose and crop: two models side by side, man on viewer LEFT, woman on viewer RIGHT slightly forward, hands tucked naturally into trouser side/front pockets, relaxed legs with slight angle/weight shift. Frame from LOWER CHEST through BOTH pairs of shoes. Heads are OUTSIDE the frame deliberately. Emphasize waistbands, trouser pockets, wide legs and hems. No need to show faces in this close-up. Keep EXACT existing SIDEFORM pale WARM-GREIGE seamless studio background, smooth wall and floor, soft diffuse lighting and gentle coherent contact shadows matching images1/2; no cool blue or dark grey background. One continuous real studio frame, NO split line or collage. Portrait4:5 around1122x1402. No reference brands, no added accessories/sunglasses, no tattoos, no UI/text/captions/watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e2924056-1e68-454d-810d-16d5ec62c8e4.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/drift-baggy-jean-black-duoclose.png",
+      "asset": "sf-gallery-drift-baggy-jean-black-duoclose.webp"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "black",
+      "view": "duofull",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-black-front.webp",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-47242fc6-0c58-45b8-ad11-b0fd9423a499.png",
+        "C:/Users/david/OneDrive/Pictures/Screenshots/Screenshot 2026-10-22 183032.png"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Drift Baggy Jean product gallery photograph featuring TWO models wearing the SAME selected BLACK bottom. Image1 is the exact MALE model identity, outfit and background; image2 is exact FEMALE model identity, outfit and background. Preserve both identities, hair, faces/skin tones and physiques. Both must wear EXACT BLACK washed baggy wide-leg jeans, exact denim construction, five pockets, fly, waistband, belt loops and seams, no cargo pockets, matching all pockets, fly, waistband, seams and silhouette; pants/shorts stay unbranded. Preserve their own GREY short-sleeve tees with tiny BLACK offset two-bar SIDEFORM upper-left chest emblem, the man's OVERSIZED dropped-shoulder loose untucked tee, and plain white sneakers. Image3 is ONLY the POSE/CAMERA/FRAMING reference, NOT its people, garments, printed graphics, belts, footwear, lighting or backdrop. FULL BODY: woman on viewer LEFT in three-quarter stance leaning her upper back/shoulder lightly against the man's side, one leg extended slightly diagonally left; man on viewer RIGHT standing facing front, both hands relaxed in trouser pockets, shoulders relaxed. Match image3's close side-by-side leaning stance, balanced front camera shot. Both heads face toward camera with natural eye contact, no sideward wandering eyes. Show entire heads and all four white shoes with breathing room. Keep EXACT existing SIDEFORM pale WARM-GREIGE seamless studio background, smooth wall and floor, soft diffuse lighting and gentle coherent contact shadows matching images1/2; no cool blue or dark grey background. One continuous real studio frame, NO split line or collage. Portrait4:5 around1122x1402. No reference brands, no added accessories/sunglasses, no tattoos, no UI/text/captions/watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7f152c0f-9305-4c8f-833b-d273318f4a7c.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/drift-baggy-jean-black-duofull.png",
+      "asset": "sf-gallery-drift-baggy-jean-black-duofull.webp"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "black",
+      "view": "female",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-black-front.webp",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-black-front-480.webp"
+      ],
+      "prompt": "Generate one new full-body SIDEFORM companion-model product photograph for Drift Baggy Jean. Image1 defines EXACT selected BLACK washed baggy wide-leg jeans, exact denim construction, five pockets, fly, waistband, belt loops and seams, no cargo pockets and existing PALE WARM-GREIGE studio wall and seamless floor, soft light/shadows and plain white sneakers. Image2 defines ONLY the female with shoulder-length wavy dark hair identity, exact face, hair, skin and physique; do not copy image2's upper garment. Put this exact companion model in the exact BLACK selected bottom from image1, matching actual pockets/seams/construction, unbranded pants/shorts. She wears a simple GREY short-sleeve tee with the same tiny black SIDEFORM offset TWO-BAR left chest emblem seen in image1. Relaxed neutral front standing pose, arms naturally down, head facing front, BOTH eyes naturally looking at camera. Show entire head, all garment hems and both white shoes with margins. Keep SAME warm studio background as image1, no blue/cool hue, no background redesign. Portrait4:5 around1122x1402 photoreal catalog image. No text/captions/UI/watermarks or extra logos.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-47242fc6-0c58-45b8-ad11-b0fd9423a499.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/drift-baggy-jean-black-female.png",
+      "asset": "sf-gallery-drift-baggy-jean-black-female.webp"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "black",
       "view": "front",
       "refs": [
         "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-black-front.jpg",
@@ -288,6 +358,48 @@
     {
       "handle": "drift-baggy-jean",
       "color": "grey",
+      "view": "duoclose",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e2924056-1e68-454d-810d-16d5ec62c8e4.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-grey-front.webp"
+      ],
+      "prompt": "Edit image1 for SIDEFORM drift-baggy-jean grey color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to GREY matching image2. BOTH wear same selected grey product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. ",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-f0e53e28-2b83-4afa-b1c0-74dc4786283f.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/drift-baggy-jean-grey-duoclose.png",
+      "asset": "sf-gallery-drift-baggy-jean-grey-duoclose.webp"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "grey",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7f152c0f-9305-4c8f-833b-d273318f4a7c.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-grey-front.webp"
+      ],
+      "prompt": "Edit image1 for SIDEFORM drift-baggy-jean grey color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to GREY matching image2. BOTH wear same selected grey product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. ",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-6ea0e3f6-67b7-491f-8a1d-c66103e7a652.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/drift-baggy-jean-grey-duofull.png",
+      "asset": "sf-gallery-drift-baggy-jean-grey-duofull.webp"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "grey",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-47242fc6-0c58-45b8-ad11-b0fd9423a499.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-grey-front.webp"
+      ],
+      "prompt": "Edit image1 changing ONLY its selected BLACK baggy wide-leg JEANS to the exact GREY fabric shade in image2. Image2 is garment COLOR and fabric reference ONLY, do not copy its person, pose or lighting. Preserve image1's identical companion model identity, exact face/hair/skin, front-facing head and natural eyes, GREY tee with BLACK SIDEFORM chest emblem, tee cut and folds, white sneakers, pose, full-body framing and pale WARM-GREIGE studio wall/floor and shadows. All pants/shorts seams, pockets, fly, waistband and fit identical; no pants logos. The GREY T-SHIRT MUST STAY GREY and the background must not shift cooler. No text/captions/watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-73a83384-2368-4f10-834a-fc64a8cd1ee6.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/drift-baggy-jean-grey-female.png",
+      "asset": "sf-gallery-drift-baggy-jean-grey-female.webp"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "grey",
       "view": "front",
       "refs": [
         "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-grey-front.jpg",
@@ -298,6 +410,48 @@
       "tool": "built-in image_gen",
       "original": "catalog/six-photo-gallery/drift-baggy-jean-grey-front.png",
       "asset": "sf-photo-drift-baggy-jean-grey-front.webp"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "white",
+      "view": "duoclose",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e2924056-1e68-454d-810d-16d5ec62c8e4.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-white-front.webp"
+      ],
+      "prompt": "Edit image1 for SIDEFORM drift-baggy-jean white color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to WHITE matching image2. BOTH wear same selected white product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. ",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e900e72c-756a-4b22-a324-0c2a77152e7d.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/drift-baggy-jean-white-duoclose.png",
+      "asset": "sf-gallery-drift-baggy-jean-white-duoclose.webp"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "white",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7f152c0f-9305-4c8f-833b-d273318f4a7c.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-white-front.webp"
+      ],
+      "prompt": "Edit image1 for SIDEFORM drift-baggy-jean white color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to WHITE matching image2. BOTH wear same selected white product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. ",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-377e9a61-3974-483c-a86f-467cae9bb4cc.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/drift-baggy-jean-white-duofull.png",
+      "asset": "sf-gallery-drift-baggy-jean-white-duofull.webp"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "white",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-47242fc6-0c58-45b8-ad11-b0fd9423a499.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-white-front.webp"
+      ],
+      "prompt": "Edit image1 changing ONLY its selected BLACK baggy wide-leg JEANS to the exact WHITE fabric shade in image2. Image2 is garment COLOR and fabric reference ONLY, do not copy its person, pose or lighting. Preserve image1's identical companion model identity, exact face/hair/skin, front-facing head and natural eyes, GREY tee with BLACK SIDEFORM chest emblem, tee cut and folds, white sneakers, pose, full-body framing and pale WARM-GREIGE studio wall/floor and shadows. All pants/shorts seams, pockets, fly, waistband and fit identical; no pants logos. The GREY T-SHIRT MUST STAY GREY and the background must not shift cooler. No text/captions/watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7ba8dd96-4bc1-4af4-b241-4653aa8eeecd.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/drift-baggy-jean-white-female.png",
+      "asset": "sf-gallery-drift-baggy-jean-white-female.webp"
     },
     {
       "handle": "drift-baggy-jean",
@@ -444,6 +598,50 @@
     {
       "handle": "grid-cargo-pant",
       "color": "black",
+      "view": "duoclose",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-black-front.webp",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c328e5e8-e2e7-49ab-9e6a-0dced90c2823.png",
+        "C:/Users/david/OneDrive/Pictures/Screenshots/Screenshot 2026-10-22 183158.png"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Grid Cargo Pant product gallery photograph featuring TWO models wearing the SAME selected BLACK bottom. Image1 is the exact MALE model identity, outfit and background; image2 is exact FEMALE model identity, outfit and background. Preserve both identities, hair, faces/skin tones and physiques. Both must wear EXACT BLACK wide-leg cargo trousers, exact side flap cargo pockets, waistband, belt loops, seams and rear pockets, matching all pockets, fly, waistband, seams and silhouette; pants/shorts stay unbranded. Preserve their own GREY short-sleeve tees with tiny BLACK offset two-bar SIDEFORM upper-left chest emblem, the man's OVERSIZED dropped-shoulder loose untucked tee, and plain white sneakers. Image3 is ONLY the POSE/CAMERA/FRAMING reference, NOT its people, garments, printed graphics, belts, footwear, lighting or backdrop. LOWER-BODY CLOSE-UP: copy image3's pose and crop: two models side by side, man on viewer LEFT, woman on viewer RIGHT slightly forward, hands tucked naturally into trouser side/front pockets, relaxed legs with slight angle/weight shift. Frame from LOWER CHEST through BOTH pairs of shoes. Heads are OUTSIDE the frame deliberately. Emphasize waistbands, trouser pockets, wide legs and hems. No need to show faces in this close-up. Keep EXACT existing SIDEFORM pale WARM-GREIGE seamless studio background, smooth wall and floor, soft diffuse lighting and gentle coherent contact shadows matching images1/2; no cool blue or dark grey background. One continuous real studio frame, NO split line or collage. Portrait4:5 around1122x1402. No reference brands, no added accessories/sunglasses, no tattoos, no UI/text/captions/watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a9139098-85b8-4ae2-a934-6f984f409711.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-black-duoclose.png",
+      "asset": "sf-gallery-grid-cargo-pant-black-duoclose.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "black",
+      "view": "duofull",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-black-front.webp",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c328e5e8-e2e7-49ab-9e6a-0dced90c2823.png",
+        "C:/Users/david/OneDrive/Pictures/Screenshots/Screenshot 2026-10-22 183032.png"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Grid Cargo Pant product gallery photograph featuring TWO models wearing the SAME selected BLACK bottom. Image1 is the exact MALE model identity, outfit and background; image2 is exact FEMALE model identity, outfit and background. Preserve both identities, hair, faces/skin tones and physiques. Both must wear EXACT BLACK wide-leg cargo trousers, exact side flap cargo pockets, waistband, belt loops, seams and rear pockets, matching all pockets, fly, waistband, seams and silhouette; pants/shorts stay unbranded. Preserve their own GREY short-sleeve tees with tiny BLACK offset two-bar SIDEFORM upper-left chest emblem, the man's OVERSIZED dropped-shoulder loose untucked tee, and plain white sneakers. Image3 is ONLY the POSE/CAMERA/FRAMING reference, NOT its people, garments, printed graphics, belts, footwear, lighting or backdrop. FULL BODY: woman on viewer LEFT in three-quarter stance leaning her upper back/shoulder lightly against the man's side, one leg extended slightly diagonally left; man on viewer RIGHT standing facing front, both hands relaxed in trouser pockets, shoulders relaxed. Match image3's close side-by-side leaning stance, balanced front camera shot. Both heads face toward camera with natural eye contact, no sideward wandering eyes. Show entire heads and all four white shoes with breathing room. Keep EXACT existing SIDEFORM pale WARM-GREIGE seamless studio background, smooth wall and floor, soft diffuse lighting and gentle coherent contact shadows matching images1/2; no cool blue or dark grey background. One continuous real studio frame, NO split line or collage. Portrait4:5 around1122x1402. No reference brands, no added accessories/sunglasses, no tattoos, no UI/text/captions/watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-fe89bde7-143a-4a58-a07f-f27c38948651.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-black-duofull.png",
+      "asset": "sf-gallery-grid-cargo-pant-black-duofull.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "black",
+      "view": "female",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-black-front.webp",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-black-front-480.webp"
+      ],
+      "prompt": "Generate one new full-body SIDEFORM companion-model product photograph for Grid Cargo Pant. Image1 defines EXACT selected BLACK wide-leg cargo trousers, exact side flap cargo pockets, waistband, belt loops, seams and rear pockets and existing PALE WARM-GREIGE studio wall and seamless floor, soft light/shadows and plain white sneakers. Image2 defines ONLY the female with shoulder-length wavy dark hair identity, exact face, hair, skin and physique; do not copy image2's upper garment. Put this exact companion model in the exact BLACK selected bottom from image1, matching actual pockets/seams/construction, unbranded pants/shorts. She wears a simple GREY short-sleeve tee with the same tiny black SIDEFORM offset TWO-BAR left chest emblem seen in image1. Relaxed neutral front standing pose, arms naturally down, head facing front, BOTH eyes naturally looking at camera. Show entire head, all garment hems and both white shoes with margins. Keep SAME warm studio background as image1, no blue/cool hue, no background redesign. Portrait4:5 around1122x1402 photoreal catalog image. No text/captions/UI/watermarks or extra logos.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c328e5e8-e2e7-49ab-9e6a-0dced90c2823.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-black-female.png",
+      "asset": "sf-gallery-grid-cargo-pant-black-female.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "black",
       "view": "front",
       "refs": [
         "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-d90ba742-13e9-43e0-9e1e-79b24a9eb2f1.png",
@@ -468,6 +666,49 @@
       "tool": "built-in image_gen",
       "original": "catalog/six-photo-gallery/grid-cargo-pant-black-full.png",
       "asset": "sf-gallery-grid-cargo-pant-black-full.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "grey",
+      "view": "duoclose",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a9139098-85b8-4ae2-a934-6f984f409711.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-grey-front.webp"
+      ],
+      "prompt": "Precise cleanup edit: REMOVE ALL swirling paisley maze-like artificial embossed patterns from BOTH grey T-shirts and BOTH grey cargo trousers. These garments are SOLID PLAIN cotton and plain washed grey twill, no printed or embossed patterns whatsoever. Natural fine cotton weave only, plain smooth matte fabric with original folds. Keep exact selected grey colors, original seams/pockets/buttons, bodies, pose, crop, white shoes and original warm pale greige background unchanged. Preserve tiny black two-bar chest logos. Do not add anything.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-38b1c842-4bc0-4edd-9943-9b31ca8144f5.png",
+      "tool": "built-in image_gen",
+      "previous_prompt": "Edit image1 for SIDEFORM grid-cargo-pant grey color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to GREY matching image2. BOTH wear same selected grey product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. ",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-grey-duoclose.png",
+      "asset": "sf-gallery-grid-cargo-pant-grey-duoclose.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "grey",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-fe89bde7-143a-4a58-a07f-f27c38948651.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-grey-front.webp"
+      ],
+      "prompt": "Edit image1 for SIDEFORM grid-cargo-pant grey color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to GREY matching image2. BOTH wear same selected grey product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. ",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-16371d87-0133-4359-bc13-51424d89adc3.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-grey-duofull.png",
+      "asset": "sf-gallery-grid-cargo-pant-grey-duofull.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "grey",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c328e5e8-e2e7-49ab-9e6a-0dced90c2823.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-grey-front.webp"
+      ],
+      "prompt": "Edit image1 changing ONLY its selected BLACK wide-leg CARGO TROUSERS to the exact GREY fabric shade in image2. Image2 is garment COLOR and fabric reference ONLY, do not copy its person, pose or lighting. Preserve image1's identical companion model identity, exact face/hair/skin, front-facing head and natural eyes, GREY tee with BLACK SIDEFORM chest emblem, tee cut and folds, white sneakers, pose, full-body framing and pale WARM-GREIGE studio wall/floor and shadows. All pants/shorts seams, pockets, fly, waistband and fit identical; no pants logos. The GREY T-SHIRT MUST STAY GREY and the background must not shift cooler. No text/captions/watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7937e7f9-f6c7-4dc0-a883-c98e050e4f55.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-grey-female.png",
+      "asset": "sf-gallery-grid-cargo-pant-grey-female.webp"
     },
     {
       "handle": "grid-cargo-pant",
@@ -500,6 +741,48 @@
     {
       "handle": "grid-cargo-pant",
       "color": "white",
+      "view": "duoclose",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a9139098-85b8-4ae2-a934-6f984f409711.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-white-front.webp"
+      ],
+      "prompt": "Edit image1 for SIDEFORM grid-cargo-pant white color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to WHITE matching image2. BOTH wear same selected white product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. ",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-72cbad1d-79c0-4755-ad08-fa877de8d157.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-white-duoclose.png",
+      "asset": "sf-gallery-grid-cargo-pant-white-duoclose.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "white",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-fe89bde7-143a-4a58-a07f-f27c38948651.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-white-front.webp"
+      ],
+      "prompt": "Edit image1 for SIDEFORM grid-cargo-pant white color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to WHITE matching image2. BOTH wear same selected white product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. ",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-57cbfe4c-72d6-490e-90f1-b23808c261ad.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-white-duofull.png",
+      "asset": "sf-gallery-grid-cargo-pant-white-duofull.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "white",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c328e5e8-e2e7-49ab-9e6a-0dced90c2823.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-white-front.webp"
+      ],
+      "prompt": "Edit image1 changing ONLY its selected BLACK wide-leg CARGO TROUSERS to the exact WHITE fabric shade in image2. Image2 is garment COLOR and fabric reference ONLY, do not copy its person, pose or lighting. Preserve image1's identical companion model identity, exact face/hair/skin, front-facing head and natural eyes, GREY tee with BLACK SIDEFORM chest emblem, tee cut and folds, white sneakers, pose, full-body framing and pale WARM-GREIGE studio wall/floor and shadows. All pants/shorts seams, pockets, fly, waistband and fit identical; no pants logos. The GREY T-SHIRT MUST STAY GREY and the background must not shift cooler. No text/captions/watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-17807496-4c9f-4e93-b65b-c2efbafb4a5f.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-white-female.png",
+      "asset": "sf-gallery-grid-cargo-pant-white-female.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "white",
       "view": "front",
       "refs": [
         "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-47cdbb26-25c8-4ba0-b009-c5ffba3b71cf.png",
@@ -528,6 +811,36 @@
     {
       "handle": "interval-utility-short",
       "color": "black",
+      "view": "duoclose",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9f772667-0b1f-4e54-ac79-6d54e1a89d83.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-black-front.webp",
+        "C:/Users/david/OneDrive/Pictures/Screenshots/Screenshot 2026-10-22 183344.png"
+      ],
+      "prompt": "Tighter heads-to-below-knees framing. Create ONE photoreal SIDEFORM Interval Utility Short product gallery photograph featuring TWO models wearing the SAME selected BLACK bottom. Image1 is the exact MALE model identity, outfit and background; image2 is exact FEMALE model identity, outfit and background. Preserve both identities, hair, faces/skin tones and physiques. Both must wear EXACT BLACK knee-length utility cargo shorts, exact broad legs, waistband, belt loops, fly, side flap cargo pockets and seams, matching all pockets, fly, waistband, seams and silhouette; pants/shorts stay unbranded. Preserve their own GREY short-sleeve tees with tiny BLACK offset two-bar SIDEFORM upper-left chest emblem, the man's OVERSIZED dropped-shoulder loose untucked tee, and plain white sneakers. Image3 is ONLY the POSE/CAMERA/FRAMING reference, NOT its people, garments, printed graphics, belts, footwear, lighting or backdrop. CLOSE PAIRED SHOT: copy image3's placement/stance, man on viewer LEFT slightly behind and woman on viewer RIGHT in foreground; man relaxed front-facing with hand in shorts pocket, woman facing front with arms naturally down and gentle weight shift. Frame from full heads to just BELOW KNEES so the shorts, waist fit and cargo pockets are prominent. This is a tighter medium shot than image3, not a distant full-body photo. Both faces look naturally toward camera. Keep EXACT existing SIDEFORM pale WARM-GREIGE seamless studio background, smooth wall and floor, soft diffuse lighting and gentle coherent contact shadows matching images1/2; no cool blue or dark grey background. One continuous real studio frame, NO split line or collage. Portrait4:5 around1122x1402. No reference brands, no added accessories/sunglasses, no tattoos, no UI/text/captions/watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-99bdbbe7-16b6-48df-ab23-d8e09136ba15.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/interval-utility-short-black-duoclose.png",
+      "asset": "sf-gallery-interval-utility-short-black-duoclose.webp"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "black",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9f772667-0b1f-4e54-ac79-6d54e1a89d83.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-black-front.webp",
+        "C:/Users/david/OneDrive/Pictures/Screenshots/Screenshot 2026-10-22 183451.png"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Interval Utility Short product gallery photograph featuring TWO models wearing the SAME selected BLACK bottom. Image1 is the exact MALE model identity, outfit and background; image2 is exact FEMALE model identity, outfit and background. Preserve both identities, hair, faces/skin tones and physiques. Both must wear EXACT BLACK knee-length utility cargo shorts, exact broad legs, waistband, belt loops, fly, side flap cargo pockets and seams, matching all pockets, fly, waistband, seams and silhouette; pants/shorts stay unbranded. Preserve their own GREY short-sleeve tees with tiny BLACK offset two-bar SIDEFORM upper-left chest emblem, the man's OVERSIZED dropped-shoulder loose untucked tee, and plain white sneakers. Image3 is ONLY the POSE/CAMERA/FRAMING reference, NOT its people, garments, printed graphics, belts, footwear, lighting or backdrop. FULL BODY: woman on viewer LEFT in a relaxed three-quarter stance leaning lightly back toward the man, one hand casually in a shorts pocket, one knee softly bent; man on viewer RIGHT facing front with a broad relaxed stance and hands resting naturally at pockets/behind his body. Their shoulders/backs lightly touch. Copy image3's body positions and lowish camera angle. Show both entire heads and both pairs of shoes with margins. Keep EXACT existing SIDEFORM pale WARM-GREIGE seamless studio background, smooth wall and floor, soft diffuse lighting and gentle coherent contact shadows matching images1/2; no cool blue or dark grey background. One continuous real studio frame, NO split line or collage. Portrait4:5 around1122x1402. No reference brands, no added accessories/sunglasses, no tattoos, no UI/text/captions/watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-221f7367-07b8-439b-b8ee-177bb903876d.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/interval-utility-short-black-duofull.png",
+      "asset": "sf-gallery-interval-utility-short-black-duofull.webp"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "black",
       "view": "front",
       "refs": [
         "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-black-front.jpg",
@@ -538,6 +851,48 @@
       "tool": "built-in image_gen",
       "original": "catalog/six-photo-gallery/interval-utility-short-black-front.png",
       "asset": "sf-photo-interval-utility-short-black-front.webp"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "black",
+      "view": "male",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-black-front.webp",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-black-front-480.webp"
+      ],
+      "prompt": "Generate one new full-body SIDEFORM companion-model product photograph for Interval Utility Short. Image1 defines EXACT selected BLACK knee-length utility cargo shorts, exact broad legs, waistband, belt loops, fly, side flap cargo pockets and seams and existing PALE WARM-GREIGE studio wall and seamless floor, soft light/shadows and plain white sneakers. Image2 defines ONLY the curly-haired male identity, exact face, hair, skin and physique; do not copy image2's upper garment. Put this exact companion model in the exact BLACK selected bottom from image1, matching actual pockets/seams/construction, unbranded pants/shorts. He wears an OVERSIZED loose GREY short-sleeve tee with dropped shoulders and loose untucked hip-length hem, with the same tiny black SIDEFORM offset TWO-BAR left chest emblem seen in image1. Relaxed neutral front standing pose, arms naturally down, head facing front, BOTH eyes naturally looking at camera. Show entire head, all garment hems and both white shoes with margins. Keep SAME warm studio background as image1, no blue/cool hue, no background redesign. Portrait4:5 around1122x1402 photoreal catalog image. No text/captions/UI/watermarks or extra logos.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9f772667-0b1f-4e54-ac79-6d54e1a89d83.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/interval-utility-short-black-male.png",
+      "asset": "sf-gallery-interval-utility-short-black-male.webp"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "grey",
+      "view": "duoclose",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9478bfa4-01be-46b3-a9bd-854f97e111b4.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-grey-front.webp"
+      ],
+      "prompt": "Edit image1 for SIDEFORM interval-utility-short grey color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to GREY matching image2. BOTH wear same selected grey product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. Tighten framing to heads through just below knees, exclude shoes so this is closer than the full-body photograph.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9d9f3728-2d3c-4e53-b930-d5da90f010ea.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/interval-utility-short-grey-duoclose.png",
+      "asset": "sf-gallery-interval-utility-short-grey-duoclose.webp"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "grey",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-221f7367-07b8-439b-b8ee-177bb903876d.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-grey-front.webp"
+      ],
+      "prompt": "Edit image1 for SIDEFORM interval-utility-short grey color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to GREY matching image2. BOTH wear same selected grey product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. ",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b3e85300-1444-4fed-9802-08fc71c1eb4c.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/interval-utility-short-grey-duofull.png",
+      "asset": "sf-gallery-interval-utility-short-grey-duofull.webp"
     },
     {
       "handle": "interval-utility-short",
@@ -555,6 +910,48 @@
     },
     {
       "handle": "interval-utility-short",
+      "color": "grey",
+      "view": "male",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9f772667-0b1f-4e54-ac79-6d54e1a89d83.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-grey-front.webp"
+      ],
+      "prompt": "Edit image1 changing ONLY its selected BLACK utility cargo SHORTS to the exact GREY fabric shade in image2. Image2 is garment COLOR and fabric reference ONLY, do not copy its person, pose or lighting. Preserve image1's identical companion model identity, exact face/hair/skin, front-facing head and natural eyes, GREY tee with BLACK SIDEFORM chest emblem, tee cut and folds, white sneakers, pose, full-body framing and pale WARM-GREIGE studio wall/floor and shadows. All pants/shorts seams, pockets, fly, waistband and fit identical; no pants logos. The GREY T-SHIRT MUST STAY GREY and the background must not shift cooler. No text/captions/watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-af6afd03-3c77-4af3-a97f-9e24d01ef20d.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/interval-utility-short-grey-male.png",
+      "asset": "sf-gallery-interval-utility-short-grey-male.webp"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "white",
+      "view": "duoclose",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9478bfa4-01be-46b3-a9bd-854f97e111b4.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-white-front.webp"
+      ],
+      "prompt": "Edit image1 for SIDEFORM interval-utility-short white color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to WHITE matching image2. BOTH wear same selected white product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. Tighten framing to heads through just below knees, exclude shoes so this is closer than the full-body photograph.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-43f4f1b3-26c9-4c60-a817-1bf775dd9031.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/interval-utility-short-white-duoclose.png",
+      "asset": "sf-gallery-interval-utility-short-white-duoclose.webp"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "white",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-221f7367-07b8-439b-b8ee-177bb903876d.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-white-front.webp"
+      ],
+      "prompt": "Edit image1 for SIDEFORM interval-utility-short white color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to WHITE matching image2. BOTH wear same selected white product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. ",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-f4de9d65-131b-417d-bd89-20abe8266c6b.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/interval-utility-short-white-duofull.png",
+      "asset": "sf-gallery-interval-utility-short-white-duofull.webp"
+    },
+    {
+      "handle": "interval-utility-short",
       "color": "white",
       "view": "front",
       "refs": [
@@ -566,6 +963,20 @@
       "tool": "built-in image_gen",
       "original": "catalog/six-photo-gallery/interval-utility-short-white-front.png",
       "asset": "sf-photo-interval-utility-short-white-front.webp"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "white",
+      "view": "male",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9f772667-0b1f-4e54-ac79-6d54e1a89d83.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-white-front.webp"
+      ],
+      "prompt": "Edit image1 changing ONLY its selected BLACK utility cargo SHORTS to the exact WHITE fabric shade in image2. Image2 is garment COLOR and fabric reference ONLY, do not copy its person, pose or lighting. Preserve image1's identical companion model identity, exact face/hair/skin, front-facing head and natural eyes, GREY tee with BLACK SIDEFORM chest emblem, tee cut and folds, white sneakers, pose, full-body framing and pale WARM-GREIGE studio wall/floor and shadows. All pants/shorts seams, pockets, fly, waistband and fit identical; no pants logos. The GREY T-SHIRT MUST STAY GREY and the background must not shift cooler. No text/captions/watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a3a117bc-afd3-4064-ba8e-06fdb69e7f35.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/interval-utility-short-white-male.png",
+      "asset": "sf-gallery-interval-utility-short-white-male.webp"
     },
     {
       "handle": "offset-heavy-tee",

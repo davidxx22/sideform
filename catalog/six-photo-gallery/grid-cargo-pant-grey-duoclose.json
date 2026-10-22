@@ -1,0 +1,13 @@
+{
+  "handle": "grid-cargo-pant",
+  "color": "grey",
+  "view": "duoclose",
+  "refs": [
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a9139098-85b8-4ae2-a934-6f984f409711.png",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-grey-front.webp"
+  ],
+  "prompt": "Precise cleanup edit: REMOVE ALL swirling paisley maze-like artificial embossed patterns from BOTH grey T-shirts and BOTH grey cargo trousers. These garments are SOLID PLAIN cotton and plain washed grey twill, no printed or embossed patterns whatsoever. Natural fine cotton weave only, plain smooth matte fabric with original folds. Keep exact selected grey colors, original seams/pockets/buttons, bodies, pose, crop, white shoes and original warm pale greige background unchanged. Preserve tiny black two-bar chest logos. Do not add anything.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-38b1c842-4bc0-4edd-9943-9b31ca8144f5.png",
+  "tool": "built-in image_gen",
+  "previous_prompt": "Edit image1 for SIDEFORM grid-cargo-pant grey color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to GREY matching image2. BOTH wear same selected grey product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. "
+}

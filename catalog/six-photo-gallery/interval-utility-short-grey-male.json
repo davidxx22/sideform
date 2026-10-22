@@ -1,0 +1,12 @@
+{
+  "handle": "interval-utility-short",
+  "color": "grey",
+  "view": "male",
+  "refs": [
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9f772667-0b1f-4e54-ac79-6d54e1a89d83.png",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-grey-front.webp"
+  ],
+  "prompt": "Edit image1 changing ONLY its selected BLACK utility cargo SHORTS to the exact GREY fabric shade in image2. Image2 is garment COLOR and fabric reference ONLY, do not copy its person, pose or lighting. Preserve image1's identical companion model identity, exact face/hair/skin, front-facing head and natural eyes, GREY tee with BLACK SIDEFORM chest emblem, tee cut and folds, white sneakers, pose, full-body framing and pale WARM-GREIGE studio wall/floor and shadows. All pants/shorts seams, pockets, fly, waistband and fit identical; no pants logos. The GREY T-SHIRT MUST STAY GREY and the background must not shift cooler. No text/captions/watermarks.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-af6afd03-3c77-4af3-a97f-9e24d01ef20d.png",
+  "tool": "built-in image_gen"
+}

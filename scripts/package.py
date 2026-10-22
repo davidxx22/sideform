@@ -10,7 +10,7 @@ with zipfile.ZipFile(root/'artifacts/SIDEFORM-product-photos.zip','w',zipfile.ZI
     for p in sorted(list((theme/'assets').glob('sf-photo-*.jpg'))+list((theme/'assets').glob('sf-gallery-*.jpg'))):
         if not p.stem.endswith('-480'):archive.write(p,p.name)
     for p in sorted((theme/'assets').glob('sf-gallery-*.webp')):
-        if not p.stem.endswith('-480') and any(p.stem.endswith('-'+view) for view in ['male','female','duolow','duofull']):archive.write(p,p.name)
+        if not p.stem.endswith('-480') and any(p.stem.endswith('-'+view) for view in ['male','female','duolow','duofull','duoclose']):archive.write(p,p.name)
     if (root/'catalog/six-photo-gallery/generation.json').exists():archive.write(root/'catalog/six-photo-gallery/generation.json','six-photo-generation.json')
     if (root/'catalog/six-photo-gallery/media-manifest.csv').exists():archive.write(root/'catalog/six-photo-gallery/media-manifest.csv','active-gallery-media-manifest.csv')
     if (root/'catalog/product-photo-manifest.csv').exists():archive.write(root/'catalog/product-photo-manifest.csv','product-photo-manifest.csv')
@@ -35,6 +35,8 @@ with zipfile.ZipFile(root/'artifacts/SIDEFORM-handoff.zip','w',zipfile.ZIP_DEFLA
         if (root/'artifacts'/name).exists():archive.write(root/'artifacts'/name,'artifacts/'+name)
     for name in ['product-experience-validation.json','product-detail-1440.png','product-detail-390.png','product-features-1440.png','product-features-390.png']:
         if (root/'artifacts'/name).exists():archive.write(root/'artifacts'/name,'artifacts/'+name)
+    for p in sorted((root/'artifacts').glob('bottoms-*')):
+        if p.is_file():archive.write(root/p,p.relative_to(root).as_posix())
     for p in sorted((root/'artifacts').glob('cart-selection-*')):
         if p.is_file():archive.write(p,p.relative_to(root).as_posix())
     for p in sorted((root/'catalog/six-photo-gallery').glob('*')):

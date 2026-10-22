@@ -111,8 +111,10 @@
     {
       "handle": "grid-cargo-pant",
       "views": [
-        "front",
-        "full",
+        "male",
+        "duoclose",
+        "duofull",
+        "female",
         "lineup",
         "detail"
       ],
@@ -121,8 +123,10 @@
     {
       "handle": "drift-baggy-jean",
       "views": [
-        "front",
-        "full",
+        "male",
+        "duoclose",
+        "duofull",
+        "female",
         "lineup",
         "detail"
       ],
@@ -131,15 +135,17 @@
     {
       "handle": "interval-utility-short",
       "views": [
-        "front",
-        "full",
+        "female",
+        "duoclose",
+        "duofull",
+        "male",
         "lineup",
         "detail"
       ],
       "desktopGrid": true
     }
   ],
-  "zoomProducts": 3,
+  "zoomProducts": 5,
   "responsiveWidths": [
     320,
     390,

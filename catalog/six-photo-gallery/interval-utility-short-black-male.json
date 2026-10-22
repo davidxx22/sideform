@@ -1,0 +1,12 @@
+{
+  "handle": "interval-utility-short",
+  "color": "black",
+  "view": "male",
+  "refs": [
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-black-front.webp",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-black-front-480.webp"
+  ],
+  "prompt": "Generate one new full-body SIDEFORM companion-model product photograph for Interval Utility Short. Image1 defines EXACT selected BLACK knee-length utility cargo shorts, exact broad legs, waistband, belt loops, fly, side flap cargo pockets and seams and existing PALE WARM-GREIGE studio wall and seamless floor, soft light/shadows and plain white sneakers. Image2 defines ONLY the curly-haired male identity, exact face, hair, skin and physique; do not copy image2's upper garment. Put this exact companion model in the exact BLACK selected bottom from image1, matching actual pockets/seams/construction, unbranded pants/shorts. He wears an OVERSIZED loose GREY short-sleeve tee with dropped shoulders and loose untucked hip-length hem, with the same tiny black SIDEFORM offset TWO-BAR left chest emblem seen in image1. Relaxed neutral front standing pose, arms naturally down, head facing front, BOTH eyes naturally looking at camera. Show entire head, all garment hems and both white shoes with margins. Keep SAME warm studio background as image1, no blue/cool hue, no background redesign. Portrait4:5 around1122x1402 photoreal catalog image. No text/captions/UI/watermarks or extra logos.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9f772667-0b1f-4e54-ac79-6d54e1a89d83.png",
+  "tool": "built-in image_gen"
+}

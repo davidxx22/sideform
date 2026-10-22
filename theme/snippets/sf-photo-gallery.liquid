@@ -7,14 +7,19 @@
       {% assign views = 'front,back,detail' | split: ',' %}
       {% if product.tags contains 'sf-four-photo-gallery' %}{% assign views = 'front,full,lineup,detail' | split: ',' %}{% endif %}
       {% if product.tags contains 'tops' or product.tags contains 'outerwear' %}{% assign views = 'male,duolow,duofull,female,lineup,detail' | split: ',' %}{% endif %}
+      {% assign bottom_handles = 'grid-cargo-pant,drift-baggy-jean,interval-utility-short' | split: ',' %}
+      {% if bottom_handles contains product.handle %}{% assign views = 'male,duoclose,duofull,female,lineup,detail' | split: ',' %}{% endif %}
+      {% if product.handle == 'interval-utility-short' %}{% assign views = 'female,duoclose,duofull,male,lineup,detail' | split: ',' %}{% endif %}
       {% for view in views %}
         {% assign view_label = view %}
         {% case view %}
           {% when 'male' %}{% assign view_label = 'male half-body' %}
           {% when 'female' %}{% assign view_label = 'female half-body' %}
+          {% when 'duoclose' %}{% assign view_label = 'two-model close-up' %}
           {% when 'duolow' %}{% assign view_label = 'two-model low-angle' %}
           {% when 'duofull' %}{% assign view_label = 'two-model full-body' %}
         {% endcase %}
+        {% if bottom_handles contains product.handle %}{% assign view_label = view_label | replace: 'half-body', 'full-body' %}{% endif %}
         <button class="sf-photo-gallery__tile" type="button" data-sf-view="{{ view }}" data-sf-enlarge aria-label="Enlarge {{ view_label }} photograph">
           {% render 'sf-product-image', product: product, color: initial_color, view: view, sizes: '(min-width: 990px) 30vw, (min-width: 750px) 48vw, 92vw' %}
           {% if view == 'male' or view == 'female' %}{% render 'sf-model-caption', product: product, gender: view %}{% elsif view == 'front' or view == 'full' %}{% render 'sf-model-caption', product: product %}{% endif %}

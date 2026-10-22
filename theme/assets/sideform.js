@@ -274,7 +274,7 @@
       this.sfPhotoRequest = request;
       const updates = [...this.querySelectorAll('.sf-photo-gallery__grid img')].map(img => {
         const view = img.closest('[data-sf-view]')?.dataset.sfView || this.view;
-        const replacePhoto = url => url.replace(/-(black|white|grey)-(front|back|detail|full|lineup|male|female|duolow|duofull)(-480)?\.(?:webp|jpg)/g, (_, previous, angle, small) => `-${color}-${view}${small || ''}.webp`);
+        const replacePhoto = url => url.replace(/-(black|white|grey)-(front|back|detail|full|lineup|male|female|duolow|duofull|duoclose)(-480)?\.(?:webp|jpg)/g, (_, previous, angle, small) => `-${color}-${view}${small || ''}.webp`);
         return { img, view, src: replacePhoto(img.src), srcset: replacePhoto(img.srcset) };
       });
       this.setAttribute('aria-busy', 'true');
@@ -293,8 +293,7 @@
           if (srcset) img.srcset = srcset;
           else img.removeAttribute('srcset');
           img.src = src;
-          const description = {front:'on-model front',full:'on-model full',male:'male half-body',female:'female half-body',duolow:'two-model low-angle',duofull:'two-model full-body'}[view] || view;
-          img.alt = img.alt.replace(/, (black|white|grey), [^,]+ view\./i, `, ${color}, ${description} view.`);
+          img.alt = img.alt.replace(/, (black|white|grey),/i, ', ' + color + ',');
         });
         this.dataset.color = color;
         this.querySelectorAll('[data-sf-view]').forEach(button => {

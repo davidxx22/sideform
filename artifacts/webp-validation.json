@@ -4,7 +4,7 @@
     "products": 12,
     "colors": 3,
     "topsPhotosPerColor": 6,
-    "bottomsPhotosPerColor": 4,
+    "bottomsPhotosPerColor": 6,
     "atomicSwap": true,
     "staleRequestGuard": true,
     "failedImageRetainsPrevious": true
@@ -14,7 +14,7 @@
     "products": 12,
     "colors": 3,
     "topsPhotosPerColor": 6,
-    "bottomsPhotosPerColor": 4,
+    "bottomsPhotosPerColor": 6,
     "atomicSwap": true,
     "staleRequestGuard": true,
     "failedImageRetainsPrevious": true

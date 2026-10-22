@@ -1,0 +1,12 @@
+{
+  "handle": "interval-utility-short",
+  "color": "white",
+  "view": "duoclose",
+  "refs": [
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9478bfa4-01be-46b3-a9bd-854f97e111b4.png",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-white-front.webp"
+  ],
+  "prompt": "Edit image1 for SIDEFORM interval-utility-short white color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to WHITE matching image2. BOTH wear same selected white product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. Tighten framing to heads through just below knees, exclude shoes so this is closer than the full-body photograph.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-43f4f1b3-26c9-4c60-a817-1bf775dd9031.png",
+  "tool": "built-in image_gen"
+}

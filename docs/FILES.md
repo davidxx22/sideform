@@ -72,7 +72,7 @@ The earlier `site/` prototype is retained for history and is not in the theme up
 - `scripts/test-product-experience.cjs` — layout, favorites, galleries, variant, sizing and cart verification.
 
 
-- Legacy gallery-enabling tag (tops/outerwear now select six views, bottoms four): tag `sf-four-photo-gallery` in catalog JSON/CSV, consumed by `sections/main-product.liquid`, `snippets/sf-photo-gallery.liquid` and `sf-product-image.liquid`; color changes handled by `SfPhotoGallery` in `assets/sideform.js`.
+- Legacy gallery-enabling tag (all twelve products now select six views): tag `sf-four-photo-gallery` in catalog JSON/CSV, consumed by `sections/main-product.liquid`, `snippets/sf-photo-gallery.liquid` and `sf-product-image.liquid`; color changes handled by `SfPhotoGallery` in `assets/sideform.js`.
 - `catalog/offset-four-photo/`: six final full-body/hanger PNGs; `offset-four-photo-generation.json` and `offset-hanger-generation.json`: built-in imagegen prompts and references. `sf-gallery-offset-heavy-tee-*` assets provide full/480px JPEGs.
 - `scripts/test-offset-gallery.cjs`: four-view order, three colors, twelve zoom/focus checks, two model captions, 2×2 equal-size tiles at desktop/mobile, no overflow, and unchanged native gallery for Plain Box Tee.
 
@@ -83,6 +83,6 @@ The earlier `site/` prototype is retained for history and is not in the theme up
 
 - `sections/sf-shop-by-category.liquid`, `sections/sf-new-arrivals.liquid`, `templates/index.json`: five category image links and four curated product cards, replacing the previous large homepage product grid/editorial collage. Collection definitions and imported tags are in `catalog/collections.json`, catalog JSON/CSV and the generator. No new image generation required; existing approved imagery is reused.
 
-- catalog/six-photo-gallery/: final generated originals and exact built-in imagegen prompts/reference records for six-view upper galleries and updated cargo model. scripts/install-six-photo-gallery.py exports optimized full/480px WebP copies.
+- catalog/six-photo-gallery/: final generated originals and exact built-in imagegen prompts/reference records for six-view galleries across all twelve products. scripts/install-six-photo-gallery.py exports optimized full/480px WebP copies.
 
 - Cart multi-selection: assets/sf-cart-selection.js, snippets/sf-cart-selection.liquid and sf-cart-select-item.liquid; available in the drawer and full cart page. scripts/test-cart-selection.cjs verifies bulk removal, native quantity controls and error recovery in Chromium/WebKit.
