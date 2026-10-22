@@ -89,6 +89,7 @@
         >
           <div id="CartDrawer-CartItems" class="drawer__contents js-contents">
             {%- if cart != empty -%}
+              {% render 'sf-cart-selection' %}
               <div class="drawer__cart-items-wrapper">
                 <table class="cart-items" role="table">
                   <thead role="rowgroup">
@@ -133,6 +134,7 @@
                           role="cell"
                           headers="CartDrawer-ColumnProductImage"
                         >
+                          {% render 'sf-cart-select-item', item: item %}
                           {% if item.image %}
                             {% comment %} Leave empty space due to a:empty CSS display: none rule {% endcomment %}
                             <a href="{{ item.url }}" class="cart-item__link" tabindex="-1" aria-hidden="true"> </a>

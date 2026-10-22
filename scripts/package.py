@@ -35,6 +35,8 @@ with zipfile.ZipFile(root/'artifacts/SIDEFORM-handoff.zip','w',zipfile.ZIP_DEFLA
         if (root/'artifacts'/name).exists():archive.write(root/'artifacts'/name,'artifacts/'+name)
     for name in ['product-experience-validation.json','product-detail-1440.png','product-detail-390.png','product-features-1440.png','product-features-390.png']:
         if (root/'artifacts'/name).exists():archive.write(root/'artifacts'/name,'artifacts/'+name)
+    for p in sorted((root/'artifacts').glob('cart-selection-*')):
+        if p.is_file():archive.write(p,p.relative_to(root).as_posix())
     for p in sorted((root/'catalog/six-photo-gallery').glob('*')):
         if p.is_file():archive.write(p,p.relative_to(root).as_posix())
     for p in sorted((root/'catalog/product-gallery-photos').glob('*.png')):

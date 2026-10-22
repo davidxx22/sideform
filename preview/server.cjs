@@ -123,12 +123,25 @@ const headCss=`:root{--font-body-family:Arial,sans-serif;--font-heading-family:A
 async function layout(content,ctx){
  const hg=JSON.parse(read('sections/header-group.json'));let header='';for(const id of hg.order)header+=await renderSection(hg.sections[id].type,id,hg.sections[id],ctx);
  const footer=await renderSection('sf-footer','footer',{settings:{}},ctx);
- const js=['constants.js','pubsub.js','global.js','details-disclosure.js','details-modal.js','search-form.js','sideform.js','sf-cart-sync.js'];
+ const js=['constants.js','pubsub.js','global.js','details-disclosure.js','details-modal.js','search-form.js','sideform.js','sf-cart-sync.js','sf-cart-selection.js'];
  const css=['base.css','component-cart-drawer.css','component-cart.css','component-cart-items.css','component-totals.css','component-price.css','component-discounts.css','sideform.css'];
  if(settings.predictive_search_enabled){css.push('component-predictive-search.css');js.push('predictive-search.js')}
  return `<!doctype html><html lang="en" class="js"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>SIDEFORM</title><link rel="icon" type="image/svg+xml" href="/assets/sideform-favicon.svg"><style>${headCss}</style>${css.map(s=>`<link rel="stylesheet" href="/assets/${s}">`).join('')}<script>window.Shopify={designMode:false};window.StandardEvents={createViewEventElement:(Base=HTMLElement)=>class extends Base{connectedCallback(){}disconnectedCallback(){}dispatchViewEvent(){}}};window.shopUrl=location.origin;window.routes=${JSON.stringify(ctx.routes)};window.variantStrings={addToCart:'Add to cart',soldOut:'Sold out',unavailable:'Unavailable'};window.cartStrings={error:'Unable to update cart',quantityError:'Only [quantity] available'};window.accessibilityStrings={imageAvailable:'Image [index] available',shareSuccess:'Link copied'};</script>${js.map(s=>`<script src="/assets/${s}" defer></script>`).join('')}</head><body><a class="skip-to-content-link button visually-hidden" href="#MainContent">Skip to content</a>${await drawer(ctx)}${header}<main id="MainContent" class="content-for-layout focus-none" tabindex="-1">${content}</main>${footer}<script src="/assets/cart-drawer.js" defer></script></body></html>`;
 }
-async function sections(ctx){return {'cart-drawer':await drawer(ctx),'cart-icon-bubble':`<div class="shopify-section">${await engine.renderFile('cart-icon-bubble',{}, {globals:ctx})}</div>`}}
+async function sections(ctx, requested=['cart-drawer','cart-icon-bubble']){
+ const output={};
+ const cartTemplate=JSON.parse(read('templates/cart.json'));
+ for(const id of typeof requested==='string'?requested.split(','):requested){
+  if(id==='cart-drawer')output[id]=await drawer(ctx);
+  else if(id==='cart-icon-bubble'||id==='cart-live-region-text')output[id]='<div class="shopify-section">'+await engine.renderFile(id,{}, {globals:ctx})+'</div>';
+  else {
+   const key=id==='main-cart-items'?'cart-items':id==='main-cart-footer'?'cart-footer':id;
+   const section=cartTemplate.sections[key];
+   if(section)output[id]=await renderSection(section.type,key,section,ctx);
+  }
+ }
+ return output;
+}
 async function parseBody(req){if(req.body && typeof req.body==='object' && !Buffer.isBuffer(req.body))return req.body;let text=typeof req.body==='string'?req.body:'';for await (const part of req)text+=part; if(req.headers['content-type']?.includes('json'))return JSON.parse(text);if(req.headers['content-type']?.includes('multipart')){const fields={};for(const m of text.matchAll(/name="([^"]+)"\r\n\r\n([\s\S]*?)(?=\r\n--)/g))fields[m[1]]=m[2];return fields}return Object.fromEntries(new URLSearchParams(text))}
 const handler=async(req,res)=>{
  try{
@@ -142,14 +155,24 @@ const handler=async(req,res)=>{
   if(/^\/variants\/\d+\/?$/.test(url.pathname)&&url.searchParams.get('section_id')==='pickup-availability')return send('<div class="shopify-section"></div>');
   if(url.pathname==='/photo-review')return send(fs.readFileSync(path.join(__dirname,'photography-review.html'),'utf8'));
   if(url.pathname==='/favicon.ico')return send(fs.readFileSync(path.join(theme,'assets/sideform-favicon.svg')),'image/svg+xml');
-  if(url.searchParams.has('sections')&&req.method==='GET')return send(JSON.stringify(await sections(ctx)),'application/json');
+  if(url.searchParams.has('sections')&&req.method==='GET')return send(JSON.stringify(await sections(ctx,url.searchParams.get('sections'))),'application/json');
   if(url.pathname==='/cart.json'||url.pathname==='/cart.js')return send(JSON.stringify(ctx.cart),'application/json');
   if(['/cart/add','/cart/add.js','/cart/change','/cart/change.js','/cart/update','/cart/update.js'].includes(url.pathname)&&req.method==='POST'){
    const body=await parseBody(req);
    if(url.pathname.includes('/add')){const p=ctx.products.find(p=>p.variants.some(v=>v.id==body.id)),v=p?.variants.find(v=>v.id==body.id);const qty=Number(body.quantity||1);const old=bag.find(l=>l.id===v?.id);if(!v||qty<1||!v.available||qty+(old?.quantity||0)>v.inventory_quantity)return send(JSON.stringify({status:422,description:'This sample variant is sold out or exceeds the sample stock.'}),'application/json',422);if(old)old.quantity+=qty;else bag.push({id:v.id,quantity:qty})}
    if(url.pathname.includes('/change')){const line=bag[Number(body.line)-1];if(line){const v=ctx.products.flatMap(p=>p.variants).find(v=>v.id===line.id);if(Number(body.quantity)>v.inventory_quantity)return send(JSON.stringify({errors:'Quantity exceeds sample inventory'}),'application/json',422);line.quantity=Number(body.quantity);bag=bag.filter(l=>l.quantity>0)}}
+   if(url.pathname.includes('/update')&&body.updates){
+    const changes=new Map();
+    for(const [key,value] of Object.entries(body.updates)){
+     const item=Array.isArray(body.updates)?ctx.cart.items[Number(key)]:ctx.cart.items.find(item=>item.key===key||String(item.variant_id)===key);
+     const quantity=Number(value);
+     if(!item||!Number.isInteger(quantity)||quantity<0||quantity>item.variant.inventory_quantity)return send(JSON.stringify({errors:'Invalid cart item or quantity.'}),'application/json',422);
+     changes.set(item.variant_id,quantity);
+    }
+    bag=bag.map(line=>({...line,quantity:changes.has(line.id)?changes.get(line.id):line.quantity})).filter(line=>line.quantity>0);
+   }
    res.setHeader('Set-Cookie','sf-preview-cart='+encodeURIComponent(JSON.stringify(bag))+'; Path=/; HttpOnly; SameSite=Lax; Max-Age=2592000');
-   const next=context(url,bag);return send(JSON.stringify({...next.cart,id:Number(body.id),sections:await sections(next)}),'application/json');
+   const next=context(url,bag);return send(JSON.stringify({...next.cart,id:Number(body.id),sections:await sections(next,body.sections||['cart-drawer','cart-icon-bubble'])}),'application/json');
   }
   if(url.pathname==='/cart'&&url.searchParams.has('section_id'))return send(url.searchParams.get('section_id')==='main-cart-items'?await template('cart',ctx):await drawer(ctx));
   if(url.pathname==='/checkout')return send(await layout('<section class="page-width" style="padding-block:70px"><h1>Checkout route reached</h1><p>This local fixture cannot open Shopify hosted checkout. Upload the theme to a development store to validate checkout navigation and test payments.</p><a href="/collections/all">Continue browsing</a></section>',ctx));

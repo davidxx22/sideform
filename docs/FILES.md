@@ -84,3 +84,5 @@ The earlier `site/` prototype is retained for history and is not in the theme up
 - `sections/sf-shop-by-category.liquid`, `sections/sf-new-arrivals.liquid`, `templates/index.json`: five category image links and four curated product cards, replacing the previous large homepage product grid/editorial collage. Collection definitions and imported tags are in `catalog/collections.json`, catalog JSON/CSV and the generator. No new image generation required; existing approved imagery is reused.
 
 - catalog/six-photo-gallery/: final generated originals and exact built-in imagegen prompts/reference records for six-view upper galleries and updated cargo model. scripts/install-six-photo-gallery.py exports optimized full/480px WebP copies.
+
+- Cart multi-selection: assets/sf-cart-selection.js, snippets/sf-cart-selection.liquid and sf-cart-select-item.liquid; available in the drawer and full cart page. scripts/test-cart-selection.cjs verifies bulk removal, native quantity controls and error recovery in Chromium/WebKit.

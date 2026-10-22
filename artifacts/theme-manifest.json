@@ -25,7 +25,7 @@
   },
   {
     "path": "theme/assets/cart.js",
-    "sha256": "6bb7500ff22f300d679255af334928f91826a9a03e848519012c4d7207d045f6"
+    "sha256": "5544f1655c421c69f96e729a73c2db4247cb38569f2e1b9b0c1bfc103464a210"
   },
   {
     "path": "theme/assets/collage.css",
@@ -722,6 +722,10 @@
   {
     "path": "theme/assets/section-rich-text.css",
     "sha256": "c6e8f94743561edc6dadfa732189fe36fe3f1025131e74cea33f849ca40d164b"
+  },
+  {
+    "path": "theme/assets/sf-cart-selection.js",
+    "sha256": "588a15dae2051391276d0cb3ddcbbeb5444619f1f068300949f416f3c1702295"
   },
   {
     "path": "theme/assets/sf-cart-sync.js",
@@ -3401,7 +3405,7 @@
   },
   {
     "path": "theme/assets/sideform.css",
-    "sha256": "63caf2f8ca07bfdaee14c5cc91917160d482f36c4b8989b4fd2c5046ca9d3787"
+    "sha256": "e76f8b379ab3bb1701d27db2c76cacc26b5ed9e6d5a61e9d7a6be1789358114c"
   },
   {
     "path": "theme/assets/sideform.js",
@@ -3449,7 +3453,7 @@
   },
   {
     "path": "theme/layout/theme.liquid",
-    "sha256": "5a4c6f37c35ed4d8afd04722a31446902f90801a9ec4278b10cc6ec2499f2442"
+    "sha256": "30912eb8c3452136dc66436117f9c8bde92905eb65a689474958e5b21037d76a"
   },
   {
     "path": "theme/locales/bg.json",
@@ -3769,7 +3773,7 @@
   },
   {
     "path": "theme/sections/main-cart-items.liquid",
-    "sha256": "867a6de58bd5cf212b3442cd7cbc0b6c1503665fed7185f0af61845c592c41bb"
+    "sha256": "edbe85f24359958cc77ff4b6c28960aa1210aab1da08a56f2ba1b854259c4f23"
   },
   {
     "path": "theme/sections/main-collection-banner.liquid",
@@ -3865,7 +3869,7 @@
   },
   {
     "path": "theme/sections/sf-shop-by-category.liquid",
-    "sha256": "d65931581e213a2f769770813fe4348740efcabc13ef04cce23511202c37f338"
+    "sha256": "f4d8799e0f07043678c30219d5c5bb3f4a08f4feea169d4258d97e940a53c5a5"
   },
   {
     "path": "theme/sections/slideshow.liquid",
@@ -3897,7 +3901,7 @@
   },
   {
     "path": "theme/snippets/cart-drawer.liquid",
-    "sha256": "13480ed8c874a354be5f14374bbf75becae5e00f03e05aa6437fd0d7ef05279a"
+    "sha256": "6e7176d4c05e9f5205eb360856495b79278493be1a6843d0ee18c6974aab8680"
   },
   {
     "path": "theme/snippets/cart-notification.liquid",
@@ -4024,6 +4028,14 @@
     "sha256": "7158eac40086226e504f711d51a352f8027be2cd306c60fb841a75867819a84e"
   },
   {
+    "path": "theme/snippets/sf-cart-select-item.liquid",
+    "sha256": "ff52edecdf5e3d550ea2ca59d68cffadd6fb35b7789aa98739bc7ae276a1ee78"
+  },
+  {
+    "path": "theme/snippets/sf-cart-selection.liquid",
+    "sha256": "74f94323cabc1dea7f59c9188fa833199fddb21ebe82af26537d157615b4394e"
+  },
+  {
     "path": "theme/snippets/sf-category-grid.liquid",
     "sha256": "0064034c11cc69599492d98f033da810f8c40a21c70f61449ddc8ba8b1865421"
   },
@@ -4125,7 +4137,7 @@
   },
   {
     "path": "theme/templates/index.json",
-    "sha256": "f8816aa587648e1a22978e7553b0eade664a1013b2399a86b4e56fe10b67e720"
+    "sha256": "b1222b413242c32190b60f4521606c9f682655bbd696b661a75dedf57166476c"
   },
   {
     "path": "theme/templates/list-collections.json",

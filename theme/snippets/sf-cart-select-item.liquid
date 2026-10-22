@@ -1,0 +1,3 @@
+<label class="sf-cart-select-item">
+  <input type="checkbox" data-sf-cart-select value="{{ item.key | escape }}" aria-label="Select {{ item.product.title | escape }}{% unless item.product.has_only_default_variant %}, {{ item.variant.title | escape }}{% endunless %}">
+</label>

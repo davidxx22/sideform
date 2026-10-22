@@ -22,7 +22,10 @@ class CartItems extends window.StandardEvents.createViewEventElement(HTMLElement
       this.onChange(event);
     }, ON_CHANGE_DEBOUNCE_TIMER);
 
-    this.addEventListener('change', debouncedOnChange.bind(this));
+    this.addEventListener('change', event => {
+      if (event.target.matches('[data-sf-cart-select], [data-sf-cart-select-all]')) return;
+      debouncedOnChange.call(this, event);
+    });
   }
 
   cartUpdateUnsubscriber = undefined;

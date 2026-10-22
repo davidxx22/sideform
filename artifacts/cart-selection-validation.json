@@ -1,0 +1,99 @@
+{
+  "categoryOrder": [
+    "Hoodies",
+    "T-shirts",
+    "Jackets",
+    "Pants",
+    "Shorts"
+  ],
+  "results": [
+    {
+      "engine": "chromium",
+      "surface": "drawer",
+      "width": 390,
+      "partialSelection": true,
+      "selectAll": true,
+      "failureRetry": true,
+      "onlySelectedRemoved": true,
+      "quantityPreserved": true,
+      "emptyCart": true
+    },
+    {
+      "engine": "chromium",
+      "surface": "drawer",
+      "width": 1440,
+      "partialSelection": true,
+      "selectAll": true,
+      "failureRetry": true,
+      "onlySelectedRemoved": true,
+      "quantityPreserved": true,
+      "emptyCart": true
+    },
+    {
+      "engine": "chromium",
+      "surface": "page",
+      "width": 390,
+      "partialSelection": true,
+      "selectAll": true,
+      "failureRetry": true,
+      "onlySelectedRemoved": true,
+      "quantityPreserved": true,
+      "emptyCart": true
+    },
+    {
+      "engine": "chromium",
+      "surface": "page",
+      "width": 1440,
+      "partialSelection": true,
+      "selectAll": true,
+      "failureRetry": true,
+      "onlySelectedRemoved": true,
+      "quantityPreserved": true,
+      "emptyCart": true
+    },
+    {
+      "engine": "webkit",
+      "surface": "drawer",
+      "width": 390,
+      "partialSelection": true,
+      "selectAll": true,
+      "failureRetry": true,
+      "onlySelectedRemoved": true,
+      "quantityPreserved": true,
+      "emptyCart": true
+    },
+    {
+      "engine": "webkit",
+      "surface": "drawer",
+      "width": 1440,
+      "partialSelection": true,
+      "selectAll": true,
+      "failureRetry": true,
+      "onlySelectedRemoved": true,
+      "quantityPreserved": true,
+      "emptyCart": true
+    },
+    {
+      "engine": "webkit",
+      "surface": "page",
+      "width": 390,
+      "partialSelection": true,
+      "selectAll": true,
+      "failureRetry": true,
+      "onlySelectedRemoved": true,
+      "quantityPreserved": true,
+      "emptyCart": true
+    },
+    {
+      "engine": "webkit",
+      "surface": "page",
+      "width": 1440,
+      "partialSelection": true,
+      "selectAll": true,
+      "failureRetry": true,
+      "onlySelectedRemoved": true,
+      "quantityPreserved": true,
+      "emptyCart": true
+    }
+  ]
+}

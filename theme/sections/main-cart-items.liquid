@@ -55,6 +55,7 @@
       <div class="cart__items" id="main-cart-items" data-id="{{ section.id }}">
         <div class="js-contents">
           {%- if cart != empty -%}
+            {% render 'sf-cart-selection' %}
             <table class="cart-items">
               <caption class="visually-hidden">
                 {{ 'sections.cart.title' | t }}
@@ -90,6 +91,7 @@
                     {% endif %}
                   >
                     <td class="cart-item__media">
+                      {% render 'sf-cart-select-item', item: item %}
                       {% if item.image %}
                         {% comment %} Leave empty space due to a:empty CSS display: none rule {% endcomment %}
                         <a href="{{ item.url }}" class="cart-item__link" aria-hidden="true" tabindex="-1"> </a>
