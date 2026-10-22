@@ -1,0 +1,12 @@
+{
+  "handle": "grid-cargo-pant",
+  "color": "grey",
+  "view": "front",
+  "refs": [
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-47cdbb26-25c8-4ba0-b009-c5ffba3b71cf.png",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-grey-front-480.jpg"
+  ],
+  "prompt": "Edit image 1 changing ONLY BLACK CARGO PANTS to the exact GREY cargo fabric in image 2. Preserve image1's same curly-haired male identity, face, relaxed pose and sideways gaze if present, grey OVERSIZED untucked tee with small BLACK two-bar SIDEFORM chest emblem, white sneakers, background, soft lighting, framing and shadows. Exact cargo pockets, seams, fit and wide leg unchanged. Image2 is ONLY pants color reference, do not copy its model or tee. No branding on pants. Keep ALL other pixels/composition as close as possible. No new text/watermarks.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-0e0aa077-9185-4843-959c-5ef74e495d54.png",
+  "tool": "built-in image_gen"
+}

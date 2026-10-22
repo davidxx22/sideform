@@ -1,0 +1,12 @@
+{
+  "handle": "structure-hoodie",
+  "color": "white",
+  "view": "duolow",
+  "refs": [
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b66ecda1-0047-4a6c-991f-3e108f7f3692.png",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-white-front-480.jpg"
+  ],
+  "prompt": "Edit image 1 for SIDEFORM structure-hoodie WHITE colorway. Change ONLY BOTH models' upper garments from black to the exact white fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-480c75d1-9a3f-45c5-9d8c-c894cd32aa92.png",
+  "tool": "built-in image_gen"
+}

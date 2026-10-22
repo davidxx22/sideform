@@ -3,7 +3,8 @@
     "engine": "chromium",
     "products": 12,
     "colors": 3,
-    "photosPerColor": 4,
+    "topsPhotosPerColor": 6,
+    "bottomsPhotosPerColor": 4,
     "atomicSwap": true,
     "staleRequestGuard": true,
     "failedImageRetainsPrevious": true
@@ -12,7 +13,8 @@
     "engine": "webkit",
     "products": 12,
     "colors": 3,
-    "photosPerColor": 4,
+    "topsPhotosPerColor": 6,
+    "bottomsPhotosPerColor": 4,
     "atomicSwap": true,
     "staleRequestGuard": true,
     "failedImageRetainsPrevious": true

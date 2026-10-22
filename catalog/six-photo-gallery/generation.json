@@ -1,0 +1,1340 @@
+{
+  "tool": "built-in image_gen",
+  "scope": "Nine tops and outerwear: six views. Three bottoms: four views. Grid Cargo Pant uses the curly-haired male in oversized grey tee.",
+  "order": [
+    "male",
+    "duolow",
+    "duofull",
+    "female",
+    "lineup",
+    "detail"
+  ],
+  "main_models": {
+    "grid-cargo-pant": "curly-haired male",
+    "drift-baggy-jean": "Black male",
+    "interval-utility-short": "female"
+  },
+  "outputs": [
+    {
+      "handle": "axis-long-sleeve",
+      "color": "black",
+      "view": "duofull",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-black-front-480.jpg",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-060a94b0-28f2-456d-a926-cb2edd99d0f9.png",
+        "C:/Users/david/Downloads/Mute drop available🤫🌟_FW25__на сайте anilopeer_ru (1).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Axis Long Sleeve product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black lightweight long-sleeve crewneck T-shirt, not a sweatshirt that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its FULL-BODY front/back composition: woman on LEFT facing the camera, both hands lightly raised at the neckline/collar (hoodie collar if hoodie); man on RIGHT turned away in relaxed three-quarter rear view, arms resting naturally and head turned slightly to the right. Both complete bodies, full hair and both pairs of shoes visible, include floor and comfortable margins. The man's garment BACK IS PLAIN BLACK, no lettering or back graphics. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-277aeb13-3d1a-4503-9e55-e32c77a68361.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/axis-long-sleeve-black-duofull.png",
+      "asset": "sf-gallery-axis-long-sleeve-black-duofull.webp"
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "black",
+      "view": "duolow",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-black-front-480.jpg",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-060a94b0-28f2-456d-a926-cb2edd99d0f9.png",
+        "C:/Users/david/Downloads/download (11).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Axis Long Sleeve product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black lightweight long-sleeve crewneck T-shirt, not a sweatshirt that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its dramatic LOW-ANGLE two-person portrait: camera below chest level looking upward, the man large in the left foreground, woman slightly farther back to the right, both looking down calmly toward lens. Crop head-to-upper-thigh, whole heads visible, emphasize their garment torsos and natural perspective, no wide-angle facial distortion. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-1a221d77-db4c-4a63-804c-8fe3aa9283a1.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/axis-long-sleeve-black-duolow.png",
+      "asset": "sf-gallery-axis-long-sleeve-black-duolow.webp"
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "black",
+      "view": "female",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-black-front-480.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-black-front-480.jpg"
+      ],
+      "prompt": "Create a new counterpart HALF-BODY catalog photograph for SIDEFORM Axis Long Sleeve. Image 1 defines the EXACT PRODUCT, studio background, lighting and catalog shot. Image 2 is ONLY the identity reference for the female model who must wear the product from image 1. Preserve image 2's identical face, hair, skin tone, physique and age; do not copy its clothing. Product: black lightweight long-sleeve crewneck T-shirt, not a sweatshirt. Match the actual garment construction, fabric weight, hem, sleeves, closure, pockets and tiny white offset two-bar chest symbol from image 1 precisely. Pose: relaxed standing, facing camera, neutral expression, arms naturally down or hands resting in grey trouser pockets. Frame from above the entire hair to mid-thigh, show the whole garment including cuffs and hem; head not cropped. Grey loose trousers visible at bottom. EXACT same softly lit pale warm-grey studio background as image 1. Photorealistic premium e-commerce studio photography, portrait 4:5 around 1122x1402, no text/captions/UI/watermark, no additional logos, no other person. This is the female companion view of the same unisex product, not a different garment.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-060a94b0-28f2-456d-a926-cb2edd99d0f9.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/axis-long-sleeve-black-female.png",
+      "asset": "sf-gallery-axis-long-sleeve-black-female.webp"
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "grey",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-277aeb13-3d1a-4503-9e55-e32c77a68361.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Axis Long Sleeve. Change ONLY the selected upper garment worn by BOTH people from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b68b4118-8262-4723-b006-98e4e7a7160d.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/axis-long-sleeve-grey-duofull.png",
+      "asset": "sf-gallery-axis-long-sleeve-grey-duofull.webp"
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "grey",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-1a221d77-db4c-4a63-804c-8fe3aa9283a1.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Axis Long Sleeve. Change ONLY the selected upper garment worn by BOTH people from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-5bc6dd24-0684-4161-bc09-8dad88af6ccd.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/axis-long-sleeve-grey-duolow.png",
+      "asset": "sf-gallery-axis-long-sleeve-grey-duolow.webp"
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "grey",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-060a94b0-28f2-456d-a926-cb2edd99d0f9.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Axis Long Sleeve. Change ONLY the selected upper garment from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-479d0912-8c43-43d8-8bf4-0cbea2ce54f1.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/axis-long-sleeve-grey-female.png",
+      "asset": "sf-gallery-axis-long-sleeve-grey-female.webp"
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "white",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-277aeb13-3d1a-4503-9e55-e32c77a68361.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Axis Long Sleeve. Change ONLY the selected upper garment worn by BOTH people from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ef87f805-2656-4e84-bbee-0de5034e652f.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/axis-long-sleeve-white-duofull.png",
+      "asset": "sf-gallery-axis-long-sleeve-white-duofull.webp"
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "white",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-1a221d77-db4c-4a63-804c-8fe3aa9283a1.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Axis Long Sleeve. Change ONLY the selected upper garment worn by BOTH people from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-03cad301-49c4-4616-8ee1-aa9f372ce49d.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/axis-long-sleeve-white-duolow.png",
+      "asset": "sf-gallery-axis-long-sleeve-white-duolow.webp"
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "white",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-060a94b0-28f2-456d-a926-cb2edd99d0f9.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Axis Long Sleeve. Change ONLY the selected upper garment from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ead80161-39df-44ab-b450-45355fa312ae.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/axis-long-sleeve-white-female.png",
+      "asset": "sf-gallery-axis-long-sleeve-white-female.webp"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "black",
+      "view": "duofull",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-contour-crew-black-front-480.jpg",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e80e3163-a056-477c-ae80-6c45de8c8469.png",
+        "C:/Users/david/Downloads/Mute drop available🤫🌟_FW25__на сайте anilopeer_ru (1).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Contour Crew product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black crewneck sweatshirt with ribbed neck, cuffs and hem that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its FULL-BODY front/back composition: woman on LEFT facing the camera, both hands lightly raised at the neckline/collar (hoodie collar if hoodie); man on RIGHT turned away in relaxed three-quarter rear view, arms resting naturally and head turned slightly to the right. Both complete bodies, full hair and both pairs of shoes visible, include floor and comfortable margins. The man's garment BACK IS PLAIN BLACK, no lettering or back graphics. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ed8c54a8-33a1-43df-9018-09c25207272b.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/contour-crew-black-duofull.png",
+      "asset": "sf-gallery-contour-crew-black-duofull.webp"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "black",
+      "view": "duolow",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-contour-crew-black-front-480.jpg",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e80e3163-a056-477c-ae80-6c45de8c8469.png",
+        "C:/Users/david/Downloads/download (11).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Contour Crew product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black crewneck sweatshirt with ribbed neck, cuffs and hem that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its dramatic LOW-ANGLE two-person portrait: camera below chest level looking upward, the man large in the left foreground, woman slightly farther back to the right, both looking down calmly toward lens. Crop head-to-upper-thigh, whole heads visible, emphasize their garment torsos and natural perspective, no wide-angle facial distortion. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-d705e7ab-49d5-4036-b054-718fe3d55224.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/contour-crew-black-duolow.png",
+      "asset": "sf-gallery-contour-crew-black-duolow.webp"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "black",
+      "view": "female",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-contour-crew-black-front-480.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-black-front-480.jpg"
+      ],
+      "prompt": "Create a new counterpart HALF-BODY catalog photograph for SIDEFORM Contour Crew. Image 1 defines the EXACT PRODUCT, studio background, lighting and catalog shot. Image 2 is ONLY the identity reference for the female model who must wear the product from image 1. Preserve image 2's identical face, hair, skin tone, physique and age; do not copy its clothing. Product: black crewneck sweatshirt with ribbed neck, cuffs and hem. Match the actual garment construction, fabric weight, hem, sleeves, closure, pockets and tiny white offset two-bar chest symbol from image 1 precisely. Pose: relaxed standing, facing camera, neutral expression, arms naturally down or hands resting in grey trouser pockets. Frame from above the entire hair to mid-thigh, show the whole garment including cuffs and hem; head not cropped. Grey loose trousers visible at bottom. EXACT same softly lit pale warm-grey studio background as image 1. Photorealistic premium e-commerce studio photography, portrait 4:5 around 1122x1402, no text/captions/UI/watermark, no additional logos, no other person. This is the female companion view of the same unisex product, not a different garment.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e80e3163-a056-477c-ae80-6c45de8c8469.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/contour-crew-black-female.png",
+      "asset": "sf-gallery-contour-crew-black-female.webp"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "grey",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ed8c54a8-33a1-43df-9018-09c25207272b.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-contour-crew-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM contour-crew GREY colorway. Change ONLY BOTH models' upper garments from black to the exact grey fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-3a1193be-5099-46a1-b686-810f81fcda83.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/contour-crew-grey-duofull.png",
+      "asset": "sf-gallery-contour-crew-grey-duofull.webp"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "grey",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-d705e7ab-49d5-4036-b054-718fe3d55224.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-contour-crew-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM contour-crew GREY colorway. Change ONLY BOTH models' upper garments from black to the exact grey fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ca89a37d-3a5c-4157-a7ae-78f5dd14a778.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/contour-crew-grey-duolow.png",
+      "asset": "sf-gallery-contour-crew-grey-duolow.webp"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "grey",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e80e3163-a056-477c-ae80-6c45de8c8469.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-contour-crew-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Contour Crew. Change ONLY the selected upper garment from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-481ea593-4b22-4f7c-b4f2-3fd66227947c.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/contour-crew-grey-female.png",
+      "asset": "sf-gallery-contour-crew-grey-female.webp"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "white",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ed8c54a8-33a1-43df-9018-09c25207272b.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-contour-crew-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM contour-crew WHITE colorway. Change ONLY BOTH models' upper garments from black to the exact white fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-8ac188c7-23a1-4367-afc1-7c966efd1622.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/contour-crew-white-duofull.png",
+      "asset": "sf-gallery-contour-crew-white-duofull.webp"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "white",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-d705e7ab-49d5-4036-b054-718fe3d55224.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-contour-crew-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM contour-crew WHITE colorway. Change ONLY BOTH models' upper garments from black to the exact white fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-02085195-75a6-48d5-8a57-e3f02d77b047.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/contour-crew-white-duolow.png",
+      "asset": "sf-gallery-contour-crew-white-duolow.webp"
+    },
+    {
+      "handle": "contour-crew",
+      "color": "white",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e80e3163-a056-477c-ae80-6c45de8c8469.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-contour-crew-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Contour Crew. Change ONLY the selected upper garment from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-d5f603ba-2f43-4545-9826-b40d6d6289cf.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/contour-crew-white-female.png",
+      "asset": "sf-gallery-contour-crew-white-female.webp"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "black",
+      "view": "front",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-black-front.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 changing ONLY ONE detail: add the small BLACK SIDEFORM emblem from image 2 onto the GREY T-shirt, upper LEFT chest of wearer (viewer right). Exact emblem is two tiny short offset horizontal rectangular black bars, no words. Natural subtle print scale matching image2. Preserve image1's identical person, face/hair/skin, pose, tee fit and folds, pants/shorts color and construction, background, lighting and full-body framing. Do not add logos to the pants or shorts. No other changes, text, captions or watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-40379282-221a-4c15-a5c0-1d12e04e3033.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/drift-baggy-jean-black-front.png",
+      "asset": "sf-photo-drift-baggy-jean-black-front.webp"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "grey",
+      "view": "front",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-grey-front.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 changing ONLY ONE detail: add the small BLACK SIDEFORM emblem from image 2 onto the GREY T-shirt, upper LEFT chest of wearer (viewer right). Exact emblem is two tiny short offset horizontal rectangular black bars, no words. Natural subtle print scale matching image2. Preserve image1's identical person, face/hair/skin, pose, tee fit and folds, pants/shorts color and construction, background, lighting and full-body framing. Do not add logos to the pants or shorts. No other changes, text, captions or watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-8e48d8bc-7b90-4c1d-8387-fb3b6bdf339d.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/drift-baggy-jean-grey-front.png",
+      "asset": "sf-photo-drift-baggy-jean-grey-front.webp"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "white",
+      "view": "front",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-white-front.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 changing ONLY ONE detail: add the small BLACK SIDEFORM emblem from image 2 onto the GREY T-shirt, upper LEFT chest of wearer (viewer right). Exact emblem is two tiny short offset horizontal rectangular black bars, no words. Natural subtle print scale matching image2. Preserve image1's identical person, face/hair/skin, pose, tee fit and folds, pants/shorts color and construction, background, lighting and full-body framing. Do not add logos to the pants or shorts. No other changes, text, captions or watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-251286b0-0c35-4d94-bc4c-267119e3dd3b.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/drift-baggy-jean-white-front.png",
+      "asset": "sf-photo-drift-baggy-jean-white-front.webp"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "black",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ce4f0e86-7e46-46e2-824f-9f89b89b5c4f.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-black-front-480.jpg",
+        "C:/Users/david/Downloads/Mute drop available🤫🌟_FW25__на сайте anilopeer_ru (1).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Frame Long Sleeve product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black loose long-sleeve crewneck T-shirt with straight hem that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its FULL-BODY front/back composition: woman on LEFT facing the camera, both hands lightly raised at the neckline/collar (hoodie collar if hoodie); man on RIGHT turned away in relaxed three-quarter rear view, arms resting naturally and head turned slightly to the right. Both complete bodies, full hair and both pairs of shoes visible, include floor and comfortable margins. The man's garment BACK IS PLAIN BLACK, no lettering or back graphics. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2242248f-171d-46c0-94c4-145e86ca6666.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/frame-long-sleeve-black-duofull.png",
+      "asset": "sf-gallery-frame-long-sleeve-black-duofull.webp"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "black",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ce4f0e86-7e46-46e2-824f-9f89b89b5c4f.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-black-front-480.jpg",
+        "C:/Users/david/Downloads/download (11).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Frame Long Sleeve product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black loose long-sleeve crewneck T-shirt with straight hem that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its dramatic LOW-ANGLE two-person portrait: camera below chest level looking upward, the man large in the left foreground, woman slightly farther back to the right, both looking down calmly toward lens. Crop head-to-upper-thigh, whole heads visible, emphasize their garment torsos and natural perspective, no wide-angle facial distortion. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-277f5f25-8adc-45ae-9d44-41e2c5fb7b09.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/frame-long-sleeve-black-duolow.png",
+      "asset": "sf-gallery-frame-long-sleeve-black-duolow.webp"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "black",
+      "view": "male",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-black-front-480.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-black-front-480.jpg"
+      ],
+      "prompt": "Create a new counterpart HALF-BODY catalog photograph for SIDEFORM Frame Long Sleeve. Image 1 defines the EXACT PRODUCT, studio background, lighting and catalog shot. Image 2 is ONLY the identity reference for the curly dark-haired male model from Structure Hoodie. Use his identical face, curly dark hair, skin tone, physique and age wearing image 1's product; do not copy image 2's hoodie. Product: black loose long-sleeve crewneck T-shirt with straight hem. Match the actual garment construction, fabric weight, hem, sleeves, closure, pockets and tiny white offset two-bar chest symbol from image 1 precisely. Pose: relaxed standing, facing camera, neutral expression, arms naturally down or hands resting in grey trouser pockets. Frame from above the entire hair to mid-thigh, show the whole garment including cuffs and hem; head not cropped. Grey loose trousers visible at bottom. EXACT same softly lit pale warm-grey studio background as image 1. Photorealistic premium e-commerce studio photography, portrait 4:5 around 1122x1402, no text/captions/UI/watermark, no additional logos, no other person. This is the male companion view of the same unisex product, not a different garment.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ce4f0e86-7e46-46e2-824f-9f89b89b5c4f.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/frame-long-sleeve-black-male.png",
+      "asset": "sf-gallery-frame-long-sleeve-black-male.webp"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "grey",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2242248f-171d-46c0-94c4-145e86ca6666.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Frame Long Sleeve. Change ONLY the selected upper garment worn by BOTH people from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-0d043f57-e7bf-4897-9ee3-dd3b7d248b5e.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/frame-long-sleeve-grey-duofull.png",
+      "asset": "sf-gallery-frame-long-sleeve-grey-duofull.webp"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "grey",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-277f5f25-8adc-45ae-9d44-41e2c5fb7b09.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Frame Long Sleeve. Change ONLY the selected upper garment worn by BOTH people from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-f308cf96-26d1-42e4-b74c-fc03a9490cf1.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/frame-long-sleeve-grey-duolow.png",
+      "asset": "sf-gallery-frame-long-sleeve-grey-duolow.webp"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "grey",
+      "view": "male",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ce4f0e86-7e46-46e2-824f-9f89b89b5c4f.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Frame Long Sleeve. Change ONLY the selected upper garment from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2b128153-6226-4b10-902c-1971ae8002cb.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/frame-long-sleeve-grey-male.png",
+      "asset": "sf-gallery-frame-long-sleeve-grey-male.webp"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "white",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2242248f-171d-46c0-94c4-145e86ca6666.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Frame Long Sleeve. Change ONLY the selected upper garment worn by BOTH people from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-404c931f-b0cb-4b94-9323-864c956d5c06.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/frame-long-sleeve-white-duofull.png",
+      "asset": "sf-gallery-frame-long-sleeve-white-duofull.webp"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "white",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-277f5f25-8adc-45ae-9d44-41e2c5fb7b09.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Frame Long Sleeve. Change ONLY the selected upper garment worn by BOTH people from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-f6c2abda-d2ae-4161-8c59-8151435c46bb.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/frame-long-sleeve-white-duolow.png",
+      "asset": "sf-gallery-frame-long-sleeve-white-duolow.webp"
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "white",
+      "view": "male",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ce4f0e86-7e46-46e2-824f-9f89b89b5c4f.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Frame Long Sleeve. Change ONLY the selected upper garment from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9fd5e730-00dc-49ce-ac2a-625078a5c900.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/frame-long-sleeve-white-male.png",
+      "asset": "sf-gallery-frame-long-sleeve-white-male.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "black",
+      "view": "front",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-d90ba742-13e9-43e0-9e1e-79b24a9eb2f1.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 with ONE change: add the exact small BLACK SIDEFORM chest emblem from image 2 to the grey oversized T-shirt on the wearer's upper LEFT chest (viewer right). Two short offset horizontal rectangles, subtle small scale like image 2, not letters. Keep all else identical: curly-haired male face/hair, oversized grey untucked tee silhouette, black cargo pants construction, pose, shoes, background, lighting, framing. Pants remain entirely unbranded. No text/captions or other logos.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-47cdbb26-25c8-4ba0-b009-c5ffba3b71cf.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-black-front.png",
+      "asset": "sf-photo-grid-cargo-pant-black-front.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/catalog/six-photo-gallery/grid-cargo-pant-black-full.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-black-front-480.jpg"
+      ],
+      "prompt": "Edit ONLY THE HEAD in image1. Turn this same curly-haired man's head straight FORWARD facing the CAMERA, a symmetrical frontal face with BOTH eyes looking directly at the lens, level natural pupils, relaxed neutral expression. Image2 is his exact frontal FACE IDENTITY reference (not clothing). Preserve identity, curls, skin, face proportions. His head must be facing straight front, NOT three-quarter, NOT sideways. Keep everything BELOW THE NECK in image1 exactly unchanged: relaxed angled body stance, hand in pocket, other arm down, oversized grey tee with small black offset two-bar SIDEFORM chest logo, black cargo pants, white shoes. Keep pale studio background, framing, camera, light, shadows. Only change head orientation and direct eye contact. Single 4:5 photoreal catalog photo, no captions/UI/watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-87340906-8dbc-4a0f-8377-b38e45347e8a.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-black-full.png",
+      "asset": "sf-gallery-grid-cargo-pant-black-full.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "grey",
+      "view": "front",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-47cdbb26-25c8-4ba0-b009-c5ffba3b71cf.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 changing ONLY BLACK CARGO PANTS to the exact GREY cargo fabric in image 2. Preserve image1's same curly-haired male identity, face, relaxed pose and sideways gaze if present, grey OVERSIZED untucked tee with small BLACK two-bar SIDEFORM chest emblem, white sneakers, background, soft lighting, framing and shadows. Exact cargo pockets, seams, fit and wide leg unchanged. Image2 is ONLY pants color reference, do not copy its model or tee. No branding on pants. Keep ALL other pixels/composition as close as possible. No new text/watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-0e0aa077-9185-4843-959c-5ef74e495d54.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-grey-front.png",
+      "asset": "sf-photo-grid-cargo-pant-grey-front.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-87340906-8dbc-4a0f-8377-b38e45347e8a.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image1 changing ONLY black cargo pants to the GREY fabric shade from image2. Preserve image1's FRONT FACING HEAD and BOTH EYES looking directly at camera exactly, same curly-haired man, facial details and expression. All else exactly unchanged: angled relaxed body pose, hand in pocket, oversized grey tee with tiny black SIDEFORM chest mark, white sneakers, pants construction and pockets, light studio, shadows and framing. Image2 only defines pants color, not model or tee. Do not turn head sideways. No text/watermarks or pants logos.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ae06c01c-9acf-47c2-852f-d544e42f3354.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-grey-full.png",
+      "asset": "sf-gallery-grid-cargo-pant-grey-full.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "white",
+      "view": "front",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-47cdbb26-25c8-4ba0-b009-c5ffba3b71cf.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 changing ONLY BLACK CARGO PANTS to the exact WHITE cargo fabric in image 2. Preserve image1's same curly-haired male identity, face, relaxed pose and sideways gaze if present, grey OVERSIZED untucked tee with small BLACK two-bar SIDEFORM chest emblem, white sneakers, background, soft lighting, framing and shadows. Exact cargo pockets, seams, fit and wide leg unchanged. Image2 is ONLY pants color reference, do not copy its model or tee. No branding on pants. Keep ALL other pixels/composition as close as possible. No new text/watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-f76c5434-67ea-4f7b-8299-af6554e95e69.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-white-front.png",
+      "asset": "sf-photo-grid-cargo-pant-white-front.webp"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-87340906-8dbc-4a0f-8377-b38e45347e8a.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-white-front-480.jpg"
+      ],
+      "prompt": "Edit image1 changing ONLY black cargo pants to the WHITE fabric shade from image2. Preserve image1's FRONT FACING HEAD and BOTH EYES looking directly at camera exactly, same curly-haired man, facial details and expression. All else exactly unchanged: angled relaxed body pose, hand in pocket, oversized grey tee with tiny black SIDEFORM chest mark, white sneakers, pants construction and pockets, light studio, shadows and framing. Image2 only defines pants color, not model or tee. Do not turn head sideways. No text/watermarks or pants logos.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-12314b94-3625-431f-9083-7a13538bd496.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/grid-cargo-pant-white-full.png",
+      "asset": "sf-gallery-grid-cargo-pant-white-full.webp"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "black",
+      "view": "front",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-black-front.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 changing ONLY ONE detail: add the small BLACK SIDEFORM emblem from image 2 onto the GREY T-shirt, upper LEFT chest of wearer (viewer right). Exact emblem is two tiny short offset horizontal rectangular black bars, no words. Natural subtle print scale matching image2. Preserve image1's identical person, face/hair/skin, pose, tee fit and folds, pants/shorts color and construction, background, lighting and full-body framing. Do not add logos to the pants or shorts. No other changes, text, captions or watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-024711f4-0505-411e-a040-5f4c708151c4.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/interval-utility-short-black-front.png",
+      "asset": "sf-photo-interval-utility-short-black-front.webp"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "grey",
+      "view": "front",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-grey-front.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 changing ONLY ONE detail: add the small BLACK SIDEFORM emblem from image 2 onto the GREY T-shirt, upper LEFT chest of wearer (viewer right). Exact emblem is two tiny short offset horizontal rectangular black bars, no words. Natural subtle print scale matching image2. Preserve image1's identical person, face/hair/skin, pose, tee fit and folds, pants/shorts color and construction, background, lighting and full-body framing. Do not add logos to the pants or shorts. No other changes, text, captions or watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-31cd0281-a142-4a64-bdaa-a43eff08f819.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/interval-utility-short-grey-front.png",
+      "asset": "sf-photo-interval-utility-short-grey-front.webp"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "white",
+      "view": "front",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-interval-utility-short-white-front.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 changing ONLY ONE detail: add the small BLACK SIDEFORM emblem from image 2 onto the GREY T-shirt, upper LEFT chest of wearer (viewer right). Exact emblem is two tiny short offset horizontal rectangular black bars, no words. Natural subtle print scale matching image2. Preserve image1's identical person, face/hair/skin, pose, tee fit and folds, pants/shorts color and construction, background, lighting and full-body framing. Do not add logos to the pants or shorts. No other changes, text, captions or watermarks.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-46e29118-9343-4557-bea3-c0b0d21dbf4d.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/interval-utility-short-white-front.png",
+      "asset": "sf-photo-interval-utility-short-white-front.webp"
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "black",
+      "view": "duofull",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-offset-heavy-tee-black-front-480.jpg",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-568e2fe9-2fae-4d8f-bdef-b361f46ca46d.png",
+        "C:/Users/david/Downloads/Mute drop available🤫🌟_FW25__на сайте anilopeer_ru (1).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Offset Heavy Tee product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black oversized short-sleeve T-shirt, dropped shoulders, long wide body that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its FULL-BODY front/back composition: woman on LEFT facing the camera, both hands lightly raised at the neckline/collar (hoodie collar if hoodie); man on RIGHT turned away in relaxed three-quarter rear view, arms resting naturally and head turned slightly to the right. Both complete bodies, full hair and both pairs of shoes visible, include floor and comfortable margins. The man's garment BACK IS PLAIN BLACK, no lettering or back graphics. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-beda0ff4-36a1-4e93-9c02-caf7bc3f0801.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/offset-heavy-tee-black-duofull.png",
+      "asset": "sf-gallery-offset-heavy-tee-black-duofull.webp"
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "black",
+      "view": "duolow",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-offset-heavy-tee-black-front-480.jpg",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-568e2fe9-2fae-4d8f-bdef-b361f46ca46d.png",
+        "C:/Users/david/Downloads/download (11).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Offset Heavy Tee product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black oversized short-sleeve T-shirt, dropped shoulders, long wide body that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its dramatic LOW-ANGLE two-person portrait: camera below chest level looking upward, the man large in the left foreground, woman slightly farther back to the right, both looking down calmly toward lens. Crop head-to-upper-thigh, whole heads visible, emphasize their garment torsos and natural perspective, no wide-angle facial distortion. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-dcf63ded-5829-44c5-8e77-ac36212cdae8.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/offset-heavy-tee-black-duolow.png",
+      "asset": "sf-gallery-offset-heavy-tee-black-duolow.webp"
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "black",
+      "view": "female",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-offset-heavy-tee-black-front-480.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-black-front-480.jpg"
+      ],
+      "prompt": "Create a new counterpart HALF-BODY catalog photograph for SIDEFORM Offset Heavy Tee. Image 1 defines the EXACT PRODUCT, studio background, lighting and catalog shot. Image 2 is ONLY the identity reference for the female model who must wear the product from image 1. Preserve image 2's identical face, hair, skin tone, physique and age; do not copy its clothing. Product: black oversized short-sleeve T-shirt, dropped shoulders, long wide body. Match the actual garment construction, fabric weight, hem, sleeves, closure, pockets and tiny white offset two-bar chest symbol from image 1 precisely. Pose: relaxed standing, facing camera, neutral expression, arms naturally down or hands resting in grey trouser pockets. Frame from above the entire hair to mid-thigh, show the whole garment including cuffs and hem; head not cropped. Grey loose trousers visible at bottom. EXACT same softly lit pale warm-grey studio background as image 1. Photorealistic premium e-commerce studio photography, portrait 4:5 around 1122x1402, no text/captions/UI/watermark, no additional logos, no other person. This is the female companion view of the same unisex product, not a different garment.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-568e2fe9-2fae-4d8f-bdef-b361f46ca46d.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/offset-heavy-tee-black-female.png",
+      "asset": "sf-gallery-offset-heavy-tee-black-female.webp"
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "grey",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-beda0ff4-36a1-4e93-9c02-caf7bc3f0801.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-offset-heavy-tee-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Offset Heavy Tee. Change ONLY the selected upper garment worn by BOTH people from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-80751e22-82ad-48f6-8ea6-d14a13eac5f5.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/offset-heavy-tee-grey-duofull.png",
+      "asset": "sf-gallery-offset-heavy-tee-grey-duofull.webp"
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "grey",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-dcf63ded-5829-44c5-8e77-ac36212cdae8.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-offset-heavy-tee-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Offset Heavy Tee. Change ONLY the selected upper garment worn by BOTH people from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a4dcc095-7464-4ee0-b6bb-6afcf8e8d030.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/offset-heavy-tee-grey-duolow.png",
+      "asset": "sf-gallery-offset-heavy-tee-grey-duolow.webp"
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "grey",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-568e2fe9-2fae-4d8f-bdef-b361f46ca46d.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-offset-heavy-tee-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Offset Heavy Tee. Change ONLY the selected upper garment from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-4c96539a-b1d4-49b7-b27b-9cc4faf9112e.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/offset-heavy-tee-grey-female.png",
+      "asset": "sf-gallery-offset-heavy-tee-grey-female.webp"
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "white",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-beda0ff4-36a1-4e93-9c02-caf7bc3f0801.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-offset-heavy-tee-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Offset Heavy Tee. Change ONLY the selected upper garment worn by BOTH people from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-99f30a7e-5195-472e-8642-722c2bac1d9a.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/offset-heavy-tee-white-duofull.png",
+      "asset": "sf-gallery-offset-heavy-tee-white-duofull.webp"
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "white",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-dcf63ded-5829-44c5-8e77-ac36212cdae8.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-offset-heavy-tee-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Offset Heavy Tee. Change ONLY the selected upper garment worn by BOTH people from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-117ab6bc-68c9-4ec1-b2f4-0c66f4c5805d.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/offset-heavy-tee-white-duolow.png",
+      "asset": "sf-gallery-offset-heavy-tee-white-duolow.webp"
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "white",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-568e2fe9-2fae-4d8f-bdef-b361f46ca46d.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-offset-heavy-tee-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Offset Heavy Tee. Change ONLY the selected upper garment from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b8f3e302-353e-4376-8e74-c7da0fc19020.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/offset-heavy-tee-white-female.png",
+      "asset": "sf-gallery-offset-heavy-tee-white-female.webp"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "black",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a4590d4e-f540-45b5-a495-24208813adb0.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-plane-box-tee-black-front-480.jpg",
+        "C:/Users/david/Downloads/Mute drop available🤫🌟_FW25__на сайте anilopeer_ru (1).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Plain Box Tee product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black cropped boxy oversized short-sleeve T-shirt that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its FULL-BODY front/back composition: woman on LEFT facing the camera, both hands lightly raised at the neckline/collar (hoodie collar if hoodie); man on RIGHT turned away in relaxed three-quarter rear view, arms resting naturally and head turned slightly to the right. Both complete bodies, full hair and both pairs of shoes visible, include floor and comfortable margins. The man's garment BACK IS PLAIN BLACK, no lettering or back graphics. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-f87911ee-b865-410e-ae37-59526bdc8795.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/plane-box-tee-black-duofull.png",
+      "asset": "sf-gallery-plane-box-tee-black-duofull.webp"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "black",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a4590d4e-f540-45b5-a495-24208813adb0.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-plane-box-tee-black-front-480.jpg",
+        "C:/Users/david/Downloads/download (11).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Plain Box Tee product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black cropped boxy oversized short-sleeve T-shirt that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its dramatic LOW-ANGLE two-person portrait: camera below chest level looking upward, the man large in the left foreground, woman slightly farther back to the right, both looking down calmly toward lens. Crop head-to-upper-thigh, whole heads visible, emphasize their garment torsos and natural perspective, no wide-angle facial distortion. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-da53d1fe-6051-4317-b49a-c54b9c37f2ca.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/plane-box-tee-black-duolow.png",
+      "asset": "sf-gallery-plane-box-tee-black-duolow.webp"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "black",
+      "view": "male",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-plane-box-tee-black-front-480.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-offset-heavy-tee-black-front-480.jpg"
+      ],
+      "prompt": "Create a new counterpart HALF-BODY catalog photograph for SIDEFORM Plain Box Tee. Image 1 defines the EXACT PRODUCT, studio background, lighting and catalog shot. Image 2 is ONLY the identity reference for the male model who must wear the product from image 1. Preserve image 2's identical face, hair, skin tone, physique and age; do not copy its clothing. Product: black cropped boxy oversized short-sleeve T-shirt. Match the actual garment construction, fabric weight, hem, sleeves, closure, pockets and tiny white offset two-bar chest symbol from image 1 precisely. Pose: relaxed standing, facing camera, neutral expression, arms naturally down or hands resting in grey trouser pockets. Frame from above the entire hair to mid-thigh, show the whole garment including cuffs and hem; head not cropped. Grey loose trousers visible at bottom. EXACT same softly lit pale warm-grey studio background as image 1. Photorealistic premium e-commerce studio photography, portrait 4:5 around 1122x1402, no text/captions/UI/watermark, no additional logos, no other person. This is the male companion view of the same unisex product, not a different garment.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a4590d4e-f540-45b5-a495-24208813adb0.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/plane-box-tee-black-male.png",
+      "asset": "sf-gallery-plane-box-tee-black-male.webp"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "grey",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-f87911ee-b865-410e-ae37-59526bdc8795.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-plane-box-tee-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Plain Box Tee. Change ONLY the selected upper garment worn by BOTH people from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-d30ebdb6-b377-489d-94f8-639c71e2f2a9.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/plane-box-tee-grey-duofull.png",
+      "asset": "sf-gallery-plane-box-tee-grey-duofull.webp"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "grey",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-da53d1fe-6051-4317-b49a-c54b9c37f2ca.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-plane-box-tee-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Plain Box Tee. Change ONLY the selected upper garment worn by BOTH people from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-cb4fd5f3-8490-4062-ac16-9fce748df19b.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/plane-box-tee-grey-duolow.png",
+      "asset": "sf-gallery-plane-box-tee-grey-duolow.webp"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "grey",
+      "view": "male",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a4590d4e-f540-45b5-a495-24208813adb0.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-plane-box-tee-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Plain Box Tee. Change ONLY the selected upper garment from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-05b7d708-a38a-4d4c-ad4f-8cfc66ff14da.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/plane-box-tee-grey-male.png",
+      "asset": "sf-gallery-plane-box-tee-grey-male.webp"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "white",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-f87911ee-b865-410e-ae37-59526bdc8795.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-plane-box-tee-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Plain Box Tee. Change ONLY the selected upper garment worn by BOTH people from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b6b623da-a225-4f1a-a16b-3cbe0d6107b0.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/plane-box-tee-white-duofull.png",
+      "asset": "sf-gallery-plane-box-tee-white-duofull.webp"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "white",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-da53d1fe-6051-4317-b49a-c54b9c37f2ca.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-plane-box-tee-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Plain Box Tee. Change ONLY the selected upper garment worn by BOTH people from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b6f5fa4c-5dc8-42c3-b817-4e1576d5b882.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/plane-box-tee-white-duolow.png",
+      "asset": "sf-gallery-plane-box-tee-white-duolow.webp"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "white",
+      "view": "male",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a4590d4e-f540-45b5-a495-24208813adb0.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-plane-box-tee-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Plain Box Tee. Change ONLY the selected upper garment from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ead859ae-9cb1-41eb-8c44-5f85098e0db3.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/plane-box-tee-white-male.png",
+      "asset": "sf-gallery-plane-box-tee-white-male.webp"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "black",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-80fc33ac-37ac-4d45-9141-751b28fae94b.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-black-front-480.jpg",
+        "C:/Users/david/Downloads/Mute drop available🤫🌟_FW25__на сайте anilopeer_ru (1).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Shell Utility Jacket product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black stand-collar zip utility jacket with two large flap pockets that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its FULL-BODY front/back composition: woman on LEFT facing the camera, both hands lightly raised at the neckline/collar (hoodie collar if hoodie); man on RIGHT turned away in relaxed three-quarter rear view, arms resting naturally and head turned slightly to the right. Both complete bodies, full hair and both pairs of shoes visible, include floor and comfortable margins. The man's garment BACK IS PLAIN BLACK, no lettering or back graphics. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e06e8302-c487-4a35-af8b-42fa11a622dd.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/shell-utility-jacket-black-duofull.png",
+      "asset": "sf-gallery-shell-utility-jacket-black-duofull.webp"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "black",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-80fc33ac-37ac-4d45-9141-751b28fae94b.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-black-front-480.jpg",
+        "C:/Users/david/Downloads/download (11).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Shell Utility Jacket product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black stand-collar zip utility jacket with two large flap pockets that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its dramatic LOW-ANGLE two-person portrait: camera below chest level looking upward, the man large in the left foreground, woman slightly farther back to the right, both looking down calmly toward lens. Crop head-to-upper-thigh, whole heads visible, emphasize their garment torsos and natural perspective, no wide-angle facial distortion. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-316012ea-1762-469b-8a8d-b0af43557dd7.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/shell-utility-jacket-black-duolow.png",
+      "asset": "sf-gallery-shell-utility-jacket-black-duolow.webp"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "black",
+      "view": "male",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-black-front-480.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-black-front-480.jpg"
+      ],
+      "prompt": "Create a new counterpart HALF-BODY catalog photograph for SIDEFORM Shell Utility Jacket. Image 1 defines the EXACT PRODUCT, studio background, lighting and catalog shot. Image 2 is ONLY the identity reference for the curly dark-haired male model from Structure Hoodie. Use his identical face, curly dark hair, skin tone, physique and age wearing image 1's product; do not copy image 2's hoodie. Product: black stand-collar zip utility jacket with two large flap pockets. Match the actual garment construction, fabric weight, hem, sleeves, closure, pockets and tiny white offset two-bar chest symbol from image 1 precisely. Pose: relaxed standing, facing camera, neutral expression, arms naturally down or hands resting in grey trouser pockets. Frame from above the entire hair to mid-thigh, show the whole garment including cuffs and hem; head not cropped. Grey loose trousers visible at bottom. EXACT same softly lit pale warm-grey studio background as image 1. Photorealistic premium e-commerce studio photography, portrait 4:5 around 1122x1402, no text/captions/UI/watermark, no additional logos, no other person. This is the male companion view of the same unisex product, not a different garment.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-80fc33ac-37ac-4d45-9141-751b28fae94b.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/shell-utility-jacket-black-male.png",
+      "asset": "sf-gallery-shell-utility-jacket-black-male.webp"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "grey",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e06e8302-c487-4a35-af8b-42fa11a622dd.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM shell-utility-jacket GREY colorway. Change ONLY BOTH models' upper garments from black to the exact grey fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9ad2e024-1f0a-4914-a7ca-e08d692fefd7.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/shell-utility-jacket-grey-duofull.png",
+      "asset": "sf-gallery-shell-utility-jacket-grey-duofull.webp"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "grey",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-316012ea-1762-469b-8a8d-b0af43557dd7.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM shell-utility-jacket GREY colorway. Change ONLY BOTH models' upper garments from black to the exact grey fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9790fe66-cc03-432f-b78c-39eb1d5cc659.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/shell-utility-jacket-grey-duolow.png",
+      "asset": "sf-gallery-shell-utility-jacket-grey-duolow.webp"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "grey",
+      "view": "male",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-80fc33ac-37ac-4d45-9141-751b28fae94b.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Shell Utility Jacket. Change ONLY the selected upper garment from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-0bb481a2-e8dd-4d77-9301-7723442d91bf.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/shell-utility-jacket-grey-male.png",
+      "asset": "sf-gallery-shell-utility-jacket-grey-male.webp"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "white",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e06e8302-c487-4a35-af8b-42fa11a622dd.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM shell-utility-jacket WHITE colorway. Change ONLY BOTH models' upper garments from black to the exact white fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-8fbd8377-ee50-46fb-ba99-a2142fe01b60.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/shell-utility-jacket-white-duofull.png",
+      "asset": "sf-gallery-shell-utility-jacket-white-duofull.webp"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "white",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-316012ea-1762-469b-8a8d-b0af43557dd7.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM shell-utility-jacket WHITE colorway. Change ONLY BOTH models' upper garments from black to the exact white fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-bc2d35f4-9b20-4c19-84ad-a8503cd79764.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/shell-utility-jacket-white-duolow.png",
+      "asset": "sf-gallery-shell-utility-jacket-white-duolow.webp"
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "white",
+      "view": "male",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-80fc33ac-37ac-4d45-9141-751b28fae94b.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Shell Utility Jacket. Change ONLY the selected upper garment from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-37b15c60-6fcd-400c-b1bd-9b63c85f4ec2.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/shell-utility-jacket-white-male.png",
+      "asset": "sf-gallery-shell-utility-jacket-white-male.webp"
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "black",
+      "view": "duofull",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-black-front-480.jpg",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e8616dbb-315e-4334-8284-7d97861235a8.png",
+        "C:/Users/david/Downloads/Mute drop available🤫🌟_FW25__на сайте anilopeer_ru (1).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Structure Hoodie product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black oversized pullover hoodie with clean pocketless cropped front that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its FULL-BODY front/back composition: woman on LEFT facing the camera, both hands lightly raised at the neckline/collar (hoodie collar if hoodie); man on RIGHT turned away in relaxed three-quarter rear view, arms resting naturally and head turned slightly to the right. Both complete bodies, full hair and both pairs of shoes visible, include floor and comfortable margins. The man's garment BACK IS PLAIN BLACK, no lettering or back graphics. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ea9b10fa-66d6-433d-948e-4338cd025577.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/structure-hoodie-black-duofull.png",
+      "asset": "sf-gallery-structure-hoodie-black-duofull.webp"
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "black",
+      "view": "duolow",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-black-front-480.jpg",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e8616dbb-315e-4334-8284-7d97861235a8.png",
+        "C:/Users/david/Downloads/download (11).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Structure Hoodie product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black oversized pullover hoodie with clean pocketless cropped front that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its dramatic LOW-ANGLE two-person portrait: camera below chest level looking upward, the man large in the left foreground, woman slightly farther back to the right, both looking down calmly toward lens. Crop head-to-upper-thigh, whole heads visible, emphasize their garment torsos and natural perspective, no wide-angle facial distortion. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b66ecda1-0047-4a6c-991f-3e108f7f3692.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/structure-hoodie-black-duolow.png",
+      "asset": "sf-gallery-structure-hoodie-black-duolow.webp"
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "black",
+      "view": "female",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-black-front-480.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-black-front-480.jpg"
+      ],
+      "prompt": "Create a new counterpart HALF-BODY catalog photograph for SIDEFORM Structure Hoodie. Image 1 defines the EXACT PRODUCT, studio background, lighting and catalog shot. Image 2 is ONLY the identity reference for the female model who must wear the product from image 1. Preserve image 2's identical face, hair, skin tone, physique and age; do not copy its clothing. Product: black oversized pullover hoodie with clean pocketless cropped front. Match the actual garment construction, fabric weight, hem, sleeves, closure, pockets and tiny white offset two-bar chest symbol from image 1 precisely. Pose: relaxed standing, facing camera, neutral expression, arms naturally down or hands resting in grey trouser pockets. Frame from above the entire hair to mid-thigh, show the whole garment including cuffs and hem; head not cropped. Grey loose trousers visible at bottom. EXACT same softly lit pale warm-grey studio background as image 1. Photorealistic premium e-commerce studio photography, portrait 4:5 around 1122x1402, no text/captions/UI/watermark, no additional logos, no other person. This is the female companion view of the same unisex product, not a different garment.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e8616dbb-315e-4334-8284-7d97861235a8.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/structure-hoodie-black-female.png",
+      "asset": "sf-gallery-structure-hoodie-black-female.webp"
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "grey",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ea9b10fa-66d6-433d-948e-4338cd025577.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM structure-hoodie GREY colorway. Change ONLY BOTH models' upper garments from black to the exact grey fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b12b50ed-689d-412f-9ee1-7fdec3506839.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/structure-hoodie-grey-duofull.png",
+      "asset": "sf-gallery-structure-hoodie-grey-duofull.webp"
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "grey",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b66ecda1-0047-4a6c-991f-3e108f7f3692.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM structure-hoodie GREY colorway. Change ONLY BOTH models' upper garments from black to the exact grey fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-eb7c380b-2b64-4a71-bd68-963942032b11.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/structure-hoodie-grey-duolow.png",
+      "asset": "sf-gallery-structure-hoodie-grey-duolow.webp"
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "grey",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e8616dbb-315e-4334-8284-7d97861235a8.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Structure Hoodie. Change ONLY the selected upper garment from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-1847028a-ff1c-43e7-8ac3-8429de5bd4ff.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/structure-hoodie-grey-female.png",
+      "asset": "sf-gallery-structure-hoodie-grey-female.webp"
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "white",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ea9b10fa-66d6-433d-948e-4338cd025577.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM structure-hoodie WHITE colorway. Change ONLY BOTH models' upper garments from black to the exact white fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-24b1b8ca-48f0-407a-a618-1d75ba39d423.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/structure-hoodie-white-duofull.png",
+      "asset": "sf-gallery-structure-hoodie-white-duofull.webp"
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "white",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b66ecda1-0047-4a6c-991f-3e108f7f3692.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM structure-hoodie WHITE colorway. Change ONLY BOTH models' upper garments from black to the exact white fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-480c75d1-9a3f-45c5-9d8c-c894cd32aa92.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/structure-hoodie-white-duolow.png",
+      "asset": "sf-gallery-structure-hoodie-white-duolow.webp"
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "white",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e8616dbb-315e-4334-8284-7d97861235a8.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Structure Hoodie. Change ONLY the selected upper garment from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-75e77eec-0027-4e3c-893d-9da8e3a9a196.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/structure-hoodie-white-female.png",
+      "asset": "sf-gallery-structure-hoodie-white-female.webp"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "black",
+      "view": "duofull",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-transit-work-jacket-black-front-480.jpg",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-11ef0e5d-c3f8-4885-9393-8e027967185f.png",
+        "C:/Users/david/Downloads/Mute drop available🤫🌟_FW25__на сайте anilopeer_ru (1).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Transit Work Jacket product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black pointed-collar button work jacket with two large patch pockets that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its FULL-BODY front/back composition: woman on LEFT facing the camera, both hands lightly raised at the neckline/collar (hoodie collar if hoodie); man on RIGHT turned away in relaxed three-quarter rear view, arms resting naturally and head turned slightly to the right. Both complete bodies, full hair and both pairs of shoes visible, include floor and comfortable margins. The man's garment BACK IS PLAIN BLACK, no lettering or back graphics. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a0efa823-b97c-4d55-a3e6-8ff8902697f8.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/transit-work-jacket-black-duofull.png",
+      "asset": "sf-gallery-transit-work-jacket-black-duofull.webp"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "black",
+      "view": "duolow",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-transit-work-jacket-black-front-480.jpg",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-11ef0e5d-c3f8-4885-9393-8e027967185f.png",
+        "C:/Users/david/Downloads/download (11).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Transit Work Jacket product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black pointed-collar button work jacket with two large patch pockets that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its dramatic LOW-ANGLE two-person portrait: camera below chest level looking upward, the man large in the left foreground, woman slightly farther back to the right, both looking down calmly toward lens. Crop head-to-upper-thigh, whole heads visible, emphasize their garment torsos and natural perspective, no wide-angle facial distortion. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-28f1adf5-3435-4b38-aef1-906a4425b2b5.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/transit-work-jacket-black-duolow.png",
+      "asset": "sf-gallery-transit-work-jacket-black-duolow.webp"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "black",
+      "view": "female",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-transit-work-jacket-black-front-480.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-black-front-480.jpg"
+      ],
+      "prompt": "Create a new counterpart HALF-BODY catalog photograph for SIDEFORM Transit Work Jacket. Image 1 defines the EXACT PRODUCT, studio background, lighting and catalog shot. Image 2 is ONLY the identity reference for the female model who must wear the product from image 1. Preserve image 2's identical face, hair, skin tone, physique and age; do not copy its clothing. Product: black pointed-collar button work jacket with two large patch pockets. Match the actual garment construction, fabric weight, hem, sleeves, closure, pockets and tiny white offset two-bar chest symbol from image 1 precisely. Pose: relaxed standing, facing camera, neutral expression, arms naturally down or hands resting in grey trouser pockets. Frame from above the entire hair to mid-thigh, show the whole garment including cuffs and hem; head not cropped. Grey loose trousers visible at bottom. EXACT same softly lit pale warm-grey studio background as image 1. Photorealistic premium e-commerce studio photography, portrait 4:5 around 1122x1402, no text/captions/UI/watermark, no additional logos, no other person. This is the female companion view of the same unisex product, not a different garment.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-11ef0e5d-c3f8-4885-9393-8e027967185f.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/transit-work-jacket-black-female.png",
+      "asset": "sf-gallery-transit-work-jacket-black-female.webp"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "grey",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a0efa823-b97c-4d55-a3e6-8ff8902697f8.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-transit-work-jacket-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM transit-work-jacket GREY colorway. Change ONLY BOTH models' upper garments from black to the exact grey fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e6e9cb99-9539-44c4-816f-1d97068c3125.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/transit-work-jacket-grey-duofull.png",
+      "asset": "sf-gallery-transit-work-jacket-grey-duofull.webp"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "grey",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-28f1adf5-3435-4b38-aef1-906a4425b2b5.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-transit-work-jacket-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM transit-work-jacket GREY colorway. Change ONLY BOTH models' upper garments from black to the exact grey fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2bf6d065-9a4b-4fe3-8bae-75b74c78d895.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/transit-work-jacket-grey-duolow.png",
+      "asset": "sf-gallery-transit-work-jacket-grey-duolow.webp"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "grey",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-11ef0e5d-c3f8-4885-9393-8e027967185f.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-transit-work-jacket-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Transit Work Jacket. Change ONLY the selected upper garment from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c5070bf0-4337-47b3-bb2c-732e19cacf49.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/transit-work-jacket-grey-female.png",
+      "asset": "sf-gallery-transit-work-jacket-grey-female.webp"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "white",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a0efa823-b97c-4d55-a3e6-8ff8902697f8.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-transit-work-jacket-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM transit-work-jacket WHITE colorway. Change ONLY BOTH models' upper garments from black to the exact white fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e5318908-ad2f-459d-92e9-e1a948ebb5e4.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/transit-work-jacket-white-duofull.png",
+      "asset": "sf-gallery-transit-work-jacket-white-duofull.webp"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "white",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-28f1adf5-3435-4b38-aef1-906a4425b2b5.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-transit-work-jacket-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM transit-work-jacket WHITE colorway. Change ONLY BOTH models' upper garments from black to the exact white fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2da96ee8-cf60-4b93-95ec-c816d87d5690.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/transit-work-jacket-white-duolow.png",
+      "asset": "sf-gallery-transit-work-jacket-white-duolow.webp"
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "white",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-11ef0e5d-c3f8-4885-9393-8e027967185f.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-transit-work-jacket-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Transit Work Jacket. Change ONLY the selected upper garment from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-976fdcc8-1e87-42c7-ad4f-f930cdbebdc2.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/transit-work-jacket-white-female.png",
+      "asset": "sf-gallery-transit-work-jacket-white-female.webp"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "black",
+      "view": "duofull",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-volume-pullover-black-front-480.jpg",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-5589e5d8-15be-489e-b2b2-eb1b9c43a1e9.png",
+        "C:/Users/david/Downloads/Mute drop available🤫🌟_FW25__на сайте anilopeer_ru (1).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Volume Pullover product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black oversized pullover hoodie with kangaroo pocket that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its FULL-BODY front/back composition: woman on LEFT facing the camera, both hands lightly raised at the neckline/collar (hoodie collar if hoodie); man on RIGHT turned away in relaxed three-quarter rear view, arms resting naturally and head turned slightly to the right. Both complete bodies, full hair and both pairs of shoes visible, include floor and comfortable margins. The man's garment BACK IS PLAIN BLACK, no lettering or back graphics. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c7d2b66e-5fe2-4b95-a691-daa6c724409b.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/volume-pullover-black-duofull.png",
+      "asset": "sf-gallery-volume-pullover-black-duofull.webp"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "black",
+      "view": "duolow",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-volume-pullover-black-front-480.jpg",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-5589e5d8-15be-489e-b2b2-eb1b9c43a1e9.png",
+        "C:/Users/david/Downloads/download (11).jpg"
+      ],
+      "prompt": "Create ONE photoreal SIDEFORM Volume Pullover product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black oversized pullover hoodie with kangaroo pocket that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its dramatic LOW-ANGLE two-person portrait: camera below chest level looking upward, the man large in the left foreground, woman slightly farther back to the right, both looking down calmly toward lens. Crop head-to-upper-thigh, whole heads visible, emphasize their garment torsos and natural perspective, no wide-angle facial distortion. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-489220c1-91eb-41fe-bc9a-3fd1a634a481.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/volume-pullover-black-duolow.png",
+      "asset": "sf-gallery-volume-pullover-black-duolow.webp"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "black",
+      "view": "female",
+      "refs": [
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-volume-pullover-black-front-480.jpg",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-black-front-480.jpg"
+      ],
+      "prompt": "Create a new counterpart HALF-BODY catalog photograph for SIDEFORM Volume Pullover. Image 1 defines the EXACT PRODUCT, studio background, lighting and catalog shot. Image 2 is ONLY the identity reference for the female model who must wear the product from image 1. Preserve image 2's identical face, hair, skin tone, physique and age; do not copy its clothing. Product: black oversized pullover hoodie with kangaroo pocket. Match the actual garment construction, fabric weight, hem, sleeves, closure, pockets and tiny white offset two-bar chest symbol from image 1 precisely. Pose: relaxed standing, facing camera, neutral expression, arms naturally down or hands resting in grey trouser pockets. Frame from above the entire hair to mid-thigh, show the whole garment including cuffs and hem; head not cropped. Grey loose trousers visible at bottom. EXACT same softly lit pale warm-grey studio background as image 1. Photorealistic premium e-commerce studio photography, portrait 4:5 around 1122x1402, no text/captions/UI/watermark, no additional logos, no other person. This is the female companion view of the same unisex product, not a different garment.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-5589e5d8-15be-489e-b2b2-eb1b9c43a1e9.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/volume-pullover-black-female.png",
+      "asset": "sf-gallery-volume-pullover-black-female.webp"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "grey",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c7d2b66e-5fe2-4b95-a691-daa6c724409b.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-volume-pullover-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM volume-pullover GREY colorway. Change ONLY BOTH models' upper garments from black to the exact grey fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-cb263398-4474-457e-9718-55cdc98e2df4.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/volume-pullover-grey-duofull.png",
+      "asset": "sf-gallery-volume-pullover-grey-duofull.webp"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "grey",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-489220c1-91eb-41fe-bc9a-3fd1a634a481.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-volume-pullover-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Volume Pullover. Change ONLY the selected upper garment worn by BOTH people from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e9b414ba-d28f-4a0b-8c04-7b79ed8dd88a.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/volume-pullover-grey-duolow.png",
+      "asset": "sf-gallery-volume-pullover-grey-duolow.webp"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "grey",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-5589e5d8-15be-489e-b2b2-eb1b9c43a1e9.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-volume-pullover-grey-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Volume Pullover. Change ONLY the selected upper garment from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-863ee5c1-a6eb-4ada-acf0-fddce21cdc1f.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/volume-pullover-grey-female.png",
+      "asset": "sf-gallery-volume-pullover-grey-female.webp"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "white",
+      "view": "duofull",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c7d2b66e-5fe2-4b95-a691-daa6c724409b.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-volume-pullover-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for SIDEFORM volume-pullover WHITE colorway. Change ONLY BOTH models' upper garments from black to the exact white fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-3bc6f778-3517-4d26-84b9-0f41e8b70e59.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/volume-pullover-white-duofull.png",
+      "asset": "sf-gallery-volume-pullover-white-duofull.webp"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "white",
+      "view": "duolow",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-489220c1-91eb-41fe-bc9a-3fd1a634a481.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-volume-pullover-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Volume Pullover. Change ONLY the selected upper garment worn by BOTH people from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-11192f72-4334-4cd1-a094-0ac0b34e7304.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/volume-pullover-white-duolow.png",
+      "asset": "sf-gallery-volume-pullover-white-duolow.webp"
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "white",
+      "view": "female",
+      "refs": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-5589e5d8-15be-489e-b2b2-eb1b9c43a1e9.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-volume-pullover-white-front-480.jpg"
+      ],
+      "prompt": "Edit image 1 for the WHITE colorway of SIDEFORM Volume Pullover. Change ONLY the selected upper garment from black to the exact white fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-37427134-cae3-4931-9fa1-f450225b3321.png",
+      "tool": "built-in image_gen",
+      "original": "catalog/six-photo-gallery/volume-pullover-white-female.png",
+      "asset": "sf-gallery-volume-pullover-white-female.webp"
+    }
+  ],
+  "missing": []
+}

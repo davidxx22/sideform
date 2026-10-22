@@ -1,0 +1,12 @@
+{
+  "handle": "grid-cargo-pant",
+  "color": "black",
+  "view": "front",
+  "refs": [
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-d90ba742-13e9-43e0-9e1e-79b24a9eb2f1.png",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg"
+  ],
+  "prompt": "Edit image 1 with ONE change: add the exact small BLACK SIDEFORM chest emblem from image 2 to the grey oversized T-shirt on the wearer's upper LEFT chest (viewer right). Two short offset horizontal rectangles, subtle small scale like image 2, not letters. Keep all else identical: curly-haired male face/hair, oversized grey untucked tee silhouette, black cargo pants construction, pose, shoes, background, lighting, framing. Pants remain entirely unbranded. No text/captions or other logos.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-47cdbb26-25c8-4ba0-b009-c5ffba3b71cf.png",
+  "tool": "built-in image_gen"
+}

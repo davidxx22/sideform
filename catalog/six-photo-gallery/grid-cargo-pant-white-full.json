@@ -1,0 +1,12 @@
+{
+  "handle": "grid-cargo-pant",
+  "color": "white",
+  "view": "full",
+  "refs": [
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-87340906-8dbc-4a0f-8377-b38e45347e8a.png",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-white-front-480.jpg"
+  ],
+  "prompt": "Edit image1 changing ONLY black cargo pants to the WHITE fabric shade from image2. Preserve image1's FRONT FACING HEAD and BOTH EYES looking directly at camera exactly, same curly-haired man, facial details and expression. All else exactly unchanged: angled relaxed body pose, hand in pocket, oversized grey tee with tiny black SIDEFORM chest mark, white sneakers, pants construction and pockets, light studio, shadows and framing. Image2 only defines pants color, not model or tee. Do not turn head sideways. No text/watermarks or pants logos.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-12314b94-3625-431f-9083-7a13538bd496.png",
+  "tool": "built-in image_gen"
+}

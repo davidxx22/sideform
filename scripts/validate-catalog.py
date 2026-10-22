@@ -2,7 +2,7 @@ from pathlib import Path
 import csv, json, itertools
 root=Path(__file__).resolve().parents[1]
 products=json.loads((root/'catalog/catalog.json').read_text(encoding='utf-8'))
-rows=list(csv.DictReader((root/'catalog/sideform-products.csv').open(encoding='utf-8')))
+rows=list(csv.DictReader((root/'catalog/sideform-products.csv').open(encoding='utf-8-sig')))
 assert len(products)==12 and len(rows)==108
 assert len({r['Variant SKU'] for r in rows})==108
 expected=set(itertools.product(['Black','White','Grey'],['Small','Medium','Large']))

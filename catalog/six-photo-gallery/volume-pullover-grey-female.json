@@ -1,0 +1,12 @@
+{
+  "handle": "volume-pullover",
+  "color": "grey",
+  "view": "female",
+  "refs": [
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-5589e5d8-15be-489e-b2b2-eb1b9c43a1e9.png",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-volume-pullover-grey-front-480.jpg"
+  ],
+  "prompt": "Edit image 1 for the GREY colorway of SIDEFORM Volume Pullover. Change ONLY the selected upper garment from black to the exact grey fabric shade shown in image 2. Image 2 is garment color and small chest-logo contrast reference only. Keep image 1's IDENTICAL people, faces, curls/hair, skin tones, poses, camera angle, framing, grey trousers, white sneakers, pale studio background and shadows. Preserve the upper garment cut, fabric weight, sleeves, seams, neck, closure and pockets exactly. Tiny offset two-bar chest emblem should match image 2's contrast; rear remains completely plain without graphics. Do not change trousers color or grey T-shirt when the target is outerwear. No text/captions/watermarks. Output one photo same aspect and composition as image 1.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-863ee5c1-a6eb-4ada-acf0-fddce21cdc1f.png",
+  "tool": "built-in image_gen"
+}

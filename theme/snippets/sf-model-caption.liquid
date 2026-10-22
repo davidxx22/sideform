@@ -1,7 +1,11 @@
 {% assign model_profile = product.metafields.custom.model_profile.value %}
-{% if model_profile.height_cm != blank and model_profile.wearing_size != blank %}
-  {% assign height_inches = model_profile.height_cm | divided_by: 2.54 | round %}
+{% assign model_height = model_profile.height_cm %}
+{% assign model_size = model_profile.wearing_size %}
+{% if gender == 'male' or product.handle == 'grid-cargo-pant' %}{% assign model_height = 185 %}{% assign model_size = 'Large' %}{% endif %}
+{% if gender == 'female' %}{% assign model_height = 173 %}{% assign model_size = 'Medium' %}{% endif %}
+{% if model_height != blank and model_size != blank %}
+  {% assign height_inches = model_height | divided_by: 2.54 | round %}
   {% assign height_feet = height_inches | divided_by: 12 | floor %}
   {% assign remaining_inches = height_inches | modulo: 12 %}
-  <p class="sf-model-caption">Model: {{ height_feet }}' {{ remaining_inches }}&quot;<br>Wearing size: {{ model_profile.wearing_size | escape }}</p>
+  <p class="sf-model-caption">Model: {{ height_feet }}' {{ remaining_inches }}&quot;<br>Wearing size: {{ model_size | escape }}</p>
 {% endif %}

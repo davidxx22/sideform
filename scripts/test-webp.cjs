@@ -24,7 +24,7 @@ const catalog = require('../catalog/catalog.json');
        await Promise.all(images.map(img=>{img.loading='eager';return Promise.race([img.decode(),new Promise((_,reject)=>setTimeout(()=>reject(new Error('Image decode timed out')),15000))])}));
        return images.map(img=>({src:img.currentSrc,valid:img.complete&&img.naturalWidth>0}));
       });
-      assert.equal(photos.length,4);
+      assert.equal(photos.length,product.tags.some(t=>['tops','outerwear'].includes(t))?6:4);
       assert(photos.every(p=>p.valid&&p.src.includes(`-${color.toLowerCase()}-`)&&p.src.includes('.webp')));
      }
      console.log('PASS WebP colors',engine,product.handle);
@@ -60,7 +60,7 @@ const catalog = require('../catalog/catalog.json');
     const response = await page.request.get(origin+'/assets/sf-gallery-grid-cargo-pant-black-full.webp');
     assert.equal(response.headers()['content-type'],'image/webp; charset=utf-8');
     assert.deepEqual(errors,[]);
-    report.push({engine,products:12,colors:3,photosPerColor:4,atomicSwap:true,staleRequestGuard:true,failedImageRetainsPrevious:true});
+    report.push({engine,products:12,colors:3,topsPhotosPerColor:6,bottomsPhotosPerColor:4,atomicSwap:true,staleRequestGuard:true,failedImageRetainsPrevious:true});
     console.log('PASS WebP galleries, cards, search, slow/failed swaps:',engine);
    } finally { await browser.close(); }
   }

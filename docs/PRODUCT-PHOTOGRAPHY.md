@@ -1,5 +1,12 @@
 # SIDEFORM generated product photography
 
+## Current gallery update — 22 October 2026
+
+Nine tops/outerwear now use six views per color: male half-body, paired low-angle, paired full-body front/back, female half-body, hanger lineup and detail. Three bottoms retain four views. The curly-haired male models Grid Cargo Pant in an oversized untucked grey tee; Drift Baggy Jean uses the Black male and Interval Utility Short the female. He also appears on Structure Hoodie, Axis Long Sleeve, Frame Long Sleeve and Shell Utility Jacket. All three colorways preserve each shoot’s model identities and composition. Cargo’s second photo keeps the relaxed one-hand-in-pocket pose with his head facing forward; grey tees carry the small black chest mark wherever the chest is visible. The pants/shorts themselves remain unbranded.
+
+Final source PNGs and exact prompts/reference roles are in catalog/six-photo-gallery/, summarized in generation.json. All new photos were created or edited with built-in imagegen. Python only resizes/encodes delivery derivatives. Run scripts/install-six-photo-gallery.py to rebuild the WebP copies; it also keeps the replacement cargo JPEG sources aligned. Theme and Vercel delivery use WebP. Earlier libraries below are retained as source history.
+
+
 This collection replaces the earlier flat SVG demo illustrations with 108 individual, photorealistic AI-generated sample photographs: 12 distinct garments × Black / White / Grey × front / back / close-up.
 
 The 36 primary front photographs now show adult models wearing the garments. Product cards, the first gallery image and variant/cart thumbnails use these model shots. The 72 supporting back and detail photographs remain garment-only views. Each product retains the same model, pose and styling across its three colors.

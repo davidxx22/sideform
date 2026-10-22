@@ -236,7 +236,7 @@
     connectedCallback() {
       if (this.initialized) return;
       this.initialized = true;
-      this.color = this.dataset.color || 'black'; this.view = 'front';
+      this.color = this.dataset.color || 'black'; this.view = this.querySelector('[data-sf-view]')?.dataset.sfView || 'front';
       const strip = this.querySelector('.sf-photo-gallery__grid');
       const slides = [...this.querySelectorAll('.sf-photo-gallery__tile')];
       const showSlide = index => strip.scrollTo({ left: Math.max(0, Math.min(index, slides.length - 1)) * strip.clientWidth, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' });
@@ -267,14 +267,14 @@
         this.querySelector('sf-dialog').open(event.currentTarget);
       }));
     }
-    selectColor(color) { const next = color.toLowerCase(); if (next === this.color) return; this.color = next; this.view = 'front'; this.querySelector('.sf-photo-gallery__grid').scrollTo({left:0,behavior:'instant'}); this.render(); }
+    selectColor(color) { const next = color.toLowerCase(); if (next === this.color) return; this.color = next; this.view = this.querySelector('[data-sf-view]')?.dataset.sfView || 'front'; this.querySelector('.sf-photo-gallery__grid').scrollTo({left:0,behavior:'instant'}); this.render(); }
     async render() {
       const color = this.color;
       const request = Symbol();
       this.sfPhotoRequest = request;
       const updates = [...this.querySelectorAll('.sf-photo-gallery__grid img')].map(img => {
         const view = img.closest('[data-sf-view]')?.dataset.sfView || this.view;
-        const replacePhoto = url => url.replace(/-(black|white|grey)-(front|back|detail|full|lineup)(-480)?\.(?:webp|jpg)/g, (_, previous, angle, small) => `-${color}-${view}${small || ''}.webp`);
+        const replacePhoto = url => url.replace(/-(black|white|grey)-(front|back|detail|full|lineup|male|female|duolow|duofull)(-480)?\.(?:webp|jpg)/g, (_, previous, angle, small) => `-${color}-${view}${small || ''}.webp`);
         return { img, view, src: replacePhoto(img.src), srcset: replacePhoto(img.srcset) };
       });
       this.setAttribute('aria-busy', 'true');
@@ -293,8 +293,8 @@
           if (srcset) img.srcset = srcset;
           else img.removeAttribute('srcset');
           img.src = src;
-          const description = view === 'front' ? 'on-model front' : view === 'full' ? 'on-model full' : view;
-          img.alt = img.alt.replace(/, (black|white|grey), (?:on-model )?(front|back|detail|full|lineup) view/i, `, ${color}, ${description} view`);
+          const description = {front:'on-model front',full:'on-model full',male:'male half-body',female:'female half-body',duolow:'two-model low-angle',duofull:'two-model full-body'}[view] || view;
+          img.alt = img.alt.replace(/, (black|white|grey), [^,]+ view\./i, `, ${color}, ${description} view.`);
         });
         this.dataset.color = color;
         this.querySelectorAll('[data-sf-view]').forEach(button => {

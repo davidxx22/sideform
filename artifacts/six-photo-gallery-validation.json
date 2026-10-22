@@ -1,0 +1,153 @@
+{
+  "products": [
+    {
+      "handle": "offset-heavy-tee",
+      "views": [
+        "male",
+        "duolow",
+        "duofull",
+        "female",
+        "lineup",
+        "detail"
+      ],
+      "desktopGrid": true
+    },
+    {
+      "handle": "plane-box-tee",
+      "views": [
+        "male",
+        "duolow",
+        "duofull",
+        "female",
+        "lineup",
+        "detail"
+      ],
+      "desktopGrid": true
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "views": [
+        "male",
+        "duolow",
+        "duofull",
+        "female",
+        "lineup",
+        "detail"
+      ],
+      "desktopGrid": true
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "views": [
+        "male",
+        "duolow",
+        "duofull",
+        "female",
+        "lineup",
+        "detail"
+      ],
+      "desktopGrid": true
+    },
+    {
+      "handle": "volume-pullover",
+      "views": [
+        "male",
+        "duolow",
+        "duofull",
+        "female",
+        "lineup",
+        "detail"
+      ],
+      "desktopGrid": true
+    },
+    {
+      "handle": "structure-hoodie",
+      "views": [
+        "male",
+        "duolow",
+        "duofull",
+        "female",
+        "lineup",
+        "detail"
+      ],
+      "desktopGrid": true
+    },
+    {
+      "handle": "contour-crew",
+      "views": [
+        "male",
+        "duolow",
+        "duofull",
+        "female",
+        "lineup",
+        "detail"
+      ],
+      "desktopGrid": true
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "views": [
+        "male",
+        "duolow",
+        "duofull",
+        "female",
+        "lineup",
+        "detail"
+      ],
+      "desktopGrid": true
+    },
+    {
+      "handle": "transit-work-jacket",
+      "views": [
+        "male",
+        "duolow",
+        "duofull",
+        "female",
+        "lineup",
+        "detail"
+      ],
+      "desktopGrid": true
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "views": [
+        "front",
+        "full",
+        "lineup",
+        "detail"
+      ],
+      "desktopGrid": true
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "views": [
+        "front",
+        "full",
+        "lineup",
+        "detail"
+      ],
+      "desktopGrid": true
+    },
+    {
+      "handle": "interval-utility-short",
+      "views": [
+        "front",
+        "full",
+        "lineup",
+        "detail"
+      ],
+      "desktopGrid": true
+    }
+  ],
+  "zoomProducts": 3,
+  "responsiveWidths": [
+    320,
+    390,
+    768,
+    989,
+    1440
+  ],
+  "colorReset": true,
+  "keyboard": true,
+  "errors": []
+}

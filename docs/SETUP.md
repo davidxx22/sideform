@@ -149,69 +149,10 @@ The header heart sits between search and cart on every page. Product **Add to fa
 Define product JSON metafield **custom.model_profile** (see `catalog/metafield-definitions.json`) and populate from `catalog/product-metafields.json`. Shape: `{"height_cm":185,"wearing_size":"Large","assumed":true}`. The requested styling assumptions are 185 cm / Large for male model images, and 173 cm / Medium for female model images. These are invented styling references, not measured model data; replace with verified shoot measurements and actual worn size before launch. The caption appears on native media tagged `on-model` in its alt text; fallback model fronts show it too. It hides if the metafield is absent. Captions describe the photographed outfit and do not change when the shopper selects a size. Product photo disclosure banners have been removed from the page; generation provenance remains in the catalog and these docs.
 
 
-## Approved four-photo galleries — all products
+## Product gallery layouts
 
-All 12 catalog products now use tag `sf-four-photo-gallery` to select the approved asset-backed 2x2 gallery: existing model front, matching full-body model photo, selected-color hanger lineup, and existing detail image. Black, White and Grey have their own full-body and hanger images. Selected garments lead at the left of the rail; the other colors sit sideways behind. Tops and jackets carry the two-rectangle chest mark; pants and shorts remain unbranded. Preserve this tag when importing manually into Shopify. Native variant forms, size guides, favorites and cart remain active.
+Keep the existing sf-four-photo-gallery catalog tag: it enables the custom product gallery. The snippet uses the existing tops or outerwear tag to select six images in this order: male half-body, two-model low-angle, two-model full-body, female half-body, hanger lineup, garment detail. Bottoms keep front, rear three-quarter full-body, hanger lineup and detail. Desktop uses two columns; phone and tablet use the existing swipe carousel with a six- or four-photo counter.
 
-The approved Offset originals are in `catalog/offset-four-photo/`; the other products' generated originals are in `catalog/product-gallery-photos/`. Full/480px JPEGs use `theme/assets/sf-gallery-{handle}-{color}-{full|lineup}[-480].jpg`. Built-in imagegen prompt sets and source references: `catalog/all-product-gallery-generation.json`, `catalog/gallery-batch-*.json`, `catalog/product-gallery-output-manifest.json`, plus the preserved Offset generation files. `scripts/install-gallery-batches.py` installs and makes review sheets; `scripts/enable-all-product-galleries.py` verifies every responsive file exists before enabling catalog tags. The full test matrix is `scripts/test-catalog-galleries.cjs`.
+Grid Cargo Pant's model is the curly-haired male in an oversized grey tee. Drift Baggy Jean uses the Black male, and Interval Utility Short uses the female. Preserve the updated cargo model-profile metafield when importing. The curly-haired male appears on four upper garments as well.
 
-
-Product purchase refinement: quantity and Add to Cart share equal widths and 52px height; their combined edges align with Favorites. Quantity/cart-count text remains visually hidden with accessible labeling and Dawn quantity updates preserved. The stock line between the purchase row and Favorites reflects the selected variant’s availability through native product-info section updates; unavailable combinations hide it. Model captions use a transparent background, Size Guide aligns with the Size label, and Share was removed from the product template.
-
-
-Product presentation refinement: the short description block beneath Favorites has been removed from the product template; the full description remains in the Details accordion. Features now starts collapsed on every page entry. Offset’s four gallery tiles meet without gutters. Asset-backed gallery enlargement now uses a full-viewport scrolling dialog with the same image scale as Dawn’s native product enlargement (desktop width minus 22rem, mobile 1100px for panning). Close/Escape restores focus and unlocks page scrolling.
-
-
-Model captions now convert the stored `custom.model_profile.height_cm` to rounded feet and inches (185 cm = 6 ft 1 in; 173 cm = 5 ft 8 in), retaining worn clothing size. Size guide customer-facing sample-measurement notice removed; source measurement provenance and verification requirements remain in handoff documentation. The garment measurement table remains in centimeters.
-
-
-Product size picker labels now display S / M / L and the selected-size heading uses the same abbreviation. Native Small / Medium / Large option values, IDs and accessible full-size labels are retained. Browser checks confirmed display labels and native variant/cart behavior.
-
-
-Header fixes: the favorites count has a scoped 16px badge height so Dawn header span rules cannot stretch it. The local preview now includes the same predictive-search CSS/JavaScript used by the actual theme, plus a catalog-backed `/search/suggest` section endpoint for local suggestions. Shopify continues to supply its native predictive-search endpoint in the uploaded theme.
-
-
-Favorites and cart counts now share a 16px badge positioned at the top-right of each header icon. Header Search uses a rounded 40px field with the placeholder "What are you looking for?", an accessible hidden label, focus outline, back and close controls. Both controls close the modal and return focus; native predictive search, reset, submit and keyboard behavior remain active.
-
-
-Header search sizing refined: centered control group capped at 840px, 36px-high field and 56px search strip. Mobile remains fluid. Search interaction checks passed at 1920/1440/390/320px.
-
-
-Favorites feedback now clears on dialog opening/closing and saved-list synchronization, preventing a previous removal message from appearing after a product is re-added. The current removal still announces immediately. Remove is red with no underline.
-
-
-The shared price snippet no longer renders the Sold out badge beside product prices. Sale badges, availability text and unavailable-variant purchase prevention remain active. Grey/Large currently has zero stock across the supplied catalog, so the native size selector still crosses out L for Grey.
-
-
-Size letters no longer use strikethrough when unavailable. Verified all twelve Grey/Large selections display L without a line while Out of stock remains visible and the Sold out purchase button stays disabled.
-
-
-Favorites removal confirmations are now screen-reader-only, so no product-removed sentence or extra message area appears in the dialog. Storage errors remain visible. Remove/re-add, stale-message clearing and hidden confirmation checks passed.
-
-
-Category cards now fill their grid columns with a larger 3:4 portrait shape and an 18px desktop gap. The category row shares its left/right edges with New arrivals. Mobile uses matching two-column card widths and 12px gaps inside the horizontal scroller. Alignment checks passed at 1920/1440/768/390/320px.
-
-
-Category model choices now reuse the existing male Structure Hoodie model and female Shell Utility Jacket model. No new image generation was needed. The campaign eyebrow is blank and generic shop/collection descriptions are disabled, removing the blanket Collection 001 / Off the Grid captions. Product sidebars identify the four new pieces as Collection 002 using product tags; the other eight remain Collection 001.
-
-The page shell uses a full-viewport flex layout: the main content grows on short pages and the footer follows it in normal flow. The local preview now uses the same main-content wrapper as the theme, so About has no blank area beneath the footer.
-
-
-Collection 001 products now show COLLECTION 001 / OFF THE GRID directly below Add to favorites, aligned with that button. All eight Collection 001 products were verified; the four Collection 002 products omit this Collection 001 note. The trial Collection dropdown was removed at user request. Product collection indicators remain in their approved positions.
-
-
-Cart tab consistency: Shopify cart data remains authoritative; native cart changes notify other tabs to refresh the drawer and count without opening it. Refocusing a tab also refreshes its cart. The local preview now uses an HttpOnly browser cookie for cart lines instead of server-only shared memory, so new tabs, reloads and preview restarts retain the browser cart. Product color selections use a 36px outer circle around the 28px swatch with tighter spacing. Evidence: artifacts/cart-tabs-validation.json.
-
-Responsive layouts: phones use a stacked product layout and a category grid with a wide jacket feature above four smaller model-photo cards. iPad portrait uses a gallery/purchase split and three category cards per swipe view; landscape iPad retains the wider layout. Homepage About spacing and product-description spacing are capped on smaller screens while preserving section settings on desktop. Verify the storefront on physical iPhone/iPad Safari before launch; the supplied validation uses browser viewport and touch emulation.
-
-Phone homepage refinement: banner copy overlays the campaign image at a smaller scale; search sits beside the menu to balance favorites/cart around the centered brand. Category photography reuses the approved models with crops for the clothing. The footer brand and description are centered, and Explore links use compact 30px rows. iPad and desktop presentation are unchanged by these phone-only rules.
-
-
-Search discovery revision: header search opens a full-height discovery view at every width. It includes the real collection links, two featured category cards and five thumbnail category links. Entering a query hides discovery while native predictive search displays matches. The direct /search page shows the same discovery content before a query and retains native results afterwards. Phone category pages have a back/title row and separate Sort/Filter controls; product counts remain visually hidden. The Sort control preserves current category/filter parameters and removes pagination. Homepage phone corrections restore white hero text and a white CTA, put smaller search/favorite/cart icons on the right, center the category heading, and remove caption background panels.
-
-Create the Sweatshirts automated collection at /collections/sweatshirts using the tag-equals-sweatshirts rule from catalog/collections.json. Contour Crew has this tag in the catalog and product CSV. Search discovery now links T-shirts and Sweatshirts separately. Phone product galleries use a single-photo carousel with dots/arrows and swipe; wider layouts retain the photo grid. Phone category captions overlay full-card model photos.
-
-
-Latest refinements: phone Sort uses a compact 12px custom disclosure rather than the operating-system select popup, with Escape/outside-click dismissal. Phone navigation covers 70% of the screen. The Sweatshirts automated collection is now titled "Sweatshirts & long sleeves" and includes Axis Long Sleeve, Frame Long Sleeve and Contour Crew; T-shirts contains only Offset Heavy Tee and Plain Box Tee. Product CSV and generator reflect these tags. Shop by category uses the phone-style photo grid through 989px, including iPad mini, with larger appropriately sized images. The editorial collage is restored below New arrivals: Tops, Outerwear, Bottoms and a quote-only olive tile reading "Your city. Your pace. Your form." No collection label or link appears in the quote tile.
-
-All shared product cards include a favorites heart beside color swatches. Favorites remain browser-local and product-level, synchronized with the header and product-page button. Phone and iPad mini galleries use an in-image arrow/fraction control up to 989px, with purchase information remaining alongside on tablet. The Room to move editorial uses the neutral-background full-body image and the Shop bottoms CTA stays on one line at the bottom of its card.
+Final generated originals, prompts and references: catalog/six-photo-gallery/generation.json and adjacent PNGs. Run python scripts/install-six-photo-gallery.py to export full and 480px WebP copies. The installer refuses completion if any new color/view is absent. Reused half-body photographs come from the existing front WebP files. New asset names are sf-gallery-{handle}-{color}-{male|female|duolow|duofull}[-480].webp; existing lineup/detail names remain compatible. Native variant forms, size guides, favorites and cart remain active.

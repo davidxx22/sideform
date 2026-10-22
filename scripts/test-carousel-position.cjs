@@ -34,7 +34,7 @@ const handler = require('../api/storefront');
           assert(Math.abs(counter.x + counter.width / 2 - frame.x - frame.width / 2) < 1);
           assert(Math.abs(frame.y + frame.height - counter.y - counter.height - 14) < 1);
           await gallery.locator('[data-sf-gallery-step="1"]').click();
-          await page.waitForFunction(() => document.querySelector('[data-sf-gallery-counter]').textContent === '2/4');
+          await page.waitForFunction(() => document.querySelector('[data-sf-gallery-counter]').textContent === '2/6');
           console.log(`PASS ${name} carousel geometry and navigation ${width}`);
           if (width === 414) await gallery.screenshot({ path: `artifacts/iphone11-carousel-${name}.png` });
         }

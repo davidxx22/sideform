@@ -345,7 +345,7 @@
         "namespace": "custom",
         "key": "model_profile",
         "type": "json",
-        "value": "{\"height_cm\": 173, \"wearing_size\": \"Medium\", \"assumed\": true}"
+        "value": "{\"height_cm\": 185, \"wearing_size\": \"Large\", \"assumed\": true}"
       }
     ]
   },
