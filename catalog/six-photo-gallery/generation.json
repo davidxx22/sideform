@@ -461,10 +461,10 @@
       "view": "full",
       "refs": [
         "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/catalog/six-photo-gallery/grid-cargo-pant-black-full.png",
-        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-structure-hoodie-black-front-480.jpg"
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/catalog/six-photo-gallery/grid-cargo-pant-white-front.png"
       ],
-      "prompt": "Edit ONLY THE HEAD in image1. Turn this same curly-haired man's head straight FORWARD facing the CAMERA, a symmetrical frontal face with BOTH eyes looking directly at the lens, level natural pupils, relaxed neutral expression. Image2 is his exact frontal FACE IDENTITY reference (not clothing). Preserve identity, curls, skin, face proportions. His head must be facing straight front, NOT three-quarter, NOT sideways. Keep everything BELOW THE NECK in image1 exactly unchanged: relaxed angled body stance, hand in pocket, other arm down, oversized grey tee with small black offset two-bar SIDEFORM chest logo, black cargo pants, white shoes. Keep pale studio background, framing, camera, light, shadows. Only change head orientation and direct eye contact. Single 4:5 photoreal catalog photo, no captions/UI/watermarks.",
-      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-87340906-8dbc-4a0f-8377-b38e45347e8a.png",
+      "prompt": "Background-only edit. IMAGE 1 is the edit target; IMAGE 2 defines ONLY the desired studio BACKGROUND. Replace image 1's cool bluish grey background and textured floor with the same warmer neutral pale greige seamless studio wall/floor in image 2: match its warm white balance, soft diffuse gradient, subtle floor transition, clean smooth floor, and gentle leftward contact shadow. The two photographs will sit directly side by side and the background tones should match. Preserve image1's person COMPLETELY unchanged: exact curly-haired man's identity, FRONT-FACING head, eyes looking straight at camera, facial expression, hairstyle, skin tone, oversized grey tee with tiny black SIDEFORM chest mark, selected cargo pants color and pockets, white sneakers, one hand in pocket, angled body stance, subject size and placement, full head-to-shoes framing. DO NOT recolor or relight the person or garments, do not alter eyes or pose; only adjust the background environment and floor/shadows to match image2. No text/captions/UI/watermarks. Same portrait aspect and resolution as image1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-66207d38-9b71-42b9-99c4-6d28d53bbbcd.png",
       "tool": "built-in image_gen",
       "original": "catalog/six-photo-gallery/grid-cargo-pant-black-full.png",
       "asset": "sf-gallery-grid-cargo-pant-black-full.webp"
@@ -488,11 +488,11 @@
       "color": "grey",
       "view": "full",
       "refs": [
-        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-87340906-8dbc-4a0f-8377-b38e45347e8a.png",
-        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-grey-front-480.jpg"
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/catalog/six-photo-gallery/grid-cargo-pant-grey-full.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/catalog/six-photo-gallery/grid-cargo-pant-white-front.png"
       ],
-      "prompt": "Edit image1 changing ONLY black cargo pants to the GREY fabric shade from image2. Preserve image1's FRONT FACING HEAD and BOTH EYES looking directly at camera exactly, same curly-haired man, facial details and expression. All else exactly unchanged: angled relaxed body pose, hand in pocket, oversized grey tee with tiny black SIDEFORM chest mark, white sneakers, pants construction and pockets, light studio, shadows and framing. Image2 only defines pants color, not model or tee. Do not turn head sideways. No text/watermarks or pants logos.",
-      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ae06c01c-9acf-47c2-852f-d544e42f3354.png",
+      "prompt": "Background-only edit. IMAGE 1 is the edit target; IMAGE 2 defines ONLY the desired studio BACKGROUND. Replace image 1's cool bluish grey background and textured floor with the same warmer neutral pale greige seamless studio wall/floor in image 2: match its warm white balance, soft diffuse gradient, subtle floor transition, clean smooth floor, and gentle leftward contact shadow. The two photographs will sit directly side by side and the background tones should match. Preserve image1's person COMPLETELY unchanged: exact curly-haired man's identity, FRONT-FACING head, eyes looking straight at camera, facial expression, hairstyle, skin tone, oversized grey tee with tiny black SIDEFORM chest mark, selected cargo pants color and pockets, white sneakers, one hand in pocket, angled body stance, subject size and placement, full head-to-shoes framing. DO NOT recolor or relight the person or garments, do not alter eyes or pose; only adjust the background environment and floor/shadows to match image2. No text/captions/UI/watermarks. Same portrait aspect and resolution as image1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-84f7eb34-ae5a-4a0b-8798-4879e685d418.png",
       "tool": "built-in image_gen",
       "original": "catalog/six-photo-gallery/grid-cargo-pant-grey-full.png",
       "asset": "sf-gallery-grid-cargo-pant-grey-full.webp"
@@ -516,11 +516,11 @@
       "color": "white",
       "view": "full",
       "refs": [
-        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-87340906-8dbc-4a0f-8377-b38e45347e8a.png",
-        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-white-front-480.jpg"
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/catalog/six-photo-gallery/grid-cargo-pant-white-full.png",
+        "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/catalog/six-photo-gallery/grid-cargo-pant-white-front.png"
       ],
-      "prompt": "Edit image1 changing ONLY black cargo pants to the WHITE fabric shade from image2. Preserve image1's FRONT FACING HEAD and BOTH EYES looking directly at camera exactly, same curly-haired man, facial details and expression. All else exactly unchanged: angled relaxed body pose, hand in pocket, oversized grey tee with tiny black SIDEFORM chest mark, white sneakers, pants construction and pockets, light studio, shadows and framing. Image2 only defines pants color, not model or tee. Do not turn head sideways. No text/watermarks or pants logos.",
-      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-12314b94-3625-431f-9083-7a13538bd496.png",
+      "prompt": "Background-only edit. IMAGE 1 is the edit target; IMAGE 2 defines ONLY the desired studio BACKGROUND. Replace image 1's cool bluish grey background and textured floor with the same warmer neutral pale greige seamless studio wall/floor in image 2: match its warm white balance, soft diffuse gradient, subtle floor transition, clean smooth floor, and gentle leftward contact shadow. The two photographs will sit directly side by side and the background tones should match. Preserve image1's person COMPLETELY unchanged: exact curly-haired man's identity, FRONT-FACING head, eyes looking straight at camera, facial expression, hairstyle, skin tone, oversized grey tee with tiny black SIDEFORM chest mark, selected cargo pants color and pockets, white sneakers, one hand in pocket, angled body stance, subject size and placement, full head-to-shoes framing. DO NOT recolor or relight the person or garments, do not alter eyes or pose; only adjust the background environment and floor/shadows to match image2. No text/captions/UI/watermarks. Same portrait aspect and resolution as image1.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c259d8a1-d3d5-4b50-8b2c-ab0469e02345.png",
       "tool": "built-in image_gen",
       "original": "catalog/six-photo-gallery/grid-cargo-pant-white-full.png",
       "asset": "sf-gallery-grid-cargo-pant-white-full.webp"
