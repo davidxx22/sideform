@@ -788,7 +788,7 @@ body>#MainContent{flex:1 0 auto}
 .sf-category-card--pants .sf-category-card__image>img{object-position:82% center}
 .sf-category-card--shorts .sf-category-card__image>img{transform:scale(1.55);transform-origin:50% 78%}
 .sf-category-card .sf-category-card__copy,.sf-category-card--jackets .sf-category-card__copy{position:static;inset:auto;display:block;width:100%;height:auto;min-height:0;padding:12px 0 0;background:none;text-align:center}
-.sf-category-card .sf-category-card__name{color:#20231f;font-weight:400;font-size:16px;text-transform:lowercase}
+.sf-category-card .sf-category-card__name{color:#20231f;font-weight:400;font-size:16px;text-transform:none}
 @media(max-width:989px){
  .sf-category-card,.sf-category-card--jackets{aspect-ratio:auto;background:transparent}
  .sf-category-card__image{aspect-ratio:4/5}
