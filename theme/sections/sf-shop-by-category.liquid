@@ -7,6 +7,7 @@
       {% if block.settings.photo == 'jackets' %}{% assign category_sizes = '(min-width: 990px) 19vw, 92vw' %}{% endif %}
       <li {{ block.shopify_attributes }}>
         <a class="sf-category-card sf-category-card--{{ block.settings.photo }}" href="{{ target }}">
+          <span class="sf-category-card__image">
           {% if block.settings.image != blank %}
             {{ block.settings.image | image_url: width: 1400 | image_tag: widths: '300, 480, 750, 1100, 1400', sizes: category_sizes, loading: 'lazy', alt: '' }}
           {% else %}
@@ -32,6 +33,7 @@
             %}
             <img src="{{ large | asset_url }}" srcset="{{ small | asset_url }} 480w, {{ large | asset_url }} {{ photo_width }}w" sizes="{{ category_sizes }}" width="{{ photo_width }}" height="{{ photo_height }}" alt="" loading="lazy">
           {% endif %}
+          </span>
           <span class="sf-category-card__copy"><span class="sf-category-card__name">{{ block.settings.title | escape }}</span></span>
         </a>
       </li>

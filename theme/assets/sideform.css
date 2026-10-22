@@ -772,12 +772,30 @@ body>#MainContent{flex:1 0 auto}
  .sf-category-card .sf-category-card__copy,.sf-category-card--jackets .sf-category-card__copy{padding:14px}
 }
 
-/* Use one responsive size for every homepage campaign/editorial button. */
-.sf-campaign,.sf-editorial{--sf-cta-width:152px;--sf-cta-height:48px}
-.sf-campaign .button,.sf-editorial .button{display:inline-flex;box-sizing:border-box;width:var(--sf-cta-width);min-width:var(--sf-cta-width);height:var(--sf-cta-height);min-height:var(--sf-cta-height);padding:0 12px;font-size:11px;line-height:1.2;white-space:nowrap;align-items:center;justify-content:center;text-align:center;gap:0}
-.sf-category-card .sf-category-card__name{color:#fff}
-@media(max-width:989px){
- .sf-campaign,.sf-editorial{--sf-cta-width:144px;--sf-cta-height:44px}
- .sf-category-card .sf-category-card__copy,.sf-category-card--jackets .sf-category-card__copy{background:linear-gradient(transparent,rgba(0,0,0,.5));color:#fff}
+/* Keep matching CTA dimensions on laptop/desktop; retain earlier mobile sizing. */
+@media(min-width:990px){
+ .sf-campaign .button,.sf-editorial .button{display:inline-flex;box-sizing:border-box;width:152px;min-width:152px;height:48px;min-height:48px;padding:0 12px;font-size:11px;line-height:1.2;white-space:nowrap;align-items:center;justify-content:center;text-align:center;gap:0}
 }
-@media(max-width:749px){.sf-campaign,.sf-editorial{--sf-cta-width:128px;--sf-cta-height:44px}}
+
+/* Category captions sit below a separately cropped, zoomable photograph. */
+.sf-category-card{aspect-ratio:auto;background:transparent;overflow:visible;color:#20231f}
+.sf-category-card::after{display:none}
+.sf-category-card__image{display:block;position:relative;overflow:hidden;width:100%;aspect-ratio:3/4;background:#eeede9}
+.sf-category-card__image>img{display:block;position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 15%}
+.sf-category-card--pants .sf-category-card__image>img{object-position:82% center}
+.sf-category-card--shorts .sf-category-card__image>img{transform:scale(1.55);transform-origin:50% 78%}
+.sf-category-card .sf-category-card__copy,.sf-category-card--jackets .sf-category-card__copy{position:static;inset:auto;display:block;width:100%;height:auto;min-height:0;padding:12px 0 0;background:none;text-align:center}
+.sf-category-card .sf-category-card__name{color:#20231f;font-weight:400;font-size:16px}
+@media(max-width:989px){
+ .sf-category-card,.sf-category-card--jackets{aspect-ratio:auto;background:transparent}
+ .sf-category-card__image{aspect-ratio:4/5}
+ .sf-category-card--jackets .sf-category-card__image{aspect-ratio:1.65}
+ .sf-category-card--jackets .sf-category-card__image>img{object-position:50% top}
+ .sf-category-card--shorts .sf-category-card__image>img{transform:scale(1.5);transform-origin:50% 73%}
+}
+@media(max-width:749px){.sf-category-card .sf-category-card__name{font-size:14px}}
+@media(hover:hover) and (pointer:fine) and (prefers-reduced-motion:no-preference){
+ .sf-category-card__image>img{transition:scale 300ms ease}
+ .sf-category-card:hover .sf-category-card__image>img{scale:1.04}
+}
+@media(prefers-reduced-motion:reduce){.sf-category-card__image>img{scale:1;transition:none}}

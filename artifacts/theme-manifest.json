@@ -2537,7 +2537,7 @@
   },
   {
     "path": "theme/assets/sideform.css",
-    "sha256": "0fcffa98315eb41d1c95838583ef189813d80b94d9fabc9a1ee31db0847abf25"
+    "sha256": "31d3e1e2a175961e333ea287e93b180ef9127f30c37301ae5fed4854bea15659"
   },
   {
     "path": "theme/assets/sideform.js",
@@ -3001,7 +3001,7 @@
   },
   {
     "path": "theme/sections/sf-shop-by-category.liquid",
-    "sha256": "e197419e5366a6954961468de76ba907124461899023a56baeba38ed8c5e9695"
+    "sha256": "901693808247947a125264a4d4198a8dc64e9782aff9213c367d50cfb78ced41"
   },
   {
     "path": "theme/sections/slideshow.liquid",
