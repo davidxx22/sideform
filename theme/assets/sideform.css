@@ -320,7 +320,7 @@ body{letter-spacing:0;font-family:Arial,Helvetica,sans-serif}h1,h2,h3,.h0,.h1,.h
 .sf-category-card--shorts>img{transform:scale(1.55);transform-origin:50% 78%}
 .sf-category-card::after{content:'';position:absolute;inset:0;background:linear-gradient(transparent 15%,rgba(0,0,0,.12) 45%,rgba(0,0,0,.48));pointer-events:none}
 .sf-category-card__copy{position:absolute;z-index:1;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;padding:24px 8px;gap:10px;text-align:center}
-.sf-category-card__name{font-size:1.6rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase}
+.sf-category-card__name{font-size:1.6rem;font-weight:400;letter-spacing:.06em;text-transform:uppercase}
 .sf-category-card__cta{display:inline-flex;align-items:center;gap:8px;border:1px solid rgba(255,255,255,.8);padding:6px 10px;font-size:1rem;text-transform:uppercase;letter-spacing:.04em;line-height:1.5;background:rgba(0,0,0,.15)}
 .sf-category-card__cta .sf-button-arrow{width:16px;height:8px;color:inherit}
 .sf-category-card:hover .sf-category-card__cta{background:rgba(0,0,0,.45)}
