@@ -11,7 +11,7 @@
     {% if section.settings.eyebrow != blank %}<p class="sf-kicker">{{ section.settings.eyebrow | escape }}</p>{% endif %}
     <h1>{{ section.settings.heading | escape | newline_to_br }}</h1>
     <p>{{ section.settings.text | escape }}</p>
-    {% if section.settings.link != blank %}<a class="button" href="{{ section.settings.link }}">{{ section.settings.label | escape }} {% render 'sf-button-arrow' %}</a>{% endif %}
+    {% if section.settings.link != blank %}<a class="button" href="{{ section.settings.link }}">{{ section.settings.label | escape }}</a>{% endif %}
   </div>
   <div class="sf-campaign__caption"><span>SIDEFORM</span><span>FORM / FUNCTION / EVERYDAY</span></div>
 </section>

@@ -32,7 +32,7 @@
             %}
             <img src="{{ large | asset_url }}" srcset="{{ small | asset_url }} 480w, {{ large | asset_url }} {{ photo_width }}w" sizes="{{ category_sizes }}" width="{{ photo_width }}" height="{{ photo_height }}" alt="" loading="lazy">
           {% endif %}
-          <span class="sf-category-card__copy"><span class="sf-category-card__name">{{ block.settings.title | escape }}</span><span class="sf-category-card__cta">Shop now {% render 'sf-button-arrow' %}</span></span>
+          <span class="sf-category-card__copy"><span class="sf-category-card__name">{{ block.settings.title | escape }}</span></span>
         </a>
       </li>
     {% endfor %}

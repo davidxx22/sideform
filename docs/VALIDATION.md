@@ -227,3 +227,5 @@ Product subtotal trial: a 13px live line appears below quantity/Add to Cart and 
 Mobile cart heading: TOTAL now occupies the right header column and shares the product amount's right edge. Verified at 320, 390, 440 and 749px; table column-header semantics retained.
 
 New Arrivals curation updated: Volume Pullover, Structure Hoodie, Shell Utility Jacket and Transit Work Jacket are now the four Collection 002 products in that order. All eight other products are Collection 001. Verified homepage, New Arrivals and both collection pages at 390, 768 and 1440px, labels/notes for all twelve products, and matching CSV tags with all 108 variants preserved.
+
+Homepage controls simplified: hero and all three editorial CTAs have centered text without arrows. Shop by category no longer includes Shop now buttons; labels sit 14px/18px/24px from the image bottom at phone/tablet/desktop widths, and full cards retain category links and photo hover zoom. Verified nine widths from 320 through 1920px, all five category links, centered CTA text and no horizontal overflow.

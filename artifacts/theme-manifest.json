@@ -2537,7 +2537,7 @@
   },
   {
     "path": "theme/assets/sideform.css",
-    "sha256": "0038d52292dca8b0e1102ed123423dba71d7fab1913bf050c63706b6fd4aaedf"
+    "sha256": "6a8c7095685b5bddcac5d8e4647b7f4c782fe64ede87a2fbeb4162aa987c293c"
   },
   {
     "path": "theme/assets/sideform.js",
@@ -2977,11 +2977,11 @@
   },
   {
     "path": "theme/sections/sf-campaign.liquid",
-    "sha256": "a0ba1948117d26790a0ed101651d57c75e13570f5f3df3991d73fdacd2e0c935"
+    "sha256": "452988bb005c233de59a2a79061fb7ade4404faaccd4a20b4072446d24d6604f"
   },
   {
     "path": "theme/sections/sf-editorial.liquid",
-    "sha256": "a5e308557585f099bf00c1fd8e64820bc985972a16ac87e3a78dae6f8e53d036"
+    "sha256": "7440cfa9fb29569f9d4bbfdb9eeab73bda9487c6ad3582128fd95d3fc0776023"
   },
   {
     "path": "theme/sections/sf-footer.liquid",
@@ -3001,7 +3001,7 @@
   },
   {
     "path": "theme/sections/sf-shop-by-category.liquid",
-    "sha256": "0a9d2ef554eea1d60e6991fa726ccf11557ceac3fe53e946652021ac62cbc1ff"
+    "sha256": "e197419e5366a6954961468de76ba907124461899023a56baeba38ed8c5e9695"
   },
   {
     "path": "theme/sections/slideshow.liquid",

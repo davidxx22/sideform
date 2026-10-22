@@ -760,3 +760,14 @@ body>#MainContent{flex:1 0 auto}
  .cart-drawer #CartDrawer-ColumnTotal{grid-column:2;grid-row:1;text-align:right;padding-right:0}
  .cart-drawer #CartDrawer-ColumnProductImage,.cart-drawer #CartDrawer-ColumnQuantity{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
 }
+
+/* Simple text-only campaign links and category labels placed at the image foot. */
+.sf-campaign .button,.sf-editorial .button{justify-content:center;text-align:center;gap:0}
+.sf-category-card .sf-category-card__copy{justify-content:flex-end;gap:0;padding-bottom:24px}
+@media(max-width:989px){
+ .sf-category-card .sf-category-card__copy,
+ .sf-category-card--jackets .sf-category-card__copy{inset:auto 0 0;width:100%;height:auto;min-height:0;padding:18px;align-items:flex-start;justify-content:flex-end;text-align:left;background:linear-gradient(transparent,rgba(250,250,247,.92))}
+}
+@media(max-width:749px){
+ .sf-category-card .sf-category-card__copy,.sf-category-card--jackets .sf-category-card__copy{padding:14px}
+}
