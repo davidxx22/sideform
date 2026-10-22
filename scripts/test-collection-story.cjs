@@ -12,8 +12,7 @@ const assert=require('node:assert/strict'),fs=require('node:fs'),catalog=require
    const label=await page.locator('.product__info-container>.product__text').first().innerText();
    assert.equal(label,'SIDEFORM / COLLECTION '+(newProducts.includes(product.handle)?'002':'001'));
    const note=page.locator('.sf-product-collection-note');
-   if(newProducts.includes(product.handle))assert.equal(await note.count(),0);
-   else{assert.equal(await note.innerText(),'COLLECTION 001 / OFF THE GRID');const favoriteBox=await page.locator('.sf-product-page [data-sf-favorite]').boundingBox(),noteBox=await note.boundingBox();assert(noteBox.y>=favoriteBox.y+favoriteBox.height&&Math.abs(noteBox.x-favoriteBox.x)<1);}
+   assert.equal(await note.count(),0);
   }
   for(const route of ['/collections/all','/collections/new-arrivals']){
    await page.goto('http://localhost:4173'+route);await page.waitForLoadState('networkidle');

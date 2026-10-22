@@ -1,0 +1,152 @@
+[
+  {
+    "width": 320,
+    "path": "/",
+    "nameSize": 14,
+    "nameWeight": "600",
+    "priceSize": 15,
+    "priceWeight": "700",
+    "type": "Hoodie",
+    "transform": "none"
+  },
+  {
+    "width": 320,
+    "path": "/collections/all",
+    "nameSize": 14,
+    "nameWeight": "600",
+    "priceSize": 15,
+    "priceWeight": "700",
+    "type": "Oversized t-shirt",
+    "transform": "none"
+  },
+  {
+    "width": 320,
+    "path": "/search?q=hoodie",
+    "nameSize": 14,
+    "nameWeight": "600",
+    "priceSize": 15,
+    "priceWeight": "700",
+    "type": "Hoodie",
+    "transform": "none"
+  },
+  {
+    "width": 390,
+    "path": "/",
+    "nameSize": 15,
+    "nameWeight": "600",
+    "priceSize": 16,
+    "priceWeight": "700",
+    "type": "Hoodie",
+    "transform": "none"
+  },
+  {
+    "width": 390,
+    "path": "/collections/all",
+    "nameSize": 15,
+    "nameWeight": "600",
+    "priceSize": 16,
+    "priceWeight": "700",
+    "type": "Oversized t-shirt",
+    "transform": "none"
+  },
+  {
+    "width": 390,
+    "path": "/search?q=hoodie",
+    "nameSize": 15,
+    "nameWeight": "600",
+    "priceSize": 16,
+    "priceWeight": "700",
+    "type": "Hoodie",
+    "transform": "none"
+  },
+  {
+    "width": 768,
+    "path": "/",
+    "nameSize": 17,
+    "nameWeight": "600",
+    "priceSize": 17,
+    "priceWeight": "700",
+    "type": "Hoodie",
+    "transform": "none"
+  },
+  {
+    "width": 768,
+    "path": "/collections/all",
+    "nameSize": 17,
+    "nameWeight": "600",
+    "priceSize": 17,
+    "priceWeight": "700",
+    "type": "Oversized t-shirt",
+    "transform": "none"
+  },
+  {
+    "width": 768,
+    "path": "/search?q=hoodie",
+    "nameSize": 17,
+    "nameWeight": "600",
+    "priceSize": 17,
+    "priceWeight": "700",
+    "type": "Hoodie",
+    "transform": "none"
+  },
+  {
+    "width": 1440,
+    "path": "/",
+    "nameSize": 18,
+    "nameWeight": "600",
+    "priceSize": 18,
+    "priceWeight": "700",
+    "type": "Hoodie",
+    "transform": "none"
+  },
+  {
+    "width": 1440,
+    "path": "/collections/all",
+    "nameSize": 18,
+    "nameWeight": "600",
+    "priceSize": 18,
+    "priceWeight": "700",
+    "type": "Oversized t-shirt",
+    "transform": "none"
+  },
+  {
+    "width": 1440,
+    "path": "/search?q=hoodie",
+    "nameSize": 18,
+    "nameWeight": "600",
+    "priceSize": 18,
+    "priceWeight": "700",
+    "type": "Hoodie",
+    "transform": "none"
+  },
+  {
+    "width": 1920,
+    "path": "/",
+    "nameSize": 18,
+    "nameWeight": "600",
+    "priceSize": 18,
+    "priceWeight": "700",
+    "type": "Hoodie",
+    "transform": "none"
+  },
+  {
+    "width": 1920,
+    "path": "/collections/all",
+    "nameSize": 18,
+    "nameWeight": "600",
+    "priceSize": 18,
+    "priceWeight": "700",
+    "type": "Oversized t-shirt",
+    "transform": "none"
+  },
+  {
+    "width": 1920,
+    "path": "/search?q=hoodie",
+    "nameSize": 18,
+    "nameWeight": "600",
+    "priceSize": 18,
+    "priceWeight": "700",
+    "type": "Hoodie",
+    "transform": "none"
+  }
+]

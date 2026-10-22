@@ -34,7 +34,7 @@
             <img src="{{ large | asset_url }}" srcset="{{ small | asset_url }} 480w, {{ large | asset_url }} {{ photo_width }}w" sizes="{{ category_sizes }}" width="{{ photo_width }}" height="{{ photo_height }}" alt="" loading="lazy">
           {% endif %}
           </span>
-          <span class="sf-category-card__copy"><span class="sf-category-card__name">{{ block.settings.title | escape }}</span></span>
+          <span class="sf-category-card__copy"><span class="sf-category-card__name">{{ block.settings.title | downcase | capitalize | escape }}</span></span>
         </a>
       </li>
     {% endfor %}

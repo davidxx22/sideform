@@ -3693,7 +3693,7 @@
   },
   {
     "path": "theme/assets/sideform.css",
-    "sha256": "e76f8b379ab3bb1701d27db2c76cacc26b5ed9e6d5a61e9d7a6be1789358114c"
+    "sha256": "08e85990afd40b9d7b960cabf491221f05c238d9832791b2dc39fdfaec65adb0"
   },
   {
     "path": "theme/assets/sideform.js",
@@ -4089,7 +4089,7 @@
   },
   {
     "path": "theme/sections/main-product.liquid",
-    "sha256": "78ba277cf7eee649a9d3188cdc766784cef3d7c0ef289a34f589f7baf09552dd"
+    "sha256": "7ff137794c3b832878c9aba636c6008c349873c7b968db4726142b55785448d5"
   },
   {
     "path": "theme/sections/main-search.liquid",
@@ -4157,7 +4157,7 @@
   },
   {
     "path": "theme/sections/sf-shop-by-category.liquid",
-    "sha256": "f4d8799e0f07043678c30219d5c5bb3f4a08f4feea169d4258d97e940a53c5a5"
+    "sha256": "a0be6a5c2cbe2d0e4ddd9ed97bc9853eda9d63f5df20b15fb410818291345b48"
   },
   {
     "path": "theme/sections/slideshow.liquid",
@@ -4181,7 +4181,7 @@
   },
   {
     "path": "theme/snippets/card-product.liquid",
-    "sha256": "499a8ba149b0e4d07fb2b809002e4fb17e5b692eb0733498cc11d74ec332ade6"
+    "sha256": "255a8c6f3681d885c61725c9bead099df08df5e32deff5c6fa31de7ca1a67ea9"
   },
   {
     "path": "theme/snippets/cart-disclosure-indicator.liquid",

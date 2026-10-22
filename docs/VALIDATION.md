@@ -263,3 +263,10 @@ The local/Vercel cart fixture now supports atomic updates and requested cart-pag
 All 12 products now have six views per color (216 active images). Added 27 generated photographs for the three bottoms: companion solo, paired close-up and paired full-body in Black, White and Grey. Pants retain their primary male model first; shorts retain the primary female model first. Original studio backdrop, grey logo tees and white footwear are the generation constraints. Source originals and exact prompts are preserved under catalog/six-photo-gallery/.
 
 Validation: scripts/test-six-photo-gallery.cjs passed all 12 product orders, desktop two-column rows and captions, all six zoom views for five representative products including all three bottoms, widths 320/390/768/989/1440, keyboard navigation and color resets. scripts/test-webp.cjs passed all 12 products × three colors × six views in Chromium and WebKit, atomic color swaps, stale-request guard and failed-image retention. Shopify Theme Check: zero errors, 12 existing warnings. Static Vercel build and 1115-file Shopify theme package completed. Generated images were visually reviewed in contact sheets and the rendered bottom galleries.
+
+
+## Responsive product typography
+
+Product card names now use 600 weight and 14/15/17/18px sizes across small phone, phone, tablet and desktop layouts. Prices use bold 700 weight, 15/16/17/18px sizes and reduced letter spacing. Product detail titles and prices are larger and bolder, and cart/favorite names share the stronger weight. Product-type labels and homepage categories use sentence case. Removed the Collection 001 / Off the grid note below Favorites from every product page; the collection identifier above the title remains.
+
+Verified home, collection and search cards at 320, 390, 768, 1440 and 1920px: computed type styles, sentence casing and no horizontal overflow. Verified all 12 products omit the removed note. Desktop/mobile screenshots and results are in artifacts/product-typography-*. Shopify Theme Check completed with zero errors and 12 existing warnings.
