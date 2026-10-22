@@ -17,7 +17,7 @@ const assert=require('node:assert/strict'),fs=require('node:fs');
     for(const color of ['White','Grey','Black']){
      const button=card.locator(`[data-sf-card-color="${color}"]`);await button.hover();
      await button.evaluate(button=>new Promise((resolve,reject)=>{const deadline=Date.now()+5000;const poll=()=>button.hasAttribute('data-sf-preview')&&!button.closest('.product-card-wrapper').hasAttribute('aria-busy')?resolve():Date.now()>deadline?reject(Error('Preview timeout')):setTimeout(poll,20);poll()}));
-     const image=card.locator('img').first();assert.match(await image.getAttribute('src'),new RegExp(`-${color.toLowerCase()}-front\\.jpg`));
+     const image=card.locator('img').first();assert.match(await image.getAttribute('src'),new RegExp(`-${color.toLowerCase()}-front\\.webp`));
      assert(await image.evaluate(img=>img.complete&&img.naturalWidth>0));
      assert.equal(await card.locator('[aria-pressed="true"]').getAttribute('data-sf-card-color'),selected);
      await card.locator('.card__heading a').last().hover();
@@ -38,13 +38,13 @@ const assert=require('node:assert/strict'),fs=require('node:fs');
   await card.locator('[data-sf-card-color="White"]').focus();
   await page.waitForFunction(()=>document.querySelector('#product-grid [data-sf-card-color="White"]')?.hasAttribute('data-sf-preview'));
   await page.locator('.sf-shop-categories a').first().focus();
-  assert.match(await card.locator('img').first().getAttribute('src'),/-grey-front\.jpg/);
+  assert.match(await card.locator('img').first().getAttribute('src'),/-grey-front\.webp/);
   assert.equal(await card.locator('[data-sf-card-color="Grey"]').getAttribute('aria-pressed'),'true');
   // A late response must not overwrite the committed color after hover ends.
-  await page.route('**/sf-packshot-*-white-front*.jpg',async route=>{await new Promise(resolve=>setTimeout(resolve,200));await route.continue()});
+  await page.route('**/sf-packshot-*-white-front*.webp',async route=>{await new Promise(resolve=>setTimeout(resolve,200));await route.continue()});
   await card.locator('[data-sf-card-color="White"]').hover();await card.locator('.card__heading a').last().hover();
   await page.waitForTimeout(300);
-  assert.match(await card.locator('img').first().getAttribute('src'),/-grey-front\.jpg/);
+  assert.match(await card.locator('img').first().getAttribute('src'),/-grey-front\.webp/);
   const mobile=await browser.newPage({viewport:{width:390,height:844},isMobile:true,hasTouch:true});
   await mobile.goto('http://localhost:4173/collections/all');
   await mobile.locator('#product-grid [data-sf-card-color="Grey"]').first().tap();

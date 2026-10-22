@@ -29,3 +29,5 @@ For a Vercel preview, import this repository at its root with the **Other** fram
 Generate the delivery ZIPs with `python scripts/package.py`. These rebuildable archives and installed local dependencies are excluded from Git; the theme, original image assets, catalog, scripts and validation records are included.
 
 Read [the setup guide](docs/SETUP.md) before importing or publishing. Upload the theme to an **unpublished development theme** and verify the store-specific acceptance checklist before publication.
+
+Storefront raster images are delivered as WebP. Original JPEG/PNG sources are retained; regenerate derivatives with `python scripts/convert-webp.py` after editing photos, then build/package. Transparent assets use lossless WebP. Gallery color changes decode replacement photos before swapping them, retaining the previous images during loading or failure.

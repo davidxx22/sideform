@@ -728,1784 +728,1784 @@
     "sha256": "58c680eec5aef50c98a8d5d0e44e731167cd0a82a384402d2b8a72420bf63fbd"
   },
   {
-    "path": "theme/assets/sf-editorial-cargo-black-480.jpg",
-    "sha256": "1ac23e704c5ebd3234e0dc1b1b2d9a22456eb43f402efc3e0b1ebcd0d4e4d6f2"
+    "path": "theme/assets/sf-editorial-cargo-black-480.webp",
+    "sha256": "b1d92d4f604c3e3d32c34d6aa9dd2a91ccf54fb186fb9532ccf4dae207b63006"
   },
   {
-    "path": "theme/assets/sf-editorial-cargo-black-pale-480.jpg",
-    "sha256": "2f1de2d1ce9ef7140f8ad5f9aa0a99dfcaa7f7fa043d66cd22f61719ecd85e78"
+    "path": "theme/assets/sf-editorial-cargo-black-pale-480.webp",
+    "sha256": "8868ab3a7739bd1dad5d9f6faac34ea805fccf9c646550364a40bc9348538385"
   },
   {
-    "path": "theme/assets/sf-editorial-cargo-black-pale.jpg",
-    "sha256": "d4d807303fa98c2d83dbb54d4e5e94f96f6347616b3b161daf46469c9964fe56"
+    "path": "theme/assets/sf-editorial-cargo-black-pale.webp",
+    "sha256": "e66bd02211b89ecc562228785d40bfb05630f00dd6263bcb2263950a5360ce78"
   },
   {
-    "path": "theme/assets/sf-editorial-cargo-black.jpg",
-    "sha256": "abc4c026fecdaf7756fc9c9190a6a3f55a7246d53de0752701d10ee25e56af39"
+    "path": "theme/assets/sf-editorial-cargo-black.webp",
+    "sha256": "8815993b35c7a05022226b33e2290f9b7d678a47e38527c30f52bef02ac99406"
   },
   {
-    "path": "theme/assets/sf-editorial-cargo-grey-480.jpg",
-    "sha256": "9c2ec56e6b53b76d8645f3b3ab93f8974da6dce2329546fde5bff467d60f50af"
+    "path": "theme/assets/sf-editorial-cargo-grey-480.webp",
+    "sha256": "59abebc67a12c0cb5e9b884c10fd0ae402f7a34f497516e0a4c0ce1da368b02e"
   },
   {
-    "path": "theme/assets/sf-editorial-cargo-grey.jpg",
-    "sha256": "3871ad8858f3288b02f32e5e69ebb836b6356c9f52b35e6c54f87ac495a790f5"
+    "path": "theme/assets/sf-editorial-cargo-grey.webp",
+    "sha256": "8e7e512e1a9c415e67006c2a84ecb87af405416e3e423bf873fc78f80aa80847"
   },
   {
-    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-cutout-480.png",
-    "sha256": "84a38266c975437064a0b151eb06c8a91c2590f56b476f7ee9f42cd9008d88a0"
+    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-cutout-480.webp",
+    "sha256": "a16a8cdb385cb329c1bdadf7a46e02777f04cee5202048b114ddd3c01370f1a9"
   },
   {
-    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-cutout.png",
-    "sha256": "2726345a77b926055ea8fda361809264abce3d7caed3cca88ccd3f64974f3d8f"
+    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-cutout.webp",
+    "sha256": "b012c5b6ba72a3e4ad56925386edcb84b2785a4d6e9306caa51a1a1443cffe97"
   },
   {
-    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-full-480.jpg",
-    "sha256": "f7d2d4e4872cc26a34d3876024630352f259cdb904cbe3938af75a8532c9df4d"
+    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-full-480.webp",
+    "sha256": "04cd6ba9d271829e5ea7a620cfe12c3ba7d485a917ea2ad98327105184f65c16"
   },
   {
-    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-full.jpg",
-    "sha256": "c7ce83968c4962101517ce558988631dccbb2d9410b740c3aa8af58388fd71aa"
+    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-full.webp",
+    "sha256": "fb743ba8dc90695af06548e95cddbaa5cf507636f460a837926acc4d60209ab9"
   },
   {
-    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-neutral-480.jpg",
-    "sha256": "00d974b4f4ef1bcba11ee95f5f9c887b86a47ba742c399172c02c49bdd4d34df"
+    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-neutral-480.webp",
+    "sha256": "aaad241510c1eea23f7e8c0904ca478058ef6a157a2e711c785097c28f972305"
   },
   {
-    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-neutral.jpg",
-    "sha256": "4e97bf39997082fd1bf81f64bdf8fecd9ffea58573de2d7c60778db2b397f322"
+    "path": "theme/assets/sf-editorial-white-hoodie-black-cargo-neutral.webp",
+    "sha256": "f955aae3289db8453aa999826a41ba43d693798bdf9700a85c5dd0b5c6481a5c"
   },
   {
     "path": "theme/assets/sf-favorites.js",
-    "sha256": "fb73377205434527e9a2fdcf6ba02eec7019187e7bbf62f89b81083e9223c495"
+    "sha256": "3ecfe0b41bf1c7c1f147e7cbbacddbaeb621adcd064eae51a268a811cc2a56ac"
   },
   {
-    "path": "theme/assets/sf-gallery-axis-long-sleeve-black-full-480.jpg",
-    "sha256": "a3a9d4815d924b02430bc881e494c0268464a681fc398ff65ddfc877583c614a"
+    "path": "theme/assets/sf-gallery-axis-long-sleeve-black-full-480.webp",
+    "sha256": "6c9a661b2701442b1504470eec541dd6b8df52d270d5591f9225a44e2b8d090c"
   },
   {
-    "path": "theme/assets/sf-gallery-axis-long-sleeve-black-full.jpg",
-    "sha256": "67551f8d133c30a36449df0aae26c2f1f65c278f7addea2845f4a07b2249bb6b"
+    "path": "theme/assets/sf-gallery-axis-long-sleeve-black-full.webp",
+    "sha256": "56fe6b0393a632ae8e0815ccc19942081391c86d72839fd15ec38b179a2b0840"
   },
   {
-    "path": "theme/assets/sf-gallery-axis-long-sleeve-black-lineup-480.jpg",
-    "sha256": "43cf6c8fcae6499539c0963f84b9571425b137a71bde77583f270f3472856441"
+    "path": "theme/assets/sf-gallery-axis-long-sleeve-black-lineup-480.webp",
+    "sha256": "989c5e83a5327efe238808b3107b13314419dab80807e0dda23bc6c232d83d48"
   },
   {
-    "path": "theme/assets/sf-gallery-axis-long-sleeve-black-lineup.jpg",
-    "sha256": "e7d69d43c3561156dcb9ba6317482f8d19a727a990f5fc10dc11fa1c79eed4f0"
+    "path": "theme/assets/sf-gallery-axis-long-sleeve-black-lineup.webp",
+    "sha256": "96b23a485059a1cac08c4ff54e4f09fe379628a63f0d4a660a349f1d4fc81ac6"
   },
   {
-    "path": "theme/assets/sf-gallery-axis-long-sleeve-grey-full-480.jpg",
-    "sha256": "846bd10ff0d50e9f3e7dd1325edda4242982be63ecf63fc3564c0677823dd8c8"
+    "path": "theme/assets/sf-gallery-axis-long-sleeve-grey-full-480.webp",
+    "sha256": "2f7dbc1257f2251c70fe38614a9160d77de73119e216feb9abdfeaf11f901bcc"
   },
   {
-    "path": "theme/assets/sf-gallery-axis-long-sleeve-grey-full.jpg",
-    "sha256": "c743f38f91e38901a204ccd6eec410920da4a5d6469ae37218b324ab5f6e38cf"
+    "path": "theme/assets/sf-gallery-axis-long-sleeve-grey-full.webp",
+    "sha256": "ccad4eb478fc6ed8785aed9734a7234c71186d5e7721a906ab818d027d2cb313"
   },
   {
-    "path": "theme/assets/sf-gallery-axis-long-sleeve-grey-lineup-480.jpg",
-    "sha256": "312ee733fc53f52fe193d8a64e86162cb8696b1d05be6a788158e3daa2b547d5"
+    "path": "theme/assets/sf-gallery-axis-long-sleeve-grey-lineup-480.webp",
+    "sha256": "fe01e880f5053309d7b0b933a65366e564e2bac0dd202567861fe92271f99958"
   },
   {
-    "path": "theme/assets/sf-gallery-axis-long-sleeve-grey-lineup.jpg",
-    "sha256": "62f00ebd23acd1007e9d74a771c076e2176b044b9db7e85d84e4d4fc143bcc3a"
+    "path": "theme/assets/sf-gallery-axis-long-sleeve-grey-lineup.webp",
+    "sha256": "3b72e9007dd21b0fb3e9da418c3b4840d0ec4ea25ce6aff75d2a56a03eae162f"
   },
   {
-    "path": "theme/assets/sf-gallery-axis-long-sleeve-white-full-480.jpg",
-    "sha256": "f64d6bbfa0703d930283550bc862d3107866f45d59eaf7eccc06410f6dda22d7"
+    "path": "theme/assets/sf-gallery-axis-long-sleeve-white-full-480.webp",
+    "sha256": "8e3e6c03c90b28159b5ef1dab231b79500cbed601f0934c979e09848ca3c56a6"
   },
   {
-    "path": "theme/assets/sf-gallery-axis-long-sleeve-white-full.jpg",
-    "sha256": "0f4beff5514809de3dd0e16b0c2c4415ffcaeaf1646865a571d152353b187ebf"
+    "path": "theme/assets/sf-gallery-axis-long-sleeve-white-full.webp",
+    "sha256": "7a823d81a8b293a617a50c62a7334d711d260bf23100fa727c486bd3a93790d8"
   },
   {
-    "path": "theme/assets/sf-gallery-axis-long-sleeve-white-lineup-480.jpg",
-    "sha256": "00baa66b7bdf4aa6f6dbe6604a159d653d983d1fde0b06327523023aec13c2f8"
+    "path": "theme/assets/sf-gallery-axis-long-sleeve-white-lineup-480.webp",
+    "sha256": "799474dc37b0f74c78abe252b89d9a5c9e492cd8ecedc5a34d48ca70fde33901"
   },
   {
-    "path": "theme/assets/sf-gallery-axis-long-sleeve-white-lineup.jpg",
-    "sha256": "9d42dcb242500863d259c4e702536c6037bcbe7fa2f6e0e38060c7106774a91f"
+    "path": "theme/assets/sf-gallery-axis-long-sleeve-white-lineup.webp",
+    "sha256": "d3f1aa9c81552c6ade961d928f0890e376f9475c41e977a90b3d80e261d01b3d"
   },
   {
-    "path": "theme/assets/sf-gallery-contour-crew-black-full-480.jpg",
-    "sha256": "2698a46bac7323a4b04dcd4c07f25584f8f04f2693248d81ea0746e4a02010b0"
+    "path": "theme/assets/sf-gallery-contour-crew-black-full-480.webp",
+    "sha256": "46286a15691aa930f02a67fd253faccb7bc23259341e36cf0db5892535db91fc"
   },
   {
-    "path": "theme/assets/sf-gallery-contour-crew-black-full.jpg",
-    "sha256": "36b8fe273591a2c163534c7996ecdf75dd42d2f9410f674775dd55417531986e"
+    "path": "theme/assets/sf-gallery-contour-crew-black-full.webp",
+    "sha256": "ac55e68374fe93c1c2ee294729ddb3309954de8bbc8f26bfbdaf56a7fdedf275"
   },
   {
-    "path": "theme/assets/sf-gallery-contour-crew-black-lineup-480.jpg",
-    "sha256": "95b9ba18244fb39b7609b5feea939e251bcfb5cd084fe3631fea0c80ed65bf4a"
+    "path": "theme/assets/sf-gallery-contour-crew-black-lineup-480.webp",
+    "sha256": "780c2df4e9a456b0149585a07dfca26a3d75e380959232fb21bf150d7975b5f4"
   },
   {
-    "path": "theme/assets/sf-gallery-contour-crew-black-lineup.jpg",
-    "sha256": "cba1c875b8097d601c79ac0a2c9e640b25e011ed60365a33d56ec090864ccd19"
+    "path": "theme/assets/sf-gallery-contour-crew-black-lineup.webp",
+    "sha256": "9f3c894c6e62673bddbe1de6ec525878a095adfc43bd190f0f0415d6d8d5a4a3"
   },
   {
-    "path": "theme/assets/sf-gallery-contour-crew-grey-full-480.jpg",
-    "sha256": "b02b2b7c2c7c04c2702705052d1eed21c953473dffb9b4ae2e2d1c68a2b01c10"
+    "path": "theme/assets/sf-gallery-contour-crew-grey-full-480.webp",
+    "sha256": "6b72c2f45223c2a9e58796e72b16f9d8a3a9c274985d2057a2c55a920288fc7c"
   },
   {
-    "path": "theme/assets/sf-gallery-contour-crew-grey-full.jpg",
-    "sha256": "94b5966f4cd79516e1374850d000d6148bdbae611264a477f2e29961fef6ff70"
+    "path": "theme/assets/sf-gallery-contour-crew-grey-full.webp",
+    "sha256": "7941ec73b4494dacce83c1f2a7f3eab77d4b319f46b975e8bcdd3cd712799bd0"
   },
   {
-    "path": "theme/assets/sf-gallery-contour-crew-grey-lineup-480.jpg",
-    "sha256": "32cf1f7a7c396136d2fe368344b003547c1a69e0a759444fb2b64537375d2828"
+    "path": "theme/assets/sf-gallery-contour-crew-grey-lineup-480.webp",
+    "sha256": "3ab4729e76586c8a4f2cc5cd39435a3406474252307028bb1f810df09891ffa7"
   },
   {
-    "path": "theme/assets/sf-gallery-contour-crew-grey-lineup.jpg",
-    "sha256": "e9123f621dcc8faed168766ff85928bd7fd0f8776a019406f42dfb6026e2e251"
+    "path": "theme/assets/sf-gallery-contour-crew-grey-lineup.webp",
+    "sha256": "4e921a9adc0492b2c1ecbcd00a2a8556eb476e5d74f15ace1477eef38c6c9696"
   },
   {
-    "path": "theme/assets/sf-gallery-contour-crew-white-full-480.jpg",
-    "sha256": "a655c2a8ca52263c0d3c94c63465615e7438bfb80baed2d79899b74518969925"
+    "path": "theme/assets/sf-gallery-contour-crew-white-full-480.webp",
+    "sha256": "d4377e6af7d2c3e59ad905bd6a3143682df1fdad115125fdf4b140feb431dbfe"
   },
   {
-    "path": "theme/assets/sf-gallery-contour-crew-white-full.jpg",
-    "sha256": "dcc6f8927b938aebed8cc7fcb450ac776dca3c5d7b4ada72009282bb55c541ed"
+    "path": "theme/assets/sf-gallery-contour-crew-white-full.webp",
+    "sha256": "6981278d0394d07cf4eb3f8aff91f503fa74228bab1a549fd7b1015151ca9af8"
   },
   {
-    "path": "theme/assets/sf-gallery-contour-crew-white-lineup-480.jpg",
-    "sha256": "57e13a57d6703a53978073af85e71fb2e45abb947fd1c2908faab9c699f41146"
+    "path": "theme/assets/sf-gallery-contour-crew-white-lineup-480.webp",
+    "sha256": "a2439dfaeea16a93251e765afdab4a60811fe068920eadb6e6a1f60757769b9b"
   },
   {
-    "path": "theme/assets/sf-gallery-contour-crew-white-lineup.jpg",
-    "sha256": "1a01441ab58c54510807ddd329cc0076cf67825910b4427fca8724709cd27daf"
+    "path": "theme/assets/sf-gallery-contour-crew-white-lineup.webp",
+    "sha256": "c5d7c2b1053d571d1140ffd1e87adc4f146dcdef141c6e58e746d440bef5964e"
   },
   {
-    "path": "theme/assets/sf-gallery-drift-baggy-jean-black-full-480.jpg",
-    "sha256": "651bf2c72cc761c68347c801bca93201eab0b0f927bd62b80a40a51adb5815c0"
+    "path": "theme/assets/sf-gallery-drift-baggy-jean-black-full-480.webp",
+    "sha256": "9a366f436820b7bcefab68ec75a818cd85e665988ade9f5c8a544a1189793428"
   },
   {
-    "path": "theme/assets/sf-gallery-drift-baggy-jean-black-full.jpg",
-    "sha256": "3d0784af764a0c5a43974b311d62cd60291e902709d50f5b7f799bc7b682b577"
+    "path": "theme/assets/sf-gallery-drift-baggy-jean-black-full.webp",
+    "sha256": "8461e2c1ac6aeeafc42b15f9c919ed9a4180a89a01fed06bb276ccdf0f52ffdf"
   },
   {
-    "path": "theme/assets/sf-gallery-drift-baggy-jean-black-lineup-480.jpg",
-    "sha256": "3a27eda1238bd0515ab2c98327245453ce9847b605e287b79da65e7dc905981d"
+    "path": "theme/assets/sf-gallery-drift-baggy-jean-black-lineup-480.webp",
+    "sha256": "8f53df4b16f0d62f4e992692fd2ce0825682d3e48adf6fe3230ba6b4836a89a8"
   },
   {
-    "path": "theme/assets/sf-gallery-drift-baggy-jean-black-lineup.jpg",
-    "sha256": "58cbe2802f38d05df69ce5e1ce39644890f3b7b4aaa7c1272746b858e5e4ff0b"
+    "path": "theme/assets/sf-gallery-drift-baggy-jean-black-lineup.webp",
+    "sha256": "160e8e2a856ee600af26254bdc2b2760eb2c8862ad80eab1056108f6bfe0ecbe"
   },
   {
-    "path": "theme/assets/sf-gallery-drift-baggy-jean-grey-full-480.jpg",
-    "sha256": "03a7841d5798a00af19c1f74142b640588a26dff9faac6ec725177af68c08b9d"
+    "path": "theme/assets/sf-gallery-drift-baggy-jean-grey-full-480.webp",
+    "sha256": "62b71993992ab539dd57afb10d906558be3c77ac1ab4b70889dc4dee34c3d92c"
   },
   {
-    "path": "theme/assets/sf-gallery-drift-baggy-jean-grey-full.jpg",
-    "sha256": "a79dfbda452586da1a8951a0cb2725807ec6277cd4dd68f3b3b8cb0de223898b"
+    "path": "theme/assets/sf-gallery-drift-baggy-jean-grey-full.webp",
+    "sha256": "20647d466dfb4036cf95098df01bdb6f1b7c8d049f9bf68078de79025e802ebf"
   },
   {
-    "path": "theme/assets/sf-gallery-drift-baggy-jean-grey-lineup-480.jpg",
-    "sha256": "68a472840bda8d811403458495af0f58eedb8984607c1e2397b7a98edf8fac4a"
+    "path": "theme/assets/sf-gallery-drift-baggy-jean-grey-lineup-480.webp",
+    "sha256": "a3b89242eed5fdface96a03f5b705acf7181cf26881d889f490af1f53ff79e72"
   },
   {
-    "path": "theme/assets/sf-gallery-drift-baggy-jean-grey-lineup.jpg",
-    "sha256": "1fcbf30b41a0f855edf2a355a72fc724a8fe0497eb1cd475950561458019d551"
+    "path": "theme/assets/sf-gallery-drift-baggy-jean-grey-lineup.webp",
+    "sha256": "fc1cfbb94fc867865f397f722170aede23cfd17ef92644dfcded6ab0e7a96ef5"
   },
   {
-    "path": "theme/assets/sf-gallery-drift-baggy-jean-white-full-480.jpg",
-    "sha256": "1a882fc8e4955f3989ae114d089f6cbe51256245fc3cfc62e54b3c75e65ddc31"
+    "path": "theme/assets/sf-gallery-drift-baggy-jean-white-full-480.webp",
+    "sha256": "a11ad6a58710b1dfce5ea784d5351c16f716db8ed00ccaffcdde81e1bda90e6d"
   },
   {
-    "path": "theme/assets/sf-gallery-drift-baggy-jean-white-full.jpg",
-    "sha256": "42aa1d3b856275d77710c5282031d6372b76993de638ca0cf5d674923c1ef46a"
+    "path": "theme/assets/sf-gallery-drift-baggy-jean-white-full.webp",
+    "sha256": "332c9a15a90ced0fee2b125118650a60ffe2be972d890b475f39331dfbf980df"
   },
   {
-    "path": "theme/assets/sf-gallery-drift-baggy-jean-white-lineup-480.jpg",
-    "sha256": "f9ea3ab2a9b52f29bd30a5a0af2cedc307689cdee9b75e81031727a372c4c561"
+    "path": "theme/assets/sf-gallery-drift-baggy-jean-white-lineup-480.webp",
+    "sha256": "c5d28c6b0ecb7750c31eb1a77c6328b567059aabe6a54487ed607cc122851bfc"
   },
   {
-    "path": "theme/assets/sf-gallery-drift-baggy-jean-white-lineup.jpg",
-    "sha256": "fe4cbecee63a11deac439b8e255671de466989b6bfa6f0894076a5736b8fdc1a"
+    "path": "theme/assets/sf-gallery-drift-baggy-jean-white-lineup.webp",
+    "sha256": "01d6ed9ba0592234bff2082da7b63dab182c6b14d72579c1bd0bc5ff5a871ada"
   },
   {
-    "path": "theme/assets/sf-gallery-frame-long-sleeve-black-full-480.jpg",
-    "sha256": "cca566d9908eee55b5e8fe1dc4e5411da1d9ded97dabc4d76521556ddb0b6051"
+    "path": "theme/assets/sf-gallery-frame-long-sleeve-black-full-480.webp",
+    "sha256": "bcf77ab3d29d59fdccf80f4eeeaecf70341946c4cd965a3d1891f38499796f50"
   },
   {
-    "path": "theme/assets/sf-gallery-frame-long-sleeve-black-full.jpg",
-    "sha256": "887caa8970b92472b3cfe70c2282a71ab754e91e484fc65aa0499ec295b4051e"
+    "path": "theme/assets/sf-gallery-frame-long-sleeve-black-full.webp",
+    "sha256": "677840b543ad02211429b9052222a824d8faa8a31c4a25ed9ffdc06336abf54c"
   },
   {
-    "path": "theme/assets/sf-gallery-frame-long-sleeve-black-lineup-480.jpg",
-    "sha256": "c181ce535ab097a6fd8ebe914581a90671e453ed06942708e2744826880965fe"
+    "path": "theme/assets/sf-gallery-frame-long-sleeve-black-lineup-480.webp",
+    "sha256": "247c4089fddf48e151f801d53a10f898631ec1d7c23692ba722fe310f719f2e9"
   },
   {
-    "path": "theme/assets/sf-gallery-frame-long-sleeve-black-lineup.jpg",
-    "sha256": "5877399258b298e1dfdaeee4f9be9ec296ac8004dd2dc7a51a9ad323ba3cdc03"
+    "path": "theme/assets/sf-gallery-frame-long-sleeve-black-lineup.webp",
+    "sha256": "354aa155dc38e3d86ff067e1436e0a6328c774f8f78abb0a35b5fdf0bb7eb0b3"
   },
   {
-    "path": "theme/assets/sf-gallery-frame-long-sleeve-grey-full-480.jpg",
-    "sha256": "8786d39d216518a9f0136e1c9e70e9eb3d60d99579acfd0c86c5effb03ad9c27"
+    "path": "theme/assets/sf-gallery-frame-long-sleeve-grey-full-480.webp",
+    "sha256": "1a2cd663cea1c2020eb11db41d7b1e133f94b8258b71fd4cda2ebc21f8d6c649"
   },
   {
-    "path": "theme/assets/sf-gallery-frame-long-sleeve-grey-full.jpg",
-    "sha256": "f002b3bbc79d06ad7df370022f7be2b7bae42d57403764b43eb1bfe744416718"
+    "path": "theme/assets/sf-gallery-frame-long-sleeve-grey-full.webp",
+    "sha256": "79bc28fc15d319dcbe609d213768a18a57f9d75d71363f20aae4bfc595409232"
   },
   {
-    "path": "theme/assets/sf-gallery-frame-long-sleeve-grey-lineup-480.jpg",
-    "sha256": "418a988fe75a1e2dc8bf034ff06e8531f121e9b3da018c2acfd56b5bd88ab454"
+    "path": "theme/assets/sf-gallery-frame-long-sleeve-grey-lineup-480.webp",
+    "sha256": "c8437e724e3a0f1a94abc010dffa3592947577fda3df6e2ed419a8949c3875c8"
   },
   {
-    "path": "theme/assets/sf-gallery-frame-long-sleeve-grey-lineup.jpg",
-    "sha256": "b4467947669753614c0299df61414c107e889fcd1406e04aab355b749e738f92"
+    "path": "theme/assets/sf-gallery-frame-long-sleeve-grey-lineup.webp",
+    "sha256": "706de41cd90a2a0384e864a49a1b8c8c3ef9cbe32aaa5398e9603fcb0284f956"
   },
   {
-    "path": "theme/assets/sf-gallery-frame-long-sleeve-white-full-480.jpg",
-    "sha256": "6a8fdafd0b4c12184a140ffa289fb9cae7d8a85b418fb2d505984db6358e8b11"
+    "path": "theme/assets/sf-gallery-frame-long-sleeve-white-full-480.webp",
+    "sha256": "1e932ad4bfc557f8d860feb427ec80f4303ea0943928c13b55702a4d87ee2942"
   },
   {
-    "path": "theme/assets/sf-gallery-frame-long-sleeve-white-full.jpg",
-    "sha256": "e3afd850f9eaf6b98af0e4f26a5d5efea83aa8bbb5bd870527b68eb166b0f869"
+    "path": "theme/assets/sf-gallery-frame-long-sleeve-white-full.webp",
+    "sha256": "b013d262622d3d1a447b501f3ea254b1c833b7c5a5f2624e395eb82dfe455eba"
   },
   {
-    "path": "theme/assets/sf-gallery-frame-long-sleeve-white-lineup-480.jpg",
-    "sha256": "131f35dfa991b625196fb920d12cce722ec8d1a3330486a74c2cc6ca4f5ade87"
+    "path": "theme/assets/sf-gallery-frame-long-sleeve-white-lineup-480.webp",
+    "sha256": "6c19fe9d455792578307b54a33923c21deda14440383334893ca51bbafd7a412"
   },
   {
-    "path": "theme/assets/sf-gallery-frame-long-sleeve-white-lineup.jpg",
-    "sha256": "f0cf80966e355cdd07ed89091567750cd1e6d04953d137af993cf8120f02d896"
+    "path": "theme/assets/sf-gallery-frame-long-sleeve-white-lineup.webp",
+    "sha256": "c68638b10684ba6f55c89eaa0db6c4d5966a2100265ec7df89ddad4a310d52b3"
   },
   {
-    "path": "theme/assets/sf-gallery-grid-cargo-pant-black-full-480.jpg",
-    "sha256": "64744616b77f3741262ff1074656b8eb4492f61d34413d9882b36309c024668f"
+    "path": "theme/assets/sf-gallery-grid-cargo-pant-black-full-480.webp",
+    "sha256": "e33f593b5a44d5f1d5c1ee7ed370812b35ab22aa9d8c21aa84c6facb9cb43076"
   },
   {
-    "path": "theme/assets/sf-gallery-grid-cargo-pant-black-full.jpg",
-    "sha256": "297924118ff560099e75ebff94f577d7263e3796120c6ed56d2506d161b08cc9"
+    "path": "theme/assets/sf-gallery-grid-cargo-pant-black-full.webp",
+    "sha256": "f0ae74d16ee6dd03532df6f185aba322df1bf99564ccbd52414dd43577405818"
   },
   {
-    "path": "theme/assets/sf-gallery-grid-cargo-pant-black-lineup-480.jpg",
-    "sha256": "388bb0d4d378b83d97e9bfea2c6aab64b148377e9190accb324f5ceca7038142"
+    "path": "theme/assets/sf-gallery-grid-cargo-pant-black-lineup-480.webp",
+    "sha256": "84013d64ee8bb44feb6f13e34ba317989f35df9b8fec4f3990deb7e7c22100ff"
   },
   {
-    "path": "theme/assets/sf-gallery-grid-cargo-pant-black-lineup.jpg",
-    "sha256": "d92f5b6e5bfd4214b413d2b00643da385c4fc4c48abba09ee45fdc2324620972"
+    "path": "theme/assets/sf-gallery-grid-cargo-pant-black-lineup.webp",
+    "sha256": "28d78ade8d895f4011b8cad862f6443e24e71fe25f1e523552f03e071f089026"
   },
   {
-    "path": "theme/assets/sf-gallery-grid-cargo-pant-grey-full-480.jpg",
-    "sha256": "6e4e630c4fb9a34df11deb6b936afa0e2171aa1743a79da200dd810c0ca29f57"
+    "path": "theme/assets/sf-gallery-grid-cargo-pant-grey-full-480.webp",
+    "sha256": "bbb05efccc46bfaca87d135af86957e25bee1a5809d71fad70b88dfa82f5c0f8"
   },
   {
-    "path": "theme/assets/sf-gallery-grid-cargo-pant-grey-full.jpg",
-    "sha256": "6d5077fbd34f4db1be571e72486b7b9a28272aca2e91cb3d37d066d9473bab67"
+    "path": "theme/assets/sf-gallery-grid-cargo-pant-grey-full.webp",
+    "sha256": "ef5a27c54f004303642208dd94d27c53abf1f443d330709508aad3a9e2e7be62"
   },
   {
-    "path": "theme/assets/sf-gallery-grid-cargo-pant-grey-lineup-480.jpg",
-    "sha256": "8e7e4f675831b4c7ab91dbcd037747ce3b21228d16f791b9f37dc5f7396d4bc8"
+    "path": "theme/assets/sf-gallery-grid-cargo-pant-grey-lineup-480.webp",
+    "sha256": "97c2c62b2d438963e59fe9bc017f1fca54fd0b0ef699de5e409670ea87432db5"
   },
   {
-    "path": "theme/assets/sf-gallery-grid-cargo-pant-grey-lineup.jpg",
-    "sha256": "d387e400c6574c29f865f1d4a446fb81736a95b27f1a6b5d8f70507d80b6b7e9"
+    "path": "theme/assets/sf-gallery-grid-cargo-pant-grey-lineup.webp",
+    "sha256": "9325d1e8abe1569defe3b15e0a47ed5151bf5849b7121364811001184b5756b3"
   },
   {
-    "path": "theme/assets/sf-gallery-grid-cargo-pant-white-full-480.jpg",
-    "sha256": "8744d393f0e873b5c96b8867290f9869bcdac3e8d23ab89aa34349af3af5ac69"
+    "path": "theme/assets/sf-gallery-grid-cargo-pant-white-full-480.webp",
+    "sha256": "107c1968187cd1dea5a66e870393b4f8173c645b3633d17b300f48166bc70666"
   },
   {
-    "path": "theme/assets/sf-gallery-grid-cargo-pant-white-full.jpg",
-    "sha256": "e0cd6f2af0b7fb2f09cd16b6449e1dba6f525e772decc69ee0667cd19a9546ff"
+    "path": "theme/assets/sf-gallery-grid-cargo-pant-white-full.webp",
+    "sha256": "d04d8e0de310b423cf4358a1b8ead3e64d0fce1e2913cf42b1be2f83159b6ee6"
   },
   {
-    "path": "theme/assets/sf-gallery-grid-cargo-pant-white-lineup-480.jpg",
-    "sha256": "daf4536aff7c12bbbb88940fbee4d2537ee402906735292c99fa84a8ba512388"
+    "path": "theme/assets/sf-gallery-grid-cargo-pant-white-lineup-480.webp",
+    "sha256": "bc8fb4e785ff337191773d9e8805a885fe868bdfc72a5f0ad5a602737f8fb540"
   },
   {
-    "path": "theme/assets/sf-gallery-grid-cargo-pant-white-lineup.jpg",
-    "sha256": "fc494cb2a1ba602afac68dbd10f8b4d1ece8b847bc631d6b7cc7330a39d47528"
+    "path": "theme/assets/sf-gallery-grid-cargo-pant-white-lineup.webp",
+    "sha256": "eb08a9e20425bc57cdeaa7c08e4249eec75276daff3741aa0b874083158e555b"
   },
   {
-    "path": "theme/assets/sf-gallery-interval-utility-short-black-full-480.jpg",
-    "sha256": "00cd977b8e8ae7a1528295386e28623bf2e1c67e8f433dbc4dfbb143c4ab6e7c"
+    "path": "theme/assets/sf-gallery-interval-utility-short-black-full-480.webp",
+    "sha256": "17882011dfa923a319ce04537c4c2fdc0ac14a3e44e76b94c1ea0b6b5590a406"
   },
   {
-    "path": "theme/assets/sf-gallery-interval-utility-short-black-full.jpg",
-    "sha256": "1ff4a1dbb1a05b3ceba746a2a2f158106d63e217544c38a872fd0bdf3abba183"
+    "path": "theme/assets/sf-gallery-interval-utility-short-black-full.webp",
+    "sha256": "d3385443c34aa65e5aea689265d96453461b656264a18333be301610ec2af746"
   },
   {
-    "path": "theme/assets/sf-gallery-interval-utility-short-black-lineup-480.jpg",
-    "sha256": "706073cb3fd0355adffa57d06b8c77acaba4532cca7c3fe18b523a07f0bbf6db"
+    "path": "theme/assets/sf-gallery-interval-utility-short-black-lineup-480.webp",
+    "sha256": "30c9fa40deb607e2a9c0bc445d10af61cea9dd496367ae0efd2cedaabbe9c254"
   },
   {
-    "path": "theme/assets/sf-gallery-interval-utility-short-black-lineup.jpg",
-    "sha256": "4c95cd34032c2e831d31ee1fc76b97744c415b52fc35113401bd21db4c2d1b31"
+    "path": "theme/assets/sf-gallery-interval-utility-short-black-lineup.webp",
+    "sha256": "69402ea3e7a02daee4f12b0a15f65432a606b54e7fe23bc601bdb418cb74efa9"
   },
   {
-    "path": "theme/assets/sf-gallery-interval-utility-short-grey-full-480.jpg",
-    "sha256": "0074be70feea27197ded62437c1627fcaf9f5cdde9b0a85e94476e09583dea60"
+    "path": "theme/assets/sf-gallery-interval-utility-short-grey-full-480.webp",
+    "sha256": "c8aea3b22e2ae8ea158edc459b425f03b49cb375e811b28c59f90b73d58179dd"
   },
   {
-    "path": "theme/assets/sf-gallery-interval-utility-short-grey-full.jpg",
-    "sha256": "3d1f5b7ef4fc2d009ca4d77dc7a94ad30106e05f104439f6727dad6e580a36fe"
+    "path": "theme/assets/sf-gallery-interval-utility-short-grey-full.webp",
+    "sha256": "30b3e9c3a1034287e13049d9a0c11952c1c7ba0266ae9202d74d2299348055fe"
   },
   {
-    "path": "theme/assets/sf-gallery-interval-utility-short-grey-lineup-480.jpg",
-    "sha256": "84271c6ad743b0c533b45c29e9179e261558ee15fb6645b62735865aaa63f12a"
+    "path": "theme/assets/sf-gallery-interval-utility-short-grey-lineup-480.webp",
+    "sha256": "3be1ac734ca506fc8a4b4fedc9f9d801df7d86c52c0effdc99f12275a6f629ea"
   },
   {
-    "path": "theme/assets/sf-gallery-interval-utility-short-grey-lineup.jpg",
-    "sha256": "bd21a927ef169c15c573064867d5a3a5ee93ca6f80c13b5834bec1231da00b8e"
+    "path": "theme/assets/sf-gallery-interval-utility-short-grey-lineup.webp",
+    "sha256": "43cb146a5bef76ee85758bda392d4c60a47e4555f982eada81f15228bf86af2c"
   },
   {
-    "path": "theme/assets/sf-gallery-interval-utility-short-white-full-480.jpg",
-    "sha256": "f4bc917754a009bc04f792a7daea67afd8bf189131ba292b175ee196ff2a8830"
+    "path": "theme/assets/sf-gallery-interval-utility-short-white-full-480.webp",
+    "sha256": "675e8064d33144904ddabc41d92a9792121304bbd16e826cd87bd8014a28b951"
   },
   {
-    "path": "theme/assets/sf-gallery-interval-utility-short-white-full.jpg",
-    "sha256": "5d006d0ff67d981d56dee608b8580f3f1d54787a0a6f753bccf3202d65e72ea0"
+    "path": "theme/assets/sf-gallery-interval-utility-short-white-full.webp",
+    "sha256": "917ec8c28477182d5095b3c83d8222a26afd0c8ee2658e10ebab3755f9fb9798"
   },
   {
-    "path": "theme/assets/sf-gallery-interval-utility-short-white-lineup-480.jpg",
-    "sha256": "93ca827c073a5d09a26ab0dddec0721e1eb8a150dc25e74e97fcb9e7e0800094"
+    "path": "theme/assets/sf-gallery-interval-utility-short-white-lineup-480.webp",
+    "sha256": "5ac26f3cc5be79f3442a61b6ef1abdf65e97e1e61fa181f22921fec18921fe0d"
   },
   {
-    "path": "theme/assets/sf-gallery-interval-utility-short-white-lineup.jpg",
-    "sha256": "dd2caadd6df562abcd26e25a8fb3e566c699e919244be4be56fc69bee61b5de4"
+    "path": "theme/assets/sf-gallery-interval-utility-short-white-lineup.webp",
+    "sha256": "9f530e4789ffd0ef44bd8b07962f408c5935f8648af3f5849c5a62e6b607971f"
   },
   {
-    "path": "theme/assets/sf-gallery-offset-heavy-tee-black-full-480.jpg",
-    "sha256": "a94ce253b5102862d797965dc1179639ae93e78533c8452eeefabe31ee725f5d"
+    "path": "theme/assets/sf-gallery-offset-heavy-tee-black-full-480.webp",
+    "sha256": "788f4d345bcfe229ed265533a2e82f47c82a55f4aaf4905fb697c1e2fcab1c6f"
   },
   {
-    "path": "theme/assets/sf-gallery-offset-heavy-tee-black-full.jpg",
-    "sha256": "fd72bb5b1fbaa07bbd5677605f80b6953caa7df049caaf615b2b82ef0fad8c2a"
+    "path": "theme/assets/sf-gallery-offset-heavy-tee-black-full.webp",
+    "sha256": "3ca77de33fb8cb9b9b7610c8c2df3ad487ec584741033223ae36e93f7694dca8"
   },
   {
-    "path": "theme/assets/sf-gallery-offset-heavy-tee-black-lineup-480.jpg",
-    "sha256": "4f9bda71a66bf42fc92c9c435ff792ccf19a780c570f60817b99cbc5b015e8b4"
+    "path": "theme/assets/sf-gallery-offset-heavy-tee-black-lineup-480.webp",
+    "sha256": "f0b5c18b08d402bcde0ad44ab37d00cdb58dcc8e9f54f3232e6341119b84513f"
   },
   {
-    "path": "theme/assets/sf-gallery-offset-heavy-tee-black-lineup.jpg",
-    "sha256": "849a002cc8762260d518f243df3b5f20e41721979e2918c637796488a8b2a270"
+    "path": "theme/assets/sf-gallery-offset-heavy-tee-black-lineup.webp",
+    "sha256": "02e6e29144bed2f4b920b1aed6d73c8eaca6872bb9d6062206425ebac0612194"
   },
   {
-    "path": "theme/assets/sf-gallery-offset-heavy-tee-grey-full-480.jpg",
-    "sha256": "9af7383aebc4a8a21f2fb3cdb5f793c1929c0c42a34e85a9c114470d96170dd9"
+    "path": "theme/assets/sf-gallery-offset-heavy-tee-grey-full-480.webp",
+    "sha256": "bafe39f83ee551870fa107f0c4aba04484f2df7eb7c9251a1297a1651188d38a"
   },
   {
-    "path": "theme/assets/sf-gallery-offset-heavy-tee-grey-full.jpg",
-    "sha256": "1dd9e6f29b452b23bcbc75841e1e99e94625310b10d2900ace73c5ca78e4647c"
+    "path": "theme/assets/sf-gallery-offset-heavy-tee-grey-full.webp",
+    "sha256": "0a22555aee4643f3acd928ee9f1f79502ae855001804ad4a4dc5bca301f381c5"
   },
   {
-    "path": "theme/assets/sf-gallery-offset-heavy-tee-grey-lineup-480.jpg",
-    "sha256": "16b184ade542415b2b97645315aabcca9d4c9ec7ee273437a61eb2e344e0a871"
+    "path": "theme/assets/sf-gallery-offset-heavy-tee-grey-lineup-480.webp",
+    "sha256": "6bd2cfb44036458ef4d5e2677600bc4833991b7756a1ea3bc5090c47c884ddfe"
   },
   {
-    "path": "theme/assets/sf-gallery-offset-heavy-tee-grey-lineup.jpg",
-    "sha256": "2195184aa1b9a566f37dbe211fc9b11d624921495a93f09608fe9c489e86e81a"
+    "path": "theme/assets/sf-gallery-offset-heavy-tee-grey-lineup.webp",
+    "sha256": "2afc681d2cab774dfe8e48ef2cdce45679c2b41ba932cb969ce479471829c00c"
   },
   {
-    "path": "theme/assets/sf-gallery-offset-heavy-tee-white-full-480.jpg",
-    "sha256": "9eedc285e29b75553326ae56430a9ea69fd9130c7f10f94cdc1c56ffc1d5cadf"
+    "path": "theme/assets/sf-gallery-offset-heavy-tee-white-full-480.webp",
+    "sha256": "a93547662854bc68df1114fe91085d586fd3246ac4544cc52dbd49ead7118b0a"
   },
   {
-    "path": "theme/assets/sf-gallery-offset-heavy-tee-white-full.jpg",
-    "sha256": "fbafea6e682cdff36fb6ac3bc4d898cca9c26824ddff969f448fc0ade7e3bf2a"
+    "path": "theme/assets/sf-gallery-offset-heavy-tee-white-full.webp",
+    "sha256": "13fb13f09a0f576cafb46c221a984888384225f2d4fd97ca3966b5701a57ef11"
   },
   {
-    "path": "theme/assets/sf-gallery-offset-heavy-tee-white-lineup-480.jpg",
-    "sha256": "f9065298966f4733c20b423fca6838a65b455e0310f6e09582d946386472f6a6"
+    "path": "theme/assets/sf-gallery-offset-heavy-tee-white-lineup-480.webp",
+    "sha256": "5136ea61ab510cfd3ef5c6605363df0886b5b606f5e38a4479eb90192979584e"
   },
   {
-    "path": "theme/assets/sf-gallery-offset-heavy-tee-white-lineup.jpg",
-    "sha256": "3f50013dff40673321ed6e1e1047adcbce76ab2280fc93502300a2cd97fd7c4e"
+    "path": "theme/assets/sf-gallery-offset-heavy-tee-white-lineup.webp",
+    "sha256": "02eb0706eca29c54b2d64e876b9c180e04e408158052a5f59dab48fdf71f8f16"
   },
   {
-    "path": "theme/assets/sf-gallery-plane-box-tee-black-full-480.jpg",
-    "sha256": "37e1b0bc71a1a59f3aba84a389f821a999c8f9f5c4bff96ced455ad1078da96d"
+    "path": "theme/assets/sf-gallery-plane-box-tee-black-full-480.webp",
+    "sha256": "3d238059f98ef540836b916afb483b0c89d39a3f1034c50c1200be5e56d20fac"
   },
   {
-    "path": "theme/assets/sf-gallery-plane-box-tee-black-full.jpg",
-    "sha256": "b5fccb53def497ca8d83e181ca18bc7f69455f7cfbbe1cc4675311c17632ba1e"
+    "path": "theme/assets/sf-gallery-plane-box-tee-black-full.webp",
+    "sha256": "b76f316587a76452ebbe895270ca3ceaa4614618f58ff7371af5d9cfbda3ba77"
   },
   {
-    "path": "theme/assets/sf-gallery-plane-box-tee-black-lineup-480.jpg",
-    "sha256": "070502be4f5dfb9d676e77e2e85623fe7542a2202910c583b08586b7389f4823"
+    "path": "theme/assets/sf-gallery-plane-box-tee-black-lineup-480.webp",
+    "sha256": "bd635a1e87a400765b31f4c779bec5c51602c6e17be275928106c4cdf6c84555"
   },
   {
-    "path": "theme/assets/sf-gallery-plane-box-tee-black-lineup.jpg",
-    "sha256": "11bdd24e4ab2e249172638e0ac33856e7fe3bf18ef3d4ef575c14001da9ffcd3"
+    "path": "theme/assets/sf-gallery-plane-box-tee-black-lineup.webp",
+    "sha256": "1bcb28a3171a6b020aa00aa406813d0fd94d1a0b2f003ce94572d8362aff0601"
   },
   {
-    "path": "theme/assets/sf-gallery-plane-box-tee-grey-full-480.jpg",
-    "sha256": "b349807bc1f034c486b1533f07f688320b4e46ee079e13329f0456336693c0e8"
+    "path": "theme/assets/sf-gallery-plane-box-tee-grey-full-480.webp",
+    "sha256": "63861d0d697e8ea76a79ddad0737cf49aea23a097e92de8f415bde29ddc6552f"
   },
   {
-    "path": "theme/assets/sf-gallery-plane-box-tee-grey-full.jpg",
-    "sha256": "2e9e2a1129c660c417496a557832c9e9ac7626f04b079a032eff411e1eef133f"
+    "path": "theme/assets/sf-gallery-plane-box-tee-grey-full.webp",
+    "sha256": "9ec940f3a7c3302d4220f5c85bf7c631305c2d1b1511b775fa8b0a23e4a04fd8"
   },
   {
-    "path": "theme/assets/sf-gallery-plane-box-tee-grey-lineup-480.jpg",
-    "sha256": "cf313b12f02e84090e2d7e4f6f5bfcd6118f1fff6346db0cc44609db04f6047c"
+    "path": "theme/assets/sf-gallery-plane-box-tee-grey-lineup-480.webp",
+    "sha256": "ef8ef9c3eda3b1d01e8746d7bdb32e10ae21ef65b764bb45e024122d640f5caf"
   },
   {
-    "path": "theme/assets/sf-gallery-plane-box-tee-grey-lineup.jpg",
-    "sha256": "3ee876b2cd36bf7cb487c6ed5aa30ecdceb94e170799c764044bfe36d0217b6d"
+    "path": "theme/assets/sf-gallery-plane-box-tee-grey-lineup.webp",
+    "sha256": "c5cce12a71abd85efce2a1beb143562e453d21786b0bb5b070e35acc6890015e"
   },
   {
-    "path": "theme/assets/sf-gallery-plane-box-tee-white-full-480.jpg",
-    "sha256": "faab986e102687df4fa55b5956a3a4572e75281c385855e4d35bc02a59e33037"
+    "path": "theme/assets/sf-gallery-plane-box-tee-white-full-480.webp",
+    "sha256": "1367beb90761ac01cc7925c1191b1d08e8b51ff3b368081e492bebbd4d54a5a2"
   },
   {
-    "path": "theme/assets/sf-gallery-plane-box-tee-white-full.jpg",
-    "sha256": "7817b731072c57cec6be41c8f0ffc3c6b8ea3d8947ac10e6cea46b3086ecd3bd"
+    "path": "theme/assets/sf-gallery-plane-box-tee-white-full.webp",
+    "sha256": "db76235eaf907f248dbfc2d244b19ccb67f9d89293bdd41dbf0c0c562d580752"
   },
   {
-    "path": "theme/assets/sf-gallery-plane-box-tee-white-lineup-480.jpg",
-    "sha256": "11bdcda5629ea6f4aef7a9aaac15a7ab9782ac6d99b94257928ad761980fd96d"
+    "path": "theme/assets/sf-gallery-plane-box-tee-white-lineup-480.webp",
+    "sha256": "26745cbdb7b2642aec9f0017f3bf3ce4c605236973929edcdf4df929ab24f63b"
   },
   {
-    "path": "theme/assets/sf-gallery-plane-box-tee-white-lineup.jpg",
-    "sha256": "ae632444b5dddaba023352e072e1c5487ff7b5d10f558d4421d8fd9726e0a171"
+    "path": "theme/assets/sf-gallery-plane-box-tee-white-lineup.webp",
+    "sha256": "1958bc9215fe34272d6b288417b4ea54b4a0c5506e2a7cf854adddf41fc4674e"
   },
   {
-    "path": "theme/assets/sf-gallery-shell-utility-jacket-black-full-480.jpg",
-    "sha256": "9188add6a692e807fae1a719b9b32b8da3866f63e18af6aa733d5dcf2881bf97"
+    "path": "theme/assets/sf-gallery-shell-utility-jacket-black-full-480.webp",
+    "sha256": "aaa71e232c232cadc8ecdb87970483e362cd967cbcafdb6e0616c7550c4397f3"
   },
   {
-    "path": "theme/assets/sf-gallery-shell-utility-jacket-black-full.jpg",
-    "sha256": "2bd8c81a0ced980348d89420c4885011e32437f24ce8c973664f835c6a9e9cc0"
+    "path": "theme/assets/sf-gallery-shell-utility-jacket-black-full.webp",
+    "sha256": "c13557cf1768824ebcda5252de8509a3c06b7dd75523b0a0647b8922804468d4"
   },
   {
-    "path": "theme/assets/sf-gallery-shell-utility-jacket-black-lineup-480.jpg",
-    "sha256": "699bb2e185a659fe421ae061635913d6b940d56d5214b0f3a5232c3185135aa4"
+    "path": "theme/assets/sf-gallery-shell-utility-jacket-black-lineup-480.webp",
+    "sha256": "65b437d22b33f1ac492fede37bd734f4c7c73dee754175399bc305581ab00387"
   },
   {
-    "path": "theme/assets/sf-gallery-shell-utility-jacket-black-lineup.jpg",
-    "sha256": "e23276db4464b7b78f75215b8135bb0dd657716be651edf1755afd5d8d462799"
+    "path": "theme/assets/sf-gallery-shell-utility-jacket-black-lineup.webp",
+    "sha256": "0c3f198d8e133e231b5af22b1f2cc04a9edbdbff412f097d0789a9727fef91c3"
   },
   {
-    "path": "theme/assets/sf-gallery-shell-utility-jacket-grey-full-480.jpg",
-    "sha256": "9bf3a3d73b03c11e48440bb6905ef28dd9eb8d97a9f6ed504e3a6b1dfa683f0a"
+    "path": "theme/assets/sf-gallery-shell-utility-jacket-grey-full-480.webp",
+    "sha256": "1c7ad3fb7b1857acadb3ab3279d0197e1489063aa43a5a2c865dc703a1501d9e"
   },
   {
-    "path": "theme/assets/sf-gallery-shell-utility-jacket-grey-full.jpg",
-    "sha256": "37615a554151d8c546dd08def0d048b02fd653c54ea926833d5f57c826a760df"
+    "path": "theme/assets/sf-gallery-shell-utility-jacket-grey-full.webp",
+    "sha256": "ee0ce9816071ea0c381ac4fb1320dcc0cd55adc59ee541ef11cdcb4e2215a432"
   },
   {
-    "path": "theme/assets/sf-gallery-shell-utility-jacket-grey-lineup-480.jpg",
-    "sha256": "3ea92a50053ccd4242a32512d3dfecfc7d47ff069784ca7e0d89928f71babb0d"
+    "path": "theme/assets/sf-gallery-shell-utility-jacket-grey-lineup-480.webp",
+    "sha256": "33cb79ba56c1cc5b7a7951511befe14bc785f3a0f186c95c68a99e93dc07871b"
   },
   {
-    "path": "theme/assets/sf-gallery-shell-utility-jacket-grey-lineup.jpg",
-    "sha256": "8cedd1ad110bf012f644f58ea2ea9daff904c6af11ea63ed9d4b05a7ccf4b6ac"
+    "path": "theme/assets/sf-gallery-shell-utility-jacket-grey-lineup.webp",
+    "sha256": "3fe0564d7b3d8a3f0b359b0171bf1a9706792d1f5228d7483d6bd04fa3d62f8b"
   },
   {
-    "path": "theme/assets/sf-gallery-shell-utility-jacket-white-full-480.jpg",
-    "sha256": "f6a6b3af088e7dc89f6234b02671de3aaccab5cf4cb1885acdcd0afb0255349a"
+    "path": "theme/assets/sf-gallery-shell-utility-jacket-white-full-480.webp",
+    "sha256": "29cc4d91bd1bd4de411d180384f6f31d3cb9d89d8ce7027fa6c224d2868b4f36"
   },
   {
-    "path": "theme/assets/sf-gallery-shell-utility-jacket-white-full.jpg",
-    "sha256": "0cc37bcdb30561f86dc1eb84fb381b71dd9daad380d9bd6176581c534b751b97"
+    "path": "theme/assets/sf-gallery-shell-utility-jacket-white-full.webp",
+    "sha256": "bdef0d94c004f981ed1e9c514af302c205b9db4913a48b12fbd4fa4ba70962b9"
   },
   {
-    "path": "theme/assets/sf-gallery-shell-utility-jacket-white-lineup-480.jpg",
-    "sha256": "94afa336f1c7692eb85f2b4aad8e4a193e181d7e4c92482ecc46584e376e1537"
+    "path": "theme/assets/sf-gallery-shell-utility-jacket-white-lineup-480.webp",
+    "sha256": "5fe2b1c31d2d7879e64db13b4e08b3c12b7476e3eaf4d1b5768a9450f208c8d0"
   },
   {
-    "path": "theme/assets/sf-gallery-shell-utility-jacket-white-lineup.jpg",
-    "sha256": "624a88bc68cb62e97e3641d54df705491f04c9f22add9944fbbd22e0ab533fbf"
+    "path": "theme/assets/sf-gallery-shell-utility-jacket-white-lineup.webp",
+    "sha256": "d815eb38355d70fd77eb93f6373c1ba375d2123a2899878600fe7c6db655f3c4"
   },
   {
-    "path": "theme/assets/sf-gallery-structure-hoodie-black-full-480.jpg",
-    "sha256": "b3bac70103d38160af2bf79318868e789241a4dc0e9e88cab1ee0c396be29687"
+    "path": "theme/assets/sf-gallery-structure-hoodie-black-full-480.webp",
+    "sha256": "b4db016ae5845bafb49fadc8ee0fe265a3a25d01fd3336ec9d3dbbbeb7145491"
   },
   {
-    "path": "theme/assets/sf-gallery-structure-hoodie-black-full.jpg",
-    "sha256": "7a3da83ce1d5fb2a4cc6d8ccb3a07953534a390ac35e1971574420242e6106f8"
+    "path": "theme/assets/sf-gallery-structure-hoodie-black-full.webp",
+    "sha256": "60fc0fef6cc0b92aee2ce6a7f159f25b6dc67fe7bcef4921894c3df741c668ce"
   },
   {
-    "path": "theme/assets/sf-gallery-structure-hoodie-black-lineup-480.jpg",
-    "sha256": "e32bb738622a44d2d2089d458732235d6969508bca85788c91df50c87dfc285e"
+    "path": "theme/assets/sf-gallery-structure-hoodie-black-lineup-480.webp",
+    "sha256": "2e69bb3b64871f2211ea0185b1ad9e6c843bf1001c9036d2263d416653fc0991"
   },
   {
-    "path": "theme/assets/sf-gallery-structure-hoodie-black-lineup.jpg",
-    "sha256": "2dd932f0b37ca97f893a4fc8d27807e17f2564816563d0bc4b7e3576cfab618d"
+    "path": "theme/assets/sf-gallery-structure-hoodie-black-lineup.webp",
+    "sha256": "20973876c5b165262a57c7b4f86411518156c4af80f14eff8f0192244e506ee1"
   },
   {
-    "path": "theme/assets/sf-gallery-structure-hoodie-grey-full-480.jpg",
-    "sha256": "e3202b68d1f3f71c87f2ef764eb178e8bef2f3c3ba99d29f5deb0391aa55c6f3"
+    "path": "theme/assets/sf-gallery-structure-hoodie-grey-full-480.webp",
+    "sha256": "0f9baef328d64ed630662e32e80b765e23d3dd42f48dc9b8c5a255d50500473e"
   },
   {
-    "path": "theme/assets/sf-gallery-structure-hoodie-grey-full.jpg",
-    "sha256": "4a84f3bea7c679fa11cedc22d71de667930e8154200c8e4ad5c17e3757428f53"
+    "path": "theme/assets/sf-gallery-structure-hoodie-grey-full.webp",
+    "sha256": "aff2de9a7f4d8268a6612cc4889983ca4a3f4af5fa63c0a03b22d4394af0e16d"
   },
   {
-    "path": "theme/assets/sf-gallery-structure-hoodie-grey-lineup-480.jpg",
-    "sha256": "9c3fc317fd6561a2237f27f9b7ba0370b64955a2ef35dd3be68fcfde5b5e154d"
+    "path": "theme/assets/sf-gallery-structure-hoodie-grey-lineup-480.webp",
+    "sha256": "31489c02d3bd8db3450d954d750a2704ae558457aa4004d2cc92862736ed9cb8"
   },
   {
-    "path": "theme/assets/sf-gallery-structure-hoodie-grey-lineup.jpg",
-    "sha256": "354beff07fc979fb2cf501b363ad63389544782a9427390ff078b6157d35e862"
+    "path": "theme/assets/sf-gallery-structure-hoodie-grey-lineup.webp",
+    "sha256": "2571832541322a2bbd545ebfe9768920c64424b98cb38b26707bbc809ae9d657"
   },
   {
-    "path": "theme/assets/sf-gallery-structure-hoodie-white-full-480.jpg",
-    "sha256": "1e9ba889bf7b6b59b6774b63920a98a86e710dc1d70d1095b73ab079d49f39dd"
+    "path": "theme/assets/sf-gallery-structure-hoodie-white-full-480.webp",
+    "sha256": "152f9b3001d4ce742d5a81d031705abd3c6e3b1c166c388f0d353c2e0e87a36a"
   },
   {
-    "path": "theme/assets/sf-gallery-structure-hoodie-white-full.jpg",
-    "sha256": "72d5ae367765106a743d2ba08fd4c8fc6c0c1f930a7cf319bb9db2fb20bf2200"
+    "path": "theme/assets/sf-gallery-structure-hoodie-white-full.webp",
+    "sha256": "7363f12e06c6af29d2d06a7739c184c369ed19150a3116e59251c86a1b274355"
   },
   {
-    "path": "theme/assets/sf-gallery-structure-hoodie-white-lineup-480.jpg",
-    "sha256": "dda199d8842b5de4c339fef669d33fafdfbd44616dfe1c3ead82042c80ba6447"
+    "path": "theme/assets/sf-gallery-structure-hoodie-white-lineup-480.webp",
+    "sha256": "e9f117f231eac16db3cd4ab3166150fab69109d10c8a22a86c555bb2570ee6ad"
   },
   {
-    "path": "theme/assets/sf-gallery-structure-hoodie-white-lineup.jpg",
-    "sha256": "175730c4ae6ac887c61a0a8aa22382ce9a8819104507d473c5e5c30e0de3cc55"
+    "path": "theme/assets/sf-gallery-structure-hoodie-white-lineup.webp",
+    "sha256": "a670b788725dc3b7bf2104621d9e3f00126eead373763901b2562eed1e72ff0a"
   },
   {
-    "path": "theme/assets/sf-gallery-transit-work-jacket-black-full-480.jpg",
-    "sha256": "aec7d17826ebe8ce7b514f7613de985f8bc66ab4837465029241185d6871d7b5"
+    "path": "theme/assets/sf-gallery-transit-work-jacket-black-full-480.webp",
+    "sha256": "fd1d247b3c9ca049c64c0a7744f2902fd2163eee2c93b9b6ebf94a4e615f44a8"
   },
   {
-    "path": "theme/assets/sf-gallery-transit-work-jacket-black-full.jpg",
-    "sha256": "a0d3ba8f151eaf3e6abb49ffde5e8a1b2458088caa01fbec67c8e51bcaabdb85"
+    "path": "theme/assets/sf-gallery-transit-work-jacket-black-full.webp",
+    "sha256": "d2d034df2bdee3516268460d1cecfb4a77a9c61c5e4bf870ebed8a4f47794a15"
   },
   {
-    "path": "theme/assets/sf-gallery-transit-work-jacket-black-lineup-480.jpg",
-    "sha256": "0c5a288b05234b65b401fb95908806a07ab229fcf8b4bf013f7605f851ac2d25"
+    "path": "theme/assets/sf-gallery-transit-work-jacket-black-lineup-480.webp",
+    "sha256": "e73ac48c2b323ba3bd90faba1b1ea7689fbefc44982bb13b456d50381c47d43f"
   },
   {
-    "path": "theme/assets/sf-gallery-transit-work-jacket-black-lineup.jpg",
-    "sha256": "1e58736a4925f6c38442f9c6fa7647be0936785ca0356cb3762e360d8a33930d"
+    "path": "theme/assets/sf-gallery-transit-work-jacket-black-lineup.webp",
+    "sha256": "aac3f23c49a4776f4349715b6278ddef5b823893e32cb1a942ca6c60e58c726a"
   },
   {
-    "path": "theme/assets/sf-gallery-transit-work-jacket-grey-full-480.jpg",
-    "sha256": "7c831693a558cb3841ebc196d4f04b3abe0b5ac7d67263f831810a6d7368024d"
+    "path": "theme/assets/sf-gallery-transit-work-jacket-grey-full-480.webp",
+    "sha256": "b3c945fe6067b1bfcb5584876f835523036434ad56902493c0d65b7eeebc917f"
   },
   {
-    "path": "theme/assets/sf-gallery-transit-work-jacket-grey-full.jpg",
-    "sha256": "9fe11f52b574f6bd047404a3d85b02d9cf1ed41059887a078699d919196381c8"
+    "path": "theme/assets/sf-gallery-transit-work-jacket-grey-full.webp",
+    "sha256": "5f0ba7a70c2866adb6d41bc3777af1a45a98592360904b844859cf15f6e74c74"
   },
   {
-    "path": "theme/assets/sf-gallery-transit-work-jacket-grey-lineup-480.jpg",
-    "sha256": "3fc4be466c54603ebb2d4564a342df17aca054791a1ae17af86ea1d7520cb338"
+    "path": "theme/assets/sf-gallery-transit-work-jacket-grey-lineup-480.webp",
+    "sha256": "036282fcd2077439a67940cd4ded01b3f93fa363eb3c7639cf9f0aed83a61b51"
   },
   {
-    "path": "theme/assets/sf-gallery-transit-work-jacket-grey-lineup.jpg",
-    "sha256": "1d7c402d9e07bea63af69b374efb50ef10466a582d126574a7a190cd23f2b2ba"
+    "path": "theme/assets/sf-gallery-transit-work-jacket-grey-lineup.webp",
+    "sha256": "3346d807ce0186d7bb93badfc386823f3b713e6d26ca6f34af63df665ab9d79a"
   },
   {
-    "path": "theme/assets/sf-gallery-transit-work-jacket-white-full-480.jpg",
-    "sha256": "30fdac460fad4c6471ea7879fd24fe40740a9c69645885116677b60dae7295cb"
+    "path": "theme/assets/sf-gallery-transit-work-jacket-white-full-480.webp",
+    "sha256": "afed896e9541aac82c3b1cebcdd51060a85fa7220fb165f438c6f27cc3a4ef33"
   },
   {
-    "path": "theme/assets/sf-gallery-transit-work-jacket-white-full.jpg",
-    "sha256": "f73603c4567e7a1fd173ade7074cf52536edbecfb0bec6b4d05cf5f381b186c4"
+    "path": "theme/assets/sf-gallery-transit-work-jacket-white-full.webp",
+    "sha256": "b5f3fd5d5e27a7be575c6ba133f2fe54fdaefa26446d16cce00f9393fa3666c0"
   },
   {
-    "path": "theme/assets/sf-gallery-transit-work-jacket-white-lineup-480.jpg",
-    "sha256": "538dcbd8ee11ec1ba5a7d6618dbd5a22fbd3943ec05d59765fac82587d3b010c"
+    "path": "theme/assets/sf-gallery-transit-work-jacket-white-lineup-480.webp",
+    "sha256": "3d0331971debb0adf2b99dff4d76fa9eaf0c494b8377cb5990dc2efb7e69eaa3"
   },
   {
-    "path": "theme/assets/sf-gallery-transit-work-jacket-white-lineup.jpg",
-    "sha256": "77688bfc7891e8bed4e1e072e170bc7aaad434a63d21962db10b04c5c63e2717"
+    "path": "theme/assets/sf-gallery-transit-work-jacket-white-lineup.webp",
+    "sha256": "9cd679ee6f53899612af925580a2e8d2e00eab82d358a8225a334c51b7ad5fc7"
   },
   {
-    "path": "theme/assets/sf-gallery-volume-pullover-black-full-480.jpg",
-    "sha256": "43cf9836e2c71158741d46e142d3e1b0104b45d14951a97d94a43d214bc26789"
+    "path": "theme/assets/sf-gallery-volume-pullover-black-full-480.webp",
+    "sha256": "a59bc09b3e340b0906d4bd244b619faeb25ce1dd7557c4248b38eaac3ec185dd"
   },
   {
-    "path": "theme/assets/sf-gallery-volume-pullover-black-full.jpg",
-    "sha256": "24fd309af4c59ffe429858861a5576fcb150b0366886c3c9f0c4c54f42e56855"
+    "path": "theme/assets/sf-gallery-volume-pullover-black-full.webp",
+    "sha256": "7419cc9c01d3d125aa3dac4aee0c4dc20362088929e2c1d5d3b1a8b74a72bb0d"
   },
   {
-    "path": "theme/assets/sf-gallery-volume-pullover-black-lineup-480.jpg",
-    "sha256": "0a4ad4734d21bd56dea854dd632ca2f0a416944ec0c32327e678e436e9534a12"
+    "path": "theme/assets/sf-gallery-volume-pullover-black-lineup-480.webp",
+    "sha256": "783c922c8c16154b6fb1c8f8b1baf4b07bb1afc9f46415dcdde28357def484d1"
   },
   {
-    "path": "theme/assets/sf-gallery-volume-pullover-black-lineup.jpg",
-    "sha256": "15b547f854b575be4c5e7f49d909f41ea082cf99287bda12364dbbc7ac74a74c"
+    "path": "theme/assets/sf-gallery-volume-pullover-black-lineup.webp",
+    "sha256": "ab0bf80f61c0945766bceeeeb21c42c8c271f41d26ed5fac2d8b83f6e152ef18"
   },
   {
-    "path": "theme/assets/sf-gallery-volume-pullover-grey-full-480.jpg",
-    "sha256": "a866717909d241700912004a99b92ecfdb176978b8c9aaf63c7c2045357bfe40"
+    "path": "theme/assets/sf-gallery-volume-pullover-grey-full-480.webp",
+    "sha256": "82ca917f39a585d47ab64f677f481ce1c0e3715e17dbccb9eada7ce72c392bfd"
   },
   {
-    "path": "theme/assets/sf-gallery-volume-pullover-grey-full.jpg",
-    "sha256": "b4d9017cb8969064daafd00eb8af2fc224c0e3b733b74fead8fd11d5532f269f"
+    "path": "theme/assets/sf-gallery-volume-pullover-grey-full.webp",
+    "sha256": "5c2aa56e32124d45da8798a74c40ef674f0fb0a10f0e4c693630be7e3a0ad07a"
   },
   {
-    "path": "theme/assets/sf-gallery-volume-pullover-grey-lineup-480.jpg",
-    "sha256": "644d8357c664a687fd75c4b70013ae880ee655eaf99605f4db4f13f2efaf3198"
+    "path": "theme/assets/sf-gallery-volume-pullover-grey-lineup-480.webp",
+    "sha256": "3984720aca64ba93c860e2b344cfff79ba56fa054a895153e5f776a73a2af626"
   },
   {
-    "path": "theme/assets/sf-gallery-volume-pullover-grey-lineup.jpg",
-    "sha256": "7802042b9e9226122236761d343354e24dfdce816c2f5f1dd7a5bc5fbc3bb95d"
+    "path": "theme/assets/sf-gallery-volume-pullover-grey-lineup.webp",
+    "sha256": "eb563a4f37577b21fcdb085e6f108c9359689d8d50eb4d32bd64c1de6ca920f5"
   },
   {
-    "path": "theme/assets/sf-gallery-volume-pullover-white-full-480.jpg",
-    "sha256": "d4f4be47df612a6a466975eb462a28f7f5ca527127dbfc232bbbe2df3607a1b2"
+    "path": "theme/assets/sf-gallery-volume-pullover-white-full-480.webp",
+    "sha256": "aab1b652d12fdb9b436cf685af0df133f7dc37033fcf8cba92a57c4773341e65"
   },
   {
-    "path": "theme/assets/sf-gallery-volume-pullover-white-full.jpg",
-    "sha256": "142f91af66860b975668935cddef82c66d71e0f518ce5aec8af5a1223dec8879"
+    "path": "theme/assets/sf-gallery-volume-pullover-white-full.webp",
+    "sha256": "7f4380bcb44caf806c4a8b5202b89654da731ecf328acc93c88649d9a140e7af"
   },
   {
-    "path": "theme/assets/sf-gallery-volume-pullover-white-lineup-480.jpg",
-    "sha256": "d9c02122377e4ac60463d3d3e7322bc2ecd07986db8682df22bf499bde3a7cf4"
+    "path": "theme/assets/sf-gallery-volume-pullover-white-lineup-480.webp",
+    "sha256": "a15f9d368ff01e08ae1978d37168a246cb71922f8e65058439b4448a37669111"
   },
   {
-    "path": "theme/assets/sf-gallery-volume-pullover-white-lineup.jpg",
-    "sha256": "06d540695b9796157c6e6dd94bb364ba1b87847527d96d2bc26c45f4ce5e2767"
+    "path": "theme/assets/sf-gallery-volume-pullover-white-lineup.webp",
+    "sha256": "fc635358a7e944e23551dc6119d7ee43243b8fd9ad3ee60774569361130c074c"
   },
   {
-    "path": "theme/assets/sf-packshot-axis-long-sleeve-black-front-480.jpg",
-    "sha256": "4fffb7a3f6994e07977c4ad46dbb1e9dbb8058a40aab2ff8d391c91d8be368c2"
+    "path": "theme/assets/sf-packshot-axis-long-sleeve-black-front-480.webp",
+    "sha256": "3866ed1507136508e080c60158ff73509f3b2fc843f3573e304a99f1e8c792d6"
   },
   {
-    "path": "theme/assets/sf-packshot-axis-long-sleeve-black-front.jpg",
-    "sha256": "9f9bf70f602cc476dc0fab20585c3a70bfc41eaecd04b76cb666fc45cac2c81f"
+    "path": "theme/assets/sf-packshot-axis-long-sleeve-black-front.webp",
+    "sha256": "8623113d84a2aafa3ea3ca67ede913f993dcf030001358695478f6b9f968ea2c"
   },
   {
-    "path": "theme/assets/sf-packshot-axis-long-sleeve-grey-front-480.jpg",
-    "sha256": "eef6aaf411a5d44a26a6737776bef9f6a0d523e5c959d9716f8dc7256308a190"
+    "path": "theme/assets/sf-packshot-axis-long-sleeve-grey-front-480.webp",
+    "sha256": "c5222479876d76902e441b5149dd4d5c99f60f6ebdfcfc28af3b2952fe76f915"
   },
   {
-    "path": "theme/assets/sf-packshot-axis-long-sleeve-grey-front.jpg",
-    "sha256": "25ed9b5177f7c76717272bbba860bf6ab66127e8de254267f5b8485b31054c54"
+    "path": "theme/assets/sf-packshot-axis-long-sleeve-grey-front.webp",
+    "sha256": "05ae1dd0f05d2f8d5e8da7de872826858ef3c08bbcb29f566eaafd115dcaca7b"
   },
   {
-    "path": "theme/assets/sf-packshot-axis-long-sleeve-white-front-480.jpg",
-    "sha256": "9976b3e449a969f514f7426e303c8237bf230c055b07fa3ae12efbd1a71850bc"
+    "path": "theme/assets/sf-packshot-axis-long-sleeve-white-front-480.webp",
+    "sha256": "614e01633993e63dc21c505774d50f7c33f6134cfb8c1749f98b2cf50596b07b"
   },
   {
-    "path": "theme/assets/sf-packshot-axis-long-sleeve-white-front.jpg",
-    "sha256": "8fa5896d4b328f90490db92e9010471f35db337773219e5dee04e0de095a3eaf"
+    "path": "theme/assets/sf-packshot-axis-long-sleeve-white-front.webp",
+    "sha256": "321bddda48d154de887d664631aecb4b8626d1bf49fea6c3cee5c71c0b8b2078"
   },
   {
-    "path": "theme/assets/sf-packshot-contour-crew-black-front-480.jpg",
-    "sha256": "80a70caaeab2eeb5d2389438e74bf5cdcb8af8ee3eace4231fcf553a73943224"
+    "path": "theme/assets/sf-packshot-contour-crew-black-front-480.webp",
+    "sha256": "32fa4b3167e65f8caef5053649244edad014c8ac81bb60ce29e8b3e91e874234"
   },
   {
-    "path": "theme/assets/sf-packshot-contour-crew-black-front.jpg",
-    "sha256": "2df3ce8aaa48d5e3da26f855298d3279765f2259f0a7eb7091d2b5f1c06650c2"
+    "path": "theme/assets/sf-packshot-contour-crew-black-front.webp",
+    "sha256": "83fac48952d596cd89cf7eb8953c640de4c16a4d04e9cc0b3c9a9e612f97377b"
   },
   {
-    "path": "theme/assets/sf-packshot-contour-crew-grey-front-480.jpg",
-    "sha256": "8730c0d02736ec7a943a969761112914b24cc5a460ab2334c67b56898483172c"
+    "path": "theme/assets/sf-packshot-contour-crew-grey-front-480.webp",
+    "sha256": "e90a20af6bbd699fb9068a9ed30ccf4a1e4f40fd3d7532c7679801c0a7a4d7cd"
   },
   {
-    "path": "theme/assets/sf-packshot-contour-crew-grey-front.jpg",
-    "sha256": "0eae29bc4773447a599f225baf65fdf73665f2da45167d8b0c422e0e56ae9022"
+    "path": "theme/assets/sf-packshot-contour-crew-grey-front.webp",
+    "sha256": "77adbd90a2b8554b7d01a61e53b9426d698c092d5c95bc72907eae07c66d1449"
   },
   {
-    "path": "theme/assets/sf-packshot-contour-crew-white-front-480.jpg",
-    "sha256": "68afa9603c231a90891369893573759daa41e15a258cc506f80898a804052c2f"
+    "path": "theme/assets/sf-packshot-contour-crew-white-front-480.webp",
+    "sha256": "897edd60a9fa8c547fcf7037e3366697f361d02dc575cd5c763adcd12c449d5d"
   },
   {
-    "path": "theme/assets/sf-packshot-contour-crew-white-front.jpg",
-    "sha256": "02176c8cd2123a88f9cf2af7817004147c192466cdd6256c6c74c148e0b08dad"
+    "path": "theme/assets/sf-packshot-contour-crew-white-front.webp",
+    "sha256": "72751a4d09e1167888fb4414e56e7ffbb3985b759a522d584820d1986191ac24"
   },
   {
-    "path": "theme/assets/sf-packshot-drift-baggy-jean-black-front-480.jpg",
-    "sha256": "0e653cfd331f78fd5c3473300e1cc97e07f250936c8fa53f6369a1222e352932"
+    "path": "theme/assets/sf-packshot-drift-baggy-jean-black-front-480.webp",
+    "sha256": "3f620ae3a1c1d6b41f4d9c8af3a77b519a881718adb3079eb15ce7250357742d"
   },
   {
-    "path": "theme/assets/sf-packshot-drift-baggy-jean-black-front.jpg",
-    "sha256": "442e3518434ae81c007024afd461bee43cc9b12531c5911aac1ec9cd494129f6"
+    "path": "theme/assets/sf-packshot-drift-baggy-jean-black-front.webp",
+    "sha256": "80b87120e17b893262cf6aa40dc6bdb2e9d9a1d632379c97e9eb5dbaa04e1505"
   },
   {
-    "path": "theme/assets/sf-packshot-drift-baggy-jean-grey-front-480.jpg",
-    "sha256": "6c0f5b9d904dbd05a955c2939efa29746825965bf3ab44b7b2e165b39b9f929f"
+    "path": "theme/assets/sf-packshot-drift-baggy-jean-grey-front-480.webp",
+    "sha256": "2f01e070e667835778c71c9f8cb2d9237c665a18a7486ec67399c013b370dbee"
   },
   {
-    "path": "theme/assets/sf-packshot-drift-baggy-jean-grey-front.jpg",
-    "sha256": "3288e8c453d72d1b3883f1c9a76e71608fa0ee02a8cbc7e1255937b0c83266c8"
+    "path": "theme/assets/sf-packshot-drift-baggy-jean-grey-front.webp",
+    "sha256": "0079aa4fbdab2e139d82ada9e55ecb5dd3f11319deae51a0726777910dd83495"
   },
   {
-    "path": "theme/assets/sf-packshot-drift-baggy-jean-white-front-480.jpg",
-    "sha256": "64ea44ac95ed8812db36327b25ed98680610f145e2603806128e3f152ada9e08"
+    "path": "theme/assets/sf-packshot-drift-baggy-jean-white-front-480.webp",
+    "sha256": "4dbb367f0836a56d8104014c47d34809d04f298e677f001afda04c0b5a96376e"
   },
   {
-    "path": "theme/assets/sf-packshot-drift-baggy-jean-white-front.jpg",
-    "sha256": "332c13d9453ebdb1ceeff80206c3669562abd38769fcbd84c58334a2f2c74316"
+    "path": "theme/assets/sf-packshot-drift-baggy-jean-white-front.webp",
+    "sha256": "9fe14387e9e44a042cbf07472cc0dc63ed64e5bf87166e413e286a5ced5be962"
   },
   {
-    "path": "theme/assets/sf-packshot-frame-long-sleeve-black-front-480.jpg",
-    "sha256": "2abc6d4b59ab11dcfc80277304815cedb0f5f49fb8dd0dee8fdc5318a3ee14d2"
+    "path": "theme/assets/sf-packshot-frame-long-sleeve-black-front-480.webp",
+    "sha256": "09ec0e0d46c85fd609efd9fb89ccfe1cb7cc9c57b6c02817aad04a088fdb4198"
   },
   {
-    "path": "theme/assets/sf-packshot-frame-long-sleeve-black-front.jpg",
-    "sha256": "0c99c85f156b224971ed0b89945eceaa4c4ce5ac9125591335e723dca4506e13"
+    "path": "theme/assets/sf-packshot-frame-long-sleeve-black-front.webp",
+    "sha256": "cd1d412f7259cf3ce50189cea0107b68f8c9ae941bc106eb133f48697e3eb04d"
   },
   {
-    "path": "theme/assets/sf-packshot-frame-long-sleeve-grey-front-480.jpg",
-    "sha256": "df9eaf55abc7135b2139eb477e8cc8bcca1692084da005e0ccf4c1083dfa2469"
+    "path": "theme/assets/sf-packshot-frame-long-sleeve-grey-front-480.webp",
+    "sha256": "2440a4d6cf303200be15b3eb5311e78e2c9fec8a52d7f167332d749734735891"
   },
   {
-    "path": "theme/assets/sf-packshot-frame-long-sleeve-grey-front.jpg",
-    "sha256": "590abbf27326028daf3bf66dfc3d4ebcf419a19315601a2c8b10a250e91b8bab"
+    "path": "theme/assets/sf-packshot-frame-long-sleeve-grey-front.webp",
+    "sha256": "6341994d088e9756929b2daaa846ee729cece9c276e2d55a47e4b58d7c821090"
   },
   {
-    "path": "theme/assets/sf-packshot-frame-long-sleeve-white-front-480.jpg",
-    "sha256": "ec70d053d877d707fcfda172e03b3fe315dd7f5f4edd08d1019d6584e47a58a1"
+    "path": "theme/assets/sf-packshot-frame-long-sleeve-white-front-480.webp",
+    "sha256": "5a4d26e6ca8c27357ec31ed9bc607d4de40da578fdf76ecf72494e132421a450"
   },
   {
-    "path": "theme/assets/sf-packshot-frame-long-sleeve-white-front.jpg",
-    "sha256": "98bf4d1521193b4f3e11053e330de94ae9119537dffa5b3bdad4fa154813aee3"
+    "path": "theme/assets/sf-packshot-frame-long-sleeve-white-front.webp",
+    "sha256": "238849ab7cee3400e173aea3dcefd164a7579b06870b832d1957b8ad2bb0b97f"
   },
   {
-    "path": "theme/assets/sf-packshot-grid-cargo-pant-black-front-480.jpg",
-    "sha256": "7e6bf0000117870b26e9d464cae1b86fff95a80229d96afa44e33ff1e6390759"
+    "path": "theme/assets/sf-packshot-grid-cargo-pant-black-front-480.webp",
+    "sha256": "fd7319272a69da9440832f1075c0548ee04c4535572d0a65014c65cc9cf4ac1e"
   },
   {
-    "path": "theme/assets/sf-packshot-grid-cargo-pant-black-front.jpg",
-    "sha256": "4ef446af0ec4e71ef3ab0b322d32372783f1b9c0c344e94d91b6c8afdac590b8"
+    "path": "theme/assets/sf-packshot-grid-cargo-pant-black-front.webp",
+    "sha256": "8a85a365da4aa6b08d11b3bfddca16761ba8759afebbffe74952263c05814388"
   },
   {
-    "path": "theme/assets/sf-packshot-grid-cargo-pant-grey-front-480.jpg",
-    "sha256": "5babb50d39d3e2a650e79fad86808fa668b2ccc6ba9bd5d648e308afd833f6db"
+    "path": "theme/assets/sf-packshot-grid-cargo-pant-grey-front-480.webp",
+    "sha256": "7198ec7c6d00c96b106e0b9ed9e335305c288fef8b17bdc23d2263ebb4c0af83"
   },
   {
-    "path": "theme/assets/sf-packshot-grid-cargo-pant-grey-front.jpg",
-    "sha256": "df37ae08e320d7c346747c53ba4b124a190dbabce6ddbc8d4bfb2a44680de3c1"
+    "path": "theme/assets/sf-packshot-grid-cargo-pant-grey-front.webp",
+    "sha256": "605ccf663ad950d28162f2e8a338daa2aa518761d1bc408ed942756527d43e56"
   },
   {
-    "path": "theme/assets/sf-packshot-grid-cargo-pant-white-front-480.jpg",
-    "sha256": "575bc8d89654e4cc7a76832c8a2d07cb8ce46e1747aedd8edc001842fb9eeb1c"
+    "path": "theme/assets/sf-packshot-grid-cargo-pant-white-front-480.webp",
+    "sha256": "63613bdbd2d083f67a3e9261d177015393199cbfc806890511dde6bb776eed51"
   },
   {
-    "path": "theme/assets/sf-packshot-grid-cargo-pant-white-front.jpg",
-    "sha256": "0437a8fbcaca1b3565398f720ebaddbfda781b5aae96a4d75306a25293e655db"
+    "path": "theme/assets/sf-packshot-grid-cargo-pant-white-front.webp",
+    "sha256": "cc4eceb3e6f5ea2bdcaa937901a3cf50d18ad70065b1370c9f48771244ecaec0"
   },
   {
-    "path": "theme/assets/sf-packshot-interval-utility-short-black-front-480.jpg",
-    "sha256": "59b71975f84323dd3237dff4c506747d4740f3d97644efb73b05a1681771cc0b"
+    "path": "theme/assets/sf-packshot-interval-utility-short-black-front-480.webp",
+    "sha256": "f5c2b065e1917457f3df7462592cd6c23bb4a1ab3e24700390cd65627017f140"
   },
   {
-    "path": "theme/assets/sf-packshot-interval-utility-short-black-front.jpg",
-    "sha256": "8a6a0319f495e44c665aca6ad3d97d244e06ef933052b4fddb949e1cbbcd0dc4"
+    "path": "theme/assets/sf-packshot-interval-utility-short-black-front.webp",
+    "sha256": "d43dad11fbf176127c9aa867aa66b3d8b84eeb65b39074098c249aaa0814e4a3"
   },
   {
-    "path": "theme/assets/sf-packshot-interval-utility-short-grey-front-480.jpg",
-    "sha256": "34732585fcdc1f888e59f1ba9e02101e26beefbbdc9cb60fa84b40a41782a61a"
+    "path": "theme/assets/sf-packshot-interval-utility-short-grey-front-480.webp",
+    "sha256": "c7847b4b6b3916b5a833d982a6056a6e3ef5db87c2c9ab083ee7b5815fc6774a"
   },
   {
-    "path": "theme/assets/sf-packshot-interval-utility-short-grey-front.jpg",
-    "sha256": "668c613744bdd56b4bc92027e55451cbf234114cda449b35569870790b575625"
+    "path": "theme/assets/sf-packshot-interval-utility-short-grey-front.webp",
+    "sha256": "2fc747b841caf820ab0e417c8db13761c0e4832c252c2d2b8fe730f80f00733f"
   },
   {
-    "path": "theme/assets/sf-packshot-interval-utility-short-white-front-480.jpg",
-    "sha256": "c1dd5e5925fe332938fad0ba638c2d54fb1ec221a917f4e2487dce89532dd8dd"
+    "path": "theme/assets/sf-packshot-interval-utility-short-white-front-480.webp",
+    "sha256": "74605ec03acdf3ba658027d5d89620e7fd9a2b7b55746a38c1c915800c28f4b1"
   },
   {
-    "path": "theme/assets/sf-packshot-interval-utility-short-white-front.jpg",
-    "sha256": "f250311d5117c0a8a3e885063f1e17367ae1cb89a1ffd0fe8b183f5b455b52be"
+    "path": "theme/assets/sf-packshot-interval-utility-short-white-front.webp",
+    "sha256": "0c2aec976554fbde7d67e919b1b05f9c86bf1a8262f4d94c0819639e0f2a34bc"
   },
   {
-    "path": "theme/assets/sf-packshot-offset-heavy-tee-black-front-480.jpg",
-    "sha256": "2e259dfcf17cb9415fcdcd8ec2ca1ee174ed267638e34c844144d228e7d3a6a6"
+    "path": "theme/assets/sf-packshot-offset-heavy-tee-black-front-480.webp",
+    "sha256": "a7de42a714015d0e8cc659c6f327403bdc38e831cc2ab8d37d72f2a5fb3d7543"
   },
   {
-    "path": "theme/assets/sf-packshot-offset-heavy-tee-black-front.jpg",
-    "sha256": "eb2efea1e0c0c7f267bc7563b0f27fda31c41d224d702c52e1d0184f26d7c749"
+    "path": "theme/assets/sf-packshot-offset-heavy-tee-black-front.webp",
+    "sha256": "3af2cfbef040fac8aa1057648dd3e96395cab566e98b1e7855294673715b539e"
   },
   {
-    "path": "theme/assets/sf-packshot-offset-heavy-tee-grey-front-480.jpg",
-    "sha256": "b56ff6447660c9418814ea55ce87866b441790feeaa4ed07d9a456a414e652a2"
+    "path": "theme/assets/sf-packshot-offset-heavy-tee-grey-front-480.webp",
+    "sha256": "260c79345fcdc876b9f93f62ceb4c7b7016b01ba25ee0973103245deafd76a83"
   },
   {
-    "path": "theme/assets/sf-packshot-offset-heavy-tee-grey-front.jpg",
-    "sha256": "870b3b9a203b3ccc11095364faaf1818024cd1c4032bba73aaceed06c610c222"
+    "path": "theme/assets/sf-packshot-offset-heavy-tee-grey-front.webp",
+    "sha256": "a8bb12902a2bc5067d393ab177add7e98e2a4189bd7d3c5ea47bec5c4f2f236f"
   },
   {
-    "path": "theme/assets/sf-packshot-offset-heavy-tee-white-front-480.jpg",
-    "sha256": "0370e9594ab805849cecc501a97824b97fea2e48ce1295f2f1e98bd5ce16f89b"
+    "path": "theme/assets/sf-packshot-offset-heavy-tee-white-front-480.webp",
+    "sha256": "a1687605d2c8e45e612d6359a7d5375bb43f4549c688e0e4c3e76120af2b669f"
   },
   {
-    "path": "theme/assets/sf-packshot-offset-heavy-tee-white-front.jpg",
-    "sha256": "4a141dbaa6ab76498d88e2f28ed965164958b01da951f249bc90996d8654acaf"
+    "path": "theme/assets/sf-packshot-offset-heavy-tee-white-front.webp",
+    "sha256": "a0120b69e50b49529934e65b00201a059f8d8f86661b68306258e265225de078"
   },
   {
-    "path": "theme/assets/sf-packshot-plane-box-tee-black-front-480.jpg",
-    "sha256": "e58581579366a5a3d047bb30f45077b5ba98e934da9393e24e458fedb86f46c8"
+    "path": "theme/assets/sf-packshot-plane-box-tee-black-front-480.webp",
+    "sha256": "5a466296ceb6e3e4051694560fb7ea3ceea9f4a07f80055f0f6e2dc443706f45"
   },
   {
-    "path": "theme/assets/sf-packshot-plane-box-tee-black-front.jpg",
-    "sha256": "02a7e4fa7953cd1be4ebd185cd3fb48126701d16522697d4829edcfabe33a899"
+    "path": "theme/assets/sf-packshot-plane-box-tee-black-front.webp",
+    "sha256": "80a57af7afd21005ccad4ebbf64b8fa3d6169f14e57fd76d66ee9170be6b6fdb"
   },
   {
-    "path": "theme/assets/sf-packshot-plane-box-tee-grey-front-480.jpg",
-    "sha256": "978055b05b6e51f8c0f5f84ed93f3559186b69fd11f48b8e9be072ea7d21b55e"
+    "path": "theme/assets/sf-packshot-plane-box-tee-grey-front-480.webp",
+    "sha256": "58fff0f2109daa34e51299c7aaf1eb883218322d4fac371c488692257785fac9"
   },
   {
-    "path": "theme/assets/sf-packshot-plane-box-tee-grey-front.jpg",
-    "sha256": "21bddfa133d6ce49cd980009e43eaa468460b523e9410013892e4a593d2d71c8"
+    "path": "theme/assets/sf-packshot-plane-box-tee-grey-front.webp",
+    "sha256": "cdd86e60a633f98ce0982bddbb2686747ccb45921208dfc78351ceeae4a12c68"
   },
   {
-    "path": "theme/assets/sf-packshot-plane-box-tee-white-front-480.jpg",
-    "sha256": "58c39731d0b13dd5458341c6d7c94747dd639a2d2eae644f49cf028f4e3f9a25"
+    "path": "theme/assets/sf-packshot-plane-box-tee-white-front-480.webp",
+    "sha256": "e12789dad2223563a58bf5529b5c51fd9e111e3ee4391e6fe71524ff9454e819"
   },
   {
-    "path": "theme/assets/sf-packshot-plane-box-tee-white-front.jpg",
-    "sha256": "295a96d96ed8c60aaa0632bf6e09a61d782e38a29558a4c8c57bab932865a52e"
+    "path": "theme/assets/sf-packshot-plane-box-tee-white-front.webp",
+    "sha256": "904640b6d5615d7621b7de839f4c54bc9c4c1caf55f6d0e37a183ef6cdb47731"
   },
   {
-    "path": "theme/assets/sf-packshot-shell-utility-jacket-black-front-480.jpg",
-    "sha256": "dfdbcc04ade8df7ec2c58b9e42c79d582c44a0f44a8ab2035d3a3e270a164947"
+    "path": "theme/assets/sf-packshot-shell-utility-jacket-black-front-480.webp",
+    "sha256": "56c87db707da04110394933596f492f1eea467012d9f3d5350d1af02cde93e44"
   },
   {
-    "path": "theme/assets/sf-packshot-shell-utility-jacket-black-front.jpg",
-    "sha256": "4bcf6e4aa03c0a03255ac764b4a8d92ebe3a131d901a346fc04ff89a6b2edfd8"
+    "path": "theme/assets/sf-packshot-shell-utility-jacket-black-front.webp",
+    "sha256": "d07918e91154c15d5655c14b09ba23baaaa69c7f1a6b0319e086cb31841a4948"
   },
   {
-    "path": "theme/assets/sf-packshot-shell-utility-jacket-grey-front-480.jpg",
-    "sha256": "ca776af227859ba3192d11f31ade14240c1a87abc258b0692b7b60eef01ff702"
+    "path": "theme/assets/sf-packshot-shell-utility-jacket-grey-front-480.webp",
+    "sha256": "26389e30170a4160df61c0b75d4318033e982cc38e63828524f661ae7c2b436e"
   },
   {
-    "path": "theme/assets/sf-packshot-shell-utility-jacket-grey-front.jpg",
-    "sha256": "8566707eada07717bac0c9de10c90716959f5fa1bd71df1b75630e5c6a48e9a4"
+    "path": "theme/assets/sf-packshot-shell-utility-jacket-grey-front.webp",
+    "sha256": "b7e054eb5de2f181b7a5827b9ed3a684d33beb4b568b3219a3b5cc974a2e916f"
   },
   {
-    "path": "theme/assets/sf-packshot-shell-utility-jacket-white-front-480.jpg",
-    "sha256": "12371ced4018f2fffa70efa9d21bf51a9db2629c850e51d0bd5dd7a2d8d7290c"
+    "path": "theme/assets/sf-packshot-shell-utility-jacket-white-front-480.webp",
+    "sha256": "c58a15159c02854211d61b0724f5a51a54e15bb11735b232813c827a6823b28e"
   },
   {
-    "path": "theme/assets/sf-packshot-shell-utility-jacket-white-front.jpg",
-    "sha256": "13c86c6f8eb074abb4b051e9a45574134cb3d40ec457982303847091a0d211e8"
+    "path": "theme/assets/sf-packshot-shell-utility-jacket-white-front.webp",
+    "sha256": "4cd8d4c07d00f2d20c8e599ac5a23c10c4c5bfc7a05d3f1f20819a07509f3d2b"
   },
   {
-    "path": "theme/assets/sf-packshot-structure-hoodie-black-front-480.jpg",
-    "sha256": "9d11a67afad791fa4e5ca7549c2bbff08ee5db9e0c8e64989c27a48028435dac"
+    "path": "theme/assets/sf-packshot-structure-hoodie-black-front-480.webp",
+    "sha256": "c2105177d0eb7e36dfddf5852cbfb4d8ec0fc8f4934fcc9f63d18ac1e992b90a"
   },
   {
-    "path": "theme/assets/sf-packshot-structure-hoodie-black-front.jpg",
-    "sha256": "32b4f8e6e7938fdf4295ba57765d1ca93e162eaa24fd412e4455c68a268d5419"
+    "path": "theme/assets/sf-packshot-structure-hoodie-black-front.webp",
+    "sha256": "8c3dcec41cbf9317aac875fb9e50e7ce1ca9ab65024c54b95b60a46ac2b8726f"
   },
   {
-    "path": "theme/assets/sf-packshot-structure-hoodie-grey-front-480.jpg",
-    "sha256": "ea0207a301ce66ab25dffcbc015ff3ecf6571ae9dc20e26bcc247682cc445b7e"
+    "path": "theme/assets/sf-packshot-structure-hoodie-grey-front-480.webp",
+    "sha256": "dce198be9d2c2d68321fbe9b310a8618923b5d10e654b0b0b622a512a59ea390"
   },
   {
-    "path": "theme/assets/sf-packshot-structure-hoodie-grey-front.jpg",
-    "sha256": "c636e58d43bd8dd3608e751031df72225af5091eade4acdf49e1305e49c587d7"
+    "path": "theme/assets/sf-packshot-structure-hoodie-grey-front.webp",
+    "sha256": "0bbe0acc343a9e01c0fb1f93b1e29e2c7a780a118f70aaadc84015937e6ca3aa"
   },
   {
-    "path": "theme/assets/sf-packshot-structure-hoodie-white-front-480.jpg",
-    "sha256": "69cf40ed938d52cbf2e1edcd3b3445fc895247d287d6e86b2b6e283cee7cbfe5"
+    "path": "theme/assets/sf-packshot-structure-hoodie-white-front-480.webp",
+    "sha256": "4047bb332a472991be2573647fb996d12f719f8fdb493a7e20e736cc08b276bf"
   },
   {
-    "path": "theme/assets/sf-packshot-structure-hoodie-white-front.jpg",
-    "sha256": "bcdb929d0c14cd1267bdb7af01a9af32aeb1124b46cdad04d0047eebffdbe3c6"
+    "path": "theme/assets/sf-packshot-structure-hoodie-white-front.webp",
+    "sha256": "a1e4dc2626b0af56e8453dfff3d2cd0725059322fdaf0316dfb633a08e8f4faf"
   },
   {
-    "path": "theme/assets/sf-packshot-transit-work-jacket-black-front-480.jpg",
-    "sha256": "8ddca8a9dc12604bb2f4cfbe430803603110ebf189dfe62c2cceb3e72ec47de8"
+    "path": "theme/assets/sf-packshot-transit-work-jacket-black-front-480.webp",
+    "sha256": "6a464efae1524fd0e917885e8cda9d6151bf6b51325f2b1851e80f8a026afe1e"
   },
   {
-    "path": "theme/assets/sf-packshot-transit-work-jacket-black-front.jpg",
-    "sha256": "84bc8c6af1db3d4ff4efc8b195b7e00816fd94b01e3ff1fafe9bfd067c9cd3ff"
+    "path": "theme/assets/sf-packshot-transit-work-jacket-black-front.webp",
+    "sha256": "633038a2b2923fcef3c0994a99857fa76a5661211fed464f5e77283e93a94214"
   },
   {
-    "path": "theme/assets/sf-packshot-transit-work-jacket-grey-front-480.jpg",
-    "sha256": "8959cdf0cf8be4842e14ee65277285fed3234cb481556463ce5cdc68fd601749"
+    "path": "theme/assets/sf-packshot-transit-work-jacket-grey-front-480.webp",
+    "sha256": "00c7622ce8393dd2e748569dd09684cf10b0445f608d330bddd066e2ebb4d50b"
   },
   {
-    "path": "theme/assets/sf-packshot-transit-work-jacket-grey-front.jpg",
-    "sha256": "07a2c26d1e2dbbea1923a42dea4ff5733afbc46fe865cf7d020577f7d316b29a"
+    "path": "theme/assets/sf-packshot-transit-work-jacket-grey-front.webp",
+    "sha256": "e356e1957f1ec9d3ae4376338bf1b694170ffc81d02c75ce91b3c07aee6a8605"
   },
   {
-    "path": "theme/assets/sf-packshot-transit-work-jacket-white-front-480.jpg",
-    "sha256": "3257a4a7c1ea689cbaf880c201dccaa8d8feefd595e93f3c9f7309aa65ec08be"
+    "path": "theme/assets/sf-packshot-transit-work-jacket-white-front-480.webp",
+    "sha256": "119f8a71b3357d5b698135603b5d25e2a2c963e2939ac662ecf913e5655e97a1"
   },
   {
-    "path": "theme/assets/sf-packshot-transit-work-jacket-white-front.jpg",
-    "sha256": "8e8cede416f24a796be51f22ceb85fff784b1c61d8bc4ba5b7c8190c2ff4faca"
+    "path": "theme/assets/sf-packshot-transit-work-jacket-white-front.webp",
+    "sha256": "6c5aedf3500f20291b62fb26c21b31c596939ed6f08448af46026f9c17f0b99e"
   },
   {
-    "path": "theme/assets/sf-packshot-volume-pullover-black-front-480.jpg",
-    "sha256": "2acb86e1f40138f07050ed29918ca1509ef9948f6d1183fa1b3ec64c7e9383ec"
+    "path": "theme/assets/sf-packshot-volume-pullover-black-front-480.webp",
+    "sha256": "3a4aac50396fc1c5bad678cdeeaa340debcf372229538dd2170e0f9fe1ef0ba4"
   },
   {
-    "path": "theme/assets/sf-packshot-volume-pullover-black-front.jpg",
-    "sha256": "b6e90b20e3462a086af62a16eccfabc38a74c83379db7986001b8da8ddd972d9"
+    "path": "theme/assets/sf-packshot-volume-pullover-black-front.webp",
+    "sha256": "46369293c8f588648af02fbea1fb4ecaac7f8526860b2ea4556454a3108d9eec"
   },
   {
-    "path": "theme/assets/sf-packshot-volume-pullover-grey-front-480.jpg",
-    "sha256": "625474eb9108c05841cde69058a3b05ce27c4d7bca571c2d1281b3e9b9658339"
+    "path": "theme/assets/sf-packshot-volume-pullover-grey-front-480.webp",
+    "sha256": "dd665b062b818723221a781b6afee0f236b6e93a5c45e1abf17d30b75768465c"
   },
   {
-    "path": "theme/assets/sf-packshot-volume-pullover-grey-front.jpg",
-    "sha256": "e76bbf29b55b6e258e7e94635624e803581862b80c702632fb467bc642b9dede"
+    "path": "theme/assets/sf-packshot-volume-pullover-grey-front.webp",
+    "sha256": "a950d7e76e8c8700470520be33429ff4ec4c340ecb59e033d1aa635f2c624e65"
   },
   {
-    "path": "theme/assets/sf-packshot-volume-pullover-white-front-480.jpg",
-    "sha256": "cb10296aad9d5c823813480d5f1ddaa543bd9798f621dcbe3e3f62a153e6298c"
+    "path": "theme/assets/sf-packshot-volume-pullover-white-front-480.webp",
+    "sha256": "ffab6bfefd3c2f6b70e36925ccf15a93e325f128827ea168675add6cc7546ebe"
   },
   {
-    "path": "theme/assets/sf-packshot-volume-pullover-white-front.jpg",
-    "sha256": "2daa6ece6a4f64f15b7e791361a90a92564a870ba28778a055b04f61777ad273"
+    "path": "theme/assets/sf-packshot-volume-pullover-white-front.webp",
+    "sha256": "c9f209ba359a38e0664d3c5bd125424af9ad9553b2d0b9ad62f56d51c05e46a9"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-black-back-480.jpg",
-    "sha256": "4e9c3d8ac0a679116e57632139965051abe1132868a47e9936483d781f3f3fed"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-black-back-480.webp",
+    "sha256": "4ad108b67eb3b632efbbdf52b7a494d24cea7749ee91bd577fed660fb8d7988f"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-black-back.jpg",
-    "sha256": "fcc8862bc09f3d31528fee97bfd06ac6fe07e44cde44b799c26d9ead8ffe6c15"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-black-back.webp",
+    "sha256": "dd9b53178f7d0c48c9b6335cde57fba9d8beac0d19ed7d26030a55984abcf688"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-black-detail-480.jpg",
-    "sha256": "fb90b33c9bced6a1d6b64e7e789e5d8322b67ebf7205968dc91fe9f9727273cb"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-black-detail-480.webp",
+    "sha256": "4dcf9dd85ce5b91d31a4396e5416829c7b702134673412c27a69f75e7822abfc"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-black-detail.jpg",
-    "sha256": "c2f57d607126376f386d0a05275c1fb50340e9f5e03be42e3f436fec2812bb07"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-black-detail.webp",
+    "sha256": "5e109bd3dc5c6d68d2ce6f9a20ace3c60519ec7022b64c563ed7a6e523a6ca25"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-black-front-480.jpg",
-    "sha256": "064d5dc486d1aaa060b1ed47c2b068021b67a1afbc0e9790a84f02adf6f9112e"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-black-front-480.webp",
+    "sha256": "eb03060048d035febfabd93682c481d7fd2ec6dfa9e1a06bbac9de9a3f0172bd"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-black-front.jpg",
-    "sha256": "4629b49eb0aebcff5db6059f40d6e79f4fdd4f3ad24d987ed0fefaf5af678f6d"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-black-front.webp",
+    "sha256": "be3122f1e0a47a6ed007f1701fb5c608308ed5a029f8d2ae63589ec70c6ee712"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-grey-back-480.jpg",
-    "sha256": "1c5bd233f77273ff8413304e58bce96cec300096dc6a2b1c60fc9585e917c851"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-grey-back-480.webp",
+    "sha256": "edb2e20e862b94eeaaa7da6f3ad6da19bf0323d354e16283901b19fd33c5c2f2"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-grey-back.jpg",
-    "sha256": "6d3a18349a02ac0fe11f2c290226f479488f0a9d26ee84cc87691947cb13c5ef"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-grey-back.webp",
+    "sha256": "df78d60c75f97c02b455323de6cea0c7421263f969439af4c9f2843b304db7fd"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-grey-detail-480.jpg",
-    "sha256": "3e4d9040310a59d99df8f38ffee89540e0a997d5a98df93db497472d1e973886"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-grey-detail-480.webp",
+    "sha256": "30856dca20adbb2d3e77c7d944a8734bcf3f830cb486066fe6cd672446785e17"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-grey-detail.jpg",
-    "sha256": "23abd6d78e157a2cef428efdd78aa7f6a75a9a6e729c657e6b9a9137d487f61d"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-grey-detail.webp",
+    "sha256": "49693b283e28bd54b5508bd2f7fd71077436a34d06ffd1861a69af90b61eef85"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg",
-    "sha256": "b4fd1186fca96edbfd47a401635b05c9de08fff4461cf7858b2065894869202c"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-grey-front-480.webp",
+    "sha256": "93f1e930c1f5125a506faddcdf1f5f0ab40f71531d700919fd07ce84099b51ed"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-grey-front.jpg",
-    "sha256": "548ab31b554a747bafb54bc9f008da8a5640cf13ed1f19bb70c8dd0b02e0f47c"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-grey-front.webp",
+    "sha256": "46a14c4b31d2c3202b0b1544c2f7dc6d366c6c725c2e6245904cc061413edac7"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-white-back-480.jpg",
-    "sha256": "bbae57d899c183deecd9b97837e326e77e0160b16a42fece7da8475fda469fdf"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-white-back-480.webp",
+    "sha256": "2971d76a18fc7dbc0c730ed01d761bada585f8ae99099a4498409f1da010567e"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-white-back.jpg",
-    "sha256": "b107e2929a52e360f651b93a87beb377526a4b69829bda52a526e5462a61ded8"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-white-back.webp",
+    "sha256": "2cc5c0508a22bb4cbe11ccc3d391ccddda495db87906f23846d04f2b9ad49622"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-white-detail-480.jpg",
-    "sha256": "a835e35daadb75b6a73525bd9e51115f79b3426d0789fc4d6d15d7d6a3277091"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-white-detail-480.webp",
+    "sha256": "684a50f7af731fbb8f95fe39b129bed96aeae4057cbbf3d44c515529e50d9a22"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-white-detail.jpg",
-    "sha256": "250e2048cd586279f41d0acac337bc56e46470a9d35b7a4c02ae2e7e7942e9bb"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-white-detail.webp",
+    "sha256": "d649fd18b44e1829d8d164651fc26197bde1b2314f9891bb31948f58a5160f77"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-white-front-480.jpg",
-    "sha256": "1e2ba3d1c025025eae6f7fb8e7684d4932a2ac430a616e18723df4c9c30546b3"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-white-front-480.webp",
+    "sha256": "dc2811910d3fe530adb69d6ba08d94bddec15d056c92b52535256a190060068a"
   },
   {
-    "path": "theme/assets/sf-photo-axis-long-sleeve-white-front.jpg",
-    "sha256": "6c9ddd37b8822cb03c5e37df56b29cc5c858a1f252b06fb6a1846c4f46436a0c"
+    "path": "theme/assets/sf-photo-axis-long-sleeve-white-front.webp",
+    "sha256": "83b18cdaff76823dc3859c02ee3164490ddef87f87ba92ee3fab1787c10182e0"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-black-back-480.jpg",
-    "sha256": "5cf8c7e00665166ba7f7abbdb6166c9ff3fdc78dd1476a8e7054dbd3ed54c3aa"
+    "path": "theme/assets/sf-photo-contour-crew-black-back-480.webp",
+    "sha256": "11f65b820e8960b29cbda7c68763e3da089ffc698dc45d916293701ab93a375e"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-black-back.jpg",
-    "sha256": "28733f6041337547359b34f6f52570c114cd866463b0ce91d98872cda96843f5"
+    "path": "theme/assets/sf-photo-contour-crew-black-back.webp",
+    "sha256": "6cc66d0d2235ad1f58275566420a2dd155c6162350f7c22cbbefcdd68f34905c"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-black-detail-480.jpg",
-    "sha256": "12c7ed6ff1cc2722ce234cdedda2a056f7bffedd3e7a0879d394bf6a83508184"
+    "path": "theme/assets/sf-photo-contour-crew-black-detail-480.webp",
+    "sha256": "bfd04eb6515571799df984a70ae5243cd245ee5b41678e31346b324e7c873438"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-black-detail.jpg",
-    "sha256": "15c96a72f9309a7bbbac7f182032f02cc11bcbd35228ea1c23fbbfb3be72a0d7"
+    "path": "theme/assets/sf-photo-contour-crew-black-detail.webp",
+    "sha256": "e8ffa0a1fc8ee6f0c6d3c1b10d7311f3effe2e54398a2045ccc6027023317ec2"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-black-front-480.jpg",
-    "sha256": "d0721e568cdaf48bbf7bf8abcf796466ee41713fbc428df434569fe0676848c7"
+    "path": "theme/assets/sf-photo-contour-crew-black-front-480.webp",
+    "sha256": "59fcb5cead233bd5c7f2fc407763ec14bd414ec1a0a48e68aef7cbccf919524b"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-black-front.jpg",
-    "sha256": "1d3179f3e5f5502e7ba09d2701e5365b550b7b9e25dde680bae295b6752746a8"
+    "path": "theme/assets/sf-photo-contour-crew-black-front.webp",
+    "sha256": "34b8b41f3385d56212d9149ead9ab75c11e40959dbd77f084271e28327f5a7c2"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-grey-back-480.jpg",
-    "sha256": "c1f2c983bca184c28e5cc5f51b5ce091c3a4de6602fe2a59198fd548a6131218"
+    "path": "theme/assets/sf-photo-contour-crew-grey-back-480.webp",
+    "sha256": "a54360476981b09e7fd48f7659806522ff11f433ed20093d1eb2a3c8135dfb93"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-grey-back.jpg",
-    "sha256": "528ff7127b3d2ed7e3ea4ab87e8053b1b815935ffdd537e75ac8a35076d375f8"
+    "path": "theme/assets/sf-photo-contour-crew-grey-back.webp",
+    "sha256": "6b32cf4dded8c48be3e1a55569c5224eb9d817a9851305ef6bd5e596bf352caa"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-grey-detail-480.jpg",
-    "sha256": "889d08fdd4de47d7d8c74511f88723e03ae1520e62ddbff0746404a12a1e2705"
+    "path": "theme/assets/sf-photo-contour-crew-grey-detail-480.webp",
+    "sha256": "9e02e6dde3c1a2c47a0a72c252c003d0c60714e7168fda475996b519e921ff99"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-grey-detail.jpg",
-    "sha256": "c30625da50dccd11ec99b6532aab7a52eab1ecd7a81a5ea1be2592b02f04d544"
+    "path": "theme/assets/sf-photo-contour-crew-grey-detail.webp",
+    "sha256": "ac22d8b09cb5285f4b47ea90d2abb0e0f879b47921ecb516ecb7ca9258f9bef2"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-grey-front-480.jpg",
-    "sha256": "68fd4d7d688496af42d02f6cd673d13a1539cfa7deaea861086e2d8a54e55934"
+    "path": "theme/assets/sf-photo-contour-crew-grey-front-480.webp",
+    "sha256": "fa02f4da5070e41b98d3002eb743be79be4b45100dfe456d8f98546ab93ab821"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-grey-front.jpg",
-    "sha256": "5437e2c038eeab950bfd9073b7bb8d8071f94fe86cd193499fcc6a8642df032f"
+    "path": "theme/assets/sf-photo-contour-crew-grey-front.webp",
+    "sha256": "95b585173b9054016d2d662bdad720ae1f9fd2dcf661269d6be635ae99ad3dfe"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-white-back-480.jpg",
-    "sha256": "2759ebadcb3a8d70964170d672c37df582720b23d908c08576e6bf2e6b2f0b43"
+    "path": "theme/assets/sf-photo-contour-crew-white-back-480.webp",
+    "sha256": "26f0c4eae2f1bdafa91dfe9d75b87369b5ea714981c18e559c67e3fea98f6da8"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-white-back.jpg",
-    "sha256": "90b181ba503e5a7801cf8f4b7f71267a281cc3a6b21347fb77c24ea03e2841f9"
+    "path": "theme/assets/sf-photo-contour-crew-white-back.webp",
+    "sha256": "c51c8fc4cf89a03027ee94592f65e1501816713e8550d5d69c3aff35b4b379f4"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-white-detail-480.jpg",
-    "sha256": "edae14b2212b33fd80b22423772d101cd1f883fabbbc94db3c1383fef77d85c9"
+    "path": "theme/assets/sf-photo-contour-crew-white-detail-480.webp",
+    "sha256": "d75b9c936da30df5bec363c551bd5b1fd1c57a7ba4e08025c3763d857ce07943"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-white-detail.jpg",
-    "sha256": "a41f1ecdfbc92ea197ff88191bf97dc5ece243e70f9e4cc916ef788b513df435"
+    "path": "theme/assets/sf-photo-contour-crew-white-detail.webp",
+    "sha256": "017d6736c68628109734ba29520b39367fde98213f3aea11b68b013975d4c2a6"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-white-front-480.jpg",
-    "sha256": "0b8fde441eb8c46f7b9ac18c149fa52d16fdcce0597621425982972730f6fbb3"
+    "path": "theme/assets/sf-photo-contour-crew-white-front-480.webp",
+    "sha256": "6ddf41fcb77e22aca811cb74e05d9f1b25710c91f0b86c532ab26d6d674d1504"
   },
   {
-    "path": "theme/assets/sf-photo-contour-crew-white-front.jpg",
-    "sha256": "a3f6e0fbe463608e282116267de705d32953ea3d7081e38bbe4ee96381176acc"
+    "path": "theme/assets/sf-photo-contour-crew-white-front.webp",
+    "sha256": "166316ea2dea3324b82e23b1444fd6668e918a74597e3f184692673a3d65cbf0"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-black-back-480.jpg",
-    "sha256": "196a30e5fcfa181b4560f780ccb5edc9236d92fd7a72ba1eb126a33f4d3f27f9"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-black-back-480.webp",
+    "sha256": "057adcb0f6d49bbd55f10667ee58f6d0d7a43ee47512090f24874e0f37c77c40"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-black-back.jpg",
-    "sha256": "54b04db2260dcc244e97ad82c91b1c5d2694bc684938d3632eec3d6a79891822"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-black-back.webp",
+    "sha256": "c1d8ff600ef76d5a4d7a3eeb78a98ec5a119c54e1e66241b727bfbf60ce7c2d8"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-black-detail-480.jpg",
-    "sha256": "c7003adff9e5b57c78ecf9903e3c9da69e630cbafc99ba15010a17eb6ddc9d7a"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-black-detail-480.webp",
+    "sha256": "da9910483e984b0b594be8386763f500ffc5da38ae9981cc402ea39e5d87060d"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-black-detail.jpg",
-    "sha256": "f62df8dfde26687de88309ba918e1de34c6e8a4a337920bdf906ae3271d04e0f"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-black-detail.webp",
+    "sha256": "fcf92efca5996473eb4daa94eeca432e06edb9fd0f350558f184da209d939a8b"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-black-front-480.jpg",
-    "sha256": "ffa9eb1e0b6bcb1bc68368eec854293cf0fb5be144bd54c8f71c33c6bcff29ec"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-black-front-480.webp",
+    "sha256": "04c1673fc8a19f19c79f6d394021aac06f09a315caae118736d872a434d50bf5"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-black-front.jpg",
-    "sha256": "608da44f0b2056b588ce271b0f7f95e19e5974aa67b100261b8015b1c2795e6e"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-black-front.webp",
+    "sha256": "b64f215a422e01c04836a755730b13051c29c21578ea38d3e3a07e3ecfc8f312"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-grey-back-480.jpg",
-    "sha256": "ba2c365c2ad3567605a3cdb4920a5c17783ca891f2fa73b7744da4c4ead08477"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-grey-back-480.webp",
+    "sha256": "f4b64697e445b80907cdac147f4580e37212a654f145429859d2e23f6163b271"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-grey-back.jpg",
-    "sha256": "ea88e1d6d49bd38daa66d45d861a91d7dab0668bc0a145f055f551d257041822"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-grey-back.webp",
+    "sha256": "84fc696634fca7df1ef443a331bfe51c4046d36d5a0e5318e94a9729e3a3553c"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-grey-detail-480.jpg",
-    "sha256": "ed0c86e323f13609ccc85ec8cddbf48993be8aca103a1f98f62f641c4214577b"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-grey-detail-480.webp",
+    "sha256": "226c947eaff194e0e343d8069395d44dcfdefaa1666f17d5681678ee46c2297b"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-grey-detail.jpg",
-    "sha256": "b9b20fcbddc7fbd616d51fd3693d85b0914532f99e7643e678178f45bf1247b9"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-grey-detail.webp",
+    "sha256": "89d631d2af293172d18f5b357888b1c86bace43adbe6bcfbfedd3ccbaa2a5a0e"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-grey-front-480.jpg",
-    "sha256": "c7a2d8513fde5c50fdaa9b167b4a0ec4a9938b81110c9a2f8648fd8bb8870b4a"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-grey-front-480.webp",
+    "sha256": "0c58fdc5ae04ab3cbf128004d888d5fae59c7b6bd0dc80448a05163ca44d13b1"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-grey-front.jpg",
-    "sha256": "6245dfa5d320ad48900d87513ecdc8d0964e14c09a04b6bacf9d6e1d727f4932"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-grey-front.webp",
+    "sha256": "d56ebedd003f6d697b362edbe198a60bbef8c0db1e9175f10a50d4d726588a33"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-white-back-480.jpg",
-    "sha256": "2afff46588f0e531d7e9c42343d083be7df24486d877ad659e9900a46f2f2c7f"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-white-back-480.webp",
+    "sha256": "acce570be66a2c2858bd6d4bd2ccc7f571473cea65ba1d4e4149a9e874b99d6f"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-white-back.jpg",
-    "sha256": "6f510c586c5845b34055bbf0b2456e972cc1ab6e7017b8521b8d5048411b26ef"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-white-back.webp",
+    "sha256": "0bc44f2c535d524d396342d7c6626825b9be0dbdc76c20ca7b109edd207d37b7"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-white-detail-480.jpg",
-    "sha256": "bf4ab2697471eb083f128b1c56397dc4c8c2fb0f4f28af50cb28b320602ad1e6"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-white-detail-480.webp",
+    "sha256": "fa202525383bb63f1462cac1b2b735c5dab0ef54c91a55ac7d64609cc89dcab8"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-white-detail.jpg",
-    "sha256": "19ff0aabfa737af35a466dd21897edcbe9a8b0cb6986937ee5e670961a9fd397"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-white-detail.webp",
+    "sha256": "9c2861ee2d838c685c0ba6878e27d85bca8ae88abcdb7eef47411e5e850529d2"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-white-front-480.jpg",
-    "sha256": "aa6a60a9d510694518ea701cc8b32e79b9ba22701ffde23f392ae6b809df0acf"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-white-front-480.webp",
+    "sha256": "e7d5ff3907fb6b2f93c191259a3454d70ce0aadcf6201abf581e41c94e7ab699"
   },
   {
-    "path": "theme/assets/sf-photo-drift-baggy-jean-white-front.jpg",
-    "sha256": "b06e33304d21ec2995c6249c9a0bea55b7648dc6d5048dc12fa9da341fba90f4"
+    "path": "theme/assets/sf-photo-drift-baggy-jean-white-front.webp",
+    "sha256": "c1d1f9f2994bcf2456358e1853676fc19fa946d890100832030390f38fc1471b"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-black-back-480.jpg",
-    "sha256": "6d1dd98276efef9b781972d77e6225b5b4d367fee65473c96d81779d36127297"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-black-back-480.webp",
+    "sha256": "02715111810931f9ba84299729bdd881027b2862aa85fcf2050f316678b5aa12"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-black-back.jpg",
-    "sha256": "7cf590c378bbfa1ddb79b5180b45eaab020ab2cce9966491993ffe154aa5c8a2"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-black-back.webp",
+    "sha256": "8e8c11c43a3f120fcbef080c8931479f4802efa39e6231064d6a96a2df07771b"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-black-detail-480.jpg",
-    "sha256": "4f9f1cc850411844b7a4fe850aa24fb0620d9778a6c8d35b41260a8589bbc4f3"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-black-detail-480.webp",
+    "sha256": "3fce900deaf013d2b2ad22f6cfe0b7271f9cafd6097a7c0ebbd687b343b43448"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-black-detail.jpg",
-    "sha256": "62955f6ff77a3ac046871be5cc8001c2ff387e721ce8e29b58077aa5cac16d1e"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-black-detail.webp",
+    "sha256": "faa0060f21d3ada6e1907a0dc3d53e57f42ef20ba2014dc0ace2389e2401f925"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-black-front-480.jpg",
-    "sha256": "5333dadf4bfd6a2ba93b44bdd608e7a3e7877f213a659b0800f08c76fb438fe1"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-black-front-480.webp",
+    "sha256": "bf489fe2187c94b4e4600208b9811032eaea66c189a003959f178d026650a8c2"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-black-front.jpg",
-    "sha256": "794ea1c74aacf106a4ed39459010458be20093d7d9bf3b33174ad4fe51cf26ba"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-black-front.webp",
+    "sha256": "273dab2ccd491b654eddbcd61b47b1dd6f643a570d51eef58fef54a11b03d8b3"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-grey-back-480.jpg",
-    "sha256": "66d06519def7d2309b965686afc63b776da14d7c1c15a0c0287d4bbba3c9d8b6"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-grey-back-480.webp",
+    "sha256": "af79a9368e671aeff3f43103262f14cc596a6e28bfd78c2ac3dda5154c088fc5"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-grey-back.jpg",
-    "sha256": "e51156abf82c1b7417809e4a1f1ec195dae18a617051c6c5aba20fbb997e793f"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-grey-back.webp",
+    "sha256": "0dc7f62636370de34d91018ed4979fc2f7ac44545fc1e0d1cb57bfb075433073"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-grey-detail-480.jpg",
-    "sha256": "b75ea3ecfc2a62ca7ff9a3a692519c42ea8dca6027d62145d475548ffe6068e4"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-grey-detail-480.webp",
+    "sha256": "5b1e1d08dcf246c9350c177e61e7089de106bb0d9e8f0e80b9f73b04b4dc334a"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-grey-detail.jpg",
-    "sha256": "d85261f52b23e984c9d85402daa6e56aa039304df13080c9606aeec97df79006"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-grey-detail.webp",
+    "sha256": "8654941a87e30b3bc44a11269e4fff08466cbec547197fa836915498a41d1505"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-grey-front-480.jpg",
-    "sha256": "9fced4698dfec43f03a550069d187f935d96a7189acaa1a2454eaafee31e420a"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-grey-front-480.webp",
+    "sha256": "c20216c5d40347de719805169317c59b47b54a885add3426b87c6551eb61185b"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-grey-front.jpg",
-    "sha256": "4132233c86315968e2cf7ae0ffdc6bf21f13f4ed34b80fbc20e238ab49dad438"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-grey-front.webp",
+    "sha256": "faa10abf0a00616714e6b24fcd17aaf01d950f21e203f7c5d95cc34a61705b2d"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-white-back-480.jpg",
-    "sha256": "cb640187e93b773dfdc72312adeb8a783b80c9f3e4d433fcfe9a896d7bc5f1ab"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-white-back-480.webp",
+    "sha256": "59353f8a4aa1175727e503433db5b93ed3f5bf63799e2bbf0e40a0dc44e29f20"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-white-back.jpg",
-    "sha256": "7b4981e5dc81c9f2b733e3ac029574ff9abb3fb2cbd4fa27d4c470556c1a05e0"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-white-back.webp",
+    "sha256": "1bd6084e42e54048211455826afcc18ed99ca8161861996c1cfca01b79faaba0"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-white-detail-480.jpg",
-    "sha256": "bcd1a391207749aa73b11ed1106c25dbf5a5dec83eedf888372176f1211e61b0"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-white-detail-480.webp",
+    "sha256": "39ce54fd5c4fbf0abbc67f8fb0ad6171dc6c4bee4945a7a6923ce2367350814d"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-white-detail.jpg",
-    "sha256": "0cf00da19e6e3da6d86ffeaff488c153a0f3c8eb340cdc670c212a9b11e46280"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-white-detail.webp",
+    "sha256": "da4b054b8da8ca0c56d6307e9275cc0aeef6ff15881646045b53a4be7e0af1da"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-white-front-480.jpg",
-    "sha256": "b0c7cf098c16f94773c358660d830636d4097af36e22e9e3b44573606a9c3682"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-white-front-480.webp",
+    "sha256": "a3ec056828ad6dc9068370f9f3dd7859b3ff532dd3e8a34c6ab46c98ba28b015"
   },
   {
-    "path": "theme/assets/sf-photo-frame-long-sleeve-white-front.jpg",
-    "sha256": "96c594b7ab1d9887589caeae85064f9b8206cc3880c2770889be18716ba51510"
+    "path": "theme/assets/sf-photo-frame-long-sleeve-white-front.webp",
+    "sha256": "410fc2eb3d061306cd25f3e0d8cb1fe0912770fcde402080a449e718ced628c7"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-black-back-480.jpg",
-    "sha256": "32facc3db4e9e28f520f2eac04783c521f9b5e1e4e239c95f85f021a5a6809c7"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-black-back-480.webp",
+    "sha256": "a4db2f2221dc6c73666bae5bf75915968dab72c11b9af3c5643dab41477c50cf"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-black-back.jpg",
-    "sha256": "23f088e89011cd71e90846454591e14ee9d94a14dbdba459be9faa709b99bffa"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-black-back.webp",
+    "sha256": "7ce34ca5baeecd4c40baf7e10a6e3dae98d93c0a0ef6fb286219092b7f387f86"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-black-detail-480.jpg",
-    "sha256": "b1af378918ef91a547214ff77c88896a0cd2002be954371aac0e9a554659c077"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-black-detail-480.webp",
+    "sha256": "a107bdd19444175e7cc96cb5a5a134fa58fe1dd9de8860d93edd190aa89dccbb"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-black-detail.jpg",
-    "sha256": "27bc0d93bea53ad54ee6fd47bdb0427a8714c0d5b5e6b808105d1eff4191da83"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-black-detail.webp",
+    "sha256": "cfbc9c8e94462b079ea19edae30f12fda99e211cc1e346d92c37567ccd9ebb59"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-black-front-480.jpg",
-    "sha256": "38e7e5b40b0f4759d45e865c9ca4fe34bb4816a981a03b66a32a66c072ad8caa"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-black-front-480.webp",
+    "sha256": "ef7c379693fcfb4810b59218c7b8fb0637a0a7aceb64a2f7bf18219e18b5eac6"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-black-front.jpg",
-    "sha256": "7f9cc0bc455e121460ee80f63e695baec285bc41e496c6d0d4b1cd8203afc7da"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-black-front.webp",
+    "sha256": "73b084e6e6fa245c87f97c621e000f8a52127cbd2757162bd2bc8d6c47d51e18"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-grey-back-480.jpg",
-    "sha256": "2f8ab23ce012fad4a4d07256004dcb916d0fe17dece5eb0be2342f9ffdf031fa"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-grey-back-480.webp",
+    "sha256": "8887d713b1547664e85f196a5472ca5f570490a4dd9f1702c552faec256506e7"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-grey-back.jpg",
-    "sha256": "f6ca8aeae7adf3fcd9a1d8b669719bd0f34eee6e6145b36a3b81b700544c7916"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-grey-back.webp",
+    "sha256": "d2f7641b5ee2ba708f40e4c7a17dd33718cdda07a3dc3bb6efd1acd97908a95a"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-grey-detail-480.jpg",
-    "sha256": "251297f270172676fe7f42b5eacf95b0a7e457fe6c5febc1f8c89d6b40da68e0"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-grey-detail-480.webp",
+    "sha256": "c5aa5db777ab156937cc58966d64880e2e8821044aece5f51e581ef7ead9035a"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-grey-detail.jpg",
-    "sha256": "d24d1e2cfdbfd2de8dc3602298411385b90786982025010d59d9425f39c5b77a"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-grey-detail.webp",
+    "sha256": "f2fa08754704c26fd77c1138de951e41780084dc363320a2efc4de571539b5e5"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-grey-front-480.jpg",
-    "sha256": "da9d95deb5b9e7a9075979b462098102aafc19b8a8377fbff65d388dc1592acc"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-grey-front-480.webp",
+    "sha256": "bc1fb16181e9e4e30166722dc503503dcd19a15f431175131fa6df3d1dd71f1e"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-grey-front.jpg",
-    "sha256": "28e9d74348f1bbd70d938b0905a0d5ae76a61a7ad9c2effc8c736d41a0602ef3"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-grey-front.webp",
+    "sha256": "dbbe5f0627b362b938f3b7389bbe12767c24076f0f9bad7c5f8eaf255d747be5"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-white-back-480.jpg",
-    "sha256": "6324ade4b2c25b23cbcdc39a27ef0e9533cd8ec697ac691b003ee49653e97646"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-white-back-480.webp",
+    "sha256": "8c8607373860802cc8a03cfbca8cd7960c77b644740557cebfb7abebdf2831b3"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-white-back.jpg",
-    "sha256": "f40ef31ebe57d905d7bf5324458a53924481a3636c04b640f3ed22d1ae81f554"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-white-back.webp",
+    "sha256": "1c5f3e95b8252e317f95e03c1217ca3d05f0b95c531c02008e9a712a16fd8095"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-white-detail-480.jpg",
-    "sha256": "5cdb7cbb8e7c55086be24d6a730f17256b0df4aafef8a550ce8af87c0783ef79"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-white-detail-480.webp",
+    "sha256": "2397da4d9b11c41477b0a5b1ac0b4ad4d1c62aae2faee188c75ec8c9dafed3db"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-white-detail.jpg",
-    "sha256": "97d4fc6c3b971af8462bc5e382ad4824a40d7058e6f5e87805295e71d4d639e5"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-white-detail.webp",
+    "sha256": "254ae797900225d901a721ac1ee2e8b991024efbb8253e5346351bd320987613"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-white-front-480.jpg",
-    "sha256": "c033e668c374c6de9341ce6f0cb56f490c183739d172e19fb72aa22211ade9bc"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-white-front-480.webp",
+    "sha256": "422401b8382716348542e0727dc2a4b7f1f73f55f27e8447571b7365baca3b01"
   },
   {
-    "path": "theme/assets/sf-photo-grid-cargo-pant-white-front.jpg",
-    "sha256": "9ae54b59e4314e3bf279495a9cbd8520934869ab685ff58b895d5adf91967f05"
+    "path": "theme/assets/sf-photo-grid-cargo-pant-white-front.webp",
+    "sha256": "62deaca40df557b82d5be97e5c932a5601915757d537e72c3c7eb1b41d581169"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-black-back-480.jpg",
-    "sha256": "831ff1935c6d9a07a4975ddf2e392d80b8883d160b0ef2424c16c49c02f7e44f"
+    "path": "theme/assets/sf-photo-interval-utility-short-black-back-480.webp",
+    "sha256": "dca72b144346571ce227ba5d939213177388b5d5683f0dc33309aed7f31799d1"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-black-back.jpg",
-    "sha256": "5968280a22eee1ccf3bbe0b80d148d6a25b7e88ea19d9827a89805dfe9c6a459"
+    "path": "theme/assets/sf-photo-interval-utility-short-black-back.webp",
+    "sha256": "a0de016012d3898f4c036200b577fd88666d904c67120ca6543997fd5e60ec04"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-black-detail-480.jpg",
-    "sha256": "3a6117040e2147bd07628d74592fd3c510fe0d4dc4fa53768eda683240b1a05a"
+    "path": "theme/assets/sf-photo-interval-utility-short-black-detail-480.webp",
+    "sha256": "456f02260b640d1299e8b015cf046bc53d6162e20b522194a4b91e772c83ae8d"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-black-detail.jpg",
-    "sha256": "bc8f6e7cc96f5a324455ed500ca433803fda8e1444343067a922dbdd68dcb266"
+    "path": "theme/assets/sf-photo-interval-utility-short-black-detail.webp",
+    "sha256": "19bfc6d8b85bb1a81f8f929975ebb4488703260227c01edd1af540592ed2d1b5"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-black-front-480.jpg",
-    "sha256": "a13bce310dde3d9c85db0a50facd1c4301b41a39a5e497d612b24e16f0557232"
+    "path": "theme/assets/sf-photo-interval-utility-short-black-front-480.webp",
+    "sha256": "715c872efb62654181f74d38fc837e87894a0c8c7c72621d6bbcfdbb61b0dc4b"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-black-front.jpg",
-    "sha256": "0eaab8f81f3c2d38fa07907813d90bd5c75e0231825b769ebc5428afd5e02d9d"
+    "path": "theme/assets/sf-photo-interval-utility-short-black-front.webp",
+    "sha256": "4e2555d45f5d683cbbe9f13f2f4f61d6525ab1b4f6c264b14e9e782fc47fb05f"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-grey-back-480.jpg",
-    "sha256": "1e053d8a201860750289fe5a2934990fef5173e0ce50b5028aa8565c932a0f44"
+    "path": "theme/assets/sf-photo-interval-utility-short-grey-back-480.webp",
+    "sha256": "9ace68c016c97cfc294bf58b11f89fc7b43f6a903e6fdb0b99b67a725709c4c3"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-grey-back.jpg",
-    "sha256": "6c39d6ceda288d8058e49c822094e9a9a420ad6b63f7e7b860928306772079ba"
+    "path": "theme/assets/sf-photo-interval-utility-short-grey-back.webp",
+    "sha256": "832be63fb6afd866997491e6858edecdf85949e566c8e0ef5e2d3349b3fe04d1"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-grey-detail-480.jpg",
-    "sha256": "cdc3a70689609bdf71c2531340261fe377a806958ce3ac06701e75c787c40bfe"
+    "path": "theme/assets/sf-photo-interval-utility-short-grey-detail-480.webp",
+    "sha256": "acc361dba2da78c6023d1e699339b8ca6d9e4efe362b2a193e81145447ef6626"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-grey-detail.jpg",
-    "sha256": "ab6acb11cf14f43deb0787fa913475e8f09ddb6d86317856b149f9e6189287cc"
+    "path": "theme/assets/sf-photo-interval-utility-short-grey-detail.webp",
+    "sha256": "d55e1ebda2493c8af69b5167eaf7ca7c36e57bb2b41d11a6061369d65af0ddd7"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-grey-front-480.jpg",
-    "sha256": "97683ef06942c9c57b4a93c825e4e8e77d0dffedba72ff1bfbcc6cd6736d9894"
+    "path": "theme/assets/sf-photo-interval-utility-short-grey-front-480.webp",
+    "sha256": "d0333a7d7c8c8c2f010fa43ddcf9ef04905765f275dff03294fe79ecf878bad9"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-grey-front.jpg",
-    "sha256": "b0b1c4afe1b579f04da0c6222870fe4ac00cc9553da463b486c481053c946e10"
+    "path": "theme/assets/sf-photo-interval-utility-short-grey-front.webp",
+    "sha256": "bfa864d58c5ec7d3e91c96d62ea2a2e8c21f764b9d159ac8ef63c75647334287"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-white-back-480.jpg",
-    "sha256": "0dc30314ec4202530d1b2a0b82fbae6395c398714fa220a1f1ed8dfe70255843"
+    "path": "theme/assets/sf-photo-interval-utility-short-white-back-480.webp",
+    "sha256": "8f8d2a7ed3a967f314e1208d6046b90cbf7d86f28d07f9744dc9e0cb82924a73"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-white-back.jpg",
-    "sha256": "c95653e25d3d7b1824e00f2257b71ac57ffe83700cd5c8240c770ebba662f094"
+    "path": "theme/assets/sf-photo-interval-utility-short-white-back.webp",
+    "sha256": "b7e5588fdb7d197f76df857eb332ea2bc83bc1c4d32869078f31d1b1c23fbc4e"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-white-detail-480.jpg",
-    "sha256": "2f5efe21fb17895b1fe07a04c06b80345b9985fc5d92fb2c9fb704f420301808"
+    "path": "theme/assets/sf-photo-interval-utility-short-white-detail-480.webp",
+    "sha256": "61d2692481eb808fecf3ed46d178e4c15a7537fd302c9d2253fe4382340393e4"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-white-detail.jpg",
-    "sha256": "878568df994ba7970b2e1a1f3c052f61f40d2e87efeb6721fa0608a0e6018230"
+    "path": "theme/assets/sf-photo-interval-utility-short-white-detail.webp",
+    "sha256": "46bd8ebaea7db854bb7ca80b641902709216aacbbcd322fe079231afbd94e45e"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-white-front-480.jpg",
-    "sha256": "ccb040f242ed58a263a17a61162e7d386cac4d3d4ae1b267abd7cc1ee55052d1"
+    "path": "theme/assets/sf-photo-interval-utility-short-white-front-480.webp",
+    "sha256": "d7102c14a2b91f0d14b20f5e911e60f5f0a27da99c04ba0b766a691745bcf75b"
   },
   {
-    "path": "theme/assets/sf-photo-interval-utility-short-white-front.jpg",
-    "sha256": "fa827fb96c264e158188b471839d6b7af528180fb800cde3a1cc8a5087444f87"
+    "path": "theme/assets/sf-photo-interval-utility-short-white-front.webp",
+    "sha256": "fcd229998dc66cc6c630c73f0810f5466d5f3bef71660810df3b794b0bb2e292"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-black-back-480.jpg",
-    "sha256": "d2fa23c46a58c04007919c713bf41a873ed9efdc814580fd60d2c88c94a8fd72"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-black-back-480.webp",
+    "sha256": "7fa43277eae20bcd184e12a5c43e63d9619fb5456ad9150fdc320386e536ec8e"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-black-back.jpg",
-    "sha256": "1c4e775ab618351c44b15fa2555f1104db743e84ce1c590b50d7ea8170458640"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-black-back.webp",
+    "sha256": "dd60b17f77d17fab5e0c1efd5890609c6764df5c90e944b1118502aa91f1837c"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-black-detail-480.jpg",
-    "sha256": "66e67e50370a68752b2e71ad17a49ddcc2fb3b4adb1d7689596a78c87b2a9311"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-black-detail-480.webp",
+    "sha256": "a85ea582592554743c1891a91c973ae34d924ab4a4e06de2b2ec3e1a35860c1c"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-black-detail.jpg",
-    "sha256": "db01444cb555847e0ba2ff84c122f2fa7932da949ad2f23672f20cd4ddd7b30c"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-black-detail.webp",
+    "sha256": "c72c2516e3033623c638ac7cb8be3acbc0fb9ec99def9e5cf6f7d0feb3887a7e"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-black-front-480.jpg",
-    "sha256": "52efbe6d748bb187a62ff9b7dea3b656c68bb9697ad39f03ac10f3fc659123f8"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-black-front-480.webp",
+    "sha256": "b802ca2c9fccec8481cbf222ae6350c2569faadefce595aa13e55ee6eed67025"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-black-front.jpg",
-    "sha256": "55710377fb4343973f42678061b0fe391c6a3593406dbf6b8c258f7e237ffbfb"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-black-front.webp",
+    "sha256": "ea66f8254e31ccd8e362cc023696934fed3722549aba7f774fdcfb80cac8216d"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-grey-back-480.jpg",
-    "sha256": "9b63dc6f0591e07b06bf6377e50e2b705be1814e24bf6c503edcb242fbec1b92"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-grey-back-480.webp",
+    "sha256": "6159635fdc90c52fa5667bf1917f24a45699bf0b9f9458d99d57e1080a95cb81"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-grey-back.jpg",
-    "sha256": "8c0e5d726d3c2d32c922f31f6b6968a5d460c04bcc63f976602b63ee7ab4f3fc"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-grey-back.webp",
+    "sha256": "797ffd72bc54c38586f77ef6d20bb86a010a34e517799f995a36da4f574c2a97"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-grey-detail-480.jpg",
-    "sha256": "9edd3dc94a8a066d7933ee397894b4fc902058d81844836da6bf2372df0c5635"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-grey-detail-480.webp",
+    "sha256": "99567869601393d65c4dafbbb03782dfaa8f47ccdd874c0be6ce15585c8ea9cf"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-grey-detail.jpg",
-    "sha256": "e12b9ca72ce2702989b14f0cf9ce3d0000215e1d6ba441b117018134bb058110"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-grey-detail.webp",
+    "sha256": "f0070900275a4ba8aeaab5ecbf030ad1896a26558df3ad9b852e14e5c8f4cf41"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-grey-front-480.jpg",
-    "sha256": "c67f623c948f233ec85f11fc8464b0b3b03373b01f7a44bc1ecb9f3d036cbef9"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-grey-front-480.webp",
+    "sha256": "9b82c74fe83e4214370afa17262ef6541d3955482f8a4eaaeeaae431fc31f8a4"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-grey-front.jpg",
-    "sha256": "3b89ca1f20becc6e23d53e89a75fbffee7106cc5556cd040a0111cbe59f7868e"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-grey-front.webp",
+    "sha256": "7a51199db814b0b930c492df490cef7d44c415eef45522b067d1b7e03b255344"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-white-back-480.jpg",
-    "sha256": "200a17ed529913dd8f493aaf10cbcb80cd34125813a0a436d6699790a9977012"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-white-back-480.webp",
+    "sha256": "3a93710ec28f80a30e50976cbc6d0c59a22c6609ca94023d234516f54c8b2aae"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-white-back.jpg",
-    "sha256": "5117cdfa712966b843ce42eb44958d6b3e28c54046afda808d08dacf69003cc1"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-white-back.webp",
+    "sha256": "f2aaf17de571d29f2e787c3b4d57e149d52b7660d988093e84021bf8d01767e9"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-white-detail-480.jpg",
-    "sha256": "7b61717e3ee69f384019d28ac23b074c1bbb7a1b5eda23fe44462d27985afd66"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-white-detail-480.webp",
+    "sha256": "ff129d78905723440aa70b165febeb0f6c921b598a51e734a0034d9c76d62ae6"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-white-detail.jpg",
-    "sha256": "533abc0269db287037250e80d026551b80ff301bd1b45848573f837d2b697a70"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-white-detail.webp",
+    "sha256": "f2ab036d31fe339025ef7cc950564a52572fc530d1736cc1ae8802080a2825aa"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-white-front-480.jpg",
-    "sha256": "e3a24c70cbbcacde3348c6cc69702d496e862b950b2da27d3065fa33d9624bf0"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-white-front-480.webp",
+    "sha256": "66532f6dcd1a69160030ecdf9ecf7c832b8ab9ba06401e103b27a0b4981bb627"
   },
   {
-    "path": "theme/assets/sf-photo-offset-heavy-tee-white-front.jpg",
-    "sha256": "0e2ec98c7c5f7cbf4599a5172ddc0abc4df5b02c693e2ca7f6fd6662025696f5"
+    "path": "theme/assets/sf-photo-offset-heavy-tee-white-front.webp",
+    "sha256": "4b79b2472c0e38e542ad7634a9d489d8fa8e660ff083ba027d26fe2a72c86ade"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-black-back-480.jpg",
-    "sha256": "188ec37a6e71af566027d6a70fd995eb0aeb37496afb95820c03a3f58e45d2cc"
+    "path": "theme/assets/sf-photo-plane-box-tee-black-back-480.webp",
+    "sha256": "9f00a96d36a964cdb8af05759acc353f232f4f60deb95b110bd173546eb99e6f"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-black-back.jpg",
-    "sha256": "7c53d85c27d59c3a8c28c25c56cab00bb74f8399361913f62bfb3fbc8ea73c1f"
+    "path": "theme/assets/sf-photo-plane-box-tee-black-back.webp",
+    "sha256": "2fbb1592d5495790a6cb80840d180690b1a245b628e640bfc1fec3abe92abac0"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-black-detail-480.jpg",
-    "sha256": "e318962e6466d5c36cd9977cc9e60880229f13056291ccd554c23aae5476ad28"
+    "path": "theme/assets/sf-photo-plane-box-tee-black-detail-480.webp",
+    "sha256": "5feb39cd34f4ee5bd385c57e7bc5c03c73177d6ff53fd314deffcc08e14aa7ae"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-black-detail.jpg",
-    "sha256": "9c9f0752bcbef697800a9e88c59b5d5d81ac5cb00df80e817abad7757986fee3"
+    "path": "theme/assets/sf-photo-plane-box-tee-black-detail.webp",
+    "sha256": "b014357ef8d150f9b91fa2dce76aa97586004bafa3615aa364483c79c6792ac6"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-black-front-480.jpg",
-    "sha256": "0dc2216e1eb5f9d5f4ffc0bb00fa1d1fb6cc30e3b555c8b19f7202a9ceee6cd1"
+    "path": "theme/assets/sf-photo-plane-box-tee-black-front-480.webp",
+    "sha256": "de11b6057338b44b8a05211266c13e1ddf8c0d4a66c4c7b6a467626d2596f620"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-black-front.jpg",
-    "sha256": "a83548b206d70df28a70fca510275d28ca42a95a542e232791d43d5163825727"
+    "path": "theme/assets/sf-photo-plane-box-tee-black-front.webp",
+    "sha256": "625ae9a25ea1115385a1f980ed5918a406706e186d0054c58a9288463b3762db"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-grey-back-480.jpg",
-    "sha256": "3fca6e0411ba9c7b9cb5362a7727b6ca6110d69b2f97f817f58ce3fc98f4e19c"
+    "path": "theme/assets/sf-photo-plane-box-tee-grey-back-480.webp",
+    "sha256": "c1e333707cafeba48eec7ef53625a0d59e28bda18e7e10ad89e23abc38931006"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-grey-back.jpg",
-    "sha256": "57302fbbbf46f7995022d25b9cfc2f0280992ceaba53a3176fe347521106577c"
+    "path": "theme/assets/sf-photo-plane-box-tee-grey-back.webp",
+    "sha256": "e87b9f04424e152c73c3838f90e0c047acf3d4fce5335afdb5a188fef7505cef"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-grey-detail-480.jpg",
-    "sha256": "bcd48ff81142185bc468d48adb6d1ab52b87f92133319385bad973313eb9904e"
+    "path": "theme/assets/sf-photo-plane-box-tee-grey-detail-480.webp",
+    "sha256": "edca14d9e325a61a2851c692ab0068379c028051e726521681e7dad022e7d5df"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-grey-detail.jpg",
-    "sha256": "32e9c136ef8c05c79299eb1df3b15b26bdfa5f1f2c324d303f321e9a9f13036d"
+    "path": "theme/assets/sf-photo-plane-box-tee-grey-detail.webp",
+    "sha256": "24c36334e205929ae8e3efd676904dc7be1750b7e23b0686e6bc5176e15539cc"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-grey-front-480.jpg",
-    "sha256": "fe11d443ab429a96ef553e6458648888f2418e35ff5d78a2c90e8befc33ef4f2"
+    "path": "theme/assets/sf-photo-plane-box-tee-grey-front-480.webp",
+    "sha256": "5559eb6d26c06ca9ad1c6d7832e614cf1660f058e6e5cf780d00ce37dcd2b13f"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-grey-front.jpg",
-    "sha256": "09cbe8e9939422700f63a8664b6cc60743590ec15d923e97efc8d46d73251585"
+    "path": "theme/assets/sf-photo-plane-box-tee-grey-front.webp",
+    "sha256": "58e2557fe9b064296ed0cb96cef54bea2f22573356797da3bcd1a5aabf19412b"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-white-back-480.jpg",
-    "sha256": "f781dadc70a8af477e06ba55d779ed2a5745f50f93cf72f4066740339277ac98"
+    "path": "theme/assets/sf-photo-plane-box-tee-white-back-480.webp",
+    "sha256": "78a4b0d78c4841070ee8ace5cdaf6efa98f6cbd90f28e9b043a54b0eeb47e17b"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-white-back.jpg",
-    "sha256": "1899b1062fa95a4403b97085033c2aed8b204660c7af0816b5636f396ef6611d"
+    "path": "theme/assets/sf-photo-plane-box-tee-white-back.webp",
+    "sha256": "0dbbb1ecc620f65f6e386de3ff21b828febc459fbdc729c7dc71e4bc95216309"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-white-detail-480.jpg",
-    "sha256": "359de911c5cbacd10ba5f49fe6fcc33231b01b0e404ea49c9d1c3582157f9740"
+    "path": "theme/assets/sf-photo-plane-box-tee-white-detail-480.webp",
+    "sha256": "f6b81dfbefa33cd34a45c2a670449c960fb2580f16acf203fb4c68409d63c008"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-white-detail.jpg",
-    "sha256": "cfb656408644b4e614332186e9ad5643ce3e87cb736de3eef5524fcb85535e84"
+    "path": "theme/assets/sf-photo-plane-box-tee-white-detail.webp",
+    "sha256": "5a1c2e8a8b0c7d44548192c4581c124e08367d022416c18d1a56a78c20379811"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-white-front-480.jpg",
-    "sha256": "0b10c5eeb816bf2e95c0a2e047e67dd65022571a5601f8119eeeddd98fd60da9"
+    "path": "theme/assets/sf-photo-plane-box-tee-white-front-480.webp",
+    "sha256": "a0add350a277b17c36f91d66904ea64f62013a2937a1a0fbf69f3236fb1bf844"
   },
   {
-    "path": "theme/assets/sf-photo-plane-box-tee-white-front.jpg",
-    "sha256": "3cd2c14bd87b8804a6a5b61ee38a136885c4d30b9ef99977f2d330ba7e7961f4"
+    "path": "theme/assets/sf-photo-plane-box-tee-white-front.webp",
+    "sha256": "20e1550a58c74474a21f37f033bf5df576ea45f934b291cb40e4332c72cacb2f"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-black-back-480.jpg",
-    "sha256": "95bc217f31555ff5e7c0988861afeb244dec296e9f8a0d1fc1a433cfbdcda79d"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-black-back-480.webp",
+    "sha256": "62e8e4d92541f2c545b5cab3094ba2d0cecf9e58cd168933e06d40d7a701c5c3"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-black-back.jpg",
-    "sha256": "f10c5a2b280c88a19104cb932b445f92709ab1b9e6171427089f3c117f1b057b"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-black-back.webp",
+    "sha256": "1a7b5ef197e25dadedd13f35c763ea816604a4d624262e293e8a47479c0b42e4"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-black-detail-480.jpg",
-    "sha256": "a6d8bf1512f922dcf041f0892e95fbe8f2a9e5a4d119ea3ce3c42d5d587121ef"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-black-detail-480.webp",
+    "sha256": "2cb4270ed9a53970dbeeee3d8bdac90d8b94efaed4982b5eef281af1bd9bc834"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-black-detail.jpg",
-    "sha256": "6999f602771d0ce0af6daff66394d09cbb7b052f8194aaf7c26e668fe0bba386"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-black-detail.webp",
+    "sha256": "51854a5b4eed8efe7254d6b7ba79fc2d923a60246c8750674bca2af1b49d95ae"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-black-front-480.jpg",
-    "sha256": "9e099da2b8d266f9b2bb7d1c869c8046769404dc1f6262354643224bb38063da"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-black-front-480.webp",
+    "sha256": "d2b6b39dcecb80ec41e83ae3c2171bd946955cb7ab5add08bd8d95c904f3457a"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-black-front.jpg",
-    "sha256": "3ab17d143a0c85f7f2e08716b1309d5e4c938fd33d7ab6387c8198d77f7e2595"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-black-front.webp",
+    "sha256": "d1bad0643a54bc3c41889f52d8b9bdc2a4531010c6356cd9b6f041b64ab2359c"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-grey-back-480.jpg",
-    "sha256": "511352fafd4139f39a11bf9a49fbb7843fcff662882c2a88c7cf0ef6c0de2308"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-grey-back-480.webp",
+    "sha256": "dc128b223f0d21c1ba2479250f74b39768af2bdea02936cb75f55ebab2195945"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-grey-back.jpg",
-    "sha256": "a8c777ae6b4989a07a0f47e31563d89ee0f0b4deac109762655185e53d7fc1a0"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-grey-back.webp",
+    "sha256": "25d8371bbcd7b6a8f419ea77ffcbd63ab11d5fc2cb54f19227194be32bcac86c"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-grey-detail-480.jpg",
-    "sha256": "a23151e0a2f3d6bd86c7b81a5b2f6f91a4988a10087bba2a4da5dd953db2cc3a"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-grey-detail-480.webp",
+    "sha256": "8c65086d13a4d38553856b1f773eb6ced0023ca580bb2397a53153bc014a59f6"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-grey-detail.jpg",
-    "sha256": "212e495bf9e08258cfd38ca92459c962c3a8f30b74bf3aff05a113451fc9b086"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-grey-detail.webp",
+    "sha256": "0aefca53f39d83470084edab517d00c3ff0b9116492391bbe962f3acefa14081"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-grey-front-480.jpg",
-    "sha256": "4b12e56c2ed619424cde572225ebd206e067a2d80cafa2c05bb9e6b6e927c26a"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-grey-front-480.webp",
+    "sha256": "2637b71db55492023e0d98713df86d248f7cea32ea8b43565cc37bd88545d18e"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-grey-front.jpg",
-    "sha256": "841751e0ecb4ef3e6cf2f4f4e93d2b9ea4ae6f75d3ad68a2d26b9af4c6abb7d8"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-grey-front.webp",
+    "sha256": "9ae6a185a5f3b123ac6f4fb536b5049f0cce11da43e1fc99916e0e6ecfb04827"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-white-back-480.jpg",
-    "sha256": "ff57ce8907a13b9d2928f8bbf9fa0a7923727ccc30a8c15bdd5339e62227ba32"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-white-back-480.webp",
+    "sha256": "d7b5407b9c105803f60c531e9f9b8275bc6526de146838d1ca1262428e3a7466"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-white-back.jpg",
-    "sha256": "347540dbf0205261935136454e15adb5d89a5dc664a76b7ed206e128fffe4c82"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-white-back.webp",
+    "sha256": "e64de68f77078b4fbd09ab3ee6e1d346147ada04962000b7136717bc3aed42df"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-white-detail-480.jpg",
-    "sha256": "492cba23410882fd635f6519a73f08d63e3d6a51f2fa1d91c8c67ad37ecdea76"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-white-detail-480.webp",
+    "sha256": "c31baa58be596dca478f8d0cad74d4b4493d824f81340613acb032b642a3903f"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-white-detail.jpg",
-    "sha256": "b5b09891ad957df728faafcde88d76fe25253f4a1a2ad65bc2517b59cbb2416b"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-white-detail.webp",
+    "sha256": "3f08f69333e270b8156af483a53e5b04e3f1ff7e1d99830eade4180c9f1c0f11"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-white-front-480.jpg",
-    "sha256": "bc01bef75e1d736c35cd29a73d775b42724bbe92780d23408df1be0815a5e004"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-white-front-480.webp",
+    "sha256": "e052fa3a76fde45eaf17f98e038101bcb66e16308f0303bb175e627f80919392"
   },
   {
-    "path": "theme/assets/sf-photo-shell-utility-jacket-white-front.jpg",
-    "sha256": "da3e71d0a1dd8af78cef7ea0318c94b8debd7c2af15c00a5a87a79dd892bee2f"
+    "path": "theme/assets/sf-photo-shell-utility-jacket-white-front.webp",
+    "sha256": "f77599e91157e086ed310380a231399614838608b19d46804ebe32eb32f20f92"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-black-back-480.jpg",
-    "sha256": "d116513f78809d739d81213fe84c5efc4562b72eaeafe0cc13fb0e5d8e0841e7"
+    "path": "theme/assets/sf-photo-structure-hoodie-black-back-480.webp",
+    "sha256": "d5785257cf3a75cd57bbd0e987e9f3f12752bf40047e3df035b4cdaaa30056a8"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-black-back.jpg",
-    "sha256": "e61ac87b607d413b8b30acb36fa10d97d673bc3ef64a049ce6d57968b56e605b"
+    "path": "theme/assets/sf-photo-structure-hoodie-black-back.webp",
+    "sha256": "64f09974d034b3266b50f103391afbef6aefbe20da28194a5ef00328d881ebc3"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-black-detail-480.jpg",
-    "sha256": "933f30a9cb084b4784594c706e41c4821a7f793f824fb62bbc459b2c6e8c6816"
+    "path": "theme/assets/sf-photo-structure-hoodie-black-detail-480.webp",
+    "sha256": "c4597f13f016b21b0a8d01bf2d760f7eff05d8237ce713e510d38755ba0f855b"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-black-detail.jpg",
-    "sha256": "063107531b3aa8f626dc098bb0db1f3e6c13ae39e577e8f494112837dc07a3dc"
+    "path": "theme/assets/sf-photo-structure-hoodie-black-detail.webp",
+    "sha256": "f5b1c37ca1d25b16a560a263fb53bed178a7d2458516e09f7c2c5d0abe3a6165"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-black-front-480.jpg",
-    "sha256": "6d89ec88f04a3fa2dc10f9332c041ec75d5d8d6fc1d4f66ba226b8fe1187923a"
+    "path": "theme/assets/sf-photo-structure-hoodie-black-front-480.webp",
+    "sha256": "7af6c80ef6e0ffd5bc6a999beca747195e627139399d72f0b1339dc671be74ef"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-black-front.jpg",
-    "sha256": "0c5eea14ae37975de7045f7a89fb1c053a3eecfacdc41956adf7e601c75966b5"
+    "path": "theme/assets/sf-photo-structure-hoodie-black-front.webp",
+    "sha256": "a866066d7571e05b52b2ebb1d7456ca2ea984cea2abee73a16bee94b151f8898"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-grey-back-480.jpg",
-    "sha256": "137ac255328cba22e5d0facc6e32862a534c6b0e2a3d37c2e4624a167a2c131d"
+    "path": "theme/assets/sf-photo-structure-hoodie-grey-back-480.webp",
+    "sha256": "0ab4692b30ed21815bf7cd54004b4db0eb0e2303dbdddc0bbd443415a655eb5a"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-grey-back.jpg",
-    "sha256": "eaf3ada121e299321a8feb110ce562260704adbca4592a97ea1c4b4999fcbd11"
+    "path": "theme/assets/sf-photo-structure-hoodie-grey-back.webp",
+    "sha256": "4a406513d42e4cd32de66f19c517c27872dbddefd566055b05d3362ecb302112"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-grey-detail-480.jpg",
-    "sha256": "9085a3e9c7d4c9f88c2b7e8fd7877d0f6e1a2c09dfa69fab94164b68df48a4fb"
+    "path": "theme/assets/sf-photo-structure-hoodie-grey-detail-480.webp",
+    "sha256": "6905fd559e3e7096237d405be83528347cc67fceae6d8d5876a647442c2184f1"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-grey-detail.jpg",
-    "sha256": "da977bf3d49f1c9efeb37f422799d6d9b18fbb33f12203a6c0f0075b972389fd"
+    "path": "theme/assets/sf-photo-structure-hoodie-grey-detail.webp",
+    "sha256": "fbf97b3871893e34977ca61bda2f93892a35e8757bcef8a49f7391a5a89be18e"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-grey-front-480.jpg",
-    "sha256": "9048a1992563b04947e5adf8e566cf3cc3988da4bcb1b37c233705ddb0ccaeb9"
+    "path": "theme/assets/sf-photo-structure-hoodie-grey-front-480.webp",
+    "sha256": "9138e3d38d09de959fddf27dab7186154470382511efa96a8d3fbc708f0fa1ae"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-grey-front.jpg",
-    "sha256": "71f6285356328e67e612a4443a9a692f960a20830fc48508847a36b28d1d0d65"
+    "path": "theme/assets/sf-photo-structure-hoodie-grey-front.webp",
+    "sha256": "9f67533d0edbe6c2b1c5cf1dfaafeead2cda771bd1f7e4011441be1dfe7415c3"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-white-back-480.jpg",
-    "sha256": "3ccb592146b93409b849ff0363b0425ad111b2ebbaaa9026e00c9b481f4d5916"
+    "path": "theme/assets/sf-photo-structure-hoodie-white-back-480.webp",
+    "sha256": "e4b21a523c99b204980ec4ec793208e04a1a7cf8021f6f267c5134dbda8cfb74"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-white-back.jpg",
-    "sha256": "2f552c0ef2087bae9374fb26edc2306da51560423cb3a064fc62b6289d3a29ca"
+    "path": "theme/assets/sf-photo-structure-hoodie-white-back.webp",
+    "sha256": "9f3fad305e47c93c5c791572621e9091e0192801acfb1bf384f2d7607da64a06"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-white-detail-480.jpg",
-    "sha256": "5c0234d1efaa07227751edf9ceed5981c78adf7cd9537b69966696cd3dca8d6d"
+    "path": "theme/assets/sf-photo-structure-hoodie-white-detail-480.webp",
+    "sha256": "210216e897aad41c8696eb7b67d0abfe929f243dc72c9e7410bc997cefc8a426"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-white-detail.jpg",
-    "sha256": "c8e73d1a0770f40c6a5685b8e8cd6551f8a6099232670ddf959d6bf28b890d97"
+    "path": "theme/assets/sf-photo-structure-hoodie-white-detail.webp",
+    "sha256": "d0af7dfc558c1925f529878c4034dfa8153ea2ef226481ced81a5652ba4edf88"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-white-front-480.jpg",
-    "sha256": "ea333243df21aac99c32f11b671f6d1f4de2c29054f04022e7d25e047f570853"
+    "path": "theme/assets/sf-photo-structure-hoodie-white-front-480.webp",
+    "sha256": "0d8217abcd616bb8f87a08e6f71ee7985133534fc46de862871606c46ab35989"
   },
   {
-    "path": "theme/assets/sf-photo-structure-hoodie-white-front.jpg",
-    "sha256": "30db517e6fbf9cc4312cdc4362703374a2e457dace080770b6fea7ffadc411e8"
+    "path": "theme/assets/sf-photo-structure-hoodie-white-front.webp",
+    "sha256": "b239558dd868d10b4d509e77f5ecae3a9ae7de182b6d956dcea354f13b06ffca"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-black-back-480.jpg",
-    "sha256": "1b9e7f591d91003965c2880ea8df35d6ec53ac466cfd413f7b41a19ee4b79c74"
+    "path": "theme/assets/sf-photo-transit-work-jacket-black-back-480.webp",
+    "sha256": "b0c4a1068334876e0278999270e63092d76ff3d4fa5bd97dcc24eab30ceca297"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-black-back.jpg",
-    "sha256": "1766d27fd442564396db8444954b2eeca35bf17a5d156b0f52ab117ada291383"
+    "path": "theme/assets/sf-photo-transit-work-jacket-black-back.webp",
+    "sha256": "a632ab4e0f7bddd4931c8b0a63abb3e46e1fe822a45516e3f815081770e64c77"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-black-detail-480.jpg",
-    "sha256": "16243a1b6e923cbadad61f236882e50cd9da8e9a7777943dea9c294271637773"
+    "path": "theme/assets/sf-photo-transit-work-jacket-black-detail-480.webp",
+    "sha256": "e5893506491666beaa0fddf05e29dd17d09c76303402ba2e4eac13766e71ebc2"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-black-detail.jpg",
-    "sha256": "cefa76c9176da780a9e92938187006a06e04d4236c7fa0a925d48c2c67ac6d0a"
+    "path": "theme/assets/sf-photo-transit-work-jacket-black-detail.webp",
+    "sha256": "09f9dd024c8fc194140e26603ad880d63ca3b1df3850b70fe44f7eda33c94ccc"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-black-front-480.jpg",
-    "sha256": "679502bad72780499e6e7f8ec70cb7852014418c76449ca426755e684babd11b"
+    "path": "theme/assets/sf-photo-transit-work-jacket-black-front-480.webp",
+    "sha256": "b29786dc5ec36a907e2b56ddc15fc5106a765168f3e38864bd25f9ed6a180080"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-black-front.jpg",
-    "sha256": "74f6064a503d74e5b2d3a46fb43322f9213666d7c2d907dd1577b1fff9cc3ddc"
+    "path": "theme/assets/sf-photo-transit-work-jacket-black-front.webp",
+    "sha256": "828ed46bd768674e4ba5a73ef598c0cd5cb8ad89ca2359ae7dd7d242c85ac6cb"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-grey-back-480.jpg",
-    "sha256": "e6c05cbe081a267d9084cc4616e0e31bbccfc9bd8363a0e2f66d98a799999b32"
+    "path": "theme/assets/sf-photo-transit-work-jacket-grey-back-480.webp",
+    "sha256": "c5522fdf0fbb2f5477edff59b50a207012794f5995243e805000a48f63235d31"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-grey-back.jpg",
-    "sha256": "781cdd866692d96681239c97ab007700f7bf889801cc2a7a46503ad121412869"
+    "path": "theme/assets/sf-photo-transit-work-jacket-grey-back.webp",
+    "sha256": "cb30eb118c0b9f7524aa2d2f9e39255c315422111b58720508355ddce0bc313b"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-grey-detail-480.jpg",
-    "sha256": "d09ab65e31bc4f10366f7246bedb6cc52f3592bb24c29eff9be7f7327cc44389"
+    "path": "theme/assets/sf-photo-transit-work-jacket-grey-detail-480.webp",
+    "sha256": "0ac67d489655baeadf166cfce59daedcc4c5477a60d015ff95077246dc223d05"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-grey-detail.jpg",
-    "sha256": "c9b7dc5bf9a09eda743b3596927719a7b839757f955090dcb683abf018d6b538"
+    "path": "theme/assets/sf-photo-transit-work-jacket-grey-detail.webp",
+    "sha256": "1045f782f41cc48e828d04c1e32b492bdd1d7390ef9e7403f8cb72bc344eeece"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-grey-front-480.jpg",
-    "sha256": "9f0e92dfcf1b1116cf54b90dbfbeaceb6974a1da6714979da550baafc7478bf4"
+    "path": "theme/assets/sf-photo-transit-work-jacket-grey-front-480.webp",
+    "sha256": "02591b8960bc4624d6d9fd536e50b7e8696b146e2e1e7b9e31dbb73331c3d4a5"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-grey-front.jpg",
-    "sha256": "5740ed4b3d3c5837be4a4f726fec7583d9799cb58cb8dcaaa7fb021a03af53e1"
+    "path": "theme/assets/sf-photo-transit-work-jacket-grey-front.webp",
+    "sha256": "2042f380ccafdcf892824b4d4f97c95c1354070638e79475f1f37afc632d6597"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-white-back-480.jpg",
-    "sha256": "ac675df643b46c76ecb099ba18630f476d4b6bdfb0d9a8c15776338d9f6616d1"
+    "path": "theme/assets/sf-photo-transit-work-jacket-white-back-480.webp",
+    "sha256": "338e82461840d6d357f48c2a01ebd9fa7c09fcb992eb77f89be8a7af1a598a22"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-white-back.jpg",
-    "sha256": "6ed71c27a2b05f5f1094fe10b8c0da3c2364925eb4dd77e0b50960e8b8554c29"
+    "path": "theme/assets/sf-photo-transit-work-jacket-white-back.webp",
+    "sha256": "4ff5fa42e661227a92c8d3f0312db8c9e050ef49b67ef64f303d6e3c26da2f14"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-white-detail-480.jpg",
-    "sha256": "1f85b753b9242d946ad79b11510f375cc7d91731748668ca5d3a07e97bacb889"
+    "path": "theme/assets/sf-photo-transit-work-jacket-white-detail-480.webp",
+    "sha256": "bbcb85ac2cd5fb206b66ac2149101a91c13ef425a68be67515be509e8d12c024"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-white-detail.jpg",
-    "sha256": "f78d00034a6664458b5ae0e2b4abbfdeb1e0413f99875cfadf4282c9079c62f8"
+    "path": "theme/assets/sf-photo-transit-work-jacket-white-detail.webp",
+    "sha256": "ba27a722f58ae4967a3860f0b999968051b0544e42e51fb4e8aff1302746fc96"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-white-front-480.jpg",
-    "sha256": "dd66835797feab9751f7b565aa7225d265b842301fbe99740556ab3f38a77688"
+    "path": "theme/assets/sf-photo-transit-work-jacket-white-front-480.webp",
+    "sha256": "46ae75a92087e7ab2416c1d931bc9855ce86f27ef8305b5abc9860c8e179d022"
   },
   {
-    "path": "theme/assets/sf-photo-transit-work-jacket-white-front.jpg",
-    "sha256": "6aa5a9e1231b7b6be7655c984e2b4b0e2cc5acd0d10ce179637982edaaa4e916"
+    "path": "theme/assets/sf-photo-transit-work-jacket-white-front.webp",
+    "sha256": "8116863c0ce9b80b2f139911e1ff802dfaa8ab68b8ccf7621383e59c55bddb9b"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-black-back-480.jpg",
-    "sha256": "6b959540cbd28517fe96be52a3fe8ccfa68c4084b22cb4a0fd5c2d86e129c590"
+    "path": "theme/assets/sf-photo-volume-pullover-black-back-480.webp",
+    "sha256": "24bba794a2aa4e5726c4803240cd4958968473cdf75c544317a52998f732c29c"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-black-back.jpg",
-    "sha256": "c393d73ee164973158970472f303b475f81747b4bb8dc8eb99bd1d71239f0271"
+    "path": "theme/assets/sf-photo-volume-pullover-black-back.webp",
+    "sha256": "e94300d6c7804448fb020f191621bd2f10a067f6aefb2c41084afb9edd63841b"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-black-detail-480.jpg",
-    "sha256": "c2d32d5bd972c3a06f349dcd09e9bf9907f0ac697554c14221935223f842f334"
+    "path": "theme/assets/sf-photo-volume-pullover-black-detail-480.webp",
+    "sha256": "71e8eecbd5fc30d9e242ead4d4cf2c4e0eeb8f7f522e6557667dea977935d95a"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-black-detail.jpg",
-    "sha256": "88abc5d01005f200f043914914ed7c81347b819e3d4e5c0799383c336cfee07a"
+    "path": "theme/assets/sf-photo-volume-pullover-black-detail.webp",
+    "sha256": "134e3a54322b0bd34a8a590707adee9fd47225edc8589ef646335727de97a251"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-black-front-480.jpg",
-    "sha256": "f4de713967271311b03fdf9ec31d301f2c103f346eaf16ea93c14c1512e85090"
+    "path": "theme/assets/sf-photo-volume-pullover-black-front-480.webp",
+    "sha256": "3e6696c0230662efb9a506893cfed7b32654280324e2ff0a0c6e344cef52b834"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-black-front.jpg",
-    "sha256": "53d2be4945e4151b7088127f2cba8799cd9613a8975834cd0c72b872aaddcec4"
+    "path": "theme/assets/sf-photo-volume-pullover-black-front.webp",
+    "sha256": "d41463e16c753c3d63781585b71581b6e7fb508c4dfc0d86b9172e6af2131694"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-grey-back-480.jpg",
-    "sha256": "5f6fb3703ec5428aeab243e4ca4591376afd2f9a762a721531bb8ee94ebd2203"
+    "path": "theme/assets/sf-photo-volume-pullover-grey-back-480.webp",
+    "sha256": "9dd4f61e62db086f2023e730d3b5b1b13cea88ab291c6ef195a0c44aab48d2e5"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-grey-back.jpg",
-    "sha256": "de5813155aeb9e251fc71b26aa9aabff9a830773cd8d47175778e531be406b56"
+    "path": "theme/assets/sf-photo-volume-pullover-grey-back.webp",
+    "sha256": "ccd6ab653734cfb0ca54b62ea7fac969f3827ccd7d00f0539a12dd9876594449"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-grey-detail-480.jpg",
-    "sha256": "dd4538c4afe64984472f1eaedfde5511a724d5f7da26c6b9fc289e7ad9dce392"
+    "path": "theme/assets/sf-photo-volume-pullover-grey-detail-480.webp",
+    "sha256": "02bdbb0f1e3bd9a60f65a80ffa2b1408676f4bc3a9af62e0d878fe68cc002f4c"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-grey-detail.jpg",
-    "sha256": "cc532d32988adcbe2848d70c57b7e8407aab504fe87fc5d18238a3df0a332c49"
+    "path": "theme/assets/sf-photo-volume-pullover-grey-detail.webp",
+    "sha256": "c0a57d4c75e6568168ca617b29ba2ef2ce605368e7b4defc3bc5bc5a2adcc07b"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-grey-front-480.jpg",
-    "sha256": "680fa6abe38440afbbda60e03c9e573a30016cce84adbefc80404abdcb452f0b"
+    "path": "theme/assets/sf-photo-volume-pullover-grey-front-480.webp",
+    "sha256": "9c9cfaa29e9f2aba02b781e970b0f67d04d64d73f84aedf23037f44cdc81b239"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-grey-front.jpg",
-    "sha256": "3f0e1be586b499c186a3d48f5a7a14c018863a3a615a182d71498e85f5a80c09"
+    "path": "theme/assets/sf-photo-volume-pullover-grey-front.webp",
+    "sha256": "6ffdf137069cc08349c1e4c2cbe73f906505606068a64e68467e7b649638dfb5"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-white-back-480.jpg",
-    "sha256": "678c0bbb920b29afba23a733fc5894be5ba4d5a94cd2bb3076d458c7fcbe4727"
+    "path": "theme/assets/sf-photo-volume-pullover-white-back-480.webp",
+    "sha256": "2affe4ae9e9b6ee949f50a90ad4a2fc9d486b0ba6837a1b5744cbdff62035862"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-white-back.jpg",
-    "sha256": "f15a748bf41ac45428322959c68d6f4bd01f2fbe2065c2ae1ea3a3b7ac4aad7d"
+    "path": "theme/assets/sf-photo-volume-pullover-white-back.webp",
+    "sha256": "cc7d2fd4e610b7cd3c687a1cc0e2a705b6fd4ab921783de0bcab0f16d0ef4b49"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-white-detail-480.jpg",
-    "sha256": "1b27de6a49c5828793c10eb5329c7194d58c811576f665d97094902a5e448a63"
+    "path": "theme/assets/sf-photo-volume-pullover-white-detail-480.webp",
+    "sha256": "fe15b010e2b6ac07bf766b300b3cf7d12f07269f7a516a45932e7fc276141474"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-white-detail.jpg",
-    "sha256": "4c345b3a6ac187dc1d974d1268b5858a11c79dc675c8b012f64dc3ba5da4d3b1"
+    "path": "theme/assets/sf-photo-volume-pullover-white-detail.webp",
+    "sha256": "a7cfc076752bd3d2b2b8cdfc1abacd934469d97e4f959fab310a2162c487d310"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-white-front-480.jpg",
-    "sha256": "0d5b4a6b5adf04c34586a6827a016d810fb60404a2c6214d5d53bde5210ae776"
+    "path": "theme/assets/sf-photo-volume-pullover-white-front-480.webp",
+    "sha256": "d7d126f309c204bd91109c40c6da98b619965c367fb5644743871e784517eb81"
   },
   {
-    "path": "theme/assets/sf-photo-volume-pullover-white-front.jpg",
-    "sha256": "0ec25d7cbc2772d71c1d1bcc9ed579ad820514627b0f45e45adff3dcb3993ffe"
+    "path": "theme/assets/sf-photo-volume-pullover-white-front.webp",
+    "sha256": "03fa3b58bfe95d11036d7e9b3e0e2156ab837ceab01edffbe3ffad11fe952ab6"
   },
   {
     "path": "theme/assets/share.js",
@@ -2516,32 +2516,32 @@
     "sha256": "cee4f6a77195239d8b5570086a8107dff20eb14e548b964f17f49e209b957c27"
   },
   {
-    "path": "theme/assets/sideform-campaign-branded-750.jpg",
-    "sha256": "ade6036ece1dd3fcd174206caa182c9e71a2713dbcbc936d04588cc1a2fbf540"
+    "path": "theme/assets/sideform-campaign-branded-750.webp",
+    "sha256": "d42b102c4de6e757872dd748a9e75c32d1d22bcfe5cef079622069d8b82d003c"
   },
   {
-    "path": "theme/assets/sideform-campaign-branded.jpg",
-    "sha256": "48607e2321815aca1e34927a3f7f5f34b4cbb3be3d47216043174d2ed7ef44c2"
+    "path": "theme/assets/sideform-campaign-branded.webp",
+    "sha256": "1bc9cc6ab32340ee0154e9e342e0e0234c8e3b3a23655a030e1b4718cbf35e75"
   },
   {
-    "path": "theme/assets/sideform-campaign.png",
-    "sha256": "79d97a39476bf84615105f3e6848ce25ed628a2edb39c07f5dac5349e530be40"
+    "path": "theme/assets/sideform-campaign.webp",
+    "sha256": "4db8dd339cbcbb22e781d0e918e4a46481d1f1e72b2eaa729aaf035fd04ff20f"
   },
   {
     "path": "theme/assets/sideform-favicon.svg",
     "sha256": "d1874499d4d977c83418b461de74fa6dbd1bcdc0b229d941187bd7cfcb0b8231"
   },
   {
-    "path": "theme/assets/sideform-symbol.png",
-    "sha256": "53550ad894ccdbaa11c85fcbd9af3497e5e8e94c1afaf5aec7992c39e37b6152"
+    "path": "theme/assets/sideform-symbol.webp",
+    "sha256": "cc18e654d5f80cc004b4e7363f92b6f55e5ca49f88572da5998e739a175ba8d8"
   },
   {
     "path": "theme/assets/sideform.css",
-    "sha256": "9b3361e013285d916898350dd9db649b66f12059a8147b883b051fa762391e61"
+    "sha256": "63caf2f8ca07bfdaee14c5cc91917160d482f36c4b8989b4fd2c5046ca9d3787"
   },
   {
     "path": "theme/assets/sideform.js",
-    "sha256": "050a4be8309d75f3e45f896d51a2712fd5eec1964b808d0a4524f5e9d652393a"
+    "sha256": "179ef19419867ec0959f6f5b3dc7eeb5696aaa5d0c7ab59c08a36147da5b4082"
   },
   {
     "path": "theme/assets/sparkle.gif",
@@ -2977,11 +2977,11 @@
   },
   {
     "path": "theme/sections/sf-campaign.liquid",
-    "sha256": "452988bb005c233de59a2a79061fb7ade4404faaccd4a20b4072446d24d6604f"
+    "sha256": "d39887cde02de7ec6dee4f903b6f87a30cff1349b576d1db71b85a0ccf11c3a7"
   },
   {
     "path": "theme/sections/sf-editorial.liquid",
-    "sha256": "7440cfa9fb29569f9d4bbfdb9eeab73bda9487c6ad3582128fd95d3fc0776023"
+    "sha256": "9531607dcb9be41c8ebc0672665c5482c0a27d407c55122c55dde42cb2e8aa00"
   },
   {
     "path": "theme/sections/sf-footer.liquid",
@@ -3001,7 +3001,7 @@
   },
   {
     "path": "theme/sections/sf-shop-by-category.liquid",
-    "sha256": "901693808247947a125264a4d4198a8dc64e9782aff9213c367d50cfb78ced41"
+    "sha256": "d65931581e213a2f769770813fe4348740efcabc13ef04cce23511202c37f338"
   },
   {
     "path": "theme/sections/slideshow.liquid",
@@ -3153,11 +3153,11 @@
   },
   {
     "path": "theme/snippets/sf-card-colors.liquid",
-    "sha256": "d68169dec5b305b52b53fc98535fc21b94697a4dc7931cbe737b1557f3bf0675"
+    "sha256": "2aeb874ad5e57824843a60a9b50b2d81c14d84d92f93376b7b68ec4d805fcea3"
   },
   {
     "path": "theme/snippets/sf-card-favorite.liquid",
-    "sha256": "d64367b35e61b18df519de7fa1688db9215eeff520a228c098df6abcb4869afd"
+    "sha256": "7158eac40086226e504f711d51a352f8027be2cd306c60fb841a75867819a84e"
   },
   {
     "path": "theme/snippets/sf-category-grid.liquid",
@@ -3169,7 +3169,7 @@
   },
   {
     "path": "theme/snippets/sf-favorite-button.liquid",
-    "sha256": "ccc673a999c6e9a71fa396e98596cdbf283bf93a7360e54277103708fdf697a8"
+    "sha256": "8acf7a7e7f4683d76b444e0ee5cf22cf960dca5212077ccc3b06e56eaa829d04"
   },
   {
     "path": "theme/snippets/sf-favorites-dialog.liquid",
@@ -3193,11 +3193,11 @@
   },
   {
     "path": "theme/snippets/sf-product-image.liquid",
-    "sha256": "be9fd5431344ef9dc9cee0b38f39d95f940c323ed0e58147b5ea817d572c33ee"
+    "sha256": "967e1d89c3457fda6692c229e8b288a298fd0faa41f1b18e0dc89a5531318aa9"
   },
   {
     "path": "theme/snippets/sf-search-browse.liquid",
-    "sha256": "ad7d885ae098a0277454e535c9807e7f0b3a46143aa8298a58b334dba0089fc5"
+    "sha256": "b9a7938367f08f833ad60dc4b51e6739a659169faca0feda001f8282417a3da4"
   },
   {
     "path": "theme/snippets/sf-shop-categories.liquid",

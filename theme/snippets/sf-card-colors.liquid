@@ -43,10 +43,10 @@
       echo ' 1066w'
     endcapture
   elsif card_product.tags contains 'ai-sample-media'
-    assign photo_asset = 'sf-packshot-' | append: card_product.handle | append: '-' | append: shade_handle | append: '-front.jpg'
+    assign photo_asset = 'sf-packshot-' | append: card_product.handle | append: '-' | append: shade_handle | append: '-front.webp'
     assign photo_url = photo_asset | asset_url
     capture photo_srcset
-      echo photo_asset | replace: '.jpg', '-480.jpg' | asset_url
+      echo photo_asset | replace: '.webp', '-480.webp' | asset_url
       echo ' 480w, '
       echo photo_url
       echo ' 1122w'

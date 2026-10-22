@@ -268,19 +268,47 @@
       }));
     }
     selectColor(color) { const next = color.toLowerCase(); if (next === this.color) return; this.color = next; this.view = 'front'; this.querySelector('.sf-photo-gallery__grid').scrollTo({left:0,behavior:'instant'}); this.render(); }
-    render() {
-      this.querySelectorAll('.sf-photo-gallery__grid img').forEach(img => {
+    async render() {
+      const color = this.color;
+      const request = Symbol();
+      this.sfPhotoRequest = request;
+      const updates = [...this.querySelectorAll('.sf-photo-gallery__grid img')].map(img => {
         const view = img.closest('[data-sf-view]')?.dataset.sfView || this.view;
-        const replacePhoto = url => url.replace(/-(black|white|grey)-(front|back|detail|full|lineup)(-480)?\.jpg/g, (_, oldColor, oldView, small) => `-${this.color}-${view}${small || ''}.jpg`);
-        img.src = replacePhoto(img.src);
-        if (img.srcset) img.srcset = replacePhoto(img.srcset);
-        const description = view === 'front' ? 'on-model front' : view === 'full' ? 'on-model full' : view;
-        img.alt = img.alt.replace(/, (black|white|grey), (?:on-model )?(front|back|detail|full|lineup) view/i, `, ${this.color}, ${description} view`);
+        const replacePhoto = url => url.replace(/-(black|white|grey)-(front|back|detail|full|lineup)(-480)?\.(?:webp|jpg)/g, (_, previous, angle, small) => `-${color}-${view}${small || ''}.webp`);
+        return { img, view, src: replacePhoto(img.src), srcset: replacePhoto(img.srcset) };
       });
-      this.querySelectorAll('[data-sf-view]').forEach(button => {
-        if (button.dataset.sfView === this.view) button.setAttribute('aria-current', 'true');
-        else button.removeAttribute('aria-current');
-      });
+      this.setAttribute('aria-busy', 'true');
+      try {
+        // Decode the complete color set first so old photos stay visible while loading.
+        await Promise.all(updates.map(async update => {
+          const photo = new Image();
+          photo.decoding = 'async';
+          photo.sizes = update.img.sizes;
+          photo.srcset = update.srcset;
+          photo.src = update.src;
+          await photo.decode();
+        }));
+        if (this.sfPhotoRequest !== request || !this.isConnected) return;
+        updates.forEach(({ img, view, src, srcset }) => {
+          if (srcset) img.srcset = srcset;
+          else img.removeAttribute('srcset');
+          img.src = src;
+          const description = view === 'front' ? 'on-model front' : view === 'full' ? 'on-model full' : view;
+          img.alt = img.alt.replace(/, (black|white|grey), (?:on-model )?(front|back|detail|full|lineup) view/i, `, ${color}, ${description} view`);
+        });
+        this.dataset.color = color;
+        this.querySelectorAll('[data-sf-view]').forEach(button => {
+          if (button.dataset.sfView === this.view) button.setAttribute('aria-current', 'true');
+          else button.removeAttribute('aria-current');
+        });
+      } catch {
+        if (this.sfPhotoRequest === request) {
+          this.color = this.dataset.color;
+          this.querySelector('[data-sf-gallery-status]').textContent = 'Unable to load this color. Please try again.';
+        }
+      } finally {
+        if (this.sfPhotoRequest === request) this.removeAttribute('aria-busy');
+      }
     }
   }
   customElements.define('sf-photo-gallery', SfPhotoGallery);
@@ -324,7 +352,7 @@
     if (!color) return;
     info.querySelector('sf-photo-gallery')?.selectColor(color);
     document.querySelectorAll('[data-sf-feature-photo] img').forEach(image => {
-      const replace = url => url.replace(/-(black|white|grey)-(front|detail)(-480)?\.jpg/g, (_, previous, view, small) => `-${color.toLowerCase()}-${view}${small || ''}.jpg`);
+      const replace = url => url.replace(/-(black|white|grey)-(front|detail)(-480)?\.webp/g, (_, previous, view, small) => `-${color.toLowerCase()}-${view}${small || ''}.webp`);
       image.src = replace(image.src); if (image.srcset) image.srcset = replace(image.srcset);
       image.alt = image.alt.replace(/, (black|white|grey),/i, `, ${color.toLowerCase()},`);
     });

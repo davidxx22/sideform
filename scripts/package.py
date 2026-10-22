@@ -3,7 +3,8 @@ import json, zipfile, hashlib
 root=Path(__file__).resolve().parents[1]
 theme=root/'theme'
 allowed={'assets','config','layout','locales','sections','snippets','templates'}
-paths=sorted(p for folder in allowed for p in (theme/folder).rglob('*') if p.is_file())
+# Original raster files stay in source control; upload only their optimized derivatives.
+paths=sorted(p for folder in allowed for p in (theme/folder).rglob('*') if p.is_file() and not (p.parent == theme/'assets' and p.suffix.lower() in {'.jpg','.jpeg','.png'} and p.with_suffix('.webp').exists()))
 paths.append(theme/'LICENSE.md')
 with zipfile.ZipFile(root/'artifacts/SIDEFORM-product-photos.zip','w',zipfile.ZIP_DEFLATED) as archive:
     for p in sorted(list((theme/'assets').glob('sf-photo-*.jpg'))+list((theme/'assets').glob('sf-gallery-*.jpg'))):

@@ -48,7 +48,7 @@
       const row = document.createElement('article'); row.className = 'sf-favorite-row';
       const link = document.createElement('a'); link.href = item.url; link.className = 'sf-favorite-product';
       if (item.image) {
-        const image = document.createElement('img'); image.src = item.image; image.alt = item.title; image.loading = 'lazy'; image.width = 80; image.height = 100;
+        const image = document.createElement('img'); image.src = item.image.replace(/(\/assets\/(?:sf-|sideform-)[^?#]+)\.(?:jpe?g|png)(?=[?#]|$)/i, '$1.webp'); image.alt = item.title; image.loading = 'lazy'; image.width = 80; image.height = 100;
         image.addEventListener('error', () => image.remove(), { once: true }); link.append(image);
       }
       const text = document.createElement('span'); text.textContent = item.title; link.append(text);

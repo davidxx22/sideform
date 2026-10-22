@@ -26,7 +26,7 @@ const assert=require('node:assert/strict'),fs=require('node:fs'),catalog=require
      await page.waitForFunction(({handle,color})=>{const card=[...document.querySelectorAll('#Slider-featured_collection .product-card-wrapper')].find(card=>card.querySelector('.card__heading')?.textContent.trim()===handle);return card?.querySelector(`[data-sf-card-color="${color}"]`)?.getAttribute('aria-pressed')==='true';},{handle:product.title,color});
      const image=card.locator('.card__media .media > img,.sf-card-photo img').first();
      assert.match(await image.getAttribute('src'),/sf-packshot-/);
-     assert.match(await image.getAttribute('src'),new RegExp(`${product.handle}-${color.toLowerCase()}-front\\.jpg`));
+     assert.match(await image.getAttribute('src'),new RegExp(`${product.handle}-${color.toLowerCase()}-front\\.webp`));
      assert.equal(page.url(),home);assert(await image.evaluate(img=>img.complete&&img.naturalWidth>0));
      const link=card.locator('.card__heading a').last();assert.match(await link.getAttribute('href'),/\?variant=\d+/);
      assert.match(await card.locator('.card-information > .price').innerText(),new RegExp(String(product.price)));
@@ -46,11 +46,11 @@ const assert=require('node:assert/strict'),fs=require('node:fs'),catalog=require
   assert.equal(await grid.locator('img').count(),12);
   await grid.locator('img').evaluateAll(imgs=>Promise.all(imgs.map(img=>img.decode())));
   // A failed photo request must preserve the previous preview and allow retry.
-  await page.route('**/sf-packshot-offset-heavy-tee-white-front*.jpg',route=>route.abort());
+  await page.route('**/sf-packshot-offset-heavy-tee-white-front*.webp',route=>route.abort());
   const card=grid.locator('.product-card-wrapper').first();await card.locator('[data-sf-card-color="White"]').click();
   await page.waitForFunction(()=>document.querySelector('#Slider-featured_collection [data-sf-color-status]')?.textContent.includes('Unable to load'));
   assert.equal(await card.locator('[data-sf-card-color="Black"]').getAttribute('aria-pressed'),'true');assert.equal(page.url(),home);
-  await page.unroute('**/sf-packshot-offset-heavy-tee-white-front*.jpg');await card.locator('[data-sf-card-color="White"]').click();
+  await page.unroute('**/sf-packshot-offset-heavy-tee-white-front*.webp');await card.locator('[data-sf-card-color="White"]').click();
   await page.waitForFunction(()=>document.querySelector('#Slider-featured_collection [data-sf-card-color="White"]')?.getAttribute('aria-pressed')==='true');
   assert.equal(errors.length,0,errors.join('\n'));
   fs.writeFileSync('artifacts/browse-interaction'+(fallback?'-fallback':'')+'-validation.json',JSON.stringify({environment:'Local Shopify-object emulator',fallback,initialColors:shades,categories:results,mobileKeyboard:true,failedPhotoRetry:true,uncaughtErrors:errors},null,2));

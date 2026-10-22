@@ -1,7 +1,7 @@
 {% assign favorite_image = card_product.featured_media | image_url: width: 480 %}
 {% if card_product.tags contains 'ai-sample-media' %}
   {% assign favorite_color = selected_color | default: 'Black' | downcase %}
-  {% assign favorite_asset = 'sf-packshot-' | append: card_product.handle | append: '-' | append: favorite_color | append: '-front-480.jpg' %}
+  {% assign favorite_asset = 'sf-packshot-' | append: card_product.handle | append: '-' | append: favorite_color | append: '-front-480.webp' %}
   {% assign favorite_image = favorite_asset | asset_url %}
 {% endif %}
 <button type="button" class="sf-card-favorite" data-sf-favorite="{{ card_product.handle }}" data-title="{{ card_product.title | escape }}" data-url="{{ card_product.url }}" data-image="{{ favorite_image | escape }}" aria-pressed="false" aria-label="Add {{ card_product.title | escape }} to favorites">{% render 'sf-heart' %}</button>

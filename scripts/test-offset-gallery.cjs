@@ -19,7 +19,7 @@ const assert=require('node:assert/strict'),fs=require('node:fs');
    await page.locator(`variant-selects:visible label[for="${await input.getAttribute('id')}"]`).click();await page.waitForTimeout(700);
    for(const view of views){
     const tile=page.locator(`.sf-photo-gallery__tile[data-sf-view="${view}"]`),img=tile.locator('img');
-    assert.match(await img.getAttribute('src'),new RegExp(`-${color.toLowerCase()}-${view}\\.jpg`));await img.evaluate(i=>i.decode());
+    assert.match(await img.getAttribute('src'),new RegExp(`-${color.toLowerCase()}-${view}\\.webp`));await img.evaluate(i=>i.decode());
     await tile.click();assert.equal(await page.locator('[data-sf-enlarged] img').getAttribute('src'),await img.getAttribute('src'));
     await page.keyboard.press('Escape');assert(await tile.evaluate(t=>document.activeElement===t));
    }

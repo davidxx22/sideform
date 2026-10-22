@@ -28,8 +28,8 @@
                 when 'shorts'
                   assign photo = 'sf-photo-interval-utility-short-black-front'
               endcase
-              assign large = photo | append: '.jpg'
-              assign small = photo | append: '-480.jpg'
+              assign large = photo | append: '.webp'
+              assign small = photo | append: '-480.webp'
             %}
             <img src="{{ large | asset_url }}" srcset="{{ small | asset_url }} 480w, {{ large | asset_url }} {{ photo_width }}w" sizes="{{ category_sizes }}" width="{{ photo_width }}" height="{{ photo_height }}" alt="" loading="lazy">
           {% endif %}

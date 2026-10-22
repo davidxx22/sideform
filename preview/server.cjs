@@ -29,7 +29,7 @@ engine.registerFilter('t',(key,...opts)=>{
 engine.registerFilter('image_url',x=>x?.src || x?.preview_image?.src || x);
 engine.registerFilter('image_tag',(src,...pairs)=>{
  const attributes=pairs.filter(Array.isArray).filter(([k])=>!['widths','sizes'].includes(k));
- const match=String(src).match(/sf-photo-(.+)-(black|white|grey)-(front|back|detail)\.jpg/);
+ const match=String(src).match(/sf-photo-(.+)-(black|white|grey)-(front|back|detail)\.webp/);
  if(match&&!attributes.some(([key])=>key==='alt')){
   const title=catalog.find(p=>p.handle===match[1])?.title||match[1];
   attributes.push(['alt',`AI-generated sample photograph — ${title}, ${match[2]}, ${match[3]==='front'?'on-model front':match[3]} view`]);
@@ -82,7 +82,7 @@ function productObject(raw,index,url) {
  p.options_with_values=[{name:'Color',position:1,selected_value:variant.color,values:['Black','White','Grey'].map((name,i)=>new OptionValue(name,i+1,name===variant.color,true))},{name:'Size',position:2,selected_value:variant.size,values:['Small','Medium','Large'].map((name,i)=>new OptionValue(name,i+4,name===variant.size,variants.find(v=>v.color===variant.color&&v.size===name).available))}];
  if((photoReady&&url.searchParams.get('gallery')!=='fallback')||url.searchParams.get('gallery')==='media'){
   p.media=['Black','White','Grey'].flatMap((color,ci)=>['front','back','detail'].map((view,vi)=>{
-   const id=ci*3+vi+1,src='/assets/sf-photo-'+raw.handle+'-'+color.toLowerCase()+'-'+view+'.jpg';
+   const id=ci*3+vi+1,src='/assets/sf-photo-'+raw.handle+'-'+color.toLowerCase()+'-'+view+'.webp';
    const image={src,width:1122,height:1402,aspect_ratio:1122/1402,alt:`[color:${color}] AI-generated sample photograph ${raw.title}, ${color}, ${view==='front'?'on-model front':view} view`};
    return {...image,id,media_type:'image',preview_image:image,position:id};
   }));p.images=p.media;variants.forEach(v=>{v.featured_media=p.media.find(m=>m.alt.includes(`[color:${v.color}]`));v.featured_image=v.featured_media});p.featured_media=variant.featured_media||p.media[0];
@@ -136,8 +136,10 @@ const handler=async(req,res)=>{
   let bag=[];try{bag=JSON.parse(decodeURIComponent((req.headers.cookie||'').split('; ').find(c=>c.startsWith('sf-preview-cart='))?.split('=')[1]||'%5B%5D'));if(!Array.isArray(bag))bag=[];bag=bag.filter(l=>Number.isInteger(l.id)&&Number.isInteger(l.quantity)&&l.quantity>0)}catch{}
   const ctx=context(url,bag);
   const send=(data,type='text/html',status=200)=>{res.writeHead(status,{'Content-Type':type+'; charset=utf-8','Cache-Control':'no-store'});res.end(data)};
-  if(url.pathname.startsWith('/assets/')){const filename=path.join(theme,url.pathname);if(!filename.startsWith(theme+path.sep))return send('Forbidden','text/plain',403);const ext=path.extname(filename);return send(fs.readFileSync(filename),({'.svg':'image/svg+xml','.png':'image/png','.js':'text/javascript','.css':'text/css'})[ext]||'text/plain')}
+  if(url.pathname.startsWith('/assets/')){const filename=path.join(theme,url.pathname);if(!filename.startsWith(theme+path.sep))return send('Forbidden','text/plain',403);const ext=path.extname(filename);return send(fs.readFileSync(filename),({'.webp':'image/webp','.jpg':'image/jpeg','.jpeg':'image/jpeg','.svg':'image/svg+xml','.png':'image/png','.js':'text/javascript','.css':'text/css'})[ext]||'text/plain')}
   if(url.pathname==='/contact'&&req.method==='POST')return send(await layout('<section class="page-width" style="padding-block:70px"><h1>Contact form preview</h1><p>This local preview does not send messages. The Shopify contact form sends enquiries after the theme is configured in your store.</p><a href="/pages/contact">Return to Contact</a></section>',ctx));
+  // This demo has no pickup locations; match Shopify's empty availability section.
+  if(/^\/variants\/\d+\/?$/.test(url.pathname)&&url.searchParams.get('section_id')==='pickup-availability')return send('<div class="shopify-section"></div>');
   if(url.pathname==='/photo-review')return send(fs.readFileSync(path.join(__dirname,'photography-review.html'),'utf8'));
   if(url.pathname==='/favicon.ico')return send(fs.readFileSync(path.join(theme,'assets/sideform-favicon.svg')),'image/svg+xml');
   if(url.searchParams.has('sections')&&req.method==='GET')return send(JSON.stringify(await sections(ctx)),'application/json');

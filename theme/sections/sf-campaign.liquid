@@ -3,7 +3,7 @@
     {% if section.settings.image != blank %}
       {{ section.settings.image | image_url: width: 2400 | image_tag: class: 'sf-campaign__desktop', widths: '750, 1100, 1500, 2000, 2400', sizes: '100vw', loading: 'eager', fetchpriority: 'high', alt: section.settings.image.alt }}
     {% else %}
-      <img class="sf-campaign__desktop" src="{{ 'sideform-campaign-branded.jpg' | asset_url }}" srcset="{{ 'sideform-campaign-branded-750.jpg' | asset_url }} 750w, {{ 'sideform-campaign-branded.jpg' | asset_url }} 1529w" sizes="100vw" width="1529" height="1029" loading="eager" fetchpriority="high" alt="AI-edited campaign photograph: two models in white and black SIDEFORM logo T-shirts, unbranded black cargo pants and grey cargo shorts beside concrete architecture">
+      <img class="sf-campaign__desktop" src="{{ 'sideform-campaign-branded.webp' | asset_url }}" srcset="{{ 'sideform-campaign-branded-750.webp' | asset_url }} 750w, {{ 'sideform-campaign-branded.webp' | asset_url }} 1529w" sizes="100vw" width="1529" height="1029" loading="eager" fetchpriority="high" alt="AI-edited campaign photograph: two models in white and black SIDEFORM logo T-shirts, unbranded black cargo pants and grey cargo shorts beside concrete architecture">
     {% endif %}
     {% if section.settings.mobile_image != blank %}{{ section.settings.mobile_image | image_url: width: 1200 | image_tag: class: 'sf-campaign__mobile', widths: '450, 750, 1200', sizes: '100vw', loading: 'eager' }}{% endif %}
   </div>

@@ -9,9 +9,9 @@
   <div class="sf-search-browse__heading"><h2>Shop SIDEFORM</h2><a href="{{ routes.all_products_collection_url }}">View all <span aria-hidden="true">→</span></a></div>
   <h3 class="sf-search-divider">Featured</h3>
   <div class="sf-search-featured">
-    <a href="{{ collections.outerwear.url | default: '/collections/outerwear' }}"><img src="{{ 'sf-packshot-shell-utility-jacket-grey-front-480.jpg' | asset_url }}" width="480" height="600" alt="" loading="lazy"><span>Outerwear</span></a>
-    <a href="{{ collections['t-shirts'].url | default: '/collections/t-shirts' }}"><img src="{{ 'sf-packshot-offset-heavy-tee-black-front-480.jpg' | asset_url }}" width="480" height="600" alt="" loading="lazy"><span>T-shirts</span></a>
-    <a href="{{ collections.sweatshirts.url | default: '/collections/sweatshirts' }}"><img src="{{ 'sf-packshot-contour-crew-grey-front-480.jpg' | asset_url }}" width="480" height="600" alt="" loading="lazy"><span>Sweatshirts &amp; long sleeves</span></a>
+    <a href="{{ collections.outerwear.url | default: '/collections/outerwear' }}"><img src="{{ 'sf-packshot-shell-utility-jacket-grey-front-480.webp' | asset_url }}" width="480" height="600" alt="" loading="lazy"><span>Outerwear</span></a>
+    <a href="{{ collections['t-shirts'].url | default: '/collections/t-shirts' }}"><img src="{{ 'sf-packshot-offset-heavy-tee-black-front-480.webp' | asset_url }}" width="480" height="600" alt="" loading="lazy"><span>T-shirts</span></a>
+    <a href="{{ collections.sweatshirts.url | default: '/collections/sweatshirts' }}"><img src="{{ 'sf-packshot-contour-crew-grey-front-480.webp' | asset_url }}" width="480" height="600" alt="" loading="lazy"><span>Sweatshirts &amp; long sleeves</span></a>
   </div>
   <h3 class="sf-search-divider">All categories</h3>
   <ul class="sf-search-category-list" role="list">
@@ -38,7 +38,7 @@
             assign title = 'Shorts'
             assign photo = 'interval-utility-short-black'
         endcase
-        assign image = 'sf-packshot-' | append: photo | append: '-front-480.jpg'
+        assign image = 'sf-packshot-' | append: photo | append: '-front-480.webp'
         assign link = '/collections/' | append: handle
       %}
       <li><a href="{{ collections[handle].url | default: link }}"><img src="{{ image | asset_url }}" width="480" height="600" alt="" loading="lazy"><span>{{ title }}</span><span aria-hidden="true">›</span></a></li>

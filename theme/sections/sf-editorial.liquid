@@ -6,16 +6,16 @@
     assign demo_height = 1402
     case block.settings.demo_photo
       when 'hoodie'
-        assign demo_asset = 'sf-editorial-white-hoodie-black-cargo-cutout.png'
+        assign demo_asset = 'sf-editorial-white-hoodie-black-cargo-cutout.webp'
       when 'jacket'
-        assign demo_asset = 'sf-photo-shell-utility-jacket-grey-front.jpg'
+        assign demo_asset = 'sf-photo-shell-utility-jacket-grey-front.webp'
       when 'cargo'
-        assign demo_asset = 'sf-editorial-cargo-black-pale.jpg'
+        assign demo_asset = 'sf-editorial-cargo-black-pale.webp'
         assign demo_width = 1536
         assign demo_height = 1024
     endcase
   %}
-  {% if block.settings.image != blank %}<div class="sf-editorial__photo">{{ block.settings.image | image_url: width: 1400 | image_tag: widths: '450, 750, 1100, 1400', sizes: '(min-width: 750px) 40vw, 100vw', loading: 'lazy' }}</div>{% elsif demo_asset != '' %}<div class="sf-editorial__photo sf-editorial__photo--{{ block.settings.demo_photo }}"><img src="{{ demo_asset | asset_url }}" srcset="{{ demo_asset | replace: '.jpg', '-480.jpg' | replace: '.png', '-480.png' | asset_url }} 480w, {{ demo_asset | asset_url }} {{ demo_width }}w" sizes="(min-width: 750px) 35vw, 75vw" alt="AI-generated sample photograph of a model wearing SIDEFORM {{ block.settings.demo_photo | escape }}" width="{{ demo_width }}" height="{{ demo_height }}" loading="lazy"></div>{% endif %}
+  {% if block.settings.image != blank %}<div class="sf-editorial__photo">{{ block.settings.image | image_url: width: 1400 | image_tag: widths: '450, 750, 1100, 1400', sizes: '(min-width: 750px) 40vw, 100vw', loading: 'lazy' }}</div>{% elsif demo_asset != '' %}<div class="sf-editorial__photo sf-editorial__photo--{{ block.settings.demo_photo }}"><img src="{{ demo_asset | asset_url }}" srcset="{{ demo_asset | replace: '.webp', '-480.webp' | asset_url }} 480w, {{ demo_asset | asset_url }} {{ demo_width }}w" sizes="(min-width: 750px) 35vw, 75vw" alt="AI-generated sample photograph of a model wearing SIDEFORM {{ block.settings.demo_photo | escape }}" width="{{ demo_width }}" height="{{ demo_height }}" loading="lazy"></div>{% endif %}
   <div class="sf-editorial__copy"><p class="sf-kicker">{{ block.settings.eyebrow | escape }}</p><h2>{{ block.settings.heading | escape | newline_to_br }}</h2>{% if block.settings.collection != blank %}<a class="button button--secondary" href="{{ block.settings.collection.url }}">{{ block.settings.label | escape }}</a>{% elsif block.settings.link != blank %}<a class="button button--secondary" href="{{ block.settings.link }}">{{ block.settings.label | escape }}</a>{% endif %}</div>
  </article>{% endfor %}
 </section>

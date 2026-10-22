@@ -8,8 +8,8 @@
   {% if packshot %}{% assign filename = filename | replace: 'sf-photo-', 'sf-packshot-' %}{% assign presentation = 'garment-only front' %}{% endif %}
   {% if angle == 'full' %}{% assign filename = 'sf-gallery-' | append: product.handle | append: '-' | append: shade | append: '-full' %}{% assign presentation = 'on-model full' %}{% endif %}
   {% if angle == 'lineup' %}{% assign filename = 'sf-gallery-' | append: product.handle | append: '-' | append: shade | append: '-lineup' %}{% assign presentation = 'lineup' %}{% endif %}
-  {% assign full_filename = filename | append: '.jpg' %}
-  {% assign small_filename = filename | append: '-480.jpg' %}
+  {% assign full_filename = filename | append: '.webp' %}
+  {% assign small_filename = filename | append: '-480.webp' %}
   <img src="{{ full_filename | asset_url }}" srcset="{{ small_filename | asset_url }} 480w, {{ full_filename | asset_url }} 1122w" sizes="{{ sizes | default: '(min-width: 990px) 25vw, 50vw' }}" width="1122" height="1402" loading="{{ loading | default: 'lazy' }}" alt="AI-generated sample photograph — {{ product.title | escape }}, {{ shade | escape }}, {{ presentation | escape }} view.">
 {% else %}
   <div class="sf-sample-note">Product imagery pending — {{ product.title | escape }}. Add product photographs in Shopify.</div>

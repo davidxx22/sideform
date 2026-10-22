@@ -20,9 +20,9 @@ const products=require('../catalog/catalog.json');
     const input=page.locator(`variant-selects:visible input[data-option-name="Color"][value="${color}"]`);await page.locator(`variant-selects:visible label[for="${await input.getAttribute('id')}"]`).click();await page.waitForTimeout(450);
     for(const view of ['front','full','lineup','detail']){
      const tile=page.locator(`.sf-photo-gallery__tile[data-sf-view="${view}"]`),img=tile.locator('img');
-     assert.match(await img.getAttribute('src'),new RegExp(`-${color.toLowerCase()}-${view}\\.jpg`));await img.evaluate(i=>i.decode());
+     assert.match(await img.getAttribute('src'),new RegExp(`-${color.toLowerCase()}-${view}\\.webp`));await img.evaluate(i=>i.decode());
      assert(await img.evaluate(i=>i.complete&&i.naturalWidth>0));
-     await tile.click();const enlarged=page.locator('[data-sf-enlarged] img');assert.equal(await enlarged.getAttribute('src'),await img.getAttribute('src'));await enlarged.evaluate(i=>i.decode());assert.doesNotMatch(await enlarged.evaluate(i=>i.currentSrc),/-480\.jpg$/);await page.keyboard.press('Escape');
+     await tile.click();const enlarged=page.locator('[data-sf-enlarged] img');assert.equal(await enlarged.getAttribute('src'),await img.getAttribute('src'));await enlarged.evaluate(i=>i.decode());assert.doesNotMatch(await enlarged.evaluate(i=>i.currentSrc),/-480\.webp$/);await page.keyboard.press('Escape');
      await page.waitForFunction(()=>!document.body.classList.contains('overflow-hidden'));
      assert(await tile.evaluate(t=>document.activeElement===t));
     }

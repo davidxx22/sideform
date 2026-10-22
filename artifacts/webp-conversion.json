@@ -1,0 +1,4042 @@
+{
+  "count": 448,
+  "original_bytes": 47168517,
+  "webp_bytes": 28153070,
+  "reduction_percent": 40.3,
+  "quality": 85,
+  "transparent_images_lossless": true,
+  "images": [
+    {
+      "source": "theme/assets/sf-editorial-cargo-black-480.jpg",
+      "output": "theme/assets/sf-editorial-cargo-black-480.webp",
+      "width": 480,
+      "height": 320,
+      "alpha": false,
+      "original_bytes": 22098,
+      "webp_bytes": 12008
+    },
+    {
+      "source": "theme/assets/sf-editorial-cargo-black-pale-480.jpg",
+      "output": "theme/assets/sf-editorial-cargo-black-pale-480.webp",
+      "width": 480,
+      "height": 320,
+      "alpha": false,
+      "original_bytes": 18722,
+      "webp_bytes": 8982
+    },
+    {
+      "source": "theme/assets/sf-editorial-cargo-black-pale.jpg",
+      "output": "theme/assets/sf-editorial-cargo-black-pale.webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": false,
+      "original_bytes": 170649,
+      "webp_bytes": 79440
+    },
+    {
+      "source": "theme/assets/sf-editorial-cargo-black.jpg",
+      "output": "theme/assets/sf-editorial-cargo-black.webp",
+      "width": 1536,
+      "height": 1024,
+      "alpha": false,
+      "original_bytes": 214077,
+      "webp_bytes": 115110
+    },
+    {
+      "source": "theme/assets/sf-editorial-cargo-grey-480.jpg",
+      "output": "theme/assets/sf-editorial-cargo-grey-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 41728,
+      "webp_bytes": 24870
+    },
+    {
+      "source": "theme/assets/sf-editorial-cargo-grey.jpg",
+      "output": "theme/assets/sf-editorial-cargo-grey.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 253688,
+      "webp_bytes": 161220
+    },
+    {
+      "source": "theme/assets/sf-editorial-white-hoodie-black-cargo-cutout-480.png",
+      "output": "theme/assets/sf-editorial-white-hoodie-black-cargo-cutout-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": true,
+      "original_bytes": 133522,
+      "webp_bytes": 92262
+    },
+    {
+      "source": "theme/assets/sf-editorial-white-hoodie-black-cargo-cutout.png",
+      "output": "theme/assets/sf-editorial-white-hoodie-black-cargo-cutout.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": true,
+      "original_bytes": 688288,
+      "webp_bytes": 397870
+    },
+    {
+      "source": "theme/assets/sf-editorial-white-hoodie-black-cargo-full-480.jpg",
+      "output": "theme/assets/sf-editorial-white-hoodie-black-cargo-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24716,
+      "webp_bytes": 10364
+    },
+    {
+      "source": "theme/assets/sf-editorial-white-hoodie-black-cargo-full.jpg",
+      "output": "theme/assets/sf-editorial-white-hoodie-black-cargo-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 134187,
+      "webp_bytes": 36272
+    },
+    {
+      "source": "theme/assets/sf-editorial-white-hoodie-black-cargo-neutral-480.jpg",
+      "output": "theme/assets/sf-editorial-white-hoodie-black-cargo-neutral-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23786,
+      "webp_bytes": 10204
+    },
+    {
+      "source": "theme/assets/sf-editorial-white-hoodie-black-cargo-neutral.jpg",
+      "output": "theme/assets/sf-editorial-white-hoodie-black-cargo-neutral.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 127471,
+      "webp_bytes": 36724
+    },
+    {
+      "source": "theme/assets/sf-gallery-axis-long-sleeve-black-full-480.jpg",
+      "output": "theme/assets/sf-gallery-axis-long-sleeve-black-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22644,
+      "webp_bytes": 10570
+    },
+    {
+      "source": "theme/assets/sf-gallery-axis-long-sleeve-black-full.jpg",
+      "output": "theme/assets/sf-gallery-axis-long-sleeve-black-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 106638,
+      "webp_bytes": 37052
+    },
+    {
+      "source": "theme/assets/sf-gallery-axis-long-sleeve-black-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-axis-long-sleeve-black-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 26985,
+      "webp_bytes": 11712
+    },
+    {
+      "source": "theme/assets/sf-gallery-axis-long-sleeve-black-lineup.jpg",
+      "output": "theme/assets/sf-gallery-axis-long-sleeve-black-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 131046,
+      "webp_bytes": 46724
+    },
+    {
+      "source": "theme/assets/sf-gallery-axis-long-sleeve-grey-full-480.jpg",
+      "output": "theme/assets/sf-gallery-axis-long-sleeve-grey-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24002,
+      "webp_bytes": 11882
+    },
+    {
+      "source": "theme/assets/sf-gallery-axis-long-sleeve-grey-full.jpg",
+      "output": "theme/assets/sf-gallery-axis-long-sleeve-grey-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 125210,
+      "webp_bytes": 53038
+    },
+    {
+      "source": "theme/assets/sf-gallery-axis-long-sleeve-grey-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-axis-long-sleeve-grey-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 29397,
+      "webp_bytes": 13842
+    },
+    {
+      "source": "theme/assets/sf-gallery-axis-long-sleeve-grey-lineup.jpg",
+      "output": "theme/assets/sf-gallery-axis-long-sleeve-grey-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 170863,
+      "webp_bytes": 86868
+    },
+    {
+      "source": "theme/assets/sf-gallery-axis-long-sleeve-white-full-480.jpg",
+      "output": "theme/assets/sf-gallery-axis-long-sleeve-white-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 21811,
+      "webp_bytes": 9518
+    },
+    {
+      "source": "theme/assets/sf-gallery-axis-long-sleeve-white-full.jpg",
+      "output": "theme/assets/sf-gallery-axis-long-sleeve-white-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 101172,
+      "webp_bytes": 35610
+    },
+    {
+      "source": "theme/assets/sf-gallery-axis-long-sleeve-white-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-axis-long-sleeve-white-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 26102,
+      "webp_bytes": 11256
+    },
+    {
+      "source": "theme/assets/sf-gallery-axis-long-sleeve-white-lineup.jpg",
+      "output": "theme/assets/sf-gallery-axis-long-sleeve-white-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 133905,
+      "webp_bytes": 48724
+    },
+    {
+      "source": "theme/assets/sf-gallery-contour-crew-black-full-480.jpg",
+      "output": "theme/assets/sf-gallery-contour-crew-black-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23095,
+      "webp_bytes": 10284
+    },
+    {
+      "source": "theme/assets/sf-gallery-contour-crew-black-full.jpg",
+      "output": "theme/assets/sf-gallery-contour-crew-black-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 114239,
+      "webp_bytes": 42290
+    },
+    {
+      "source": "theme/assets/sf-gallery-contour-crew-black-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-contour-crew-black-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 27425,
+      "webp_bytes": 12292
+    },
+    {
+      "source": "theme/assets/sf-gallery-contour-crew-black-lineup.jpg",
+      "output": "theme/assets/sf-gallery-contour-crew-black-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 144237,
+      "webp_bytes": 56526
+    },
+    {
+      "source": "theme/assets/sf-gallery-contour-crew-grey-full-480.jpg",
+      "output": "theme/assets/sf-gallery-contour-crew-grey-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24004,
+      "webp_bytes": 11484
+    },
+    {
+      "source": "theme/assets/sf-gallery-contour-crew-grey-full.jpg",
+      "output": "theme/assets/sf-gallery-contour-crew-grey-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 121229,
+      "webp_bytes": 48566
+    },
+    {
+      "source": "theme/assets/sf-gallery-contour-crew-grey-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-contour-crew-grey-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 30127,
+      "webp_bytes": 13990
+    },
+    {
+      "source": "theme/assets/sf-gallery-contour-crew-grey-lineup.jpg",
+      "output": "theme/assets/sf-gallery-contour-crew-grey-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 170624,
+      "webp_bytes": 85594
+    },
+    {
+      "source": "theme/assets/sf-gallery-contour-crew-white-full-480.jpg",
+      "output": "theme/assets/sf-gallery-contour-crew-white-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22216,
+      "webp_bytes": 9726
+    },
+    {
+      "source": "theme/assets/sf-gallery-contour-crew-white-full.jpg",
+      "output": "theme/assets/sf-gallery-contour-crew-white-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 108037,
+      "webp_bytes": 38988
+    },
+    {
+      "source": "theme/assets/sf-gallery-contour-crew-white-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-contour-crew-white-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25551,
+      "webp_bytes": 11228
+    },
+    {
+      "source": "theme/assets/sf-gallery-contour-crew-white-lineup.jpg",
+      "output": "theme/assets/sf-gallery-contour-crew-white-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 131022,
+      "webp_bytes": 49102
+    },
+    {
+      "source": "theme/assets/sf-gallery-drift-baggy-jean-black-full-480.jpg",
+      "output": "theme/assets/sf-gallery-drift-baggy-jean-black-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 26034,
+      "webp_bytes": 11336
+    },
+    {
+      "source": "theme/assets/sf-gallery-drift-baggy-jean-black-full.jpg",
+      "output": "theme/assets/sf-gallery-drift-baggy-jean-black-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 168005,
+      "webp_bytes": 55788
+    },
+    {
+      "source": "theme/assets/sf-gallery-drift-baggy-jean-black-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-drift-baggy-jean-black-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 31587,
+      "webp_bytes": 16204
+    },
+    {
+      "source": "theme/assets/sf-gallery-drift-baggy-jean-black-lineup.jpg",
+      "output": "theme/assets/sf-gallery-drift-baggy-jean-black-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 175810,
+      "webp_bytes": 90622
+    },
+    {
+      "source": "theme/assets/sf-gallery-drift-baggy-jean-grey-full-480.jpg",
+      "output": "theme/assets/sf-gallery-drift-baggy-jean-grey-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 28798,
+      "webp_bytes": 13116
+    },
+    {
+      "source": "theme/assets/sf-gallery-drift-baggy-jean-grey-full.jpg",
+      "output": "theme/assets/sf-gallery-drift-baggy-jean-grey-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 182967,
+      "webp_bytes": 67522
+    },
+    {
+      "source": "theme/assets/sf-gallery-drift-baggy-jean-grey-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-drift-baggy-jean-grey-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 34953,
+      "webp_bytes": 20540
+    },
+    {
+      "source": "theme/assets/sf-gallery-drift-baggy-jean-grey-lineup.jpg",
+      "output": "theme/assets/sf-gallery-drift-baggy-jean-grey-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 210904,
+      "webp_bytes": 130352
+    },
+    {
+      "source": "theme/assets/sf-gallery-drift-baggy-jean-white-full-480.jpg",
+      "output": "theme/assets/sf-gallery-drift-baggy-jean-white-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23847,
+      "webp_bytes": 9946
+    },
+    {
+      "source": "theme/assets/sf-gallery-drift-baggy-jean-white-full.jpg",
+      "output": "theme/assets/sf-gallery-drift-baggy-jean-white-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 146728,
+      "webp_bytes": 43840
+    },
+    {
+      "source": "theme/assets/sf-gallery-drift-baggy-jean-white-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-drift-baggy-jean-white-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 29518,
+      "webp_bytes": 14660
+    },
+    {
+      "source": "theme/assets/sf-gallery-drift-baggy-jean-white-lineup.jpg",
+      "output": "theme/assets/sf-gallery-drift-baggy-jean-white-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 160678,
+      "webp_bytes": 77814
+    },
+    {
+      "source": "theme/assets/sf-gallery-frame-long-sleeve-black-full-480.jpg",
+      "output": "theme/assets/sf-gallery-frame-long-sleeve-black-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22480,
+      "webp_bytes": 10384
+    },
+    {
+      "source": "theme/assets/sf-gallery-frame-long-sleeve-black-full.jpg",
+      "output": "theme/assets/sf-gallery-frame-long-sleeve-black-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 105561,
+      "webp_bytes": 36790
+    },
+    {
+      "source": "theme/assets/sf-gallery-frame-long-sleeve-black-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-frame-long-sleeve-black-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 27376,
+      "webp_bytes": 12036
+    },
+    {
+      "source": "theme/assets/sf-gallery-frame-long-sleeve-black-lineup.jpg",
+      "output": "theme/assets/sf-gallery-frame-long-sleeve-black-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 137844,
+      "webp_bytes": 50962
+    },
+    {
+      "source": "theme/assets/sf-gallery-frame-long-sleeve-grey-full-480.jpg",
+      "output": "theme/assets/sf-gallery-frame-long-sleeve-grey-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25012,
+      "webp_bytes": 12540
+    },
+    {
+      "source": "theme/assets/sf-gallery-frame-long-sleeve-grey-full.jpg",
+      "output": "theme/assets/sf-gallery-frame-long-sleeve-grey-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 130264,
+      "webp_bytes": 60300
+    },
+    {
+      "source": "theme/assets/sf-gallery-frame-long-sleeve-grey-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-frame-long-sleeve-grey-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 29931,
+      "webp_bytes": 14136
+    },
+    {
+      "source": "theme/assets/sf-gallery-frame-long-sleeve-grey-lineup.jpg",
+      "output": "theme/assets/sf-gallery-frame-long-sleeve-grey-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 173077,
+      "webp_bytes": 88128
+    },
+    {
+      "source": "theme/assets/sf-gallery-frame-long-sleeve-white-full-480.jpg",
+      "output": "theme/assets/sf-gallery-frame-long-sleeve-white-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22652,
+      "webp_bytes": 10382
+    },
+    {
+      "source": "theme/assets/sf-gallery-frame-long-sleeve-white-full.jpg",
+      "output": "theme/assets/sf-gallery-frame-long-sleeve-white-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 109056,
+      "webp_bytes": 42128
+    },
+    {
+      "source": "theme/assets/sf-gallery-frame-long-sleeve-white-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-frame-long-sleeve-white-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25708,
+      "webp_bytes": 11452
+    },
+    {
+      "source": "theme/assets/sf-gallery-frame-long-sleeve-white-lineup.jpg",
+      "output": "theme/assets/sf-gallery-frame-long-sleeve-white-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 132155,
+      "webp_bytes": 49100
+    },
+    {
+      "source": "theme/assets/sf-gallery-grid-cargo-pant-black-full-480.jpg",
+      "output": "theme/assets/sf-gallery-grid-cargo-pant-black-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23941,
+      "webp_bytes": 10014
+    },
+    {
+      "source": "theme/assets/sf-gallery-grid-cargo-pant-black-full.jpg",
+      "output": "theme/assets/sf-gallery-grid-cargo-pant-black-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 140425,
+      "webp_bytes": 39992
+    },
+    {
+      "source": "theme/assets/sf-gallery-grid-cargo-pant-black-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-grid-cargo-pant-black-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 31753,
+      "webp_bytes": 15478
+    },
+    {
+      "source": "theme/assets/sf-gallery-grid-cargo-pant-black-lineup.jpg",
+      "output": "theme/assets/sf-gallery-grid-cargo-pant-black-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 176694,
+      "webp_bytes": 84492
+    },
+    {
+      "source": "theme/assets/sf-gallery-grid-cargo-pant-grey-full-480.jpg",
+      "output": "theme/assets/sf-gallery-grid-cargo-pant-grey-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 26381,
+      "webp_bytes": 11504
+    },
+    {
+      "source": "theme/assets/sf-gallery-grid-cargo-pant-grey-full.jpg",
+      "output": "theme/assets/sf-gallery-grid-cargo-pant-grey-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 160674,
+      "webp_bytes": 53912
+    },
+    {
+      "source": "theme/assets/sf-gallery-grid-cargo-pant-grey-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-grid-cargo-pant-grey-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 34210,
+      "webp_bytes": 18172
+    },
+    {
+      "source": "theme/assets/sf-gallery-grid-cargo-pant-grey-lineup.jpg",
+      "output": "theme/assets/sf-gallery-grid-cargo-pant-grey-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 191663,
+      "webp_bytes": 103548
+    },
+    {
+      "source": "theme/assets/sf-gallery-grid-cargo-pant-white-full-480.jpg",
+      "output": "theme/assets/sf-gallery-grid-cargo-pant-white-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 21987,
+      "webp_bytes": 8662
+    },
+    {
+      "source": "theme/assets/sf-gallery-grid-cargo-pant-white-full.jpg",
+      "output": "theme/assets/sf-gallery-grid-cargo-pant-white-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 124747,
+      "webp_bytes": 33020
+    },
+    {
+      "source": "theme/assets/sf-gallery-grid-cargo-pant-white-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-grid-cargo-pant-white-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 27574,
+      "webp_bytes": 12714
+    },
+    {
+      "source": "theme/assets/sf-gallery-grid-cargo-pant-white-lineup.jpg",
+      "output": "theme/assets/sf-gallery-grid-cargo-pant-white-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 142193,
+      "webp_bytes": 59928
+    },
+    {
+      "source": "theme/assets/sf-gallery-interval-utility-short-black-full-480.jpg",
+      "output": "theme/assets/sf-gallery-interval-utility-short-black-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24040,
+      "webp_bytes": 10306
+    },
+    {
+      "source": "theme/assets/sf-gallery-interval-utility-short-black-full.jpg",
+      "output": "theme/assets/sf-gallery-interval-utility-short-black-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 136878,
+      "webp_bytes": 38764
+    },
+    {
+      "source": "theme/assets/sf-gallery-interval-utility-short-black-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-interval-utility-short-black-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 30053,
+      "webp_bytes": 15766
+    },
+    {
+      "source": "theme/assets/sf-gallery-interval-utility-short-black-lineup.jpg",
+      "output": "theme/assets/sf-gallery-interval-utility-short-black-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 149393,
+      "webp_bytes": 68712
+    },
+    {
+      "source": "theme/assets/sf-gallery-interval-utility-short-grey-full-480.jpg",
+      "output": "theme/assets/sf-gallery-interval-utility-short-grey-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 26469,
+      "webp_bytes": 11784
+    },
+    {
+      "source": "theme/assets/sf-gallery-interval-utility-short-grey-full.jpg",
+      "output": "theme/assets/sf-gallery-interval-utility-short-grey-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 146287,
+      "webp_bytes": 45960
+    },
+    {
+      "source": "theme/assets/sf-gallery-interval-utility-short-grey-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-interval-utility-short-grey-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 33605,
+      "webp_bytes": 18336
+    },
+    {
+      "source": "theme/assets/sf-gallery-interval-utility-short-grey-lineup.jpg",
+      "output": "theme/assets/sf-gallery-interval-utility-short-grey-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 188940,
+      "webp_bytes": 109204
+    },
+    {
+      "source": "theme/assets/sf-gallery-interval-utility-short-white-full-480.jpg",
+      "output": "theme/assets/sf-gallery-interval-utility-short-white-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23839,
+      "webp_bytes": 9922
+    },
+    {
+      "source": "theme/assets/sf-gallery-interval-utility-short-white-full.jpg",
+      "output": "theme/assets/sf-gallery-interval-utility-short-white-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 131189,
+      "webp_bytes": 35564
+    },
+    {
+      "source": "theme/assets/sf-gallery-interval-utility-short-white-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-interval-utility-short-white-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 29782,
+      "webp_bytes": 15348
+    },
+    {
+      "source": "theme/assets/sf-gallery-interval-utility-short-white-lineup.jpg",
+      "output": "theme/assets/sf-gallery-interval-utility-short-white-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 151639,
+      "webp_bytes": 65638
+    },
+    {
+      "source": "theme/assets/sf-gallery-offset-heavy-tee-black-full-480.jpg",
+      "output": "theme/assets/sf-gallery-offset-heavy-tee-black-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23117,
+      "webp_bytes": 10120
+    },
+    {
+      "source": "theme/assets/sf-gallery-offset-heavy-tee-black-full.jpg",
+      "output": "theme/assets/sf-gallery-offset-heavy-tee-black-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 110787,
+      "webp_bytes": 38694
+    },
+    {
+      "source": "theme/assets/sf-gallery-offset-heavy-tee-black-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-offset-heavy-tee-black-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 26740,
+      "webp_bytes": 11930
+    },
+    {
+      "source": "theme/assets/sf-gallery-offset-heavy-tee-black-lineup.jpg",
+      "output": "theme/assets/sf-gallery-offset-heavy-tee-black-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 138622,
+      "webp_bytes": 57736
+    },
+    {
+      "source": "theme/assets/sf-gallery-offset-heavy-tee-grey-full-480.jpg",
+      "output": "theme/assets/sf-gallery-offset-heavy-tee-grey-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25456,
+      "webp_bytes": 12588
+    },
+    {
+      "source": "theme/assets/sf-gallery-offset-heavy-tee-grey-full.jpg",
+      "output": "theme/assets/sf-gallery-offset-heavy-tee-grey-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 128355,
+      "webp_bytes": 55140
+    },
+    {
+      "source": "theme/assets/sf-gallery-offset-heavy-tee-grey-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-offset-heavy-tee-grey-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 28395,
+      "webp_bytes": 13226
+    },
+    {
+      "source": "theme/assets/sf-gallery-offset-heavy-tee-grey-lineup.jpg",
+      "output": "theme/assets/sf-gallery-offset-heavy-tee-grey-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 163142,
+      "webp_bytes": 83532
+    },
+    {
+      "source": "theme/assets/sf-gallery-offset-heavy-tee-white-full-480.jpg",
+      "output": "theme/assets/sf-gallery-offset-heavy-tee-white-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22420,
+      "webp_bytes": 10606
+    },
+    {
+      "source": "theme/assets/sf-gallery-offset-heavy-tee-white-full.jpg",
+      "output": "theme/assets/sf-gallery-offset-heavy-tee-white-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 101927,
+      "webp_bytes": 34800
+    },
+    {
+      "source": "theme/assets/sf-gallery-offset-heavy-tee-white-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-offset-heavy-tee-white-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24559,
+      "webp_bytes": 10980
+    },
+    {
+      "source": "theme/assets/sf-gallery-offset-heavy-tee-white-lineup.jpg",
+      "output": "theme/assets/sf-gallery-offset-heavy-tee-white-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 127101,
+      "webp_bytes": 47974
+    },
+    {
+      "source": "theme/assets/sf-gallery-plane-box-tee-black-full-480.jpg",
+      "output": "theme/assets/sf-gallery-plane-box-tee-black-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23359,
+      "webp_bytes": 10682
+    },
+    {
+      "source": "theme/assets/sf-gallery-plane-box-tee-black-full.jpg",
+      "output": "theme/assets/sf-gallery-plane-box-tee-black-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 111968,
+      "webp_bytes": 41230
+    },
+    {
+      "source": "theme/assets/sf-gallery-plane-box-tee-black-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-plane-box-tee-black-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 27565,
+      "webp_bytes": 12586
+    },
+    {
+      "source": "theme/assets/sf-gallery-plane-box-tee-black-lineup.jpg",
+      "output": "theme/assets/sf-gallery-plane-box-tee-black-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 145227,
+      "webp_bytes": 62612
+    },
+    {
+      "source": "theme/assets/sf-gallery-plane-box-tee-grey-full-480.jpg",
+      "output": "theme/assets/sf-gallery-plane-box-tee-grey-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24481,
+      "webp_bytes": 11544
+    },
+    {
+      "source": "theme/assets/sf-gallery-plane-box-tee-grey-full.jpg",
+      "output": "theme/assets/sf-gallery-plane-box-tee-grey-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 122773,
+      "webp_bytes": 51068
+    },
+    {
+      "source": "theme/assets/sf-gallery-plane-box-tee-grey-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-plane-box-tee-grey-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 28865,
+      "webp_bytes": 13672
+    },
+    {
+      "source": "theme/assets/sf-gallery-plane-box-tee-grey-lineup.jpg",
+      "output": "theme/assets/sf-gallery-plane-box-tee-grey-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 173994,
+      "webp_bytes": 93950
+    },
+    {
+      "source": "theme/assets/sf-gallery-plane-box-tee-white-full-480.jpg",
+      "output": "theme/assets/sf-gallery-plane-box-tee-white-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22822,
+      "webp_bytes": 10084
+    },
+    {
+      "source": "theme/assets/sf-gallery-plane-box-tee-white-full.jpg",
+      "output": "theme/assets/sf-gallery-plane-box-tee-white-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 108743,
+      "webp_bytes": 39140
+    },
+    {
+      "source": "theme/assets/sf-gallery-plane-box-tee-white-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-plane-box-tee-white-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25122,
+      "webp_bytes": 11106
+    },
+    {
+      "source": "theme/assets/sf-gallery-plane-box-tee-white-lineup.jpg",
+      "output": "theme/assets/sf-gallery-plane-box-tee-white-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 126869,
+      "webp_bytes": 48034
+    },
+    {
+      "source": "theme/assets/sf-gallery-shell-utility-jacket-black-full-480.jpg",
+      "output": "theme/assets/sf-gallery-shell-utility-jacket-black-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 26356,
+      "webp_bytes": 12954
+    },
+    {
+      "source": "theme/assets/sf-gallery-shell-utility-jacket-black-full.jpg",
+      "output": "theme/assets/sf-gallery-shell-utility-jacket-black-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 127557,
+      "webp_bytes": 53300
+    },
+    {
+      "source": "theme/assets/sf-gallery-shell-utility-jacket-black-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-shell-utility-jacket-black-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 31258,
+      "webp_bytes": 15416
+    },
+    {
+      "source": "theme/assets/sf-gallery-shell-utility-jacket-black-lineup.jpg",
+      "output": "theme/assets/sf-gallery-shell-utility-jacket-black-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 153222,
+      "webp_bytes": 64932
+    },
+    {
+      "source": "theme/assets/sf-gallery-shell-utility-jacket-grey-full-480.jpg",
+      "output": "theme/assets/sf-gallery-shell-utility-jacket-grey-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25647,
+      "webp_bytes": 12714
+    },
+    {
+      "source": "theme/assets/sf-gallery-shell-utility-jacket-grey-full.jpg",
+      "output": "theme/assets/sf-gallery-shell-utility-jacket-grey-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 120701,
+      "webp_bytes": 45670
+    },
+    {
+      "source": "theme/assets/sf-gallery-shell-utility-jacket-grey-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-shell-utility-jacket-grey-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 34388,
+      "webp_bytes": 18338
+    },
+    {
+      "source": "theme/assets/sf-gallery-shell-utility-jacket-grey-lineup.jpg",
+      "output": "theme/assets/sf-gallery-shell-utility-jacket-grey-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 169206,
+      "webp_bytes": 81270
+    },
+    {
+      "source": "theme/assets/sf-gallery-shell-utility-jacket-white-full-480.jpg",
+      "output": "theme/assets/sf-gallery-shell-utility-jacket-white-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24726,
+      "webp_bytes": 11692
+    },
+    {
+      "source": "theme/assets/sf-gallery-shell-utility-jacket-white-full.jpg",
+      "output": "theme/assets/sf-gallery-shell-utility-jacket-white-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 115629,
+      "webp_bytes": 42594
+    },
+    {
+      "source": "theme/assets/sf-gallery-shell-utility-jacket-white-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-shell-utility-jacket-white-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 30998,
+      "webp_bytes": 15262
+    },
+    {
+      "source": "theme/assets/sf-gallery-shell-utility-jacket-white-lineup.jpg",
+      "output": "theme/assets/sf-gallery-shell-utility-jacket-white-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 148674,
+      "webp_bytes": 61366
+    },
+    {
+      "source": "theme/assets/sf-gallery-structure-hoodie-black-full-480.jpg",
+      "output": "theme/assets/sf-gallery-structure-hoodie-black-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23009,
+      "webp_bytes": 10214
+    },
+    {
+      "source": "theme/assets/sf-gallery-structure-hoodie-black-full.jpg",
+      "output": "theme/assets/sf-gallery-structure-hoodie-black-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 115445,
+      "webp_bytes": 43020
+    },
+    {
+      "source": "theme/assets/sf-gallery-structure-hoodie-black-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-structure-hoodie-black-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 28117,
+      "webp_bytes": 12778
+    },
+    {
+      "source": "theme/assets/sf-gallery-structure-hoodie-black-lineup.jpg",
+      "output": "theme/assets/sf-gallery-structure-hoodie-black-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 147848,
+      "webp_bytes": 62682
+    },
+    {
+      "source": "theme/assets/sf-gallery-structure-hoodie-grey-full-480.jpg",
+      "output": "theme/assets/sf-gallery-structure-hoodie-grey-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23296,
+      "webp_bytes": 10816
+    },
+    {
+      "source": "theme/assets/sf-gallery-structure-hoodie-grey-full.jpg",
+      "output": "theme/assets/sf-gallery-structure-hoodie-grey-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 125826,
+      "webp_bytes": 53258
+    },
+    {
+      "source": "theme/assets/sf-gallery-structure-hoodie-grey-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-structure-hoodie-grey-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 30076,
+      "webp_bytes": 14602
+    },
+    {
+      "source": "theme/assets/sf-gallery-structure-hoodie-grey-lineup.jpg",
+      "output": "theme/assets/sf-gallery-structure-hoodie-grey-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 183580,
+      "webp_bytes": 100572
+    },
+    {
+      "source": "theme/assets/sf-gallery-structure-hoodie-white-full-480.jpg",
+      "output": "theme/assets/sf-gallery-structure-hoodie-white-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 21304,
+      "webp_bytes": 9306
+    },
+    {
+      "source": "theme/assets/sf-gallery-structure-hoodie-white-full.jpg",
+      "output": "theme/assets/sf-gallery-structure-hoodie-white-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 103358,
+      "webp_bytes": 35486
+    },
+    {
+      "source": "theme/assets/sf-gallery-structure-hoodie-white-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-structure-hoodie-white-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24743,
+      "webp_bytes": 10898
+    },
+    {
+      "source": "theme/assets/sf-gallery-structure-hoodie-white-lineup.jpg",
+      "output": "theme/assets/sf-gallery-structure-hoodie-white-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 127893,
+      "webp_bytes": 48448
+    },
+    {
+      "source": "theme/assets/sf-gallery-transit-work-jacket-black-full-480.jpg",
+      "output": "theme/assets/sf-gallery-transit-work-jacket-black-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23037,
+      "webp_bytes": 10496
+    },
+    {
+      "source": "theme/assets/sf-gallery-transit-work-jacket-black-full.jpg",
+      "output": "theme/assets/sf-gallery-transit-work-jacket-black-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 109499,
+      "webp_bytes": 39948
+    },
+    {
+      "source": "theme/assets/sf-gallery-transit-work-jacket-black-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-transit-work-jacket-black-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 29404,
+      "webp_bytes": 14172
+    },
+    {
+      "source": "theme/assets/sf-gallery-transit-work-jacket-black-lineup.jpg",
+      "output": "theme/assets/sf-gallery-transit-work-jacket-black-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 156213,
+      "webp_bytes": 70194
+    },
+    {
+      "source": "theme/assets/sf-gallery-transit-work-jacket-grey-full-480.jpg",
+      "output": "theme/assets/sf-gallery-transit-work-jacket-grey-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25729,
+      "webp_bytes": 12898
+    },
+    {
+      "source": "theme/assets/sf-gallery-transit-work-jacket-grey-full.jpg",
+      "output": "theme/assets/sf-gallery-transit-work-jacket-grey-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 131879,
+      "webp_bytes": 58544
+    },
+    {
+      "source": "theme/assets/sf-gallery-transit-work-jacket-grey-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-transit-work-jacket-grey-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 35002,
+      "webp_bytes": 19016
+    },
+    {
+      "source": "theme/assets/sf-gallery-transit-work-jacket-grey-lineup.jpg",
+      "output": "theme/assets/sf-gallery-transit-work-jacket-grey-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 205735,
+      "webp_bytes": 121140
+    },
+    {
+      "source": "theme/assets/sf-gallery-transit-work-jacket-white-full-480.jpg",
+      "output": "theme/assets/sf-gallery-transit-work-jacket-white-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23476,
+      "webp_bytes": 10774
+    },
+    {
+      "source": "theme/assets/sf-gallery-transit-work-jacket-white-full.jpg",
+      "output": "theme/assets/sf-gallery-transit-work-jacket-white-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 112100,
+      "webp_bytes": 40972
+    },
+    {
+      "source": "theme/assets/sf-gallery-transit-work-jacket-white-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-transit-work-jacket-white-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 28391,
+      "webp_bytes": 13376
+    },
+    {
+      "source": "theme/assets/sf-gallery-transit-work-jacket-white-lineup.jpg",
+      "output": "theme/assets/sf-gallery-transit-work-jacket-white-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 141740,
+      "webp_bytes": 57800
+    },
+    {
+      "source": "theme/assets/sf-gallery-volume-pullover-black-full-480.jpg",
+      "output": "theme/assets/sf-gallery-volume-pullover-black-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22876,
+      "webp_bytes": 10188
+    },
+    {
+      "source": "theme/assets/sf-gallery-volume-pullover-black-full.jpg",
+      "output": "theme/assets/sf-gallery-volume-pullover-black-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 110559,
+      "webp_bytes": 40014
+    },
+    {
+      "source": "theme/assets/sf-gallery-volume-pullover-black-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-volume-pullover-black-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 28144,
+      "webp_bytes": 12732
+    },
+    {
+      "source": "theme/assets/sf-gallery-volume-pullover-black-lineup.jpg",
+      "output": "theme/assets/sf-gallery-volume-pullover-black-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 140325,
+      "webp_bytes": 54936
+    },
+    {
+      "source": "theme/assets/sf-gallery-volume-pullover-grey-full-480.jpg",
+      "output": "theme/assets/sf-gallery-volume-pullover-grey-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23983,
+      "webp_bytes": 11306
+    },
+    {
+      "source": "theme/assets/sf-gallery-volume-pullover-grey-full.jpg",
+      "output": "theme/assets/sf-gallery-volume-pullover-grey-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 124350,
+      "webp_bytes": 51812
+    },
+    {
+      "source": "theme/assets/sf-gallery-volume-pullover-grey-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-volume-pullover-grey-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 31327,
+      "webp_bytes": 14916
+    },
+    {
+      "source": "theme/assets/sf-gallery-volume-pullover-grey-lineup.jpg",
+      "output": "theme/assets/sf-gallery-volume-pullover-grey-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 180334,
+      "webp_bytes": 90668
+    },
+    {
+      "source": "theme/assets/sf-gallery-volume-pullover-white-full-480.jpg",
+      "output": "theme/assets/sf-gallery-volume-pullover-white-full-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 21886,
+      "webp_bytes": 9588
+    },
+    {
+      "source": "theme/assets/sf-gallery-volume-pullover-white-full.jpg",
+      "output": "theme/assets/sf-gallery-volume-pullover-white-full.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 102051,
+      "webp_bytes": 35618
+    },
+    {
+      "source": "theme/assets/sf-gallery-volume-pullover-white-lineup-480.jpg",
+      "output": "theme/assets/sf-gallery-volume-pullover-white-lineup-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 26608,
+      "webp_bytes": 12456
+    },
+    {
+      "source": "theme/assets/sf-gallery-volume-pullover-white-lineup.jpg",
+      "output": "theme/assets/sf-gallery-volume-pullover-white-lineup.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 133803,
+      "webp_bytes": 50984
+    },
+    {
+      "source": "theme/assets/sf-packshot-axis-long-sleeve-black-front-480.jpg",
+      "output": "theme/assets/sf-packshot-axis-long-sleeve-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23906,
+      "webp_bytes": 9708
+    },
+    {
+      "source": "theme/assets/sf-packshot-axis-long-sleeve-black-front.jpg",
+      "output": "theme/assets/sf-packshot-axis-long-sleeve-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 143623,
+      "webp_bytes": 57750
+    },
+    {
+      "source": "theme/assets/sf-packshot-axis-long-sleeve-grey-front-480.jpg",
+      "output": "theme/assets/sf-packshot-axis-long-sleeve-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 28563,
+      "webp_bytes": 12676
+    },
+    {
+      "source": "theme/assets/sf-packshot-axis-long-sleeve-grey-front.jpg",
+      "output": "theme/assets/sf-packshot-axis-long-sleeve-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 206531,
+      "webp_bytes": 129126
+    },
+    {
+      "source": "theme/assets/sf-packshot-axis-long-sleeve-white-front-480.jpg",
+      "output": "theme/assets/sf-packshot-axis-long-sleeve-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 20502,
+      "webp_bytes": 7946
+    },
+    {
+      "source": "theme/assets/sf-packshot-axis-long-sleeve-white-front.jpg",
+      "output": "theme/assets/sf-packshot-axis-long-sleeve-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 123832,
+      "webp_bytes": 41684
+    },
+    {
+      "source": "theme/assets/sf-packshot-contour-crew-black-front-480.jpg",
+      "output": "theme/assets/sf-packshot-contour-crew-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22614,
+      "webp_bytes": 9090
+    },
+    {
+      "source": "theme/assets/sf-packshot-contour-crew-black-front.jpg",
+      "output": "theme/assets/sf-packshot-contour-crew-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 127059,
+      "webp_bytes": 42096
+    },
+    {
+      "source": "theme/assets/sf-packshot-contour-crew-grey-front-480.jpg",
+      "output": "theme/assets/sf-packshot-contour-crew-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 28598,
+      "webp_bytes": 13384
+    },
+    {
+      "source": "theme/assets/sf-packshot-contour-crew-grey-front.jpg",
+      "output": "theme/assets/sf-packshot-contour-crew-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 184314,
+      "webp_bytes": 102750
+    },
+    {
+      "source": "theme/assets/sf-packshot-contour-crew-white-front-480.jpg",
+      "output": "theme/assets/sf-packshot-contour-crew-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 21875,
+      "webp_bytes": 8906
+    },
+    {
+      "source": "theme/assets/sf-packshot-contour-crew-white-front.jpg",
+      "output": "theme/assets/sf-packshot-contour-crew-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 116345,
+      "webp_bytes": 36194
+    },
+    {
+      "source": "theme/assets/sf-packshot-drift-baggy-jean-black-front-480.jpg",
+      "output": "theme/assets/sf-packshot-drift-baggy-jean-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 26338,
+      "webp_bytes": 12394
+    },
+    {
+      "source": "theme/assets/sf-packshot-drift-baggy-jean-black-front.jpg",
+      "output": "theme/assets/sf-packshot-drift-baggy-jean-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 169757,
+      "webp_bytes": 90002
+    },
+    {
+      "source": "theme/assets/sf-packshot-drift-baggy-jean-grey-front-480.jpg",
+      "output": "theme/assets/sf-packshot-drift-baggy-jean-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 38334,
+      "webp_bytes": 27670
+    },
+    {
+      "source": "theme/assets/sf-packshot-drift-baggy-jean-grey-front.jpg",
+      "output": "theme/assets/sf-packshot-drift-baggy-jean-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 252139,
+      "webp_bytes": 174432
+    },
+    {
+      "source": "theme/assets/sf-packshot-drift-baggy-jean-white-front-480.jpg",
+      "output": "theme/assets/sf-packshot-drift-baggy-jean-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23010,
+      "webp_bytes": 10598
+    },
+    {
+      "source": "theme/assets/sf-packshot-drift-baggy-jean-white-front.jpg",
+      "output": "theme/assets/sf-packshot-drift-baggy-jean-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 161667,
+      "webp_bytes": 87392
+    },
+    {
+      "source": "theme/assets/sf-packshot-frame-long-sleeve-black-front-480.jpg",
+      "output": "theme/assets/sf-packshot-frame-long-sleeve-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23109,
+      "webp_bytes": 9660
+    },
+    {
+      "source": "theme/assets/sf-packshot-frame-long-sleeve-black-front.jpg",
+      "output": "theme/assets/sf-packshot-frame-long-sleeve-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 127653,
+      "webp_bytes": 42612
+    },
+    {
+      "source": "theme/assets/sf-packshot-frame-long-sleeve-grey-front-480.jpg",
+      "output": "theme/assets/sf-packshot-frame-long-sleeve-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 26745,
+      "webp_bytes": 11866
+    },
+    {
+      "source": "theme/assets/sf-packshot-frame-long-sleeve-grey-front.jpg",
+      "output": "theme/assets/sf-packshot-frame-long-sleeve-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 154984,
+      "webp_bytes": 68070
+    },
+    {
+      "source": "theme/assets/sf-packshot-frame-long-sleeve-white-front-480.jpg",
+      "output": "theme/assets/sf-packshot-frame-long-sleeve-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 21735,
+      "webp_bytes": 8758
+    },
+    {
+      "source": "theme/assets/sf-packshot-frame-long-sleeve-white-front.jpg",
+      "output": "theme/assets/sf-packshot-frame-long-sleeve-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 112751,
+      "webp_bytes": 33524
+    },
+    {
+      "source": "theme/assets/sf-packshot-grid-cargo-pant-black-front-480.jpg",
+      "output": "theme/assets/sf-packshot-grid-cargo-pant-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24297,
+      "webp_bytes": 10624
+    },
+    {
+      "source": "theme/assets/sf-packshot-grid-cargo-pant-black-front.jpg",
+      "output": "theme/assets/sf-packshot-grid-cargo-pant-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 144175,
+      "webp_bytes": 59726
+    },
+    {
+      "source": "theme/assets/sf-packshot-grid-cargo-pant-grey-front-480.jpg",
+      "output": "theme/assets/sf-packshot-grid-cargo-pant-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 30017,
+      "webp_bytes": 15662
+    },
+    {
+      "source": "theme/assets/sf-packshot-grid-cargo-pant-grey-front.jpg",
+      "output": "theme/assets/sf-packshot-grid-cargo-pant-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 197774,
+      "webp_bytes": 115208
+    },
+    {
+      "source": "theme/assets/sf-packshot-grid-cargo-pant-white-front-480.jpg",
+      "output": "theme/assets/sf-packshot-grid-cargo-pant-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22345,
+      "webp_bytes": 9678
+    },
+    {
+      "source": "theme/assets/sf-packshot-grid-cargo-pant-white-front.jpg",
+      "output": "theme/assets/sf-packshot-grid-cargo-pant-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 137432,
+      "webp_bytes": 58034
+    },
+    {
+      "source": "theme/assets/sf-packshot-interval-utility-short-black-front-480.jpg",
+      "output": "theme/assets/sf-packshot-interval-utility-short-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25242,
+      "webp_bytes": 12244
+    },
+    {
+      "source": "theme/assets/sf-packshot-interval-utility-short-black-front.jpg",
+      "output": "theme/assets/sf-packshot-interval-utility-short-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 166201,
+      "webp_bytes": 94350
+    },
+    {
+      "source": "theme/assets/sf-packshot-interval-utility-short-grey-front-480.jpg",
+      "output": "theme/assets/sf-packshot-interval-utility-short-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 29989,
+      "webp_bytes": 16784
+    },
+    {
+      "source": "theme/assets/sf-packshot-interval-utility-short-grey-front.jpg",
+      "output": "theme/assets/sf-packshot-interval-utility-short-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 213123,
+      "webp_bytes": 146276
+    },
+    {
+      "source": "theme/assets/sf-packshot-interval-utility-short-white-front-480.jpg",
+      "output": "theme/assets/sf-packshot-interval-utility-short-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22675,
+      "webp_bytes": 10880
+    },
+    {
+      "source": "theme/assets/sf-packshot-interval-utility-short-white-front.jpg",
+      "output": "theme/assets/sf-packshot-interval-utility-short-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 142977,
+      "webp_bytes": 68502
+    },
+    {
+      "source": "theme/assets/sf-packshot-offset-heavy-tee-black-front-480.jpg",
+      "output": "theme/assets/sf-packshot-offset-heavy-tee-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 21434,
+      "webp_bytes": 8672
+    },
+    {
+      "source": "theme/assets/sf-packshot-offset-heavy-tee-black-front.jpg",
+      "output": "theme/assets/sf-packshot-offset-heavy-tee-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 134324,
+      "webp_bytes": 58394
+    },
+    {
+      "source": "theme/assets/sf-packshot-offset-heavy-tee-grey-front-480.jpg",
+      "output": "theme/assets/sf-packshot-offset-heavy-tee-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25693,
+      "webp_bytes": 11724
+    },
+    {
+      "source": "theme/assets/sf-packshot-offset-heavy-tee-grey-front.jpg",
+      "output": "theme/assets/sf-packshot-offset-heavy-tee-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 188061,
+      "webp_bytes": 117608
+    },
+    {
+      "source": "theme/assets/sf-packshot-offset-heavy-tee-white-front-480.jpg",
+      "output": "theme/assets/sf-packshot-offset-heavy-tee-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 18120,
+      "webp_bytes": 6832
+    },
+    {
+      "source": "theme/assets/sf-packshot-offset-heavy-tee-white-front.jpg",
+      "output": "theme/assets/sf-packshot-offset-heavy-tee-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 113075,
+      "webp_bytes": 37520
+    },
+    {
+      "source": "theme/assets/sf-packshot-plane-box-tee-black-front-480.jpg",
+      "output": "theme/assets/sf-packshot-plane-box-tee-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 20298,
+      "webp_bytes": 8036
+    },
+    {
+      "source": "theme/assets/sf-packshot-plane-box-tee-black-front.jpg",
+      "output": "theme/assets/sf-packshot-plane-box-tee-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 121074,
+      "webp_bytes": 48294
+    },
+    {
+      "source": "theme/assets/sf-packshot-plane-box-tee-grey-front-480.jpg",
+      "output": "theme/assets/sf-packshot-plane-box-tee-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23982,
+      "webp_bytes": 10800
+    },
+    {
+      "source": "theme/assets/sf-packshot-plane-box-tee-grey-front.jpg",
+      "output": "theme/assets/sf-packshot-plane-box-tee-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 157418,
+      "webp_bytes": 85414
+    },
+    {
+      "source": "theme/assets/sf-packshot-plane-box-tee-white-front-480.jpg",
+      "output": "theme/assets/sf-packshot-plane-box-tee-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 17511,
+      "webp_bytes": 6504
+    },
+    {
+      "source": "theme/assets/sf-packshot-plane-box-tee-white-front.jpg",
+      "output": "theme/assets/sf-packshot-plane-box-tee-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 97159,
+      "webp_bytes": 30698
+    },
+    {
+      "source": "theme/assets/sf-packshot-shell-utility-jacket-black-front-480.jpg",
+      "output": "theme/assets/sf-packshot-shell-utility-jacket-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25160,
+      "webp_bytes": 11192
+    },
+    {
+      "source": "theme/assets/sf-packshot-shell-utility-jacket-black-front.jpg",
+      "output": "theme/assets/sf-packshot-shell-utility-jacket-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 124776,
+      "webp_bytes": 44822
+    },
+    {
+      "source": "theme/assets/sf-packshot-shell-utility-jacket-grey-front-480.jpg",
+      "output": "theme/assets/sf-packshot-shell-utility-jacket-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 31968,
+      "webp_bytes": 16974
+    },
+    {
+      "source": "theme/assets/sf-packshot-shell-utility-jacket-grey-front.jpg",
+      "output": "theme/assets/sf-packshot-shell-utility-jacket-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 158102,
+      "webp_bytes": 70474
+    },
+    {
+      "source": "theme/assets/sf-packshot-shell-utility-jacket-white-front-480.jpg",
+      "output": "theme/assets/sf-packshot-shell-utility-jacket-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 27263,
+      "webp_bytes": 12744
+    },
+    {
+      "source": "theme/assets/sf-packshot-shell-utility-jacket-white-front.jpg",
+      "output": "theme/assets/sf-packshot-shell-utility-jacket-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 129238,
+      "webp_bytes": 48426
+    },
+    {
+      "source": "theme/assets/sf-packshot-structure-hoodie-black-front-480.jpg",
+      "output": "theme/assets/sf-packshot-structure-hoodie-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22937,
+      "webp_bytes": 9448
+    },
+    {
+      "source": "theme/assets/sf-packshot-structure-hoodie-black-front.jpg",
+      "output": "theme/assets/sf-packshot-structure-hoodie-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 141469,
+      "webp_bytes": 60452
+    },
+    {
+      "source": "theme/assets/sf-packshot-structure-hoodie-grey-front-480.jpg",
+      "output": "theme/assets/sf-packshot-structure-hoodie-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 29081,
+      "webp_bytes": 14314
+    },
+    {
+      "source": "theme/assets/sf-packshot-structure-hoodie-grey-front.jpg",
+      "output": "theme/assets/sf-packshot-structure-hoodie-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 210130,
+      "webp_bytes": 134106
+    },
+    {
+      "source": "theme/assets/sf-packshot-structure-hoodie-white-front-480.jpg",
+      "output": "theme/assets/sf-packshot-structure-hoodie-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 18818,
+      "webp_bytes": 7392
+    },
+    {
+      "source": "theme/assets/sf-packshot-structure-hoodie-white-front.jpg",
+      "output": "theme/assets/sf-packshot-structure-hoodie-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 121128,
+      "webp_bytes": 44158
+    },
+    {
+      "source": "theme/assets/sf-packshot-transit-work-jacket-black-front-480.jpg",
+      "output": "theme/assets/sf-packshot-transit-work-jacket-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25536,
+      "webp_bytes": 11628
+    },
+    {
+      "source": "theme/assets/sf-packshot-transit-work-jacket-black-front.jpg",
+      "output": "theme/assets/sf-packshot-transit-work-jacket-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 143545,
+      "webp_bytes": 58820
+    },
+    {
+      "source": "theme/assets/sf-packshot-transit-work-jacket-grey-front-480.jpg",
+      "output": "theme/assets/sf-packshot-transit-work-jacket-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 31934,
+      "webp_bytes": 16924
+    },
+    {
+      "source": "theme/assets/sf-packshot-transit-work-jacket-grey-front.jpg",
+      "output": "theme/assets/sf-packshot-transit-work-jacket-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 195483,
+      "webp_bytes": 109916
+    },
+    {
+      "source": "theme/assets/sf-packshot-transit-work-jacket-white-front-480.jpg",
+      "output": "theme/assets/sf-packshot-transit-work-jacket-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24122,
+      "webp_bytes": 10852
+    },
+    {
+      "source": "theme/assets/sf-packshot-transit-work-jacket-white-front.jpg",
+      "output": "theme/assets/sf-packshot-transit-work-jacket-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 135136,
+      "webp_bytes": 52040
+    },
+    {
+      "source": "theme/assets/sf-packshot-volume-pullover-black-front-480.jpg",
+      "output": "theme/assets/sf-packshot-volume-pullover-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23744,
+      "webp_bytes": 9852
+    },
+    {
+      "source": "theme/assets/sf-packshot-volume-pullover-black-front.jpg",
+      "output": "theme/assets/sf-packshot-volume-pullover-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 127869,
+      "webp_bytes": 44070
+    },
+    {
+      "source": "theme/assets/sf-packshot-volume-pullover-grey-front-480.jpg",
+      "output": "theme/assets/sf-packshot-volume-pullover-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 29370,
+      "webp_bytes": 13858
+    },
+    {
+      "source": "theme/assets/sf-packshot-volume-pullover-grey-front.jpg",
+      "output": "theme/assets/sf-packshot-volume-pullover-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 181544,
+      "webp_bytes": 93414
+    },
+    {
+      "source": "theme/assets/sf-packshot-volume-pullover-white-front-480.jpg",
+      "output": "theme/assets/sf-packshot-volume-pullover-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22529,
+      "webp_bytes": 9184
+    },
+    {
+      "source": "theme/assets/sf-packshot-volume-pullover-white-front.jpg",
+      "output": "theme/assets/sf-packshot-volume-pullover-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 120668,
+      "webp_bytes": 38824
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-black-back-480.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-black-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 20323,
+      "webp_bytes": 9182
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-black-back.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-black-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 113336,
+      "webp_bytes": 50700
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-black-detail-480.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-black-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 52990,
+      "webp_bytes": 46336
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-black-detail.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-black-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 283495,
+      "webp_bytes": 210452
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-black-front-480.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23080,
+      "webp_bytes": 12766
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-black-front.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 114822,
+      "webp_bytes": 52710
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-grey-back-480.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-grey-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23773,
+      "webp_bytes": 11228
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-grey-back.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-grey-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 150681,
+      "webp_bytes": 91414
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-grey-detail-480.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-grey-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 78511,
+      "webp_bytes": 75716
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-grey-detail.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-grey-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 371545,
+      "webp_bytes": 310422
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 29070,
+      "webp_bytes": 18878
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-grey-front.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 157826,
+      "webp_bytes": 98132
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-white-back-480.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-white-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 17209,
+      "webp_bytes": 7464
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-white-back.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-white-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 87519,
+      "webp_bytes": 29640
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-white-detail-480.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-white-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 56540,
+      "webp_bytes": 50732
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-white-detail.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-white-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 289161,
+      "webp_bytes": 210430
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-white-front-480.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22067,
+      "webp_bytes": 12160
+    },
+    {
+      "source": "theme/assets/sf-photo-axis-long-sleeve-white-front.jpg",
+      "output": "theme/assets/sf-photo-axis-long-sleeve-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 101307,
+      "webp_bytes": 41710
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-black-back-480.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-black-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 20165,
+      "webp_bytes": 9298
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-black-back.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-black-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 118954,
+      "webp_bytes": 55260
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-black-detail-480.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-black-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 56797,
+      "webp_bytes": 55726
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-black-detail.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-black-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 280037,
+      "webp_bytes": 222198
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-black-front-480.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22054,
+      "webp_bytes": 11330
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-black-front.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 108149,
+      "webp_bytes": 47524
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-grey-back-480.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-grey-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25321,
+      "webp_bytes": 13402
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-grey-back.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-grey-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 170825,
+      "webp_bytes": 114936
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-grey-detail-480.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-grey-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 81287,
+      "webp_bytes": 84860
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-grey-detail.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-grey-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 379591,
+      "webp_bytes": 344184
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-grey-front-480.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 27696,
+      "webp_bytes": 16970
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-grey-front.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 148719,
+      "webp_bytes": 86614
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-white-back-480.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-white-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 18060,
+      "webp_bytes": 8008
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-white-back.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-white-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 97653,
+      "webp_bytes": 34846
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-white-detail-480.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-white-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 54081,
+      "webp_bytes": 50384
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-white-detail.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-white-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 258121,
+      "webp_bytes": 184490
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-white-front-480.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 21632,
+      "webp_bytes": 11358
+    },
+    {
+      "source": "theme/assets/sf-photo-contour-crew-white-front.jpg",
+      "output": "theme/assets/sf-photo-contour-crew-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 99580,
+      "webp_bytes": 42756
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-black-back-480.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-black-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24035,
+      "webp_bytes": 13062
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-black-back.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-black-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 151876,
+      "webp_bytes": 90512
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-black-detail-480.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-black-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 75799,
+      "webp_bytes": 78404
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-black-detail.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-black-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 378927,
+      "webp_bytes": 331208
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-black-front-480.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 21338,
+      "webp_bytes": 11656
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-black-front.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 109582,
+      "webp_bytes": 55734
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-grey-back-480.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-grey-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 34641,
+      "webp_bytes": 27462
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-grey-back.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-grey-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 226089,
+      "webp_bytes": 174628
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-grey-detail-480.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-grey-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 103039,
+      "webp_bytes": 109084
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-grey-detail.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-grey-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 474173,
+      "webp_bytes": 451330
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-grey-front-480.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24391,
+      "webp_bytes": 14616
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-grey-front.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 130580,
+      "webp_bytes": 81722
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-white-back-480.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-white-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 19822,
+      "webp_bytes": 9988
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-white-back.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-white-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 126348,
+      "webp_bytes": 66410
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-white-detail-480.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-white-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 66564,
+      "webp_bytes": 66480
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-white-detail.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-white-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 337663,
+      "webp_bytes": 266078
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-white-front-480.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 19267,
+      "webp_bytes": 10182
+    },
+    {
+      "source": "theme/assets/sf-photo-drift-baggy-jean-white-front.jpg",
+      "output": "theme/assets/sf-photo-drift-baggy-jean-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 91936,
+      "webp_bytes": 41390
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-black-back-480.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-black-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 20637,
+      "webp_bytes": 9624
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-black-back.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-black-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 114707,
+      "webp_bytes": 48116
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-black-detail-480.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-black-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 42011,
+      "webp_bytes": 34634
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-black-detail.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-black-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 303148,
+      "webp_bytes": 254738
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-black-front-480.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23963,
+      "webp_bytes": 13866
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-black-front.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 119314,
+      "webp_bytes": 57496
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-grey-back-480.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-grey-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24715,
+      "webp_bytes": 12914
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-grey-back.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-grey-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 150643,
+      "webp_bytes": 88520
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-grey-detail-480.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-grey-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 53042,
+      "webp_bytes": 48732
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-grey-detail.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-grey-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 352395,
+      "webp_bytes": 319726
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-grey-front-480.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 30364,
+      "webp_bytes": 20130
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-grey-front.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 166706,
+      "webp_bytes": 105242
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-white-back-480.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-white-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 18882,
+      "webp_bytes": 8566
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-white-back.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-white-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 98370,
+      "webp_bytes": 35334
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-white-detail-480.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-white-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 28873,
+      "webp_bytes": 15914
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-white-detail.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-white-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 245210,
+      "webp_bytes": 189272
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-white-front-480.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23093,
+      "webp_bytes": 13432
+    },
+    {
+      "source": "theme/assets/sf-photo-frame-long-sleeve-white-front.jpg",
+      "output": "theme/assets/sf-photo-frame-long-sleeve-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 110824,
+      "webp_bytes": 50420
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-black-back-480.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-black-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 20920,
+      "webp_bytes": 10208
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-black-back.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-black-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 119753,
+      "webp_bytes": 58462
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-black-detail-480.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-black-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 63634,
+      "webp_bytes": 61478
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-black-detail.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-black-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 347080,
+      "webp_bytes": 285474
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-black-front-480.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 20834,
+      "webp_bytes": 11656
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-black-front.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 101760,
+      "webp_bytes": 48254
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-grey-back-480.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-grey-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 26248,
+      "webp_bytes": 14872
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-grey-back.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-grey-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 171460,
+      "webp_bytes": 113686
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-grey-detail-480.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-grey-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 82096,
+      "webp_bytes": 82128
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-grey-detail.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-grey-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 431114,
+      "webp_bytes": 381752
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-grey-front-480.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23530,
+      "webp_bytes": 13786
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-grey-front.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 113614,
+      "webp_bytes": 58964
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-white-back-480.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-white-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 20327,
+      "webp_bytes": 9908
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-white-back.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-white-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 111336,
+      "webp_bytes": 47586
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-white-detail-480.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-white-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 51758,
+      "webp_bytes": 46064
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-white-detail.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-white-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 274551,
+      "webp_bytes": 177936
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-white-front-480.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 18937,
+      "webp_bytes": 9914
+    },
+    {
+      "source": "theme/assets/sf-photo-grid-cargo-pant-white-front.jpg",
+      "output": "theme/assets/sf-photo-grid-cargo-pant-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 88367,
+      "webp_bytes": 39212
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-black-back-480.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-black-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 21128,
+      "webp_bytes": 10802
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-black-back.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-black-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 132925,
+      "webp_bytes": 81108
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-black-detail-480.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-black-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 70116,
+      "webp_bytes": 68062
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-black-detail.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-black-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 371785,
+      "webp_bytes": 300254
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-black-front-480.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 20585,
+      "webp_bytes": 11522
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-black-front.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 97001,
+      "webp_bytes": 47460
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-grey-back-480.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-grey-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25805,
+      "webp_bytes": 15574
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-grey-back.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-grey-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 187119,
+      "webp_bytes": 148666
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-grey-detail-480.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-grey-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 89375,
+      "webp_bytes": 90964
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-grey-detail.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-grey-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 435647,
+      "webp_bytes": 357812
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-grey-front-480.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22504,
+      "webp_bytes": 13150
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-grey-front.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 103456,
+      "webp_bytes": 53190
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-white-back-480.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-white-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 19130,
+      "webp_bytes": 9538
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-white-back.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-white-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 109992,
+      "webp_bytes": 52558
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-white-detail-480.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-white-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 69117,
+      "webp_bytes": 67240
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-white-detail.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-white-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 345773,
+      "webp_bytes": 245340
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-white-front-480.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 20727,
+      "webp_bytes": 11256
+    },
+    {
+      "source": "theme/assets/sf-photo-interval-utility-short-white-front.jpg",
+      "output": "theme/assets/sf-photo-interval-utility-short-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 91502,
+      "webp_bytes": 43966
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-black-back-480.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-black-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 18344,
+      "webp_bytes": 8280
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-black-back.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-black-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 104502,
+      "webp_bytes": 45358
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-black-detail-480.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-black-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 50562,
+      "webp_bytes": 47944
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-black-detail.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-black-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 314233,
+      "webp_bytes": 260264
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-black-front-480.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24294,
+      "webp_bytes": 13018
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-black-front.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 123778,
+      "webp_bytes": 60304
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-grey-back-480.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-grey-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22689,
+      "webp_bytes": 11848
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-grey-back.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-grey-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 159999,
+      "webp_bytes": 107654
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-grey-detail-480.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-grey-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 79426,
+      "webp_bytes": 83228
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-grey-detail.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-grey-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 432450,
+      "webp_bytes": 402342
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-grey-front-480.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 30171,
+      "webp_bytes": 19680
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-grey-front.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 165645,
+      "webp_bytes": 109388
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-white-back-480.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-white-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 15786,
+      "webp_bytes": 6264
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-white-back.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-white-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 91224,
+      "webp_bytes": 33212
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-white-detail-480.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-white-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 44576,
+      "webp_bytes": 38210
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-white-detail.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-white-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 277573,
+      "webp_bytes": 211988
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-white-front-480.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23608,
+      "webp_bytes": 12220
+    },
+    {
+      "source": "theme/assets/sf-photo-offset-heavy-tee-white-front.jpg",
+      "output": "theme/assets/sf-photo-offset-heavy-tee-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 111676,
+      "webp_bytes": 49118
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-black-back-480.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-black-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 17875,
+      "webp_bytes": 7838
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-black-back.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-black-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 112619,
+      "webp_bytes": 58410
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-black-detail-480.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-black-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 46840,
+      "webp_bytes": 43872
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-black-detail.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-black-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 305352,
+      "webp_bytes": 245898
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-black-front-480.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25909,
+      "webp_bytes": 14772
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-black-front.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 121889,
+      "webp_bytes": 56708
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-grey-back-480.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-grey-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 20630,
+      "webp_bytes": 10318
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-grey-back.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-grey-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 139377,
+      "webp_bytes": 89526
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-grey-detail-480.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-grey-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 71758,
+      "webp_bytes": 75704
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-grey-detail.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-grey-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 428606,
+      "webp_bytes": 390564
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-grey-front-480.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 31580,
+      "webp_bytes": 20172
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-grey-front.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 165253,
+      "webp_bytes": 101098
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-white-back-480.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-white-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 15424,
+      "webp_bytes": 6460
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-white-back.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-white-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 93507,
+      "webp_bytes": 37920
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-white-detail-480.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-white-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 42249,
+      "webp_bytes": 36572
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-white-detail.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-white-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 283624,
+      "webp_bytes": 215784
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-white-front-480.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24812,
+      "webp_bytes": 13892
+    },
+    {
+      "source": "theme/assets/sf-photo-plane-box-tee-white-front.jpg",
+      "output": "theme/assets/sf-photo-plane-box-tee-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 114893,
+      "webp_bytes": 51544
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-black-back-480.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-black-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 19961,
+      "webp_bytes": 9574
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-black-back.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-black-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 109788,
+      "webp_bytes": 47310
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-black-detail-480.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-black-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 38153,
+      "webp_bytes": 25672
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-black-detail.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-black-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 260065,
+      "webp_bytes": 209782
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-black-front-480.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 26945,
+      "webp_bytes": 16056
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-black-front.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 126054,
+      "webp_bytes": 62148
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-grey-back-480.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-grey-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24478,
+      "webp_bytes": 13688
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-grey-back.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-grey-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 133516,
+      "webp_bytes": 68118
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-grey-detail-480.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-grey-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 46871,
+      "webp_bytes": 35222
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-grey-detail.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-grey-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 291882,
+      "webp_bytes": 239864
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-grey-front-480.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 30796,
+      "webp_bytes": 19268
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-grey-front.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 142795,
+      "webp_bytes": 75962
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-white-back-480.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-white-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 19174,
+      "webp_bytes": 9308
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-white-back.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-white-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 98041,
+      "webp_bytes": 37124
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-white-detail-480.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-white-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 36614,
+      "webp_bytes": 23938
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-white-detail.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-white-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 209070,
+      "webp_bytes": 138250
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-white-front-480.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 27536,
+      "webp_bytes": 16076
+    },
+    {
+      "source": "theme/assets/sf-photo-shell-utility-jacket-white-front.jpg",
+      "output": "theme/assets/sf-photo-shell-utility-jacket-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 123138,
+      "webp_bytes": 58474
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-black-back-480.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-black-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 19449,
+      "webp_bytes": 8880
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-black-back.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-black-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 114137,
+      "webp_bytes": 54194
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-black-detail-480.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-black-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 45732,
+      "webp_bytes": 40050
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-black-detail.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-black-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 280893,
+      "webp_bytes": 225928
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-black-front-480.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24864,
+      "webp_bytes": 13276
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-black-front.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 130614,
+      "webp_bytes": 67244
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-grey-back-480.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-grey-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 23823,
+      "webp_bytes": 12180
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-grey-back.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-grey-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 168128,
+      "webp_bytes": 117166
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-grey-detail-480.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-grey-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 68628,
+      "webp_bytes": 71138
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-grey-detail.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-grey-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 382192,
+      "webp_bytes": 352442
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-grey-front-480.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 30057,
+      "webp_bytes": 18806
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-grey-front.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 177786,
+      "webp_bytes": 118212
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-white-back-480.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-white-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 16034,
+      "webp_bytes": 7002
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-white-back.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-white-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 88622,
+      "webp_bytes": 30718
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-white-detail-480.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-white-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 39315,
+      "webp_bytes": 30622
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-white-detail.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-white-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 251749,
+      "webp_bytes": 189004
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-white-front-480.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22669,
+      "webp_bytes": 12088
+    },
+    {
+      "source": "theme/assets/sf-photo-structure-hoodie-white-front.jpg",
+      "output": "theme/assets/sf-photo-structure-hoodie-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 108058,
+      "webp_bytes": 49560
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-black-back-480.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-black-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 20551,
+      "webp_bytes": 9818
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-black-back.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-black-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 128061,
+      "webp_bytes": 63890
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-black-detail-480.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-black-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 65740,
+      "webp_bytes": 72118
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-black-detail.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-black-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 341710,
+      "webp_bytes": 298358
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-black-front-480.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25678,
+      "webp_bytes": 14450
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-black-front.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 125690,
+      "webp_bytes": 61512
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-grey-back-480.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-grey-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 25746,
+      "webp_bytes": 14698
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-grey-back.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-grey-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 174308,
+      "webp_bytes": 119080
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-grey-detail-480.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-grey-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 84664,
+      "webp_bytes": 91590
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-grey-detail.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-grey-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 405848,
+      "webp_bytes": 382188
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-grey-front-480.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 31043,
+      "webp_bytes": 20218
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-grey-front.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 164063,
+      "webp_bytes": 101684
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-white-back-480.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-white-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 17416,
+      "webp_bytes": 8004
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-white-back.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-white-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 102345,
+      "webp_bytes": 39062
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-white-detail-480.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-white-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 55397,
+      "webp_bytes": 57306
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-white-detail.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-white-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 309122,
+      "webp_bytes": 244590
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-white-front-480.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24197,
+      "webp_bytes": 13432
+    },
+    {
+      "source": "theme/assets/sf-photo-transit-work-jacket-white-front.jpg",
+      "output": "theme/assets/sf-photo-transit-work-jacket-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 114747,
+      "webp_bytes": 50056
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-black-back-480.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-black-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 20880,
+      "webp_bytes": 9528
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-black-back.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-black-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 126931,
+      "webp_bytes": 63894
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-black-detail-480.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-black-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 48516,
+      "webp_bytes": 47318
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-black-detail.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-black-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 298332,
+      "webp_bytes": 252802
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-black-front-480.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-black-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24268,
+      "webp_bytes": 13316
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-black-front.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-black-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 117452,
+      "webp_bytes": 53824
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-grey-back-480.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-grey-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 24515,
+      "webp_bytes": 12268
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-grey-back.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-grey-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 164753,
+      "webp_bytes": 104392
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-grey-detail-480.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-grey-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 72544,
+      "webp_bytes": 76360
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-grey-detail.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-grey-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 391704,
+      "webp_bytes": 367902
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-grey-front-480.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-grey-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 30005,
+      "webp_bytes": 18676
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-grey-front.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-grey-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 158093,
+      "webp_bytes": 93048
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-white-back-480.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-white-back-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 17909,
+      "webp_bytes": 7698
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-white-back.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-white-back.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 99595,
+      "webp_bytes": 36700
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-white-detail-480.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-white-detail-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 48047,
+      "webp_bytes": 46556
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-white-detail.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-white-detail.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 286719,
+      "webp_bytes": 232258
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-white-front-480.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-white-front-480.webp",
+      "width": 480,
+      "height": 600,
+      "alpha": false,
+      "original_bytes": 22549,
+      "webp_bytes": 12488
+    },
+    {
+      "source": "theme/assets/sf-photo-volume-pullover-white-front.jpg",
+      "output": "theme/assets/sf-photo-volume-pullover-white-front.webp",
+      "width": 1122,
+      "height": 1402,
+      "alpha": false,
+      "original_bytes": 105511,
+      "webp_bytes": 45692
+    },
+    {
+      "source": "theme/assets/sideform-campaign-branded-750.jpg",
+      "output": "theme/assets/sideform-campaign-branded-750.webp",
+      "width": 750,
+      "height": 505,
+      "alpha": false,
+      "original_bytes": 61642,
+      "webp_bytes": 37614
+    },
+    {
+      "source": "theme/assets/sideform-campaign-branded.jpg",
+      "output": "theme/assets/sideform-campaign-branded.webp",
+      "width": 1529,
+      "height": 1029,
+      "alpha": false,
+      "original_bytes": 232357,
+      "webp_bytes": 116504
+    },
+    {
+      "source": "theme/assets/sideform-campaign.png",
+      "output": "theme/assets/sideform-campaign.webp",
+      "width": 1382,
+      "height": 931,
+      "alpha": true,
+      "original_bytes": 1814086,
+      "webp_bytes": 1112500
+    },
+    {
+      "source": "theme/assets/sideform-symbol.png",
+      "output": "theme/assets/sideform-symbol.webp",
+      "width": 58,
+      "height": 47,
+      "alpha": true,
+      "original_bytes": 4012,
+      "webp_bytes": 2506
+    }
+  ]
+}
