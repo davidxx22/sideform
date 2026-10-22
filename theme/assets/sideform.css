@@ -772,10 +772,11 @@ body>#MainContent{flex:1 0 auto}
  .sf-category-card .sf-category-card__copy,.sf-category-card--jackets .sf-category-card__copy{padding:14px}
 }
 
-/* Keep matching CTA dimensions on laptop/desktop; retain earlier mobile sizing. */
-@media(min-width:990px){
- .sf-campaign .button,.sf-editorial .button{display:inline-flex;box-sizing:border-box;width:152px;min-width:152px;height:48px;min-height:48px;padding:0 12px;font-size:11px;line-height:1.2;white-space:nowrap;align-items:center;justify-content:center;text-align:center;gap:0}
-}
+/* Match all homepage shopping buttons within each screen range. */
+.sf-campaign,.sf-editorial{--sf-cta-width:152px;--sf-cta-height:48px}
+.sf-campaign .button,.sf-editorial .button{display:inline-flex;box-sizing:border-box;width:var(--sf-cta-width);min-width:var(--sf-cta-width);height:var(--sf-cta-height);min-height:var(--sf-cta-height);padding:0 12px;font-size:11px;line-height:1.2;white-space:nowrap;align-items:center;justify-content:center;text-align:center;gap:0;background:#fafaf7;color:#20231f}
+@media(min-width:750px) and (max-width:989px){.sf-campaign,.sf-editorial{--sf-cta-width:144px;--sf-cta-height:44px}}
+@media(max-width:749px){.sf-campaign,.sf-editorial{--sf-cta-width:128px;--sf-cta-height:44px}}
 
 /* Category captions sit below a separately cropped, zoomable photograph. */
 .sf-category-card{aspect-ratio:auto;background:transparent;overflow:visible;color:#20231f}
