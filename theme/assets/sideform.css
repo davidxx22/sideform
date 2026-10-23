@@ -845,3 +845,12 @@ body>#MainContent{flex:1 0 auto}
  .sf-product-page .product__title h1,.product__title h2{font-size:28px}
  .sf-product-page .price--large{font-size:26px}
 }
+
+/* Readable collection and search navigation at every viewport. */
+.sf-collection-links a,.sf-search-tabs>a{font-size:17px;font-weight:500;line-height:1.4;letter-spacing:0;color:#484c46;min-height:48px}
+.sf-collection-links .is-current,.sf-search-tabs>a.is-current{font-weight:600;color:#20231f}
+.sf-search-tabs{flex-wrap:wrap;gap:0 24px;white-space:normal;overflow-x:visible}
+@media(max-width:749px){
+ .sf-collection-links a,.sf-search-tabs>a{font-size:16px}
+ .sf-collection-links,.sf-search-tabs{gap:0 20px}
+}
