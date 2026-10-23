@@ -854,3 +854,5 @@ body>#MainContent{flex:1 0 auto}
  .sf-collection-links a,.sf-search-tabs>a{font-size:16px}
  .sf-collection-links,.sf-search-tabs{gap:0 20px}
 }
+
+@media(max-width:989px){.sf-shop-categories{flex-wrap:wrap;overflow-x:visible;white-space:normal;max-width:100%}}
