@@ -15,7 +15,7 @@ body{letter-spacing:0;font-family:Arial,Helvetica,sans-serif}h1,h2,h3,.h0,.h1,.h
 .sf-featured-centered>.collection__title{text-align:center;margin-bottom:3rem}
 .sf-featured-centered .collection__title .title{font-weight:400;letter-spacing:-.035em;font-size:clamp(3.2rem,3.2vw,4.8rem)}
 .sf-collection-links{display:flex;justify-content:center;flex-wrap:wrap;gap:1rem 3.2rem;margin:0 auto 5rem}
-.sf-collection-links a{text-transform:uppercase;font-size:1.1rem;letter-spacing:.07em;text-decoration:none;color:#686b65;min-height:44px;display:inline-flex;align-items:center;border-bottom:1px solid transparent}
+.sf-collection-links a{text-transform:none;font-size:1.1rem;letter-spacing:.07em;text-decoration:none;color:#686b65;min-height:44px;display:inline-flex;align-items:center;border-bottom:1px solid transparent}
 .sf-collection-links a:hover,.sf-collection-links .is-current{color:#20231f;border-color:currentColor}
 #MainContent .sf-featured-centered.collection--full-width slider-component{width:100%;max-width:1800px;margin-inline:auto;padding-inline:5vw}
 .sf-featured-centered .product-grid{--grid-desktop-horizontal-spacing:8px;--grid-desktop-vertical-spacing:4rem}
@@ -479,7 +479,7 @@ body>#MainContent{flex:1 0 auto}
 .sf-search-browse{grid-column:1/-1;min-width:0}
 .search-modal__content:has(input[name=q]:not(:placeholder-shown))>.sf-search-browse{display:none}
 .sf-search-tabs{display:flex;gap:28px;border-bottom:1px solid var(--sf-line);overflow-x:auto;white-space:nowrap;margin-bottom:28px}
-.sf-search-tabs>a{display:flex;align-items:center;min-height:48px;color:#60635c;text-transform:uppercase;font-size:1.2rem;letter-spacing:.05em;text-decoration:none;border-bottom:2px solid transparent}
+.sf-search-tabs>a{display:flex;align-items:center;min-height:48px;color:#60635c;text-transform:none;font-size:1.2rem;letter-spacing:.05em;text-decoration:none;border-bottom:2px solid transparent}
 .sf-search-tabs>a.is-current{border-color:#20231f;color:#20231f;font-weight:600}
 .sf-search-browse__heading{display:flex;justify-content:space-between;align-items:center;gap:16px;margin-bottom:24px}
 .sf-search-browse__heading h2{font-size:2.6rem;margin:0;font-weight:600;letter-spacing:-.025em}

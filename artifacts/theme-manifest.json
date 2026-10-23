@@ -3693,7 +3693,7 @@
   },
   {
     "path": "theme/assets/sideform.css",
-    "sha256": "7305aed2c8214b86081e38915d2030f358a8f05079842f907af8c9734411a9f4"
+    "sha256": "0ed3dd089f5958fc073214da48ef9e3b778e9e07ac40b9a1894db040a71336a2"
   },
   {
     "path": "theme/assets/sideform.js",
@@ -4329,7 +4329,7 @@
   },
   {
     "path": "theme/snippets/sf-collection-links.liquid",
-    "sha256": "2d2b3be9ad7b7bf04e7eb8deb71d720d1494de12f04389705a55d6c4a8019754"
+    "sha256": "3350d4658623b06aa7d0b0e3c4852d8bca577642022744f1f99482f15a8f12df"
   },
   {
     "path": "theme/snippets/sf-favorite-button.liquid",
@@ -4365,7 +4365,7 @@
   },
   {
     "path": "theme/snippets/sf-shop-categories.liquid",
-    "sha256": "467f8f9e06c45fc9cc37a624c4f74b815d676a7ec4aadea33d84831639ef75ae"
+    "sha256": "db420dc84cff7100d8ea6d66c41d52942c6fa574aa4d1d58be4e846f3412b099"
   },
   {
     "path": "theme/snippets/sf-size-guide.liquid",
