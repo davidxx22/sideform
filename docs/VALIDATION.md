@@ -270,3 +270,10 @@ Validation: scripts/test-six-photo-gallery.cjs passed all 12 product orders, des
 Product card names now use 600 weight and 14/15/17/18px sizes across small phone, phone, tablet and desktop layouts. Prices use bold 700 weight, 15/16/17/18px sizes and reduced letter spacing. Product detail titles and prices are larger and bolder, and cart/favorite names share the stronger weight. Product-type labels and homepage categories use sentence case. Removed the Collection 001 / Off the grid note below Favorites from every product page; the collection identifier above the title remains.
 
 Verified home, collection and search cards at 320, 390, 768, 1440 and 1920px: computed type styles, sentence casing and no horizontal overflow. Verified all 12 products omit the removed note. Desktop/mobile screenshots and results are in artifacts/product-typography-*. Shopify Theme Check completed with zero errors and 12 existing warnings.
+
+
+## Page-load and scroll entrances
+
+sf-motion.js adds one-time 520ms fade/up entrances with a 14px offset and capped sibling staggering. Hero text enters on load; category cards, product cards, editorial tiles, section headings and footer columns enter on scroll. It uses IntersectionObserver and the Web Animations API; content is visible by default and no layout dimensions are animated. Main content mutations register newly loaded cards. Reduced motion disables entrances and cancels running ones; keyboard focus cancels an entrance immediately. Shopify design mode skips the custom effects, and existing Dawn scroll-trigger elements are excluded to avoid duplicate animation. The Vercel preview loads the same script as the Shopify layout.
+
+Validation: scripts/test-motion.cjs checks Chrome/WebKit at 390 and 1440px, hero entrance, scroll entrances without replay, dynamically inserted cards, keyboard focus, reduced-motion changes, no-JavaScript content visibility, collection and product pages, no horizontal overflow and no page errors.

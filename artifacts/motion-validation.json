@@ -1,0 +1,46 @@
+[
+  {
+    "engine": "chromium",
+    "width": 390,
+    "pageLoad": true,
+    "scrollOnce": true,
+    "dynamicCards": true,
+    "keyboard": true,
+    "reducedMotion": true,
+    "preferenceChange": true,
+    "noJSVisible": true
+  },
+  {
+    "engine": "chromium",
+    "width": 1440,
+    "pageLoad": true,
+    "scrollOnce": true,
+    "dynamicCards": true,
+    "keyboard": true,
+    "reducedMotion": true,
+    "preferenceChange": true,
+    "noJSVisible": true
+  },
+  {
+    "engine": "webkit",
+    "width": 390,
+    "pageLoad": true,
+    "scrollOnce": true,
+    "dynamicCards": true,
+    "keyboard": true,
+    "reducedMotion": true,
+    "preferenceChange": true,
+    "noJSVisible": true
+  },
+  {
+    "engine": "webkit",
+    "width": 1440,
+    "pageLoad": true,
+    "scrollOnce": true,
+    "dynamicCards": true,
+    "keyboard": true,
+    "reducedMotion": true,
+    "preferenceChange": true,
+    "noJSVisible": true
+  }
+]

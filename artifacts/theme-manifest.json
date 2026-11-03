@@ -2512,6 +2512,10 @@
     "sha256": "03fa3b58bfe95d11036d7e9b3e0e2156ab837ceab01edffbe3ffad11fe952ab6"
   },
   {
+    "path": "theme/assets/sf-motion.js",
+    "sha256": "f0d6e7fe114678edf84afc9d24f9a80bb6a37edb223faebe6f8b565beca18322"
+  },
+  {
     "path": "theme/assets/sf-packshot-axis-long-sleeve-black-front-480.webp",
     "sha256": "3866ed1507136508e080c60158ff73509f3b2fc843f3573e304a99f1e8c792d6"
   },
@@ -3741,7 +3745,7 @@
   },
   {
     "path": "theme/layout/theme.liquid",
-    "sha256": "30912eb8c3452136dc66436117f9c8bde92905eb65a689474958e5b21037d76a"
+    "sha256": "dc68669298beed0f71a631306fcd9be28e0a83b31f230888c5d698521dacf921"
   },
   {
     "path": "theme/locales/bg.json",
