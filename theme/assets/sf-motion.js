@@ -1,4 +1,4 @@
-/* One-time entrances; content stays visible without JavaScript or animation support. */
+/* Repeatable, gentle entrances; content stays visible without JavaScript or animation support. */
 (() => {
   const preference = window.matchMedia('(prefers-reduced-motion: reduce)');
   if (!window.IntersectionObserver || !Element.prototype.animate) return;
@@ -11,37 +11,55 @@
     '.sf-footer__grid > div', '.main-page-title',
     '.product-recommendations .grid__item'
   ].join(',');
-  const revealed = new WeakSet();
+  let entered = new WeakSet();
+  const active = new WeakMap();
   let observed = new WeakSet();
   const animations = new Set();
   let frame;
   const observer = new IntersectionObserver(entries => {
     entries.forEach(({ target, isIntersecting }) => {
       if (!isIntersecting || !target.isConnected) return;
-      observer.unobserve(target);
-      if (preference.matches || revealed.has(target)) return;
-      revealed.add(target);
+      if (preference.matches || entered.has(target)) return;
+      entered.add(target);
       // Restored scroll positions should not animate content already passed.
       if (target.getBoundingClientRect().bottom <= 0 || target.contains(document.activeElement)) return;
       const siblings = [...target.parentElement.children].filter(e => e.matches(selector));
-      const delay = Math.max(0, Math.min(siblings.indexOf(target), 3)) * 55;
+      const delay = Math.max(0, Math.min(siblings.indexOf(target), 3)) * 35;
       const animation = target.animate([
-        { opacity: 0, translate: '0 14px' },
+        { opacity: 0.15, translate: '0 10px' },
         { opacity: 1, translate: '0 0' }
-      ], { duration: 520, delay, easing: 'cubic-bezier(.2,.7,.2,1)', fill: 'backwards' });
+      ], { duration: 720, delay, easing: 'cubic-bezier(.22,1,.36,1)', fill: 'backwards' });
       animations.add(animation);
-      const finish = () => animations.delete(animation);
+      active.set(target, animation);
+      const finish = () => {
+        animations.delete(animation);
+        if (active.get(target) === animation) active.delete(target);
+      };
       animation.addEventListener('finish', finish, { once: true });
       animation.addEventListener('cancel', finish, { once: true });
     });
-  }, { threshold: 0, rootMargin: '0px 0px -24px 0px' });
+  }, { threshold: 0, rootMargin: '0px 0px -48px 0px' });
+  // Re-arm only after leaving the real viewport plus a small buffer. Keeping
+  // exit detection separate prevents entrance translation from retriggering it.
+  const exitObserver = new IntersectionObserver(entries => {
+    entries.forEach(({ target, isIntersecting }) => {
+      if (isIntersecting) return;
+      entered.delete(target);
+      active.get(target)?.cancel();
+      if (!target.isConnected) {
+        observer.unobserve(target);
+        exitObserver.unobserve(target);
+      }
+    });
+  }, { rootMargin: '48px 0px' });
   function scan() {
     frame = undefined;
     if (preference.matches || window.Shopify?.designMode) return;
     document.querySelectorAll('#MainContent ' + selector.split(',').join(', #MainContent ') + ', .sf-footer__grid > div').forEach(element => {
-      if (observed.has(element) || revealed.has(element) || element.closest('.scroll-trigger')) return;
+      if (observed.has(element) || element.closest('.scroll-trigger')) return;
       observed.add(element);
       observer.observe(element);
+      exitObserver.observe(element);
     });
   }
   function schedule() {
@@ -61,6 +79,8 @@
     });
     preference.addEventListener('change', () => {
       observer.disconnect();
+      exitObserver.disconnect();
+      entered = new WeakSet();
       observed = new WeakSet();
       animations.forEach(animation => animation.cancel());
       animations.clear();

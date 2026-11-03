@@ -19,7 +19,7 @@ const { chromium, webkit } = require('../tooling/node_modules/playwright');
       window.sfMotionCalls = [];
       const native = Element.prototype.animate;
       Element.prototype.animate = function(frames, options) {
-       if (options?.duration === 520) window.sfMotionCalls.push({ element: this, frames, options });
+       if (options?.duration === 720) window.sfMotionCalls.push({ element: this, frames, options });
        return native.call(this, frames, options);
       };
      });
@@ -27,17 +27,21 @@ const { chromium, webkit } = require('../tooling/node_modules/playwright');
      await page.waitForFunction(() => sfMotionCalls.some(c => c.element.matches('.sf-campaign__copy > *')));
      // Keyboard focus immediately cancels an entrance on its actionable element.
      await page.locator('.sf-campaign__copy .button').focus();
-     assert.equal(await page.locator('.sf-campaign__copy .button').evaluate(e => e.getAnimations().filter(a => a.effect?.getTiming().duration === 520).length), 0);
+     assert.equal(await page.locator('.sf-campaign__copy .button').evaluate(e => e.getAnimations().filter(a => a.effect?.getTiming().duration === 720).length), 0);
      await page.locator('.sf-category-grid').scrollIntoViewIfNeeded();
      await page.waitForFunction(() => sfMotionCalls.some(c => c.element.matches('.sf-category-grid > li')));
      await page.locator('.sf-arrivals-section').scrollIntoViewIfNeeded();
      await page.waitForFunction(() => sfMotionCalls.some(c => c.element.matches('.sf-arrivals-section .product-grid > li')));
-     await page.waitForTimeout(800);
+     await page.waitForTimeout(900);
+     const beforeReplay = await page.evaluate(() => sfMotionCalls.filter(c => c.element.matches('.sf-arrivals-section .product-grid > li')).length);
      await page.evaluate(() => scrollTo(0, 0));
-     await page.waitForTimeout(100);
-     await page.locator('.sf-arrivals-section').scrollIntoViewIfNeeded();
-     await page.waitForTimeout(100);
-     assert(await page.evaluate(() => new Set(sfMotionCalls.map(c => c.element)).size === sfMotionCalls.length), 'No element replays when scrolling back');
+     await page.waitForTimeout(150);
+     await page.locator('.sf-arrivals-section .product-grid > li').first().scrollIntoViewIfNeeded();
+     await page.waitForFunction(before => sfMotionCalls.filter(c => c.element.matches('.sf-arrivals-section .product-grid > li')).length > before, beforeReplay);
+     await page.waitForTimeout(900);
+     const resting = await page.evaluate(() => sfMotionCalls.length);
+     await page.waitForTimeout(200);
+     assert.equal(await page.evaluate(() => sfMotionCalls.length), resting, 'No repeat or flicker while resting in view');
      // Product cards inserted by section/AJAX updates are discovered automatically.
      await page.locator('.sf-arrivals-section .product-grid').evaluate(grid => {
       const clone = grid.firstElementChild.cloneNode(true);
@@ -48,7 +52,7 @@ const { chromium, webkit } = require('../tooling/node_modules/playwright');
      await page.waitForFunction(() => sfMotionCalls.some(c => c.element.matches('[data-motion-test]')));
      await page.emulateMedia({ reducedMotion: 'reduce' });
      await page.waitForTimeout(100);
-     assert.equal(await page.evaluate(() => document.getAnimations().filter(a => a.effect?.getTiming().duration === 520).length), 0);
+     assert.equal(await page.evaluate(() => document.getAnimations().filter(a => a.effect?.getTiming().duration === 720).length), 0);
      await page.reload();
      await page.locator('.sf-arrivals-section').scrollIntoViewIfNeeded();
      await page.waitForTimeout(150);
@@ -68,7 +72,7 @@ const { chromium, webkit } = require('../tooling/node_modules/playwright');
      assert.equal(await noJS.locator('.sf-campaign__copy h1').evaluate(e => getComputedStyle(e).opacity), '1');
      assert.equal(await noJS.locator('.sf-arrivals-section').evaluate(e => getComputedStyle(e).opacity), '1');
      await noJS.close();
-     report.push({ engine, width, pageLoad: true, scrollOnce: true, dynamicCards: true, keyboard: true, reducedMotion: true, preferenceChange: true, noJSVisible: true });
+     report.push({ engine, width, pageLoad: true, scrollReplay: true, stableInView: true, dynamicCards: true, keyboard: true, reducedMotion: true, preferenceChange: true, noJSVisible: true });
      console.log('PASS motion', engine, width);
     }
    } finally { await browser.close(); }
