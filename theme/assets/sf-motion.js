@@ -25,10 +25,18 @@
       if (target.getBoundingClientRect().bottom <= 0 || target.contains(document.activeElement)) return;
       const siblings = [...target.parentElement.children].filter(e => e.matches(selector));
       const delay = Math.max(0, Math.min(siblings.indexOf(target), 3)) * 35;
-      const animation = target.animate([
-        { opacity: 0.15, translate: '0 10px' },
-        { opacity: 1, translate: '0 0' }
-      ], { duration: 720, delay, easing: 'cubic-bezier(.22,1,.36,1)', fill: 'backwards' });
+      const imageCard = target.matches('.sf-category-grid > li, .sf-arrivals-section .product-grid > li, #product-grid > .grid__item, .sf-editorial__tile, .product-recommendations .grid__item');
+      const image = imageCard ? target.querySelector('img') : null;
+      // Keep photographs fully opaque and their captions stationary. Only the
+      // photograph gently settles from a slightly closer crop inside its frame.
+      const animation = image
+        ? image.animate([{ scale: 1.025 }, { scale: 1 }], {
+          duration: 1000, easing: 'cubic-bezier(.25,.46,.45,.94)', fill: 'backwards'
+        })
+        : target.animate([
+          { opacity: 0.15, translate: '0 10px' },
+          { opacity: 1, translate: '0 0' }
+        ], { duration: 720, delay, easing: 'cubic-bezier(.22,1,.36,1)', fill: 'backwards' });
       animations.add(animation);
       active.set(target, animation);
       const finish = () => {
@@ -73,6 +81,7 @@
     window.addEventListener('pageshow', schedule);
     // Reveal focused items immediately so keyboard navigation is never obscured.
     document.addEventListener('focusin', event => {
+      active.get(event.target.closest(selector))?.cancel();
       animations.forEach(animation => {
         if (animation.effect?.target.contains(event.target)) animation.cancel();
       });
