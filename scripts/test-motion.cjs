@@ -19,7 +19,7 @@ const { chromium, webkit } = require('../tooling/node_modules/playwright');
       window.sfMotionCalls = [];
       const native = Element.prototype.animate;
       Element.prototype.animate = function(frames, options) {
-       if ([720, 1000].includes(options?.duration)) window.sfMotionCalls.push({ element: this, frames, options });
+       if (options?.duration === 720) window.sfMotionCalls.push({ element: this, frames, options });
        return native.call(this, frames, options);
       };
      });
@@ -28,33 +28,32 @@ const { chromium, webkit } = require('../tooling/node_modules/playwright');
      // Keyboard focus immediately cancels an entrance on its actionable element.
      await page.locator('.sf-campaign__copy .button').focus();
      assert.equal(await page.locator('.sf-campaign__copy .button').evaluate(e => e.getAnimations().filter(a => a.effect?.getTiming().duration === 720).length), 0);
-     await page.locator('.sf-category-grid').scrollIntoViewIfNeeded();
-     await page.waitForFunction(() => sfMotionCalls.some(c => c.element.closest('.sf-category-grid > li')));
-     await page.locator('.sf-arrivals-section').scrollIntoViewIfNeeded();
-     await page.waitForFunction(() => sfMotionCalls.some(c => c.element.closest('.sf-arrivals-section .product-grid > li')));
-     await page.waitForTimeout(1100);
-     const beforeReplay = await page.evaluate(() => sfMotionCalls.filter(c => c.element.closest('.sf-arrivals-section .product-grid > li')).length);
+     const category = page.locator('.sf-category-grid > li:has(.sf-category-card--jackets)');
+     await category.scrollIntoViewIfNeeded();
+     await page.waitForFunction(() => document.querySelector('.sf-category-grid > li:has(.sf-category-card--jackets)')?.hasAttribute('data-sf-photo-visible'));
+     const arrival = '.sf-arrivals-section .product-grid > li';
+     await page.locator(arrival).first().scrollIntoViewIfNeeded();
+     await page.waitForFunction(sel => document.querySelector(sel)?.hasAttribute('data-sf-photo-visible'), arrival);
+     assert.equal(await page.locator(arrival).first().evaluate(e => getComputedStyle(e).transitionDuration), width <= 700 ? '0.36s' : '0.48s');
+     assert.equal(await page.locator(arrival).first().locator('.product-card-wrapper').evaluate(e => getComputedStyle(e).transitionDuration), width <= 700 ? '0.38s' : '0.56s');
+     assert.equal(await page.locator(arrival).first().locator('img').first().evaluate(e => getComputedStyle(e).scale), 'none');
      await page.evaluate(() => scrollTo(0, 0));
-     await page.waitForTimeout(150);
-     await page.locator('.sf-arrivals-section .product-grid > li').first().scrollIntoViewIfNeeded();
-     await page.waitForFunction(before => sfMotionCalls.filter(c => c.element.closest('.sf-arrivals-section .product-grid > li')).length > before, beforeReplay);
-     await page.waitForTimeout(1100);
-     const resting = await page.evaluate(() => sfMotionCalls.length);
-     await page.waitForTimeout(200);
-     assert.equal(await page.evaluate(() => sfMotionCalls.length), resting, 'No repeat or flicker while resting in view');
-     assert(await page.evaluate(() => sfMotionCalls.filter(c => c.element.tagName === 'IMG').every(c => c.frames.every(f => 'scale' in f && !('opacity' in f) && !('translate' in f)))), 'Images only zoom; no fade or vertical flick');
-     assert.equal(await page.locator('.sf-arrivals-section .product-grid > li').first().evaluate(e => getComputedStyle(e).opacity), '1');
-     // Product cards inserted by section/AJAX updates are discovered automatically.
+     await page.waitForFunction(sel => !document.querySelector(sel)?.hasAttribute('data-sf-photo-visible'), arrival);
+     await page.locator(arrival).first().scrollIntoViewIfNeeded();
+     await page.waitForFunction(sel => document.querySelector(sel)?.hasAttribute('data-sf-photo-visible'), arrival);
      await page.locator('.sf-arrivals-section .product-grid').evaluate(grid => {
       const clone = grid.firstElementChild.cloneNode(true);
+      clone.removeAttribute('data-sf-photo-visible');
+      clone.removeAttribute('data-sf-photo-reveal');
       clone.dataset.motionTest = 'true';
       grid.append(clone);
      });
      await page.locator('[data-motion-test]').scrollIntoViewIfNeeded();
-     await page.waitForFunction(() => sfMotionCalls.some(c => c.element.closest('[data-motion-test]')));
+     await page.waitForFunction(() => document.querySelector('[data-motion-test]')?.hasAttribute('data-sf-photo-visible'));
      await page.emulateMedia({ reducedMotion: 'reduce' });
      await page.waitForTimeout(100);
      assert.equal(await page.evaluate(() => document.getAnimations().filter(a => a.effect?.getTiming().duration >= 720).length), 0);
+     assert.equal(await page.locator('[data-sf-photo-reveal]').count(), 0);
      await page.reload();
      await page.locator('.sf-arrivals-section').scrollIntoViewIfNeeded();
      await page.waitForTimeout(150);
@@ -74,7 +73,7 @@ const { chromium, webkit } = require('../tooling/node_modules/playwright');
      assert.equal(await noJS.locator('.sf-campaign__copy h1').evaluate(e => getComputedStyle(e).opacity), '1');
      assert.equal(await noJS.locator('.sf-arrivals-section').evaluate(e => getComputedStyle(e).opacity), '1');
      await noJS.close();
-     report.push({ engine, width, pageLoad: true, scrollReplay: true, stableInView: true, imageZoomOnly: true, dynamicCards: true, keyboard: true, reducedMotion: true, preferenceChange: true, noJSVisible: true });
+     report.push({ engine, width, pageLoad: true, scrollReplay: true, imageFadeAndCardRise: true, dynamicCards: true, keyboard: true, reducedMotion: true, preferenceChange: true, noJSVisible: true });
      console.log('PASS motion', engine, width);
     }
    } finally { await browser.close(); }
