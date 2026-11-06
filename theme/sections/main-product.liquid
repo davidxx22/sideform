@@ -89,7 +89,15 @@
         {% if sf_editorial_product %}
           <div class="sf-editorial-product__intro">
             {% for block in section.blocks %}
-              {% if block.type == 'title' %}
+              {% if block.type == 'text' %}
+                <p class="sf-editorial-product__label" {{ block.shopify_attributes }}>
+                  {% if block.settings.text == 'SIDEFORM / COLLECTION 001' and product.tags contains 'collection-002' %}
+                    SIDEFORM / COLLECTION 002
+                  {% else %}
+                    {{ block.settings.text }}
+                  {% endif %}
+                </p>
+              {% elsif block.type == 'title' %}
                 {% render 'sf-product-title', product: product, block: block %}
               {% endif %}
             {% endfor %}
@@ -97,6 +105,21 @@
             {% if sf_product_summary != blank %}
               <p>{{ sf_product_summary | escape }}</p>
             {% endif %}
+            <div class="sf-editorial-product__details">
+              {% if product.metafields.custom.material.value != blank or product.metafields.custom.fit.value != blank %}
+                <details class="sf-description-accordion" open>
+                  <summary>Material &amp; fit<span aria-hidden="true"></span></summary>
+                  <p>{{ product.metafields.custom.material.value | escape }}</p>
+                  <p>{{ product.metafields.custom.fit.value | escape }}</p>
+                </details>
+              {% endif %}
+              {% if product.metafields.custom.care.value != blank %}
+                <details class="sf-description-accordion">
+                  <summary>Care<span aria-hidden="true"></span></summary>
+                  <p>{{ product.metafields.custom.care.value | escape }}</p>
+                </details>
+              {% endif %}
+            </div>
           </div>
         {% endif %}
         <div class="product__info-wrapper grid__item{% if settings.page_width > 1400 and section.settings.media_size == "small" %} product__info-wrapper--extra-padding{% endif %}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
@@ -111,6 +134,7 @@
                 {%- when '@app' -%}
                   {% render block %}
                 {%- when 'text' -%}
+                  {% unless sf_editorial_product %}
                   <p
                     class="product__text inline-richtext{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}"
                     {{ block.shopify_attributes }}
@@ -121,6 +145,7 @@
                       {{- block.settings.text -}}
                     {%- endif -%}
                   </p>
+                  {% endunless %}
                 {%- when 'title' -%}
                   {% unless sf_editorial_product %}
                     {% render 'sf-product-title', product: product, block: block %}

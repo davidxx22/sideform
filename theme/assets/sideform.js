@@ -239,6 +239,7 @@
       this.color = this.dataset.color || 'black'; this.view = this.querySelector('[data-sf-view]')?.dataset.sfView || 'front';
       const strip = this.querySelector('.sf-photo-gallery__grid');
       const slides = [...this.querySelectorAll('.sf-photo-gallery__tile')];
+      const thumbnails = [...this.querySelectorAll('[data-sf-thumb-view]')];
       const showSlide = index => strip.scrollTo({ left: Math.max(0, Math.min(index, slides.length - 1)) * strip.clientWidth, behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' });
       const updateCarousel = () => {
         const index = Math.max(0, Math.min(slides.length - 1, Math.round(strip.scrollLeft / strip.clientWidth)));
@@ -246,8 +247,13 @@
         this.querySelector('[data-sf-gallery-step="1"]').disabled = index === slides.length - 1;
         this.querySelector('[data-sf-gallery-status]').textContent = `Photo ${index + 1} of ${slides.length}`;
         this.querySelector('[data-sf-gallery-counter]').textContent = `${index + 1}/${slides.length}`;
+        thumbnails.forEach((button, position) => {
+          if (position === index) button.setAttribute('aria-current', 'true');
+          else button.removeAttribute('aria-current');
+        });
       };
       strip.addEventListener('scroll', updateCarousel, { passive: true });
+      thumbnails.forEach((button, index) => button.addEventListener('click', () => showSlide(index)));
       this.querySelectorAll('[data-sf-gallery-step]').forEach(button => button.addEventListener('click', () => showSlide(Math.round(strip.scrollLeft / strip.clientWidth) + Number(button.dataset.sfGalleryStep))));
       strip.addEventListener('keydown', event => {
         if (strip.scrollWidth <= strip.clientWidth || !['ArrowLeft', 'ArrowRight'].includes(event.key)) return;
@@ -272,8 +278,8 @@
       const color = this.color;
       const request = Symbol();
       this.sfPhotoRequest = request;
-      const updates = [...this.querySelectorAll('.sf-photo-gallery__grid img')].map(img => {
-        const view = img.closest('[data-sf-view]')?.dataset.sfView || this.view;
+      const updates = [...this.querySelectorAll('.sf-photo-gallery__grid img, .sf-gallery-thumbnails img')].map(img => {
+        const view = img.closest('[data-sf-view]')?.dataset.sfView || img.closest('[data-sf-thumb-view]')?.dataset.sfThumbView || this.view;
         const replacePhoto = url => url.replace(/-(black|white|grey)-(front|back|detail|full|lineup|male|female|duolow|duofull|duoclose)(-480)?\.(?:webp|jpg)/g, (_, previous, angle, small) => `-${color}-${view}${small || ''}.webp`);
         return { img, view, src: replacePhoto(img.src), srcset: replacePhoto(img.srcset) };
       });
