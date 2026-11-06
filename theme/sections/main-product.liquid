@@ -1,3 +1,9 @@
+{% liquid
+  assign sf_editorial_product = false
+  if product.handle == 'offset-heavy-tee'
+    assign sf_editorial_product = true
+  endif
+%}
 <product-info
   id="MainProduct-{{ section.id }}"
   class="sf-product-page section-{{ section.id }}-padding gradient color-{{ section.settings.color_scheme }}"
@@ -76,10 +82,23 @@
   <product-component view-event-payload="{{ product | standard_event_data: 'view', context: 'page' | escape }}">
     <div class="page-width">
       <a class="sf-product-back" data-sf-product-back href="{{ routes.all_products_collection_url }}"><svg width="10" height="16" viewBox="0 0 16 24" fill="none" aria-hidden="true"><path d="m11 5-7 7 7 7" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Back</span></a>
-      <div class="product product--{{ section.settings.media_size }} product--{{ section.settings.media_position }} product--{{ section.settings.gallery_layout }} product--mobile-{{ section.settings.mobile_thumbnails }} grid grid--1-col grid--2-col-tablet">
+      <div class="product product--{{ section.settings.media_size }} product--{{ section.settings.media_position }} product--{{ section.settings.gallery_layout }} product--mobile-{{ section.settings.mobile_thumbnails }} grid grid--1-col grid--2-col-tablet{% if sf_editorial_product %} sf-editorial-product{% endif %}">
         <div class="grid__item product__media-wrapper">
-          {% if product.tags contains 'sf-four-photo-gallery' %}{% render 'sf-photo-gallery', product: product %}{% elsif product.media.size > 0 %}{% render 'product-media-gallery', variant_images: variant_images %}{% else %}{% render 'sf-photo-gallery', product: product %}{% endif %}
+          {% if sf_editorial_product or product.tags contains 'sf-four-photo-gallery' %}{% render 'sf-photo-gallery', product: product %}{% elsif product.media.size > 0 %}{% render 'product-media-gallery', variant_images: variant_images %}{% else %}{% render 'sf-photo-gallery', product: product %}{% endif %}
         </div>
+        {% if sf_editorial_product %}
+          <div class="sf-editorial-product__intro">
+            {% for block in section.blocks %}
+              {% if block.type == 'title' %}
+                {% render 'sf-product-title', product: product, block: block %}
+              {% endif %}
+            {% endfor %}
+            {% assign sf_product_summary = product.description | strip_html | strip | truncatewords: 32 %}
+            {% if sf_product_summary != blank %}
+              <p>{{ sf_product_summary | escape }}</p>
+            {% endif %}
+          </div>
+        {% endif %}
         <div class="product__info-wrapper grid__item{% if settings.page_width > 1400 and section.settings.media_size == "small" %} product__info-wrapper--extra-padding{% endif %}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}">
           <section
             id="ProductInfo-{{ section.id }}"
@@ -103,14 +122,9 @@
                     {%- endif -%}
                   </p>
                 {%- when 'title' -%}
-                  <div class="product__title" {{ block.shopify_attributes }}>
-                    <h1>{{ product.title | escape }}</h1>
-                    <a href="{{ product.url }}" class="product__title">
-                      <h2 class="h1">
-                        {{ product.title | escape }}
-                      </h2>
-                    </a>
-                  </div>
+                  {% unless sf_editorial_product %}
+                    {% render 'sf-product-title', product: product, block: block %}
+                  {% endunless %}
                 {%- when 'price' -%}
                   <div id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
                     {%- render 'price',

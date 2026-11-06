@@ -250,7 +250,7 @@
       strip.addEventListener('scroll', updateCarousel, { passive: true });
       this.querySelectorAll('[data-sf-gallery-step]').forEach(button => button.addEventListener('click', () => showSlide(Math.round(strip.scrollLeft / strip.clientWidth) + Number(button.dataset.sfGalleryStep))));
       strip.addEventListener('keydown', event => {
-        if (!matchMedia('(max-width: 989px)').matches || !['ArrowLeft', 'ArrowRight'].includes(event.key)) return;
+        if (strip.scrollWidth <= strip.clientWidth || !['ArrowLeft', 'ArrowRight'].includes(event.key)) return;
         event.preventDefault(); showSlide(Math.round(strip.scrollLeft / strip.clientWidth) + (event.key === 'ArrowRight' ? 1 : -1));
       });
       this.querySelectorAll('[data-sf-view]').forEach(button => button.addEventListener('click', () => {
