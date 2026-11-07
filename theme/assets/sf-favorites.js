@@ -2,7 +2,9 @@
 (() => {
   if (window.sfFavoritesInitialized) return;
   window.sfFavoritesInitialized = true;
-  const key = 'sideform-favorites-v1';
+  const key = 'sideform-favorites-v2';
+  // The previous sample catalog was retired for the rebuild.
+  try { localStorage.removeItem('sideform-favorites-v1'); } catch {}
   const dialog = document.querySelector('[data-sf-favorites-dialog]');
   if (!dialog) return;
   let opener;

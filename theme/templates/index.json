@@ -1,96 +1,11 @@
 {
   "sections": {
-    "campaign": {
-      "type": "sf-campaign",
-      "settings": {
-        "eyebrow": "",
-        "label": "Shop now"
-      }
-    },
-    "new_arrivals": {
-      "type": "sf-new-arrivals",
-      "settings": {
-        "heading": "New arrivals",
-        "collection": "new-arrivals",
-        "products": [
-          "volume-pullover",
-          "structure-hoodie",
-          "shell-utility-jacket",
-          "transit-work-jacket"
-        ]
-      }
-    },
     "perspective": {
       "type": "sf-perspective",
       "settings": {}
-    },
-    "editorial": {
-      "type": "sf-editorial",
-      "settings": {
-        "spacing": 40
-      },
-      "blocks": {
-        "tops": {
-          "type": "collection",
-          "settings": {
-            "demo_photo": "hoodie",
-            "tone": "concrete",
-            "eyebrow": "EVERYDAY STRUCTURES",
-            "heading": "Room to\nmove.",
-            "label": "Shop tops",
-            "collection": "tops",
-            "link": "/collections/tops"
-          }
-        },
-        "outerwear": {
-          "type": "collection",
-          "settings": {
-            "demo_photo": "jacket",
-            "tone": "concrete",
-            "eyebrow": "OUTSIDE THE EXPECTED",
-            "heading": "A different\nlayer.",
-            "label": "Shop outerwear",
-            "collection": "outerwear",
-            "link": "/collections/outerwear"
-          }
-        },
-        "bottoms": {
-          "type": "collection",
-          "settings": {
-            "demo_photo": "cargo",
-            "tone": "concrete",
-            "eyebrow": "BUILT FOR THE EVERYDAY",
-            "heading": "Find your\nstride.",
-            "label": "Shop bottoms",
-            "collection": "bottoms",
-            "link": "/collections/bottoms"
-          }
-        },
-        "collection": {
-          "type": "collection",
-          "settings": {
-            "demo_photo": "none",
-            "tone": "olive",
-            "eyebrow": "SIDEFORM",
-            "heading": "Your city.\nYour pace.\nYour form.",
-            "label": "",
-            "collection": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "tops",
-        "outerwear",
-        "bottoms",
-        "collection"
-      ]
     }
   },
   "order": [
-    "campaign",
-    "new_arrivals",
-    "editorial",
     "perspective"
   ]
 }

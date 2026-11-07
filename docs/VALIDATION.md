@@ -283,3 +283,8 @@ Motion refinement: separate entrance and exit observers re-arm an item only afte
 Image-motion revision: image cards no longer fade or slide. Only the photograph zooms from scale 1.025 to 1 over 1000ms inside its existing clipped frame; captions remain stationary and fully visible. Text entrances retain the existing 720ms treatment. Scroll replay, focus cancellation and reduced-motion behavior remain supported. The motion check additionally verifies that image keyframes contain scale only, with no opacity/translation, and card opacity remains 1.
 
 Dollar/Thrifty reference revision: photo sections now fade in, and product cards also rise inside fixed grid items. The reveal is prepared before entry and resets only when the item leaves view. Tested replay, desktop/mobile timing, reduced motion, keyboard focus and dynamically loaded cards in Chromium and WebKit.
+
+
+## Catalog and imagery reset
+
+Removed all twelve sample products, cleared the CSV import/inventory files and product metafields, and deleted old product, campaign, editorial, collection-poster and review images from the project and generated public assets. Logo/symbol/favicon assets and interface SVG icons remain. Homepage now renders the text-only brand section. Search category links no longer reference the removed sample pictures. Previous saved sample favorites use a retired storage key. Old sample product URLs return 404 and existing cart cookies safely ignore retired variants. Empty homepage, collections, search, cart, About and Contact render at 390/1440px without photographs or product cards, horizontal overflow or JavaScript errors. Shopify store data was not connected or changed.
