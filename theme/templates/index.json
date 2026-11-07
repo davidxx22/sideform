@@ -7,66 +7,6 @@
         "label": "Shop now"
       }
     },
-    "shop_by_category": {
-      "type": "sf-shop-by-category",
-      "settings": {
-        "heading": "Shop by category"
-      },
-      "blocks": {
-        "hoodies": {
-          "type": "category",
-          "settings": {
-            "title": "Hoodies",
-            "collection": "hoodies",
-            "link": "/collections/hoodies",
-            "photo": "hoodies"
-          }
-        },
-        "t-shirts": {
-          "type": "category",
-          "settings": {
-            "title": "T-shirts",
-            "collection": "t-shirts",
-            "link": "/collections/t-shirts",
-            "photo": "t-shirts"
-          }
-        },
-        "pants": {
-          "type": "category",
-          "settings": {
-            "title": "Pants",
-            "collection": "pants",
-            "link": "/collections/pants",
-            "photo": "pants"
-          }
-        },
-        "jackets": {
-          "type": "category",
-          "settings": {
-            "title": "Jackets",
-            "collection": "jackets",
-            "link": "/collections/jackets",
-            "photo": "jackets"
-          }
-        },
-        "shorts": {
-          "type": "category",
-          "settings": {
-            "title": "Shorts",
-            "collection": "shorts",
-            "link": "/collections/shorts",
-            "photo": "shorts"
-          }
-        }
-      },
-      "block_order": [
-        "hoodies",
-        "t-shirts",
-        "jackets",
-        "pants",
-        "shorts"
-      ]
-    },
     "new_arrivals": {
       "type": "sf-new-arrivals",
       "settings": {
@@ -149,7 +89,6 @@
   },
   "order": [
     "campaign",
-    "shop_by_category",
     "new_arrivals",
     "editorial",
     "perspective"

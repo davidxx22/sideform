@@ -28,16 +28,13 @@ const { chromium, webkit } = require('../tooling/node_modules/playwright');
      // Keyboard focus immediately cancels an entrance on its actionable element.
      await page.locator('.sf-campaign__copy .button').focus();
      assert.equal(await page.locator('.sf-campaign__copy .button').evaluate(e => e.getAnimations().filter(a => a.effect?.getTiming().duration === 720).length), 0);
-     const category = page.locator('.sf-category-grid > li:has(.sf-category-card--jackets)');
-     await category.scrollIntoViewIfNeeded();
-     await page.waitForFunction(() => document.querySelector('.sf-category-grid > li:has(.sf-category-card--jackets)')?.hasAttribute('data-sf-photo-visible'));
      const arrival = '.sf-arrivals-section .product-grid > li';
      await page.locator(arrival).first().scrollIntoViewIfNeeded();
      await page.waitForFunction(sel => document.querySelector(sel)?.hasAttribute('data-sf-photo-visible'), arrival);
      assert.equal(await page.locator(arrival).first().evaluate(e => getComputedStyle(e).transitionDuration), width <= 700 ? '0.36s' : '0.48s');
      assert.equal(await page.locator(arrival).first().locator('.product-card-wrapper').evaluate(e => getComputedStyle(e).transitionDuration), width <= 700 ? '0.38s' : '0.56s');
      assert.equal(await page.locator(arrival).first().locator('img').first().evaluate(e => getComputedStyle(e).scale), 'none');
-     await page.evaluate(() => scrollTo(0, 0));
+     await page.locator('.sf-footer').scrollIntoViewIfNeeded();
      await page.waitForFunction(sel => !document.querySelector(sel)?.hasAttribute('data-sf-photo-visible'), arrival);
      await page.locator(arrival).first().scrollIntoViewIfNeeded();
      await page.waitForFunction(sel => document.querySelector(sel)?.hasAttribute('data-sf-photo-visible'), arrival);
