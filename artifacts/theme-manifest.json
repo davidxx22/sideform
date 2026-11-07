@@ -3697,11 +3697,11 @@
   },
   {
     "path": "theme/assets/sideform.css",
-    "sha256": "dd7de616287186988749923e28966077395c2272619ac51c15b767cddd99df3b"
+    "sha256": "79b8ce977250d57c5f75baa2f776837449909ff9a183a85e3edc38eea232b8c0"
   },
   {
     "path": "theme/assets/sideform.js",
-    "sha256": "00df916170a0107da6d95ed313172f35896a188eb7750cac888b80046ba5f0a3"
+    "sha256": "8f1e2836e1747edc8781036911810deb9301b1598af5c67010b342a04a83a35a"
   },
   {
     "path": "theme/assets/sparkle.gif",
@@ -4093,7 +4093,7 @@
   },
   {
     "path": "theme/sections/main-product.liquid",
-    "sha256": "7ff137794c3b832878c9aba636c6008c349873c7b968db4726142b55785448d5"
+    "sha256": "84ea3909cc8571f86a2520d0f0e0e9c8824225d0788a1c4132d8a3f466bb0cb0"
   },
   {
     "path": "theme/sections/main-search.liquid",
@@ -4353,7 +4353,7 @@
   },
   {
     "path": "theme/snippets/sf-photo-gallery.liquid",
-    "sha256": "5a0f9f5a21ed80dec1d723b1b2ce1d027d16a8af6d6c30407d9329df2560156c"
+    "sha256": "b67437351de34e961d58e61df3d4defae80e89a5c6e9d5ab3e6d2dd33823197d"
   },
   {
     "path": "theme/snippets/sf-product-details.liquid",
@@ -4362,6 +4362,10 @@
   {
     "path": "theme/snippets/sf-product-image.liquid",
     "sha256": "65a7a44c3bf628f8c5b75fd0c78a3b5f6e1517b2cfaf43a955fad535dbb29b34"
+  },
+  {
+    "path": "theme/snippets/sf-product-title.liquid",
+    "sha256": "2da1e89d35a16bf3fa504fb7fad8ab24a46943924dcabb26f6c949f8c47769cd"
   },
   {
     "path": "theme/snippets/sf-search-browse.liquid",
