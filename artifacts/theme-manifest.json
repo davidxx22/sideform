@@ -740,6 +740,30 @@
     "sha256": "ca708c86c2847d973edb74cd5ddc39a635545bc78d0652a4045c369559f4e1cc"
   },
   {
+    "path": "theme/assets/sf-poppins-400.ttf",
+    "sha256": "cdedb1729acac414ed01744a11da7badb86adf13108e7bd3fa161b9323f7fe54"
+  },
+  {
+    "path": "theme/assets/sf-poppins-500.ttf",
+    "sha256": "fcff04f4bec2b3636f05ed894dc1f9a752c4cb587ee49857ec7a82abaf6ca016"
+  },
+  {
+    "path": "theme/assets/sf-poppins-600.ttf",
+    "sha256": "dae40ca7b35fe7501bda2e4140a6860b1db47330be5d3c8ab6971fd83a70e9a5"
+  },
+  {
+    "path": "theme/assets/sf-poppins-700.ttf",
+    "sha256": "1984efdda0fbe207d7ac20feac2ba7c2768c92a90094b02a206c9d58cc30ff2e"
+  },
+  {
+    "path": "theme/assets/sf-poppins-800.ttf",
+    "sha256": "5e8a5c3c2a56c3bc1b135645ca9637b9b64dc3fed5fbf85cb5ed144e06bb6d48"
+  },
+  {
+    "path": "theme/assets/sf-poppins-license.txt",
+    "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573"
+  },
+  {
     "path": "theme/assets/share.js",
     "sha256": "b1bfc460c99a0351deb75be50da1372801e951abdb296f894adbd1da8f2b1d1d"
   },
@@ -757,7 +781,7 @@
   },
   {
     "path": "theme/assets/sideform.css",
-    "sha256": "79b8ce977250d57c5f75baa2f776837449909ff9a183a85e3edc38eea232b8c0"
+    "sha256": "f22f9b819af89f5d4ab59880503a503be85c3a77aaafd0bdad102b6c84f8c5f2"
   },
   {
     "path": "theme/assets/sideform.js",
@@ -801,7 +825,7 @@
   },
   {
     "path": "theme/layout/theme.liquid",
-    "sha256": "dc68669298beed0f71a631306fcd9be28e0a83b31f230888c5d698521dacf921"
+    "sha256": "6cc9408527c24d10b25b06c0384e575073f5d360ef5fe321a9e52e30b9d59240"
   },
   {
     "path": "theme/locales/bg.json",
@@ -1193,7 +1217,7 @@
   },
   {
     "path": "theme/sections/sf-campaign.liquid",
-    "sha256": "d39887cde02de7ec6dee4f903b6f87a30cff1349b576d1db71b85a0ccf11c3a7"
+    "sha256": "38d97cb2e36bf2c6c6236ac7481648f155301bc0ee1cd4140321824b5f102265"
   },
   {
     "path": "theme/sections/sf-editorial.liquid",
@@ -1201,7 +1225,7 @@
   },
   {
     "path": "theme/sections/sf-footer.liquid",
-    "sha256": "94fa839c76568b3e0c22a053455552fe25f3f12c6b99456e014aba35d2d2f010"
+    "sha256": "5a100ffaa4ed10494bc36cb76969ef680471ed37a41ac88a9921865f8c47188d"
   },
   {
     "path": "theme/sections/sf-new-arrivals.liquid",

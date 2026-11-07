@@ -1,0 +1,34 @@
+[
+  {
+    "engine": "chromium",
+    "width": 390,
+    "poppinsLoaded": true,
+    "noUnderlines": true,
+    "hoverWeight": 600,
+    "noOverflow": true
+  },
+  {
+    "engine": "chromium",
+    "width": 1440,
+    "poppinsLoaded": true,
+    "noUnderlines": true,
+    "hoverWeight": 600,
+    "noOverflow": true
+  },
+  {
+    "engine": "webkit",
+    "width": 390,
+    "poppinsLoaded": true,
+    "noUnderlines": true,
+    "hoverWeight": 600,
+    "noOverflow": true
+  },
+  {
+    "engine": "webkit",
+    "width": 1440,
+    "poppinsLoaded": true,
+    "noUnderlines": true,
+    "hoverWeight": 600,
+    "noOverflow": true
+  }
+]
