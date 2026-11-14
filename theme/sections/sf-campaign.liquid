@@ -1,3 +1,19 @@
+{% if section.settings.rummap_rack %}
+<section class="sf-campaign rummap-hero" aria-labelledby="RummapHeroHeading-{{ section.id }}">
+  <div class="rummap-hero__intro page-width">
+    <div>
+      <p class="rummap-hero__eyebrow">THE THRIFT RACK</p>
+      <h1 id="RummapHeroHeading-{{ section.id }}">Good finds are worth the hunt.</h1>
+      <p class="rummap-hero__description">Shop secondhand streetwear, vintage pieces, and everyday staples.</p>
+    </div>
+    <a class="rummap-hero__cta" href="{{ routes.all_products_collection_url }}">Shop the rack <span aria-hidden="true">↗</span></a>
+  </div>
+  <img class="rummap-hero__rack" src="{{ 'rummap-hero-rack.webp' | asset_url }}"
+    srcset="{{ 'rummap-hero-rack-800.webp' | asset_url }} 800w, {{ 'rummap-hero-rack.webp' | asset_url }} 1774w"
+    sizes="100vw" width="1774" height="887" fetchpriority="high"
+    alt="On one rail: a silver and blue football jersey, olive quilted jacket, brown cargo trousers and gray raw-hem shorts.">
+</section>
+{% else %}
 <section class="sf-campaign" style="--sf-position:{{ section.settings.position }}%;--sf-mobile-position:{{ section.settings.mobile_position }}%;--sf-ink:{{ section.settings.text_color }};--sf-space:{{ section.settings.spacing }}px">
   <div class="sf-campaign__image{% if section.settings.mobile_image != blank %} sf-has-mobile{% endif %}">
     {% if section.settings.image != blank %}
@@ -15,11 +31,13 @@
   </div>
   <div class="sf-campaign__caption"><span>Rummap</span><span>FORM / FUNCTION / EVERYDAY</span></div>
 </section>
+{% endif %}
 {% schema %}
 {
   "name": "Rummap campaign",
   "tag": "section",
   "settings": [
+    {"type":"checkbox","id":"rummap_rack","label":"Show Rummap thrift rack hero","default":false},
     {
       "type": "image_picker",
       "id": "image",

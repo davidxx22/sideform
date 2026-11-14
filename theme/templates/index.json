@@ -4,7 +4,8 @@
       "type": "sf-campaign",
       "settings": {
         "eyebrow": "",
-        "label": "Shop now"
+        "label": "Shop now",
+        "rummap_rack": true
       }
     },
     "new_arrivals": {
