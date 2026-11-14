@@ -2,17 +2,16 @@
 <section class="sf-campaign rummap-hero" aria-labelledby="RummapHeroHeading-{{ section.id }}">
   <div class="rummap-hero__intro page-width">
     <div>
-      <p class="rummap-hero__eyebrow">THE THRIFT RACK</p>
       <h1 id="RummapHeroHeading-{{ section.id }}">Good finds are worth the hunt.</h1>
       <p class="rummap-hero__description">Shop secondhand streetwear, vintage pieces, and everyday staples.</p>
+      <a class="rummap-hero__cta" href="{{ routes.all_products_collection_url }}">Shop now</a>
     </div>
-    <a class="rummap-hero__cta" href="{{ routes.all_products_collection_url }}">Shop the rack <span aria-hidden="true">↗</span></a>
   </div>
   <picture class="rummap-hero__picture">
-    <source media="(max-width:749px)" srcset="{{ 'rummap-hero-angled-mobile.webp' | asset_url }}">
-    <img class="rummap-hero__rack" src="{{ 'rummap-hero-angled.webp' | asset_url }}"
-      width="2061" height="763" fetchpriority="high"
-      alt="On one rail: a silver and blue football jersey, olive quilted jacket, brown cargo trousers and gray raw-hem shorts.">
+    <source media="(max-width:749px)" srcset="{{ 'rummap-hero-front-mobile.webp' | asset_url }}">
+    <img class="rummap-hero__rack" src="{{ 'rummap-hero-front.webp' | asset_url }}"
+      width="2060" height="763" fetchpriority="high"
+      alt="On one rail: a silver and blue football jersey, olive quilted jacket, front-facing brown cargo trousers and gray raw-hem shorts.">
   </picture>
 </section>
 {% else %}
