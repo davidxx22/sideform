@@ -1,0 +1,87 @@
+{
+  "tool": "Built-in imagegen",
+  "done": [
+    {
+      "name": "plane-box-tee-black-full",
+      "handle": "plane-box-tee",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-plane-box-tee-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Plain Box Tee in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Plain Box Tee silhouette, Boxy and oversized with a slightly cropped body. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 260 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-6c1fc6b9-244b-4915-800f-d7872e4fa833.png"
+    },
+    {
+      "name": "plane-box-tee-white-lineup",
+      "handle": "plane-box-tee",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Plain Box Tee. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Plain Box Tee to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Oversized T-shirt: Boxy and oversized with a slightly cropped body. Fabric 260 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c6f3f476-bdfc-4ed2-abb9-0d943be3c610.png"
+    },
+    {
+      "name": "plane-box-tee-black-lineup",
+      "handle": "plane-box-tee",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Plain Box Tee. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Plain Box Tee to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Oversized T-shirt: Boxy and oversized with a slightly cropped body. Fabric 260 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-55a2c06a-ec9b-445f-a3df-ede996711673.png"
+    },
+    {
+      "name": "plane-box-tee-white-full",
+      "handle": "plane-box-tee",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-plane-box-tee-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Plain Box Tee in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Plain Box Tee silhouette, Boxy and oversized with a slightly cropped body. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 260 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-dab30334-2684-406d-bf9a-97e245a43abf.png"
+    },
+    {
+      "name": "plane-box-tee-grey-full",
+      "handle": "plane-box-tee",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-plane-box-tee-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Plain Box Tee in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Plain Box Tee silhouette, Boxy and oversized with a slightly cropped body. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 260 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-aacee668-6907-49b4-8555-a09704e15f57.png"
+    },
+    {
+      "name": "plane-box-tee-grey-lineup",
+      "handle": "plane-box-tee",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Plain Box Tee. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Plain Box Tee to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Oversized T-shirt: Boxy and oversized with a slightly cropped body. Fabric 260 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-3c1aa729-e1a6-410b-8abf-4109d3404e37.png"
+    }
+  ],
+  "failures": []
+}

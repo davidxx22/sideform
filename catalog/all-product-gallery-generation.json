@@ -1,0 +1,831 @@
+{
+  "tool": "Built-in imagegen",
+  "scope": "All 12 products; Offset approved originals reused; 66 additional full-body/selected-color-lineup photos",
+  "jobs": [
+    {
+      "name": "plane-box-tee-black-full",
+      "handle": "plane-box-tee",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-plane-box-tee-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Plain Box Tee in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Plain Box Tee silhouette, Boxy and oversized with a slightly cropped body. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 260 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "plane-box-tee-black-lineup",
+      "handle": "plane-box-tee",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Plain Box Tee. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Plain Box Tee to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Oversized T-shirt: Boxy and oversized with a slightly cropped body. Fabric 260 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "plane-box-tee-white-full",
+      "handle": "plane-box-tee",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-plane-box-tee-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Plain Box Tee in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Plain Box Tee silhouette, Boxy and oversized with a slightly cropped body. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 260 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "plane-box-tee-white-lineup",
+      "handle": "plane-box-tee",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Plain Box Tee. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Plain Box Tee to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Oversized T-shirt: Boxy and oversized with a slightly cropped body. Fabric 260 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "plane-box-tee-grey-full",
+      "handle": "plane-box-tee",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-plane-box-tee-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Plain Box Tee in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Plain Box Tee silhouette, Boxy and oversized with a slightly cropped body. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 260 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "plane-box-tee-grey-lineup",
+      "handle": "plane-box-tee",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-plane-box-tee-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Plain Box Tee. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Plain Box Tee to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Oversized T-shirt: Boxy and oversized with a slightly cropped body. Fabric 260 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "axis-long-sleeve-black-full",
+      "handle": "axis-long-sleeve",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Axis Long Sleeve in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Axis Long Sleeve silhouette, Relaxed body with long, dropped sleeves. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 220 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "axis-long-sleeve-black-lineup",
+      "handle": "axis-long-sleeve",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Axis Long Sleeve. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Axis Long Sleeve to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Long-sleeve T-shirt: Relaxed body with long, dropped sleeves. Fabric 220 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "axis-long-sleeve-white-full",
+      "handle": "axis-long-sleeve",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Axis Long Sleeve in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Axis Long Sleeve silhouette, Relaxed body with long, dropped sleeves. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 220 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "axis-long-sleeve-white-lineup",
+      "handle": "axis-long-sleeve",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Axis Long Sleeve. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Axis Long Sleeve to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Long-sleeve T-shirt: Relaxed body with long, dropped sleeves. Fabric 220 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "axis-long-sleeve-grey-full",
+      "handle": "axis-long-sleeve",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Axis Long Sleeve in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Axis Long Sleeve silhouette, Relaxed body with long, dropped sleeves. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 220 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "axis-long-sleeve-grey-lineup",
+      "handle": "axis-long-sleeve",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-axis-long-sleeve-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Axis Long Sleeve. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Axis Long Sleeve to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Long-sleeve T-shirt: Relaxed body with long, dropped sleeves. Fabric 220 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "frame-long-sleeve-black-full",
+      "handle": "frame-long-sleeve",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Frame Long Sleeve in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Frame Long Sleeve silhouette, Wide torso, dropped shoulder, straight hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 240 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "frame-long-sleeve-black-lineup",
+      "handle": "frame-long-sleeve",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Frame Long Sleeve. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Frame Long Sleeve to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Long-sleeve T-shirt: Wide torso, dropped shoulder, straight hem. Fabric 240 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "frame-long-sleeve-white-full",
+      "handle": "frame-long-sleeve",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Frame Long Sleeve in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Frame Long Sleeve silhouette, Wide torso, dropped shoulder, straight hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 240 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "frame-long-sleeve-white-lineup",
+      "handle": "frame-long-sleeve",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Frame Long Sleeve. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Frame Long Sleeve to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Long-sleeve T-shirt: Wide torso, dropped shoulder, straight hem. Fabric 240 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "frame-long-sleeve-grey-full",
+      "handle": "frame-long-sleeve",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-frame-long-sleeve-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Frame Long Sleeve in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Frame Long Sleeve silhouette, Wide torso, dropped shoulder, straight hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 240 gsm cotton jersey. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "frame-long-sleeve-grey-lineup",
+      "handle": "frame-long-sleeve",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-frame-long-sleeve-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Frame Long Sleeve. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Frame Long Sleeve to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Long-sleeve T-shirt: Wide torso, dropped shoulder, straight hem. Fabric 240 gsm cotton jersey. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "volume-pullover-black-full",
+      "handle": "volume-pullover",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-volume-pullover-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Volume Pullover in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Volume Pullover silhouette, Oversized with a roomy hood and ribbed hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 400 gsm cotton-rich loopback; 80% cotton, 20% polyester. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "volume-pullover-black-lineup",
+      "handle": "volume-pullover",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Volume Pullover. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Volume Pullover to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Hoodie: Oversized with a roomy hood and ribbed hem. Fabric 400 gsm cotton-rich loopback; 80% cotton, 20% polyester. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "volume-pullover-white-full",
+      "handle": "volume-pullover",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-volume-pullover-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Volume Pullover in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Volume Pullover silhouette, Oversized with a roomy hood and ribbed hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 400 gsm cotton-rich loopback; 80% cotton, 20% polyester. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "volume-pullover-white-lineup",
+      "handle": "volume-pullover",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Volume Pullover. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Volume Pullover to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Hoodie: Oversized with a roomy hood and ribbed hem. Fabric 400 gsm cotton-rich loopback; 80% cotton, 20% polyester. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "volume-pullover-grey-full",
+      "handle": "volume-pullover",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-volume-pullover-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Volume Pullover in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Volume Pullover silhouette, Oversized with a roomy hood and ribbed hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 400 gsm cotton-rich loopback; 80% cotton, 20% polyester. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "volume-pullover-grey-lineup",
+      "handle": "volume-pullover",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-volume-pullover-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Volume Pullover. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Volume Pullover to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Hoodie: Oversized with a roomy hood and ribbed hem. Fabric 400 gsm cotton-rich loopback; 80% cotton, 20% polyester. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "structure-hoodie-black-full",
+      "handle": "structure-hoodie",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-structure-hoodie-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-structure-hoodie-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Structure Hoodie in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Structure Hoodie silhouette, Boxy through the body with a slightly cropped hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 420 gsm cotton-rich fleece; 80% cotton, 20% polyester. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "structure-hoodie-black-lineup",
+      "handle": "structure-hoodie",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-structure-hoodie-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-structure-hoodie-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-structure-hoodie-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Structure Hoodie. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Structure Hoodie to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Hoodie: Boxy through the body with a slightly cropped hem. Fabric 420 gsm cotton-rich fleece; 80% cotton, 20% polyester. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "structure-hoodie-white-full",
+      "handle": "structure-hoodie",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-structure-hoodie-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-structure-hoodie-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Structure Hoodie in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Structure Hoodie silhouette, Boxy through the body with a slightly cropped hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 420 gsm cotton-rich fleece; 80% cotton, 20% polyester. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "structure-hoodie-white-lineup",
+      "handle": "structure-hoodie",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-structure-hoodie-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-structure-hoodie-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-structure-hoodie-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Structure Hoodie. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Structure Hoodie to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Hoodie: Boxy through the body with a slightly cropped hem. Fabric 420 gsm cotton-rich fleece; 80% cotton, 20% polyester. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "structure-hoodie-grey-full",
+      "handle": "structure-hoodie",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-structure-hoodie-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-structure-hoodie-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Structure Hoodie in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Structure Hoodie silhouette, Boxy through the body with a slightly cropped hem. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 420 gsm cotton-rich fleece; 80% cotton, 20% polyester. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "structure-hoodie-grey-lineup",
+      "handle": "structure-hoodie",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-structure-hoodie-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-structure-hoodie-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-structure-hoodie-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Structure Hoodie. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Structure Hoodie to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Hoodie: Boxy through the body with a slightly cropped hem. Fabric 420 gsm cotton-rich fleece; 80% cotton, 20% polyester. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "contour-crew-black-full",
+      "handle": "contour-crew",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-contour-crew-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-contour-crew-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Contour Crew in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Contour Crew silhouette, Relaxed and wide with a dropped shoulder. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 380 gsm cotton-rich loopback; 80% cotton, 20% polyester. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "contour-crew-black-lineup",
+      "handle": "contour-crew",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-contour-crew-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-contour-crew-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-contour-crew-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Contour Crew. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Contour Crew to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Crewneck Sweatshirt: Relaxed and wide with a dropped shoulder. Fabric 380 gsm cotton-rich loopback; 80% cotton, 20% polyester. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "contour-crew-white-full",
+      "handle": "contour-crew",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-contour-crew-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-contour-crew-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Contour Crew in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Contour Crew silhouette, Relaxed and wide with a dropped shoulder. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 380 gsm cotton-rich loopback; 80% cotton, 20% polyester. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "contour-crew-white-lineup",
+      "handle": "contour-crew",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-contour-crew-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-contour-crew-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-contour-crew-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Contour Crew. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Contour Crew to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Crewneck Sweatshirt: Relaxed and wide with a dropped shoulder. Fabric 380 gsm cotton-rich loopback; 80% cotton, 20% polyester. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "contour-crew-grey-full",
+      "handle": "contour-crew",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-contour-crew-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-contour-crew-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Contour Crew in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Contour Crew silhouette, Relaxed and wide with a dropped shoulder. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 380 gsm cotton-rich loopback; 80% cotton, 20% polyester. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "contour-crew-grey-lineup",
+      "handle": "contour-crew",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-contour-crew-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-contour-crew-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-contour-crew-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Contour Crew. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Contour Crew to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Crewneck Sweatshirt: Relaxed and wide with a dropped shoulder. Fabric 380 gsm cotton-rich loopback; 80% cotton, 20% polyester. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "shell-utility-jacket-black-full",
+      "handle": "shell-utility-jacket",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-shell-utility-jacket-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Shell Utility Jacket in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Shell Utility Jacket silhouette, Oversized outer layer with room for a sweatshirt. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and Cotton-nylon woven shell; 65% cotton, 35% nylon. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "shell-utility-jacket-black-lineup",
+      "handle": "shell-utility-jacket",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-shell-utility-jacket-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-shell-utility-jacket-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-shell-utility-jacket-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Shell Utility Jacket. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Shell Utility Jacket to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Streetwear Jacket: Oversized outer layer with room for a sweatshirt. Fabric Cotton-nylon woven shell; 65% cotton, 35% nylon. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "shell-utility-jacket-white-full",
+      "handle": "shell-utility-jacket",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-shell-utility-jacket-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Shell Utility Jacket in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Shell Utility Jacket silhouette, Oversized outer layer with room for a sweatshirt. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and Cotton-nylon woven shell; 65% cotton, 35% nylon. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "shell-utility-jacket-white-lineup",
+      "handle": "shell-utility-jacket",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-shell-utility-jacket-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-shell-utility-jacket-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-shell-utility-jacket-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Shell Utility Jacket. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Shell Utility Jacket to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Streetwear Jacket: Oversized outer layer with room for a sweatshirt. Fabric Cotton-nylon woven shell; 65% cotton, 35% nylon. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "shell-utility-jacket-grey-full",
+      "handle": "shell-utility-jacket",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-shell-utility-jacket-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Shell Utility Jacket in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Shell Utility Jacket silhouette, Oversized outer layer with room for a sweatshirt. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and Cotton-nylon woven shell; 65% cotton, 35% nylon. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "shell-utility-jacket-grey-lineup",
+      "handle": "shell-utility-jacket",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-shell-utility-jacket-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-shell-utility-jacket-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-shell-utility-jacket-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Shell Utility Jacket. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Shell Utility Jacket to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Streetwear Jacket: Oversized outer layer with room for a sweatshirt. Fabric Cotton-nylon woven shell; 65% cotton, 35% nylon. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "transit-work-jacket-black-full",
+      "handle": "transit-work-jacket",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-transit-work-jacket-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-transit-work-jacket-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Transit Work Jacket in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Transit Work Jacket silhouette, Boxy, wide shoulder, hip-length body. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 320 gsm cotton canvas. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "transit-work-jacket-black-lineup",
+      "handle": "transit-work-jacket",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-transit-work-jacket-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-transit-work-jacket-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-transit-work-jacket-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Transit Work Jacket. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Transit Work Jacket to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Streetwear Jacket: Boxy, wide shoulder, hip-length body. Fabric 320 gsm cotton canvas. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "transit-work-jacket-white-full",
+      "handle": "transit-work-jacket",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-transit-work-jacket-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-transit-work-jacket-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Transit Work Jacket in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Transit Work Jacket silhouette, Boxy, wide shoulder, hip-length body. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 320 gsm cotton canvas. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "transit-work-jacket-white-lineup",
+      "handle": "transit-work-jacket",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-transit-work-jacket-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-transit-work-jacket-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-transit-work-jacket-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Transit Work Jacket. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Transit Work Jacket to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Streetwear Jacket: Boxy, wide shoulder, hip-length body. Fabric 320 gsm cotton canvas. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "transit-work-jacket-grey-full",
+      "handle": "transit-work-jacket",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-transit-work-jacket-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-transit-work-jacket-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Transit Work Jacket in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Transit Work Jacket silhouette, Boxy, wide shoulder, hip-length body. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 320 gsm cotton canvas. Preserve the small two offset horizontal rectangle chest logo, off-white on black, black on white/grey. Pair with unbranded grey wide trousers as in reference and plain white low-top sneakers; no logos on trousers. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "transit-work-jacket-grey-lineup",
+      "handle": "transit-work-jacket",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-transit-work-jacket-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-transit-work-jacket-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-transit-work-jacket-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Transit Work Jacket. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Transit Work Jacket to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Streetwear Jacket: Boxy, wide shoulder, hip-length body. Fabric 320 gsm cotton canvas. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use simple garment hangers. Preserve the leading garment’s small two offset horizontal rectangle chest logo (off-white on black, black on white/grey), with no background patch. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "grid-cargo-pant-black-full",
+      "handle": "grid-cargo-pant",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-grid-cargo-pant-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Grid Cargo Pant in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Grid Cargo Pant silhouette, Loose through hip and thigh; straight wide leg. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 260 gsm cotton twill. The selected pants/shorts must have NO logos, marks or lettering. Keep the model’s existing grey T-shirt; add its discreet two-offset-rectangle SIDEFORM chest mark if visible. Show entire leg shape and hem accurately. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "grid-cargo-pant-black-lineup",
+      "handle": "grid-cargo-pant",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-grid-cargo-pant-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-grid-cargo-pant-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-grid-cargo-pant-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Grid Cargo Pant. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Grid Cargo Pant to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Cargo Pants: Loose through hip and thigh; straight wide leg. Fabric 260 gsm cotton twill. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use slim clip hangers holding each waistband; pants/shorts fully extended with both hems visible. Absolutely NO logos, lettering or rectangle marks anywhere on these bottoms. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "grid-cargo-pant-white-full",
+      "handle": "grid-cargo-pant",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-grid-cargo-pant-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Grid Cargo Pant in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Grid Cargo Pant silhouette, Loose through hip and thigh; straight wide leg. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 260 gsm cotton twill. The selected pants/shorts must have NO logos, marks or lettering. Keep the model’s existing grey T-shirt; add its discreet two-offset-rectangle SIDEFORM chest mark if visible. Show entire leg shape and hem accurately. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "grid-cargo-pant-white-lineup",
+      "handle": "grid-cargo-pant",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-grid-cargo-pant-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-grid-cargo-pant-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-grid-cargo-pant-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Grid Cargo Pant. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Grid Cargo Pant to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Cargo Pants: Loose through hip and thigh; straight wide leg. Fabric 260 gsm cotton twill. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use slim clip hangers holding each waistband; pants/shorts fully extended with both hems visible. Absolutely NO logos, lettering or rectangle marks anywhere on these bottoms. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "grid-cargo-pant-grey-full",
+      "handle": "grid-cargo-pant",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-grid-cargo-pant-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Grid Cargo Pant in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Grid Cargo Pant silhouette, Loose through hip and thigh; straight wide leg. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 260 gsm cotton twill. The selected pants/shorts must have NO logos, marks or lettering. Keep the model’s existing grey T-shirt; add its discreet two-offset-rectangle SIDEFORM chest mark if visible. Show entire leg shape and hem accurately. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "grid-cargo-pant-grey-lineup",
+      "handle": "grid-cargo-pant",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-grid-cargo-pant-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-grid-cargo-pant-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-grid-cargo-pant-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Grid Cargo Pant. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Grid Cargo Pant to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Cargo Pants: Loose through hip and thigh; straight wide leg. Fabric 260 gsm cotton twill. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use slim clip hangers holding each waistband; pants/shorts fully extended with both hems visible. Absolutely NO logos, lettering or rectangle marks anywhere on these bottoms. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "drift-baggy-jean-black-full",
+      "handle": "drift-baggy-jean",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-drift-baggy-jean-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Drift Baggy Jean in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Drift Baggy Jean silhouette, Baggy through seat and leg, full length. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 12 oz cotton denim. The selected pants/shorts must have NO logos, marks or lettering. Keep the model’s existing grey T-shirt; add its discreet two-offset-rectangle SIDEFORM chest mark if visible. Show entire leg shape and hem accurately. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "drift-baggy-jean-black-lineup",
+      "handle": "drift-baggy-jean",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-drift-baggy-jean-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-drift-baggy-jean-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-drift-baggy-jean-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Drift Baggy Jean. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Drift Baggy Jean to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Baggy Jeans: Baggy through seat and leg, full length. Fabric 12 oz cotton denim. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use slim clip hangers holding each waistband; pants/shorts fully extended with both hems visible. Absolutely NO logos, lettering or rectangle marks anywhere on these bottoms. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "drift-baggy-jean-white-full",
+      "handle": "drift-baggy-jean",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-drift-baggy-jean-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Drift Baggy Jean in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Drift Baggy Jean silhouette, Baggy through seat and leg, full length. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 12 oz cotton denim. The selected pants/shorts must have NO logos, marks or lettering. Keep the model’s existing grey T-shirt; add its discreet two-offset-rectangle SIDEFORM chest mark if visible. Show entire leg shape and hem accurately. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "drift-baggy-jean-white-lineup",
+      "handle": "drift-baggy-jean",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-drift-baggy-jean-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-drift-baggy-jean-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-drift-baggy-jean-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Drift Baggy Jean. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Drift Baggy Jean to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Baggy Jeans: Baggy through seat and leg, full length. Fabric 12 oz cotton denim. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use slim clip hangers holding each waistband; pants/shorts fully extended with both hems visible. Absolutely NO logos, lettering or rectangle marks anywhere on these bottoms. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "drift-baggy-jean-grey-full",
+      "handle": "drift-baggy-jean",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-drift-baggy-jean-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Drift Baggy Jean in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Drift Baggy Jean silhouette, Baggy through seat and leg, full length. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 12 oz cotton denim. The selected pants/shorts must have NO logos, marks or lettering. Keep the model’s existing grey T-shirt; add its discreet two-offset-rectangle SIDEFORM chest mark if visible. Show entire leg shape and hem accurately. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "drift-baggy-jean-grey-lineup",
+      "handle": "drift-baggy-jean",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-drift-baggy-jean-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-drift-baggy-jean-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-drift-baggy-jean-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Drift Baggy Jean. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Drift Baggy Jean to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Baggy Jeans: Baggy through seat and leg, full length. Fabric 12 oz cotton denim. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use slim clip hangers holding each waistband; pants/shorts fully extended with both hems visible. Absolutely NO logos, lettering or rectangle marks anywhere on these bottoms. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "interval-utility-short-black-full",
+      "handle": "interval-utility-short",
+      "color": "black",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-interval-utility-short-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-interval-utility-short-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Interval Utility Short in BLACK. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Interval Utility Short silhouette, Relaxed hip, wide leg opening, knee length. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 240 gsm cotton twill. The selected pants/shorts must have NO logos, marks or lettering. Keep the model’s existing grey T-shirt; add its discreet two-offset-rectangle SIDEFORM chest mark if visible. Show entire leg shape and hem accurately. Show the same garment in BLACK, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "interval-utility-short-black-lineup",
+      "handle": "interval-utility-short",
+      "color": "black",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-interval-utility-short-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-interval-utility-short-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-interval-utility-short-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Interval Utility Short. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT BLACK Interval Utility Short to put first with complete FRONT visible. Images 3 and 4 are this product in WHITE and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Streetwear Shorts: Relaxed hip, wide leg opening, knee length. Fabric 240 gsm cotton twill. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use slim clip hangers holding each waistband; pants/shorts fully extended with both hems visible. Absolutely NO logos, lettering or rectangle marks anywhere on these bottoms. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected BLACK leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "interval-utility-short-white-full",
+      "handle": "interval-utility-short",
+      "color": "white",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-interval-utility-short-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-interval-utility-short-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Interval Utility Short in WHITE. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Interval Utility Short silhouette, Relaxed hip, wide leg opening, knee length. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 240 gsm cotton twill. The selected pants/shorts must have NO logos, marks or lettering. Keep the model’s existing grey T-shirt; add its discreet two-offset-rectangle SIDEFORM chest mark if visible. Show entire leg shape and hem accurately. Show the same garment in TRUE WHITE, not ivory, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "interval-utility-short-white-lineup",
+      "handle": "interval-utility-short",
+      "color": "white",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-white-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-interval-utility-short-white-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-interval-utility-short-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-interval-utility-short-grey-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Interval Utility Short. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT WHITE Interval Utility Short to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and GREY, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Streetwear Shorts: Relaxed hip, wide leg opening, knee length. Fabric 240 gsm cotton twill. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use slim clip hangers holding each waistband; pants/shorts fully extended with both hems visible. Absolutely NO logos, lettering or rectangle marks anywhere on these bottoms. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected WHITE leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    },
+    {
+      "name": "interval-utility-short-grey-full",
+      "handle": "interval-utility-short",
+      "color": "grey",
+      "view": "full",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-photo-interval-utility-short-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-interval-utility-short-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-black-full.png"
+      ],
+      "prompt": "Use case: product-mockup, identity-preserve. Create ONE full-body studio fashion photograph for SIDEFORM Interval Utility Short in GREY. Image 1 is the EXACT model identity and outfit to preserve: same adult person, face, hair, skin, build, expression. Image 2 is the EXACT selected garment construction/color reference. Image 3 is FRAMING/LIGHTING ONLY, not its model or tee: head-to-toe, head and both entire white sneakers visible with clear modest margins, pale grey/off-white studio background, soft shadow, portrait 4:5. Zoom out from image 1 into a relaxed natural slightly three-quarter stance, with the exact Interval Utility Short silhouette, Relaxed hip, wide leg opening, knee length. Preserve pockets, seams, neckline, sleeves, cuffs, fastening and 240 gsm cotton twill. The selected pants/shorts must have NO logos, marks or lettering. Keep the model’s existing grey T-shirt; add its discreet two-offset-rectangle SIDEFORM chest mark if visible. Show entire leg shape and hem accurately. Show the same garment in GREY, not a different design. Preserve same model and styling across this product’s colors. Single photograph, no collage, typography, captions, props, new branding or watermark."
+    },
+    {
+      "name": "interval-utility-short-grey-lineup",
+      "handle": "interval-utility-short",
+      "color": "grey",
+      "view": "lineup",
+      "refs": [
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/offset-four-photo/offset-heavy-tee-grey-lineup.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-interval-utility-short-grey-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-interval-utility-short-black-front.jpg",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/theme/assets/sf-packshot-interval-utility-short-white-front.jpg"
+      ],
+      "prompt": "Use case: product-mockup, exact composition reference. Create ONE photorealistic clothing-rail product photo, portrait 4:5, for SIDEFORM Interval Utility Short. Image 1 is COMPOSITION/LIGHTING ONLY: selected garment at LEFT foreground, front facing camera, other two in compact overlapping queue BEHIND TOWARD RIGHT turned 75-90 degrees SIDEWAYS / narrow edge-on, not broad front or back. Do not copy the tee design from image 1. Image 2 is the EXACT GREY Interval Utility Short to put first with complete FRONT visible. Images 3 and 4 are this product in BLACK and WHITE, to hang sideways behind. EXACTLY THREE garments total, one each BLACK/TRUE WHITE/GREY, no other colors. Preserve Streetwear Shorts: Relaxed hip, wide leg opening, knee length. Fabric 240 gsm cotton twill. Match exact pockets, seams, closures, lengths, cuffs and silhouette of images 2-4. Use slim clip hangers holding each waistband; pants/shorts fully extended with both hems visible. Absolutely NO logos, lettering or rectangle marks anywhere on these bottoms. One black horizontal rail near upper quarter, pale off-white/grey wall and floor, gentle studio lighting/shadow, all garment hems inside frame. Selected GREY leading LEFT, NOT center; other colors sideways BEHIND RIGHT, not facing front. No models, no jackets unless the referenced product is a jacket, no borrowed branding, labels, text or watermarks. Single photo, not collage."
+    }
+  ]
+}

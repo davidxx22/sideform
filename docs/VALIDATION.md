@@ -270,24 +270,3 @@ Validation: scripts/test-six-photo-gallery.cjs passed all 12 product orders, des
 Product card names now use 600 weight and 14/15/17/18px sizes across small phone, phone, tablet and desktop layouts. Prices use bold 700 weight, 15/16/17/18px sizes and reduced letter spacing. Product detail titles and prices are larger and bolder, and cart/favorite names share the stronger weight. Product-type labels and homepage categories use sentence case. Removed the Collection 001 / Off the grid note below Favorites from every product page; the collection identifier above the title remains.
 
 Verified home, collection and search cards at 320, 390, 768, 1440 and 1920px: computed type styles, sentence casing and no horizontal overflow. Verified all 12 products omit the removed note. Desktop/mobile screenshots and results are in artifacts/product-typography-*. Shopify Theme Check completed with zero errors and 12 existing warnings.
-
-
-## Page-load and scroll entrances
-
-sf-motion.js adds repeatable 720ms fade/up entrances with a 10px offset, soft easing and capped 35ms sibling staggering. Hero text enters on load; category cards, product cards, editorial tiles, section headings and footer columns enter on scroll. It uses IntersectionObserver and the Web Animations API; content is visible by default and no layout dimensions are animated. Main content mutations register newly loaded cards. Reduced motion disables entrances and cancels running ones; keyboard focus cancels an entrance immediately. Shopify design mode skips the custom effects, and existing Dawn scroll-trigger elements are excluded to avoid duplicate animation. The Vercel preview loads the same script as the Shopify layout.
-
-Validation: scripts/test-motion.cjs checks Chrome/WebKit at 390 and 1440px, hero entrance, scroll entrances that replay after leaving the viewport and stay stable while in view, dynamically inserted cards, keyboard focus, reduced-motion changes, no-JavaScript content visibility, collection and product pages, no horizontal overflow and no page errors.
-
-Motion refinement: separate entrance and exit observers re-arm an item only after it fully leaves the viewport plus a 48px buffer. This avoids animation translation retriggering the observer at an edge. Active entrances are canceled offscreen, on focus or when reduced motion is enabled. Initial opacity is 0.15 rather than fully hidden. Updated motion checks passed Chrome and WebKit at phone and desktop widths, including re-entry and no repeated animation while resting in view.
-
-Image-motion revision: image cards no longer fade or slide. Only the photograph zooms from scale 1.025 to 1 over 1000ms inside its existing clipped frame; captions remain stationary and fully visible. Text entrances retain the existing 720ms treatment. Scroll replay, focus cancellation and reduced-motion behavior remain supported. The motion check additionally verifies that image keyframes contain scale only, with no opacity/translation, and card opacity remains 1.
-
-Dollar/Thrifty reference revision: photo sections now fade in, and product cards also rise inside fixed grid items. The reveal is prepared before entry and resets only when the item leaves view. Tested replay, desktop/mobile timing, reduced motion, keyboard focus and dynamically loaded cards in Chromium and WebKit.
-
-
-## Catalog and imagery reset
-
-Removed all twelve sample products, cleared the CSV import/inventory files and product metafields, and deleted old product, campaign, editorial, collection-poster and review images from the project and generated public assets. Logo/symbol/favicon assets and interface SVG icons remain. Homepage now renders the text-only brand section. Search category links no longer reference the removed sample pictures. Previous saved sample favorites use a retired storage key. Old sample product URLs return 404 and existing cart cookies safely ignore retired variants. Empty homepage, collections, search, cart, About and Contact render at 390/1440px without photographs or product cards, horizontal overflow or JavaScript errors. Shopify store data was not connected or changed.
-
-
-Poppins-only typography: self-hosted regular/medium/semibold/bold/extrabold files and OFL license are included; Shopify and Vercel both use Poppins for headings, body and native controls. Link underlines and category active borders are removed. Hover, press and current-page navigation use heavier text; footer Explore links mark the current page and preserve keyboard focus outlines. Chrome/WebKit checks passed at 390/1440px for font loading, header hover/open states, footer links and no horizontal overflow. Removed obsolete campaign fallback references to photographs deleted in the previous catalog reset.

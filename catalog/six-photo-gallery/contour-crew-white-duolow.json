@@ -1,0 +1,12 @@
+{
+  "handle": "contour-crew",
+  "color": "white",
+  "view": "duolow",
+  "refs": [
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-d705e7ab-49d5-4036-b054-718fe3d55224.png",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-contour-crew-white-front-480.jpg"
+  ],
+  "prompt": "Edit image 1 for SIDEFORM contour-crew WHITE colorway. Change ONLY BOTH models' upper garments from black to the exact white fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-02085195-75a6-48d5-8a57-e3f02d77b047.png",
+  "tool": "built-in image_gen"
+}

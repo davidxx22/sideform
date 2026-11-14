@@ -1,0 +1,109 @@
+Handle,Color,View,Alt,DemoAsset,Replacement
+offset-heavy-tee,Black,front,"[color:Black] Offset Heavy Tee, Black, front view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-black-front.svg,offset-heavy-tee-black-front.jpg
+offset-heavy-tee,Black,back,"[color:Black] Offset Heavy Tee, Black, back view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-black-back.svg,offset-heavy-tee-black-back.jpg
+offset-heavy-tee,Black,detail,"[color:Black] Offset Heavy Tee, Black, detail view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-black-detail.svg,offset-heavy-tee-black-detail.jpg
+offset-heavy-tee,White,front,"[color:White] Offset Heavy Tee, White, front view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-white-front.svg,offset-heavy-tee-white-front.jpg
+offset-heavy-tee,White,back,"[color:White] Offset Heavy Tee, White, back view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-white-back.svg,offset-heavy-tee-white-back.jpg
+offset-heavy-tee,White,detail,"[color:White] Offset Heavy Tee, White, detail view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-white-detail.svg,offset-heavy-tee-white-detail.jpg
+offset-heavy-tee,Grey,front,"[color:Grey] Offset Heavy Tee, Grey, front view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-grey-front.svg,offset-heavy-tee-grey-front.jpg
+offset-heavy-tee,Grey,back,"[color:Grey] Offset Heavy Tee, Grey, back view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-grey-back.svg,offset-heavy-tee-grey-back.jpg
+offset-heavy-tee,Grey,detail,"[color:Grey] Offset Heavy Tee, Grey, detail view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-grey-detail.svg,offset-heavy-tee-grey-detail.jpg
+plane-box-tee,Black,front,"[color:Black] Plane Box Tee, Black, front view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-black-front.svg,plane-box-tee-black-front.jpg
+plane-box-tee,Black,back,"[color:Black] Plane Box Tee, Black, back view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-black-back.svg,plane-box-tee-black-back.jpg
+plane-box-tee,Black,detail,"[color:Black] Plane Box Tee, Black, detail view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-black-detail.svg,plane-box-tee-black-detail.jpg
+plane-box-tee,White,front,"[color:White] Plane Box Tee, White, front view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-white-front.svg,plane-box-tee-white-front.jpg
+plane-box-tee,White,back,"[color:White] Plane Box Tee, White, back view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-white-back.svg,plane-box-tee-white-back.jpg
+plane-box-tee,White,detail,"[color:White] Plane Box Tee, White, detail view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-white-detail.svg,plane-box-tee-white-detail.jpg
+plane-box-tee,Grey,front,"[color:Grey] Plane Box Tee, Grey, front view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-grey-front.svg,plane-box-tee-grey-front.jpg
+plane-box-tee,Grey,back,"[color:Grey] Plane Box Tee, Grey, back view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-grey-back.svg,plane-box-tee-grey-back.jpg
+plane-box-tee,Grey,detail,"[color:Grey] Plane Box Tee, Grey, detail view. Demo illustration; replace before launch.",sf-demo-oversized-t-shirt-grey-detail.svg,plane-box-tee-grey-detail.jpg
+axis-long-sleeve,Black,front,"[color:Black] Axis Long Sleeve, Black, front view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-black-front.svg,axis-long-sleeve-black-front.jpg
+axis-long-sleeve,Black,back,"[color:Black] Axis Long Sleeve, Black, back view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-black-back.svg,axis-long-sleeve-black-back.jpg
+axis-long-sleeve,Black,detail,"[color:Black] Axis Long Sleeve, Black, detail view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-black-detail.svg,axis-long-sleeve-black-detail.jpg
+axis-long-sleeve,White,front,"[color:White] Axis Long Sleeve, White, front view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-white-front.svg,axis-long-sleeve-white-front.jpg
+axis-long-sleeve,White,back,"[color:White] Axis Long Sleeve, White, back view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-white-back.svg,axis-long-sleeve-white-back.jpg
+axis-long-sleeve,White,detail,"[color:White] Axis Long Sleeve, White, detail view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-white-detail.svg,axis-long-sleeve-white-detail.jpg
+axis-long-sleeve,Grey,front,"[color:Grey] Axis Long Sleeve, Grey, front view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-grey-front.svg,axis-long-sleeve-grey-front.jpg
+axis-long-sleeve,Grey,back,"[color:Grey] Axis Long Sleeve, Grey, back view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-grey-back.svg,axis-long-sleeve-grey-back.jpg
+axis-long-sleeve,Grey,detail,"[color:Grey] Axis Long Sleeve, Grey, detail view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-grey-detail.svg,axis-long-sleeve-grey-detail.jpg
+frame-long-sleeve,Black,front,"[color:Black] Frame Long Sleeve, Black, front view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-black-front.svg,frame-long-sleeve-black-front.jpg
+frame-long-sleeve,Black,back,"[color:Black] Frame Long Sleeve, Black, back view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-black-back.svg,frame-long-sleeve-black-back.jpg
+frame-long-sleeve,Black,detail,"[color:Black] Frame Long Sleeve, Black, detail view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-black-detail.svg,frame-long-sleeve-black-detail.jpg
+frame-long-sleeve,White,front,"[color:White] Frame Long Sleeve, White, front view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-white-front.svg,frame-long-sleeve-white-front.jpg
+frame-long-sleeve,White,back,"[color:White] Frame Long Sleeve, White, back view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-white-back.svg,frame-long-sleeve-white-back.jpg
+frame-long-sleeve,White,detail,"[color:White] Frame Long Sleeve, White, detail view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-white-detail.svg,frame-long-sleeve-white-detail.jpg
+frame-long-sleeve,Grey,front,"[color:Grey] Frame Long Sleeve, Grey, front view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-grey-front.svg,frame-long-sleeve-grey-front.jpg
+frame-long-sleeve,Grey,back,"[color:Grey] Frame Long Sleeve, Grey, back view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-grey-back.svg,frame-long-sleeve-grey-back.jpg
+frame-long-sleeve,Grey,detail,"[color:Grey] Frame Long Sleeve, Grey, detail view. Demo illustration; replace before launch.",sf-demo-long-sleeve-t-shirt-grey-detail.svg,frame-long-sleeve-grey-detail.jpg
+volume-pullover,Black,front,"[color:Black] Volume Pullover, Black, front view. Demo illustration; replace before launch.",sf-demo-hoodie-black-front.svg,volume-pullover-black-front.jpg
+volume-pullover,Black,back,"[color:Black] Volume Pullover, Black, back view. Demo illustration; replace before launch.",sf-demo-hoodie-black-back.svg,volume-pullover-black-back.jpg
+volume-pullover,Black,detail,"[color:Black] Volume Pullover, Black, detail view. Demo illustration; replace before launch.",sf-demo-hoodie-black-detail.svg,volume-pullover-black-detail.jpg
+volume-pullover,White,front,"[color:White] Volume Pullover, White, front view. Demo illustration; replace before launch.",sf-demo-hoodie-white-front.svg,volume-pullover-white-front.jpg
+volume-pullover,White,back,"[color:White] Volume Pullover, White, back view. Demo illustration; replace before launch.",sf-demo-hoodie-white-back.svg,volume-pullover-white-back.jpg
+volume-pullover,White,detail,"[color:White] Volume Pullover, White, detail view. Demo illustration; replace before launch.",sf-demo-hoodie-white-detail.svg,volume-pullover-white-detail.jpg
+volume-pullover,Grey,front,"[color:Grey] Volume Pullover, Grey, front view. Demo illustration; replace before launch.",sf-demo-hoodie-grey-front.svg,volume-pullover-grey-front.jpg
+volume-pullover,Grey,back,"[color:Grey] Volume Pullover, Grey, back view. Demo illustration; replace before launch.",sf-demo-hoodie-grey-back.svg,volume-pullover-grey-back.jpg
+volume-pullover,Grey,detail,"[color:Grey] Volume Pullover, Grey, detail view. Demo illustration; replace before launch.",sf-demo-hoodie-grey-detail.svg,volume-pullover-grey-detail.jpg
+structure-hoodie,Black,front,"[color:Black] Structure Hoodie, Black, front view. Demo illustration; replace before launch.",sf-demo-hoodie-black-front.svg,structure-hoodie-black-front.jpg
+structure-hoodie,Black,back,"[color:Black] Structure Hoodie, Black, back view. Demo illustration; replace before launch.",sf-demo-hoodie-black-back.svg,structure-hoodie-black-back.jpg
+structure-hoodie,Black,detail,"[color:Black] Structure Hoodie, Black, detail view. Demo illustration; replace before launch.",sf-demo-hoodie-black-detail.svg,structure-hoodie-black-detail.jpg
+structure-hoodie,White,front,"[color:White] Structure Hoodie, White, front view. Demo illustration; replace before launch.",sf-demo-hoodie-white-front.svg,structure-hoodie-white-front.jpg
+structure-hoodie,White,back,"[color:White] Structure Hoodie, White, back view. Demo illustration; replace before launch.",sf-demo-hoodie-white-back.svg,structure-hoodie-white-back.jpg
+structure-hoodie,White,detail,"[color:White] Structure Hoodie, White, detail view. Demo illustration; replace before launch.",sf-demo-hoodie-white-detail.svg,structure-hoodie-white-detail.jpg
+structure-hoodie,Grey,front,"[color:Grey] Structure Hoodie, Grey, front view. Demo illustration; replace before launch.",sf-demo-hoodie-grey-front.svg,structure-hoodie-grey-front.jpg
+structure-hoodie,Grey,back,"[color:Grey] Structure Hoodie, Grey, back view. Demo illustration; replace before launch.",sf-demo-hoodie-grey-back.svg,structure-hoodie-grey-back.jpg
+structure-hoodie,Grey,detail,"[color:Grey] Structure Hoodie, Grey, detail view. Demo illustration; replace before launch.",sf-demo-hoodie-grey-detail.svg,structure-hoodie-grey-detail.jpg
+contour-crew,Black,front,"[color:Black] Contour Crew, Black, front view. Demo illustration; replace before launch.",sf-demo-crewneck-sweatshirt-black-front.svg,contour-crew-black-front.jpg
+contour-crew,Black,back,"[color:Black] Contour Crew, Black, back view. Demo illustration; replace before launch.",sf-demo-crewneck-sweatshirt-black-back.svg,contour-crew-black-back.jpg
+contour-crew,Black,detail,"[color:Black] Contour Crew, Black, detail view. Demo illustration; replace before launch.",sf-demo-crewneck-sweatshirt-black-detail.svg,contour-crew-black-detail.jpg
+contour-crew,White,front,"[color:White] Contour Crew, White, front view. Demo illustration; replace before launch.",sf-demo-crewneck-sweatshirt-white-front.svg,contour-crew-white-front.jpg
+contour-crew,White,back,"[color:White] Contour Crew, White, back view. Demo illustration; replace before launch.",sf-demo-crewneck-sweatshirt-white-back.svg,contour-crew-white-back.jpg
+contour-crew,White,detail,"[color:White] Contour Crew, White, detail view. Demo illustration; replace before launch.",sf-demo-crewneck-sweatshirt-white-detail.svg,contour-crew-white-detail.jpg
+contour-crew,Grey,front,"[color:Grey] Contour Crew, Grey, front view. Demo illustration; replace before launch.",sf-demo-crewneck-sweatshirt-grey-front.svg,contour-crew-grey-front.jpg
+contour-crew,Grey,back,"[color:Grey] Contour Crew, Grey, back view. Demo illustration; replace before launch.",sf-demo-crewneck-sweatshirt-grey-back.svg,contour-crew-grey-back.jpg
+contour-crew,Grey,detail,"[color:Grey] Contour Crew, Grey, detail view. Demo illustration; replace before launch.",sf-demo-crewneck-sweatshirt-grey-detail.svg,contour-crew-grey-detail.jpg
+shell-utility-jacket,Black,front,"[color:Black] Shell Utility Jacket, Black, front view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-black-front.svg,shell-utility-jacket-black-front.jpg
+shell-utility-jacket,Black,back,"[color:Black] Shell Utility Jacket, Black, back view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-black-back.svg,shell-utility-jacket-black-back.jpg
+shell-utility-jacket,Black,detail,"[color:Black] Shell Utility Jacket, Black, detail view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-black-detail.svg,shell-utility-jacket-black-detail.jpg
+shell-utility-jacket,White,front,"[color:White] Shell Utility Jacket, White, front view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-white-front.svg,shell-utility-jacket-white-front.jpg
+shell-utility-jacket,White,back,"[color:White] Shell Utility Jacket, White, back view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-white-back.svg,shell-utility-jacket-white-back.jpg
+shell-utility-jacket,White,detail,"[color:White] Shell Utility Jacket, White, detail view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-white-detail.svg,shell-utility-jacket-white-detail.jpg
+shell-utility-jacket,Grey,front,"[color:Grey] Shell Utility Jacket, Grey, front view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-grey-front.svg,shell-utility-jacket-grey-front.jpg
+shell-utility-jacket,Grey,back,"[color:Grey] Shell Utility Jacket, Grey, back view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-grey-back.svg,shell-utility-jacket-grey-back.jpg
+shell-utility-jacket,Grey,detail,"[color:Grey] Shell Utility Jacket, Grey, detail view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-grey-detail.svg,shell-utility-jacket-grey-detail.jpg
+transit-work-jacket,Black,front,"[color:Black] Transit Work Jacket, Black, front view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-black-front.svg,transit-work-jacket-black-front.jpg
+transit-work-jacket,Black,back,"[color:Black] Transit Work Jacket, Black, back view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-black-back.svg,transit-work-jacket-black-back.jpg
+transit-work-jacket,Black,detail,"[color:Black] Transit Work Jacket, Black, detail view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-black-detail.svg,transit-work-jacket-black-detail.jpg
+transit-work-jacket,White,front,"[color:White] Transit Work Jacket, White, front view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-white-front.svg,transit-work-jacket-white-front.jpg
+transit-work-jacket,White,back,"[color:White] Transit Work Jacket, White, back view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-white-back.svg,transit-work-jacket-white-back.jpg
+transit-work-jacket,White,detail,"[color:White] Transit Work Jacket, White, detail view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-white-detail.svg,transit-work-jacket-white-detail.jpg
+transit-work-jacket,Grey,front,"[color:Grey] Transit Work Jacket, Grey, front view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-grey-front.svg,transit-work-jacket-grey-front.jpg
+transit-work-jacket,Grey,back,"[color:Grey] Transit Work Jacket, Grey, back view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-grey-back.svg,transit-work-jacket-grey-back.jpg
+transit-work-jacket,Grey,detail,"[color:Grey] Transit Work Jacket, Grey, detail view. Demo illustration; replace before launch.",sf-demo-streetwear-jacket-grey-detail.svg,transit-work-jacket-grey-detail.jpg
+grid-cargo-pant,Black,front,"[color:Black] Grid Cargo Pant, Black, front view. Demo illustration; replace before launch.",sf-demo-cargo-pants-black-front.svg,grid-cargo-pant-black-front.jpg
+grid-cargo-pant,Black,back,"[color:Black] Grid Cargo Pant, Black, back view. Demo illustration; replace before launch.",sf-demo-cargo-pants-black-back.svg,grid-cargo-pant-black-back.jpg
+grid-cargo-pant,Black,detail,"[color:Black] Grid Cargo Pant, Black, detail view. Demo illustration; replace before launch.",sf-demo-cargo-pants-black-detail.svg,grid-cargo-pant-black-detail.jpg
+grid-cargo-pant,White,front,"[color:White] Grid Cargo Pant, White, front view. Demo illustration; replace before launch.",sf-demo-cargo-pants-white-front.svg,grid-cargo-pant-white-front.jpg
+grid-cargo-pant,White,back,"[color:White] Grid Cargo Pant, White, back view. Demo illustration; replace before launch.",sf-demo-cargo-pants-white-back.svg,grid-cargo-pant-white-back.jpg
+grid-cargo-pant,White,detail,"[color:White] Grid Cargo Pant, White, detail view. Demo illustration; replace before launch.",sf-demo-cargo-pants-white-detail.svg,grid-cargo-pant-white-detail.jpg
+grid-cargo-pant,Grey,front,"[color:Grey] Grid Cargo Pant, Grey, front view. Demo illustration; replace before launch.",sf-demo-cargo-pants-grey-front.svg,grid-cargo-pant-grey-front.jpg
+grid-cargo-pant,Grey,back,"[color:Grey] Grid Cargo Pant, Grey, back view. Demo illustration; replace before launch.",sf-demo-cargo-pants-grey-back.svg,grid-cargo-pant-grey-back.jpg
+grid-cargo-pant,Grey,detail,"[color:Grey] Grid Cargo Pant, Grey, detail view. Demo illustration; replace before launch.",sf-demo-cargo-pants-grey-detail.svg,grid-cargo-pant-grey-detail.jpg
+drift-baggy-jean,Black,front,"[color:Black] Drift Baggy Jean, Black, front view. Demo illustration; replace before launch.",sf-demo-baggy-jeans-black-front.svg,drift-baggy-jean-black-front.jpg
+drift-baggy-jean,Black,back,"[color:Black] Drift Baggy Jean, Black, back view. Demo illustration; replace before launch.",sf-demo-baggy-jeans-black-back.svg,drift-baggy-jean-black-back.jpg
+drift-baggy-jean,Black,detail,"[color:Black] Drift Baggy Jean, Black, detail view. Demo illustration; replace before launch.",sf-demo-baggy-jeans-black-detail.svg,drift-baggy-jean-black-detail.jpg
+drift-baggy-jean,White,front,"[color:White] Drift Baggy Jean, White, front view. Demo illustration; replace before launch.",sf-demo-baggy-jeans-white-front.svg,drift-baggy-jean-white-front.jpg
+drift-baggy-jean,White,back,"[color:White] Drift Baggy Jean, White, back view. Demo illustration; replace before launch.",sf-demo-baggy-jeans-white-back.svg,drift-baggy-jean-white-back.jpg
+drift-baggy-jean,White,detail,"[color:White] Drift Baggy Jean, White, detail view. Demo illustration; replace before launch.",sf-demo-baggy-jeans-white-detail.svg,drift-baggy-jean-white-detail.jpg
+drift-baggy-jean,Grey,front,"[color:Grey] Drift Baggy Jean, Grey, front view. Demo illustration; replace before launch.",sf-demo-baggy-jeans-grey-front.svg,drift-baggy-jean-grey-front.jpg
+drift-baggy-jean,Grey,back,"[color:Grey] Drift Baggy Jean, Grey, back view. Demo illustration; replace before launch.",sf-demo-baggy-jeans-grey-back.svg,drift-baggy-jean-grey-back.jpg
+drift-baggy-jean,Grey,detail,"[color:Grey] Drift Baggy Jean, Grey, detail view. Demo illustration; replace before launch.",sf-demo-baggy-jeans-grey-detail.svg,drift-baggy-jean-grey-detail.jpg
+interval-utility-short,Black,front,"[color:Black] Interval Utility Short, Black, front view. Demo illustration; replace before launch.",sf-demo-streetwear-shorts-black-front.svg,interval-utility-short-black-front.jpg
+interval-utility-short,Black,back,"[color:Black] Interval Utility Short, Black, back view. Demo illustration; replace before launch.",sf-demo-streetwear-shorts-black-back.svg,interval-utility-short-black-back.jpg
+interval-utility-short,Black,detail,"[color:Black] Interval Utility Short, Black, detail view. Demo illustration; replace before launch.",sf-demo-streetwear-shorts-black-detail.svg,interval-utility-short-black-detail.jpg
+interval-utility-short,White,front,"[color:White] Interval Utility Short, White, front view. Demo illustration; replace before launch.",sf-demo-streetwear-shorts-white-front.svg,interval-utility-short-white-front.jpg
+interval-utility-short,White,back,"[color:White] Interval Utility Short, White, back view. Demo illustration; replace before launch.",sf-demo-streetwear-shorts-white-back.svg,interval-utility-short-white-back.jpg
+interval-utility-short,White,detail,"[color:White] Interval Utility Short, White, detail view. Demo illustration; replace before launch.",sf-demo-streetwear-shorts-white-detail.svg,interval-utility-short-white-detail.jpg
+interval-utility-short,Grey,front,"[color:Grey] Interval Utility Short, Grey, front view. Demo illustration; replace before launch.",sf-demo-streetwear-shorts-grey-front.svg,interval-utility-short-grey-front.jpg
+interval-utility-short,Grey,back,"[color:Grey] Interval Utility Short, Grey, back view. Demo illustration; replace before launch.",sf-demo-streetwear-shorts-grey-back.svg,interval-utility-short-grey-back.jpg
+interval-utility-short,Grey,detail,"[color:Grey] Interval Utility Short, Grey, detail view. Demo illustration; replace before launch.",sf-demo-streetwear-shorts-grey-detail.svg,interval-utility-short-grey-detail.jpg

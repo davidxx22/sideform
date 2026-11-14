@@ -1,0 +1,39 @@
+{
+  "tool": "Built-in imagegen",
+  "scope": "Offset Heavy Tee only; selected color leading left, other two colors queued sideways to right",
+  "images": [
+    {
+      "name": "offset-heavy-tee-black-lineup",
+      "color": "black",
+      "prompt": "Use case: product-mockup with exact composition reference. Image 1 is COMPOSITION ONLY: copy its SINGLE FILE CLOTHING RAIL arrangement and its camera angle, not the jackets. The leading selected garment hangs toward the LEFT foreground, front visible at a slight angle. All remaining garments hang in a compact overlapping queue BEHIND IT TOWARD THE RIGHT, their hangers turned 75–90 degrees so we see narrow SIDE PROFILES rather than front or broad back panels. Image 2 is the exact SIDEFORM BLACK Offset Heavy Tee. Image 3 shows this same product in all three colors. Photograph EXACTLY THREE T-SHIRTS total: selected BLACK leading on the left with its FRONT and small off-white two-offset-horizontal-rectangle chest logo visible; WHITE second and GREY third queued behind toward the right, BOTH EDGE-ON/SIDEWAYS, not facing the camera. A compact row, like the jacket reference. DO NOT place the selected tee in the center with flanking garments. DO NOT spread the three fronts side by side. DO NOT show broad back panels of the other colors. Keep hangers on ONE simple black horizontal rail near upper quarter, pale off-white/grey studio wall and floor, soft light and shadow, portrait 4:5 with all hems visible and clean margins. Preserve the Offset tee's oversized short sleeves, ribbed crew neck, heavy jersey, Black/White/Grey only, exactly one of each. No models, jackets, borrowed logos, text, interface or watermark. Selected shirt's sleeves and hem clearly readable.",
+      "refs": [
+        "C:/Users/david/OneDrive/Pictures/Screenshots/Screenshot 2026-10-21 003250.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/offset-heavy-tee-black-front.png",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b283ded0-ddfb-4054-bb8d-615b3dedaec6.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c7893788-a8f3-4416-b6dd-425958ee2cd2.png"
+    },
+    {
+      "name": "offset-heavy-tee-white-lineup",
+      "color": "white",
+      "prompt": "Use case: product-mockup with exact composition reference. Image 1 is COMPOSITION ONLY: copy its SINGLE FILE CLOTHING RAIL arrangement and its camera angle, not the jackets. The leading selected garment hangs toward the LEFT foreground, front visible at a slight angle. All remaining garments hang in a compact overlapping queue BEHIND IT TOWARD THE RIGHT, their hangers turned 75–90 degrees so we see narrow SIDE PROFILES rather than front or broad back panels. Image 2 is the exact SIDEFORM WHITE Offset Heavy Tee. Image 3 shows this same product in all three colors. Photograph EXACTLY THREE T-SHIRTS total: selected WHITE leading on the left with its FRONT and small black two-offset-horizontal-rectangle chest logo visible; BLACK second and GREY third queued behind toward the right, BOTH EDGE-ON/SIDEWAYS, not facing the camera. A compact row, like the jacket reference. DO NOT place the selected tee in the center with flanking garments. DO NOT spread the three fronts side by side. DO NOT show broad back panels of the other colors. Keep hangers on ONE simple black horizontal rail near upper quarter, pale off-white/grey studio wall and floor, soft light and shadow, portrait 4:5 with all hems visible and clean margins. Preserve the Offset tee's oversized short sleeves, ribbed crew neck, heavy jersey, Black/White/Grey only, exactly one of each. No models, jackets, borrowed logos, text, interface or watermark. Selected shirt's sleeves and hem clearly readable.",
+      "refs": [
+        "C:/Users/david/OneDrive/Pictures/Screenshots/Screenshot 2026-10-21 003250.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/offset-heavy-tee-white-front.png",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b283ded0-ddfb-4054-bb8d-615b3dedaec6.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a2b3309a-f239-4d30-904e-debb65d93271.png"
+    },
+    {
+      "name": "offset-heavy-tee-grey-lineup",
+      "color": "grey",
+      "prompt": "Use case: product-mockup with exact composition reference. Image 1 is COMPOSITION ONLY: copy its SINGLE FILE CLOTHING RAIL arrangement and its camera angle, not the jackets. The leading selected garment hangs toward the LEFT foreground, front visible at a slight angle. All remaining garments hang in a compact overlapping queue BEHIND IT TOWARD THE RIGHT, their hangers turned 75–90 degrees so we see narrow SIDE PROFILES rather than front or broad back panels. Image 2 is the exact SIDEFORM GREY Offset Heavy Tee. Image 3 shows this same product in all three colors. Photograph EXACTLY THREE T-SHIRTS total: selected GREY leading on the left with its FRONT and small black two-offset-horizontal-rectangle chest logo visible; BLACK second and WHITE third queued behind toward the right, BOTH EDGE-ON/SIDEWAYS, not facing the camera. A compact row, like the jacket reference. DO NOT place the selected tee in the center with flanking garments. DO NOT spread the three fronts side by side. DO NOT show broad back panels of the other colors. Keep hangers on ONE simple black horizontal rail near upper quarter, pale off-white/grey studio wall and floor, soft light and shadow, portrait 4:5 with all hems visible and clean margins. Preserve the Offset tee's oversized short sleeves, ribbed crew neck, heavy jersey, Black/White/Grey only, exactly one of each. No models, jackets, borrowed logos, text, interface or watermark. Selected shirt's sleeves and hem clearly readable.",
+      "refs": [
+        "C:/Users/david/OneDrive/Pictures/Screenshots/Screenshot 2026-10-21 003250.png",
+        "C:/Users/david/Documents/Codex/2026-10-18/im/SIDEFORM/catalog/product-photos/offset-heavy-tee-grey-front.png",
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b283ded0-ddfb-4054-bb8d-615b3dedaec6.png"
+      ],
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-25dad223-1326-4aed-8878-fe79cd23eab3.png"
+    }
+  ]
+}

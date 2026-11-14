@@ -1,0 +1,13 @@
+{
+  "handle": "offset-heavy-tee",
+  "color": "black",
+  "view": "duolow",
+  "refs": [
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-offset-heavy-tee-black-front-480.jpg",
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-568e2fe9-2fae-4d8f-bdef-b361f46ca46d.png",
+    "C:/Users/david/Downloads/download (11).jpg"
+  ],
+  "prompt": "Create ONE photoreal SIDEFORM Offset Heavy Tee product-gallery photograph of TWO models wearing the SAME selected product. Images 1 and 2 define the exact male and female identities AND the exact BLACK black oversized short-sleeve T-shirt, dropped shoulders, long wide body that BOTH must wear. Preserve their faces, hairstyles, skin tones and physiques; preserve garment construction, cut, fabric, closures, sleeves and tiny white offset two-bar chest logo exactly. Image 3 is ONLY a reference for body poses and camera composition, NEVER its people, brand graphics or clothing. Match its dramatic LOW-ANGLE two-person portrait: camera below chest level looking upward, the man large in the left foreground, woman slightly farther back to the right, both looking down calmly toward lens. Crop head-to-upper-thigh, whole heads visible, emphasize their garment torsos and natural perspective, no wide-angle facial distortion. Both wear loose grey trousers and plain white sneakers where visible, not the reference skirt or dark footwear. Retain the existing SIDEFORM softly lit pale warm-grey studio wall and floor, coherent studio shadows; do NOT copy the reference's teal/dark lighting or backdrop. 4:5 portrait around 1122x1402, professional high-detail catalog photo, one continuous real studio frame, no split-panel line, no collage, no text, no captions, no watermarks, no added logos. Product correctness and the SAME pair of SIDEFORM models are crucial.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-dcf63ded-5829-44c5-8e77-ac36212cdae8.png",
+  "tool": "built-in image_gen"
+}

@@ -1,0 +1,8 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Background extraction only. Remove the entire studio wall, floor, floor shadows and all background from this exact photograph and replace them with true transparent alpha. Keep ONLY the same full-body man wearing the exact white SIDEFORM hoodie, black cargo pants and white sneakers. Preserve his face, hair, skin, clothing, tiny black offset logo, pose, scale and original position precisely. Retain the same portrait canvas 1122x1402 and the empty left space, full hair and both shoes. Do not crop or re-center him. Clean natural alpha edges around hair, fingers, clothing and shoes. No backdrop, no floor, no colored rectangle, no checkerboard baked into pixels, no added text or objects. The transparent cutout will be placed over a single solid gray website tile.",
+  "reference": "catalog/editorial-photos/white-hoodie-black-cargo-neutral.png",
+  "output": "catalog/editorial-photos/white-hoodie-black-cargo-cutout.png",
+  "asset": "theme/assets/sf-editorial-white-hoodie-black-cargo-cutout.png",
+  "background": "#e7e7e3 supplied by the editorial tile"
+}

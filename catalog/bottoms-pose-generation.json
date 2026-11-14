@@ -1,0 +1,149 @@
+{
+  "request": "Change only second gallery photo pose for bottoms, female three-quarter rear and male back-facing hand behind neck; original backgrounds and outfits retained.",
+  "outputs": [
+    {
+      "handle": "grid-cargo-pant",
+      "color": "black",
+      "view": "full",
+      "tool": "Built-in imagegen",
+      "use_case": "identity-preserve",
+      "prompt": "Edit target: first image, existing SIDEFORM product photograph. Second image is ONLY a body-pose reference. Change ONLY the pose of the original female model. Keep the identical person, hair, skin tone, grey SIDEFORM T-shirt, white sneakers and exact black wide-leg cargo pants, fabric, fit, seams, pockets, no new logos. Preserve the FIRST image's original light warm-grey studio wall and floor, soft lighting and shadows, portrait 4:5 framing, full body head to soles with margins. Pose: match second image's relaxed three-quarter rear/side standing pose, body turned to the right, face glancing over the right shoulder, near hand resting inside trouser/short pocket, weight relaxed on one leg. Retain the original model's shoulder-length dark hair, do NOT copy reference ponytail. Show the real rear and side garment construction consistently with the original product. Do NOT copy the reference person's identity, clothing, graphics, footwear, studio background, screenshot UI, text or watermark. Keep the T-shirt back plain grey without lettering. Professional photorealistic catalog photograph, not a collage.",
+      "reference": [
+        "theme/assets/sf-gallery-grid-cargo-pant-black-full.jpg",
+        "C:/Users/david/AppData/Local/Temp/codex-clipboard-f13ec96e-ff59-4549-8c6d-352e6fd284a0.png"
+      ],
+      "generated_path": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-5a6a618e-2d1c-406f-8d5a-f9f0ac59696d.png",
+      "saved_path": "catalog/product-gallery-photos/grid-cargo-pant-black-full.png",
+      "asset": "theme/assets/sf-gallery-grid-cargo-pant-black-full.jpg",
+      "sha256": "297924118ff560099e75ebff94f577d7263e3796120c6ed56d2506d161b08cc9"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "white",
+      "view": "full",
+      "tool": "Built-in imagegen",
+      "use_case": "identity-preserve",
+      "prompt": "Edit image 1 (the approved posed SIDEFORM studio photograph). Image 2 is ONLY the original white product color/material reference. Change ONLY the cargo pants from black to the exact white shade and fabric finish in image 2. Preserve image 1's exact pose, identical model identity, hair, grey T-shirt, white sneakers, framing, garment cut, seams, pockets and original light-grey studio backdrop/floor/lighting. Keep the back of the grey T-shirt plain. Do not reposition limbs or copy the front-facing pose from image 2. Full body including head and both shoes, 1122x1402 portrait. No text, no watermark, no new logos.",
+      "reference": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-5a6a618e-2d1c-406f-8d5a-f9f0ac59696d.png",
+        "theme/assets/sf-gallery-grid-cargo-pant-white-full.jpg"
+      ],
+      "generated_path": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-d4fb6454-9728-4739-8525-217902aa5036.png",
+      "saved_path": "catalog/product-gallery-photos/grid-cargo-pant-white-full.png",
+      "asset": "theme/assets/sf-gallery-grid-cargo-pant-white-full.jpg",
+      "sha256": "e0cd6f2af0b7fb2f09cd16b6449e1dba6f525e772decc69ee0667cd19a9546ff"
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "grey",
+      "view": "full",
+      "tool": "Built-in imagegen",
+      "use_case": "identity-preserve",
+      "prompt": "Edit image 1 (the approved posed SIDEFORM studio photograph). Image 2 is ONLY the original grey product color/material reference. Change ONLY the cargo pants from black to the exact grey shade and fabric finish in image 2. Preserve image 1's exact pose, identical model identity, hair, grey T-shirt, white sneakers, framing, garment cut, seams, pockets and original light-grey studio backdrop/floor/lighting. Keep the back of the grey T-shirt plain. Do not reposition limbs or copy the front-facing pose from image 2. Full body including head and both shoes, 1122x1402 portrait. No text, no watermark, no new logos.",
+      "reference": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-5a6a618e-2d1c-406f-8d5a-f9f0ac59696d.png",
+        "theme/assets/sf-gallery-grid-cargo-pant-grey-full.jpg"
+      ],
+      "generated_path": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-063eb03b-df05-4749-994b-08ddb9800f34.png",
+      "saved_path": "catalog/product-gallery-photos/grid-cargo-pant-grey-full.png",
+      "asset": "theme/assets/sf-gallery-grid-cargo-pant-grey-full.jpg",
+      "sha256": "6d5077fbd34f4db1be571e72486b7b9a28272aca2e91cb3d37d066d9473bab67"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "black",
+      "view": "full",
+      "tool": "Built-in imagegen",
+      "use_case": "identity-preserve",
+      "prompt": "Edit target: first image, existing SIDEFORM product photograph. Second image is ONLY a body-pose reference. Change ONLY the pose of the original male model. Keep the identical person, hair, skin tone, grey SIDEFORM T-shirt, white sneakers and exact black wide-leg baggy jeans, fabric, fit, seams, pockets, no new logos. Preserve the FIRST image's original light warm-grey studio wall and floor, soft lighting and shadows, portrait 4:5 framing, full body head to soles with margins. Pose: match second image's rear-facing relaxed standing pose, back to camera, right elbow raised outward with right hand resting at the back of the neck, left arm down naturally, head slightly bowed/turned, feet close and weight on one leg. Show the real rear and side garment construction consistently with the original product. Do NOT copy the reference person's identity, clothing, graphics, footwear, studio background, screenshot UI, text or watermark. Keep the T-shirt back plain grey without lettering. Professional photorealistic catalog photograph, not a collage.",
+      "reference": [
+        "theme/assets/sf-gallery-drift-baggy-jean-black-full.jpg",
+        "C:/Users/david/AppData/Local/Temp/codex-clipboard-89a0afe3-b7bb-4dae-b94f-7f585a9cd029.png"
+      ],
+      "generated_path": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-6f1d775d-f092-4c14-b506-8b3b43eb7591.png",
+      "saved_path": "catalog/product-gallery-photos/drift-baggy-jean-black-full.png",
+      "asset": "theme/assets/sf-gallery-drift-baggy-jean-black-full.jpg",
+      "sha256": "3d0784af764a0c5a43974b311d62cd60291e902709d50f5b7f799bc7b682b577"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "white",
+      "view": "full",
+      "tool": "Built-in imagegen",
+      "use_case": "identity-preserve",
+      "prompt": "Edit image 1 (the approved posed SIDEFORM studio photograph). Image 2 is ONLY the original white product color/material reference. Change ONLY the baggy jeans from black to the exact white shade and fabric finish in image 2. Preserve image 1's exact pose, identical model identity, hair, grey T-shirt, white sneakers, framing, garment cut, seams, pockets and original light-grey studio backdrop/floor/lighting. Keep the back of the grey T-shirt plain. Do not reposition limbs or copy the front-facing pose from image 2. Full body including head and both shoes, 1122x1402 portrait. No text, no watermark, no new logos.",
+      "reference": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-6f1d775d-f092-4c14-b506-8b3b43eb7591.png",
+        "theme/assets/sf-gallery-drift-baggy-jean-white-full.jpg"
+      ],
+      "generated_path": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-0b39e34b-1d8a-4723-a177-8e0d61f67fe1.png",
+      "saved_path": "catalog/product-gallery-photos/drift-baggy-jean-white-full.png",
+      "asset": "theme/assets/sf-gallery-drift-baggy-jean-white-full.jpg",
+      "sha256": "42aa1d3b856275d77710c5282031d6372b76993de638ca0cf5d674923c1ef46a"
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "grey",
+      "view": "full",
+      "tool": "Built-in imagegen",
+      "use_case": "identity-preserve",
+      "prompt": "Edit image 1 (the approved posed SIDEFORM studio photograph). Image 2 is ONLY the original grey product color/material reference. Change ONLY the baggy jeans from black to the exact grey shade and fabric finish in image 2. Preserve image 1's exact pose, identical model identity, hair, grey T-shirt, white sneakers, framing, garment cut, seams, pockets and original light-grey studio backdrop/floor/lighting. Keep the back of the grey T-shirt plain. Do not reposition limbs or copy the front-facing pose from image 2. Full body including head and both shoes, 1122x1402 portrait. No text, no watermark, no new logos.",
+      "reference": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-6f1d775d-f092-4c14-b506-8b3b43eb7591.png",
+        "theme/assets/sf-gallery-drift-baggy-jean-grey-full.jpg"
+      ],
+      "generated_path": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c268b32a-1f75-45e1-bf71-6e183b29c73a.png",
+      "saved_path": "catalog/product-gallery-photos/drift-baggy-jean-grey-full.png",
+      "asset": "theme/assets/sf-gallery-drift-baggy-jean-grey-full.jpg",
+      "sha256": "a79dfbda452586da1a8951a0cb2725807ec6277cd4dd68f3b3b8cb0de223898b"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "black",
+      "view": "full",
+      "tool": "Built-in imagegen",
+      "use_case": "identity-preserve",
+      "prompt": "Edit target: first image, existing SIDEFORM product photograph. Second image is ONLY a body-pose reference. Change ONLY the pose of the original female model. Keep the identical person, hair, skin tone, grey SIDEFORM T-shirt, white sneakers and exact black knee-length utility cargo shorts, fabric, fit, seams, pockets, no new logos. Preserve the FIRST image's original light warm-grey studio wall and floor, soft lighting and shadows, portrait 4:5 framing, full body head to soles with margins. Pose: match second image's relaxed three-quarter rear/side standing pose, body turned to the right, face glancing over the right shoulder, near hand resting inside trouser/short pocket, weight relaxed on one leg. Retain the original model's shoulder-length dark hair, do NOT copy reference ponytail. Show the real rear and side garment construction consistently with the original product. Do NOT copy the reference person's identity, clothing, graphics, footwear, studio background, screenshot UI, text or watermark. Keep the T-shirt back plain grey without lettering. Professional photorealistic catalog photograph, not a collage.",
+      "reference": [
+        "theme/assets/sf-gallery-interval-utility-short-black-full.jpg",
+        "C:/Users/david/AppData/Local/Temp/codex-clipboard-f13ec96e-ff59-4549-8c6d-352e6fd284a0.png"
+      ],
+      "generated_path": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e5772963-6c3e-4b43-a953-739b16108e2b.png",
+      "saved_path": "catalog/product-gallery-photos/interval-utility-short-black-full.png",
+      "asset": "theme/assets/sf-gallery-interval-utility-short-black-full.jpg",
+      "sha256": "1ff4a1dbb1a05b3ceba746a2a2f158106d63e217544c38a872fd0bdf3abba183"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "white",
+      "view": "full",
+      "tool": "Built-in imagegen",
+      "use_case": "identity-preserve",
+      "prompt": "Edit image 1 (the approved posed SIDEFORM studio photograph). Image 2 is ONLY the original white product color/material reference. Change ONLY the cargo shorts from black to the exact white shade and fabric finish in image 2. Preserve image 1's exact pose, identical model identity, hair, grey T-shirt, white sneakers, framing, garment cut, seams, pockets and original light-grey studio backdrop/floor/lighting. Keep the back of the grey T-shirt plain. Do not reposition limbs or copy the front-facing pose from image 2. Full body including head and both shoes, 1122x1402 portrait. No text, no watermark, no new logos.",
+      "reference": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e5772963-6c3e-4b43-a953-739b16108e2b.png",
+        "theme/assets/sf-gallery-interval-utility-short-white-full.jpg"
+      ],
+      "generated_path": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-5aba0c85-1cca-4d0f-bb16-71c03cd504d4.png",
+      "saved_path": "catalog/product-gallery-photos/interval-utility-short-white-full.png",
+      "asset": "theme/assets/sf-gallery-interval-utility-short-white-full.jpg",
+      "sha256": "5d006d0ff67d981d56dee608b8580f3f1d54787a0a6f753bccf3202d65e72ea0"
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "grey",
+      "view": "full",
+      "tool": "Built-in imagegen",
+      "use_case": "identity-preserve",
+      "prompt": "Edit image 1 (the approved posed SIDEFORM studio photograph). Image 2 is ONLY the original grey product color/material reference. Change ONLY the cargo shorts from black to the exact grey shade and fabric finish in image 2. Preserve image 1's exact pose, identical model identity, hair, grey T-shirt, white sneakers, framing, garment cut, seams, pockets and original light-grey studio backdrop/floor/lighting. Keep the back of the grey T-shirt plain. Do not reposition limbs or copy the front-facing pose from image 2. Full body including head and both shoes, 1122x1402 portrait. No text, no watermark, no new logos.",
+      "reference": [
+        "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e5772963-6c3e-4b43-a953-739b16108e2b.png",
+        "theme/assets/sf-gallery-interval-utility-short-grey-full.jpg"
+      ],
+      "generated_path": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-77d9de33-791f-4a30-ad1c-fa445d34d2ba.png",
+      "saved_path": "catalog/product-gallery-photos/interval-utility-short-grey-full.png",
+      "asset": "theme/assets/sf-gallery-interval-utility-short-grey-full.jpg",
+      "sha256": "3d1f5b7ef4fc2d009ca4d77dc7a94ad30106e05f104439f6727dad6e580a36fe"
+    }
+  ]
+}

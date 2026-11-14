@@ -1,0 +1,932 @@
+{
+  "tool": "Built-in imagegen",
+  "specs": [
+    {
+      "handle": "offset-heavy-tee",
+      "title": "Offset Heavy Tee",
+      "desc": "240 gsm cotton jersey oversized short-sleeve T-shirt; wide straight body, dropped shoulders, generous short sleeves, medium ribbed crewneck, straight double-stitched hem, tiny off-white offset two-horizontal-bar chest mark."
+    },
+    {
+      "handle": "plane-box-tee",
+      "title": "Plane Box Tee",
+      "desc": "260 gsm cotton jersey short-sleeve box tee; visibly shorter and squarer body than the reference tee, wide structured oversized sleeves, substantial clean ribbed crewneck, straight cropped hem. Plain exterior with no chest logo; small discreet SIDEFORM interior neck label only."
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "title": "Axis Long Sleeve",
+      "desc": "220 gsm cotton jersey long-sleeve T-shirt; relaxed slightly longer body, dropped shoulder, full-length sleeves with narrow ribbed cuffs, ribbed crewneck, straight hem, tiny off-white offset two-horizontal-bar chest mark."
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "title": "Frame Long Sleeve",
+      "desc": "240 gsm cotton jersey long-sleeve T-shirt; wide straight body, dropped shoulders, full-length sleeves, clean crewneck, subtle vertical panel seams running just inside the side seams and across the upper shoulder, straight hem. Plain exterior; no large graphics."
+    },
+    {
+      "handle": "volume-pullover",
+      "title": "Volume Pullover",
+      "desc": "400 gsm heavyweight cotton-rich loopback pullover hoodie; oversized full-length wide body, large double-layer hood, long dropped sleeves with deep ribbed cuffs, large single kangaroo pocket, ribbed hem. No zipper, no drawstrings, plain exterior with a discreet SIDEFORM interior neck label."
+    },
+    {
+      "handle": "structure-hoodie",
+      "title": "Structure Hoodie",
+      "desc": "420 gsm dense cotton-rich fleece pullover hoodie; distinctly cropped square body, very broad dropped shoulders, sculptural double-layer hood, long voluminous sleeves ending in wide ribbed cuffs, wide ribbed hem, no front pocket and no drawstrings. Tiny off-white offset two-horizontal-bar chest mark."
+    },
+    {
+      "handle": "contour-crew",
+      "title": "Contour Crew",
+      "desc": "380 gsm cotton-rich loopback crewneck sweatshirt; relaxed wide torso, dropped shoulder, full-length sleeves, deep restrained ribbed crew neckline, cuffs and straight hem, no hood, no pockets, no exterior graphics. Discreet SIDEFORM interior neck label."
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "title": "Shell Utility Jacket",
+      "desc": "Lightweight matte cotton-nylon woven oversized utility jacket; broad angular panels, center black coil zipper, low stand collar, two symmetrical rectangular flap pockets at lower front, long dropped sleeves with simple elastic cuffs, straight hip-length hem, no hood, no shiny coating. Small discreet tonal offset-bar woven label at side seam."
+    },
+    {
+      "handle": "transit-work-jacket",
+      "title": "Transit Work Jacket",
+      "desc": "320 gsm substantial cotton canvas work jacket; square boxy waist-to-hip-length body, pointed fold-down shirt collar, matte dark center snap-button placket, two large open-top square patch pockets at lower front, long sleeves with button cuffs, straight hem. No zipper, no hood. Small discreet tonal offset-bar woven label on pocket edge."
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "title": "Grid Cargo Pant",
+      "desc": "260 gsm cotton twill cargo pants; full-length straight wide legs, loose hips and thighs, structured waistband with belt loops, matte center button and zipper fly, curved front hand pockets, one low-profile rectangular flap cargo pocket on the outer side of each thigh, plain hems, two flat welt rear pockets. No straps, no drawcords. Tiny tonal offset-bar woven side label."
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "title": "Drift Baggy Jean",
+      "desc": "12 oz cotton denim baggy jeans; full-length extra-wide legs, relaxed seat, five-pocket construction, classic curved front pockets with coin pocket, belt loops, matte button and zip fly, two plain pentagonal back patch pockets, clean long hems. No tears, no distressing, no printed graphics. Tiny tonal offset-bar woven waistband label."
+    },
+    {
+      "handle": "interval-utility-short",
+      "title": "Interval Utility Short",
+      "desc": "240 gsm cotton twill utility shorts; knee-length wide leg openings, relaxed hip, structured waistband with belt loops, matte button and zip fly, front slash hand pockets, two compact low-profile outer-leg utility flap pockets, two flat rear welt pockets, straight hems. Tiny tonal offset-bar woven side label."
+    }
+  ],
+  "images": [
+    {
+      "handle": "offset-heavy-tee",
+      "color": "black",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\offset-heavy-tee-black-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9f2518e0-aa44-4add-a430-64340bce3164.png",
+      "prompt": "Use case: product-mockup. Generate ONE photorealistic premium e-commerce product photograph, portrait 4:5 framing. Subject: SIDEFORM Offset Heavy Tee, Black. A real heavyweight 240 gsm cotton jersey oversized short-sleeve T-shirt, wide straight body, pronounced dropped shoulders, generous elbow-adjacent short sleeves, medium ribbed crewneck, straight double-stitched hem. Front view, garment only, no model, invisible support or natural carefully arranged lay-flat, centered straight-on, full garment visible with generous 10% margins on every edge. Deep neutral washed black fabric with realistic fine cotton grain, subtle natural folds and true stitching, no faded brown or olive cast. Tiny off-white offset-bar symbol at wearer’s left chest: exactly two short horizontal rectangles, the second shifted down and right, like the supplied brand-symbol reference. No large print, no other graphics. Seamless light warm-grey studio background (#eeefeb), soft broad upper-left daylight, gentle realistic contact shadow, 85mm editorial product photography, calm architectural streetwear aesthetic. Match future catalog series with consistently sized garment, neutral white balance and restrained contrast. No captions, text overlays, watermarks, borders, collage or multiple views. This image is an AI-generated merchandising concept, not evidence of a manufactured item. Input image role: supplied symbol is a branding reference only.\n",
+      "prompt_file": "catalog/photo-master-prompt.txt"
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "black",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\plane-box-tee-black-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-21b5b01e-e953-4ee8-bf39-65ae2f241723.png",
+      "prompt": "Use case: product-mockup. ONE photorealistic e-commerce garment photograph for SIDEFORM, portrait 4:5. Input image 1 is a photography STYLE reference, not the garment to copy. Match its seamless warm light-grey backdrop, soft broad upper-left daylight, contact shadows, 85mm lens, neutral white balance, fabric realism, centered full-garment-only lay-flat presentation and ample 10% margins. Replace the garment with this DISTINCT product: Plane Box Tee. Exact design: 260 gsm cotton jersey short-sleeve box tee; visibly shorter and squarer body than the reference tee, wide structured oversized sleeves, substantial clean ribbed crewneck, straight cropped hem. Plain exterior with no chest logo; small discreet SIDEFORM interior neck label only. Color: neutral deep Black, no brown or olive cast. Every stitch, hem, pocket and material must look real; no stylized illustration or CGI. No model, mannequin, hanger, props, text overlays, collage, borders, watermarks or extra branding. Front view, full garment visible. Preserve this exact design for subsequent back, detail and color variations."
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "black",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\axis-long-sleeve-black-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2578d9ef-3d0b-4024-8c5d-30c8254b8f5e.png",
+      "prompt": "Use case: product-mockup. ONE photorealistic e-commerce garment photograph for SIDEFORM, portrait 4:5. Input image 1 is a photography STYLE reference, not the garment to copy. Match its seamless warm light-grey backdrop, soft broad upper-left daylight, contact shadows, 85mm lens, neutral white balance, fabric realism, centered full-garment-only lay-flat presentation and ample 10% margins. Replace the garment with this DISTINCT product: Axis Long Sleeve. Exact design: 220 gsm cotton jersey long-sleeve T-shirt; relaxed slightly longer body, dropped shoulder, full-length sleeves with narrow ribbed cuffs, ribbed crewneck, straight hem, tiny off-white offset two-horizontal-bar chest mark. Color: neutral deep Black, no brown or olive cast. Every stitch, hem, pocket and material must look real; no stylized illustration or CGI. No model, mannequin, hanger, props, text overlays, collage, borders, watermarks or extra branding. Front view, full garment visible. Preserve this exact design for subsequent back, detail and color variations."
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "black",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\frame-long-sleeve-black-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2bf9b35a-91e9-416e-9667-1810401451aa.png",
+      "prompt": "Use case: product-mockup. ONE photorealistic e-commerce garment photograph for SIDEFORM, portrait 4:5. Input image 1 is a photography STYLE reference, not the garment to copy. Match its seamless warm light-grey backdrop, soft broad upper-left daylight, contact shadows, 85mm lens, neutral white balance, fabric realism, centered full-garment-only lay-flat presentation and ample 10% margins. Replace the garment with this DISTINCT product: Frame Long Sleeve. Exact design: 240 gsm cotton jersey long-sleeve T-shirt; wide straight body, dropped shoulders, full-length sleeves, clean crewneck, subtle vertical panel seams running just inside the side seams and across the upper shoulder, straight hem. Plain exterior; no large graphics. Color: neutral deep Black, no brown or olive cast. Every stitch, hem, pocket and material must look real; no stylized illustration or CGI. No model, mannequin, hanger, props, text overlays, collage, borders, watermarks or extra branding. Front view, full garment visible. Preserve this exact design for subsequent back, detail and color variations."
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "black",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\volume-pullover-black-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-0d5e0a0f-dc96-4ece-ac02-592f29225ccf.png",
+      "prompt": "Use case: product-mockup. ONE photorealistic e-commerce garment photograph for SIDEFORM, portrait 4:5. Input image 1 is a photography STYLE reference, not the garment to copy. Match its seamless warm light-grey backdrop, soft broad upper-left daylight, contact shadows, 85mm lens, neutral white balance, fabric realism, centered full-garment-only lay-flat presentation and ample 10% margins. Replace the garment with this DISTINCT product: Volume Pullover. Exact design: 400 gsm heavyweight cotton-rich loopback pullover hoodie; oversized full-length wide body, large double-layer hood, long dropped sleeves with deep ribbed cuffs, large single kangaroo pocket, ribbed hem. No zipper, no drawstrings, plain exterior with a discreet SIDEFORM interior neck label. Color: neutral deep Black, no brown or olive cast. Every stitch, hem, pocket and material must look real; no stylized illustration or CGI. No model, mannequin, hanger, props, text overlays, collage, borders, watermarks or extra branding. Front view, full garment visible. Preserve this exact design for subsequent back, detail and color variations."
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "black",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\structure-hoodie-black-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c65ccc66-36cc-4a7a-ad1e-d8d6d6c65cef.png",
+      "prompt": "Use case: product-mockup. ONE photorealistic portrait 4:5 e-commerce product photo for SIDEFORM. Input image 1: reference for photography style only; do not copy its T-shirt shape. Subject: Structure Hoodie. Exact distinct garment design: 420 gsm dense cotton-rich fleece pullover hoodie; distinctly cropped square body, very broad dropped shoulders, sculptural double-layer hood, long voluminous sleeves ending in wide ribbed cuffs, wide ribbed hem, no front pocket and no drawstrings. Tiny off-white offset two-horizontal-bar chest mark. Color neutral deep Black. Straight-on full front view, garment-only carefully styled lay-flat, natural soft folds and weight, full garment visible, margins at least 8% around edges. Match reference's warm light-grey seamless studio backdrop, soft broad upper-left daylight, gentle contact shadow, realistic cotton or woven surface, neutral color balance and 85mm photographic realism. Maintain exact seams, pockets and hardware for later views. No model, mannequin, hanger, unrelated garment, text overlay, watermark, border or collage."
+    },
+    {
+      "handle": "contour-crew",
+      "color": "black",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\contour-crew-black-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-90359405-0e42-40eb-bac6-13f79041bcc8.png",
+      "prompt": "Use case: product-mockup. ONE photorealistic portrait 4:5 e-commerce product photo for SIDEFORM. Input image 1: reference for photography style only; do not copy its T-shirt shape. Subject: Contour Crew. Exact distinct garment design: 380 gsm cotton-rich loopback crewneck sweatshirt; relaxed wide torso, dropped shoulder, full-length sleeves, deep restrained ribbed crew neckline, cuffs and straight hem, no hood, no pockets, no exterior graphics. Discreet SIDEFORM interior neck label. Color neutral deep Black. Straight-on full front view, garment-only carefully styled lay-flat, natural soft folds and weight, full garment visible, margins at least 8% around edges. Match reference's warm light-grey seamless studio backdrop, soft broad upper-left daylight, gentle contact shadow, realistic cotton or woven surface, neutral color balance and 85mm photographic realism. Maintain exact seams, pockets and hardware for later views. No model, mannequin, hanger, unrelated garment, text overlay, watermark, border or collage."
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "black",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\shell-utility-jacket-black-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-0d3e2673-6101-4305-84be-095547b5bf4f.png",
+      "prompt": "Use case: product-mockup. ONE photorealistic portrait 4:5 e-commerce product photo for SIDEFORM. Input image 1: reference for photography style only; do not copy its T-shirt shape. Subject: Shell Utility Jacket. Exact distinct garment design: Lightweight matte cotton-nylon woven oversized utility jacket; broad angular panels, center black coil zipper, low stand collar, two symmetrical rectangular flap pockets at lower front, long dropped sleeves with simple elastic cuffs, straight hip-length hem, no hood, no shiny coating. Small discreet tonal offset-bar woven label at side seam. Color neutral deep Black. Straight-on full front view, garment-only carefully styled lay-flat, natural soft folds and weight, full garment visible, margins at least 8% around edges. Match reference's warm light-grey seamless studio backdrop, soft broad upper-left daylight, gentle contact shadow, realistic cotton or woven surface, neutral color balance and 85mm photographic realism. Maintain exact seams, pockets and hardware for later views. No model, mannequin, hanger, unrelated garment, text overlay, watermark, border or collage."
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "black",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\transit-work-jacket-black-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-47705d5a-e0c4-4213-bd92-b571ce6c5d9b.png",
+      "prompt": "Use case: product-mockup. ONE photorealistic portrait 4:5 e-commerce product photo for SIDEFORM. Input image 1: reference for photography style only; do not copy its T-shirt shape. Subject: Transit Work Jacket. Exact distinct garment design: 320 gsm substantial cotton canvas work jacket; square boxy waist-to-hip-length body, pointed fold-down shirt collar, matte dark center snap-button placket, two large open-top square patch pockets at lower front, long sleeves with button cuffs, straight hem. No zipper, no hood. Small discreet tonal offset-bar woven label on pocket edge. Color neutral deep Black. Straight-on full front view, garment-only carefully styled lay-flat, natural soft folds and weight, full garment visible, margins at least 8% around edges. Match reference's warm light-grey seamless studio backdrop, soft broad upper-left daylight, gentle contact shadow, realistic cotton or woven surface, neutral color balance and 85mm photographic realism. Maintain exact seams, pockets and hardware for later views. No model, mannequin, hanger, unrelated garment, text overlay, watermark, border or collage."
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "black",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\grid-cargo-pant-black-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-35cd7c5c-8e9e-4286-9796-bd9e64d1a018.png",
+      "prompt": "Use case: product-mockup. ONE realistic luxury e-commerce product photograph, portrait 4:5. Reference image 1 is the STYLE reference only: match its warm pale grey studio background, soft upper-left light, natural contact shadow, neutral color and high-detail fabric realism. Do not show a T-shirt. Product: SIDEFORM Grid Cargo Pant. Exact garment design: 260 gsm cotton twill cargo pants; full-length straight wide legs, loose hips and thighs, structured waistband with belt loops, matte center button and zipper fly, curved front hand pockets, one low-profile rectangular flap cargo pocket on the outer side of each thigh, plain hems, two flat welt rear pockets. No straps, no drawcords. Tiny tonal offset-bar woven side label. Deep neutral Black fabric. Full FRONT view of the entire garment only, waistband level and both legs neatly arranged side by side with a small natural gap, no model, mannequin or hanger. All hems and waistband visible, 10% margin around full silhouette, believable fabric weight and small folds, genuine weave and stitching. Match garment construction consistently in subsequent colors and views. No props, overlays, text, watermarks, borders, collage or extra graphics."
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "black",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\drift-baggy-jean-black-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-5b5c3eb1-bc24-4c56-b00d-5fe886b0ea86.png",
+      "prompt": "Use case: product-mockup. ONE realistic luxury e-commerce product photograph, portrait 4:5. Reference image 1 is the STYLE reference only: match its warm pale grey studio background, soft upper-left light, natural contact shadow, neutral color and high-detail fabric realism. Do not show a T-shirt. Product: SIDEFORM Drift Baggy Jean. Exact garment design: 12 oz cotton denim baggy jeans; full-length extra-wide legs, relaxed seat, five-pocket construction, classic curved front pockets with coin pocket, belt loops, matte button and zip fly, two plain pentagonal back patch pockets, clean long hems. No tears, no distressing, no printed graphics. Tiny tonal offset-bar woven waistband label. Deep neutral Black fabric. Full FRONT view of the entire garment only, waistband level and both legs neatly arranged side by side with a small natural gap, no model, mannequin or hanger. All hems and waistband visible, 10% margin around full silhouette, believable fabric weight and small folds, genuine weave and stitching. Match garment construction consistently in subsequent colors and views. No props, overlays, text, watermarks, borders, collage or extra graphics."
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "black",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\interval-utility-short-black-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-3ffcabdf-1c0a-49b7-96fb-518497fa75ba.png",
+      "prompt": "Use case: product-mockup. ONE realistic luxury e-commerce product photograph, portrait 4:5. Reference image 1 is the STYLE reference only: match its warm pale grey studio background, soft upper-left light, natural contact shadow, neutral color and high-detail fabric realism. Do not show a T-shirt. Product: SIDEFORM Interval Utility Short. Exact garment design: 240 gsm cotton twill utility shorts; knee-length wide leg openings, relaxed hip, structured waistband with belt loops, matte button and zip fly, front slash hand pockets, two compact low-profile outer-leg utility flap pockets, two flat rear welt pockets, straight hems. Tiny tonal offset-bar woven side label. Deep neutral Black fabric. Full FRONT view of the entire garment only, waistband level and both legs neatly arranged side by side with a small natural gap, no model, mannequin or hanger. All hems and waistband visible, 10% margin around full silhouette, believable fabric weight and small folds, genuine weave and stitching. Match garment construction consistently in subsequent colors and views. No props, overlays, text, watermarks, borders, collage or extra graphics."
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "white",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\offset-heavy-tee-white-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7c5f7633-4a74-41b6-8ef8-ad4ca133c33a.png",
+      "prompt": "Use case: product-mockup; precise-object-edit. Reference image 1 is the EDIT TARGET and definitive garment identity for SIDEFORM Offset Heavy Tee. Produce ONE photorealistic portrait 4:5 product photograph. Change ONLY the garment's fabric color to clean neutral White, visibly white cotton rather than cream, with natural grey shadows. Preserve exact garment cut, body and sleeve proportions, crewneck shape, folds, fabric grain, every seam, hem, camera framing, studio background, soft upper-left lighting and contact shadow. Keep the tiny offset-bar chest emblem in identical location and proportions, change emblem ink to dark charcoal so it remains visible. This is the same product in another color, not a redesign. No text overlay, no collage, no model, no props, no added graphics."
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "grey",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\offset-heavy-tee-grey-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2983643b-de45-464c-80a6-f2b98a446040.png",
+      "prompt": "Use case: product-mockup; precise-object-edit. Reference image 1 is the EDIT TARGET and definitive garment identity for SIDEFORM Offset Heavy Tee. Produce ONE photorealistic portrait 4:5 product photograph. Change ONLY the garment's fabric color to neutral medium Grey, approximately #90928f, not black, not blue or olive. Preserve exact garment cut, body and sleeve proportions, crewneck shape, folds, fabric grain, every seam, hem, camera framing, studio background, soft upper-left lighting and contact shadow. Keep the tiny offset-bar chest emblem in identical location and proportions, change emblem ink to dark charcoal so it remains visible. This is the same product in another color, not a redesign. No text overlay, no collage, no model, no props, no added graphics."
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "white",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\plane-box-tee-white-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-bae449bb-07d7-4d1e-93f5-9f8af01f2d50.png",
+      "prompt": "Use case: product-mockup; precise-object-edit. Reference image 1 is the EDIT TARGET and definitive garment identity for SIDEFORM Plane Box Tee. Produce ONE photorealistic portrait 4:5 product photograph. Change ONLY the garment's fabric color to clean neutral White, visibly white cotton rather than cream, with natural grey shadows. Preserve exact garment cut, body and sleeve proportions, crewneck shape, folds, fabric grain, every seam, hem, camera framing, studio background, soft upper-left lighting and contact shadow. Keep this tee plain without exterior logos. This is the same product in another color, not a redesign. No text overlay, no collage, no model, no props, no added graphics."
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "grey",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\plane-box-tee-grey-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-afd5295e-1807-4482-a907-3c3807bc41f1.png",
+      "prompt": "Use case: product-mockup; precise-object-edit. Reference image 1 is the EDIT TARGET and definitive garment identity for SIDEFORM Plane Box Tee. Produce ONE photorealistic portrait 4:5 product photograph. Change ONLY the garment's fabric color to neutral medium Grey, approximately #90928f, not black, not blue or olive. Preserve exact garment cut, body and sleeve proportions, crewneck shape, folds, fabric grain, every seam, hem, camera framing, studio background, soft upper-left lighting and contact shadow. Keep this tee plain without exterior logos. This is the same product in another color, not a redesign. No text overlay, no collage, no model, no props, no added graphics."
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "grey",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\axis-long-sleeve-grey-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-6156a08d-ee57-4af2-a165-9e5ed67051fd.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Axis Long Sleeve. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to neutral medium Grey (#90928f), not black, blue or olive. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "white",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\frame-long-sleeve-white-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-266231b4-d976-4150-b5f4-c812ddac419a.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Frame Long Sleeve. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to clean neutral White, not cream or beige. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "grey",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\frame-long-sleeve-grey-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b003294d-8f9a-4211-a713-2e2792e760c0.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Frame Long Sleeve. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to neutral medium Grey (#90928f), not black, blue or olive. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "white",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\axis-long-sleeve-white-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-0f3599b7-4c43-4264-815d-d717df7493e1.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Axis Long Sleeve. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to clean neutral White, not cream or beige. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "white",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\volume-pullover-white-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-3ae76266-3166-4947-9cb2-56040319833e.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Volume Pullover. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to clean neutral White, not cream or beige. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "contour-crew",
+      "color": "white",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\contour-crew-white-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c4e01483-96be-4bae-bd47-cd66eedd4fcb.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Contour Crew. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to clean neutral White, not cream or beige. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "contour-crew",
+      "color": "grey",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\contour-crew-grey-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a5641b65-9d49-4053-8dbe-b32890c50dba.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Contour Crew. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to neutral medium Grey (#90928f), not black, blue or olive. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "white",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\shell-utility-jacket-white-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7ea4e4fe-78a1-40d7-a3d9-7932d3f7a1e2.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Shell Utility Jacket. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to clean neutral White, not cream or beige. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "grey",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\volume-pullover-grey-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-1fb3b467-17f5-4ebb-8e6f-67baad4322d7.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Volume Pullover. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to neutral medium Grey (#90928f), not black, blue or olive. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "white",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\structure-hoodie-white-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2476458a-ed96-413f-ad5d-316d1b3f74f8.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Structure Hoodie. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to clean neutral White, not cream or beige. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "grey",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\shell-utility-jacket-grey-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-fe6fbd0d-e4c9-4705-a830-d60e9a9c8683.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Shell Utility Jacket. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to neutral medium Grey (#90928f), not black, blue or olive. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "white",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\transit-work-jacket-white-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-220d63e1-6b1f-4938-b129-1e3876919f68.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Transit Work Jacket. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to clean neutral White, not cream or beige. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "grey",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\structure-hoodie-grey-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c4aafcc1-a473-4e7e-957a-34b2378c81a5.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Structure Hoodie. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to neutral medium Grey (#90928f), not black, blue or olive. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "grey",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\grid-cargo-pant-grey-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2d87503e-09d4-4cd2-b191-5f366f19587e.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Grid Cargo Pant. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to neutral medium Grey (#90928f), not black, blue or olive. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "white",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\grid-cargo-pant-white-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-6c692cb1-19e5-4088-beed-303651904eec.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Grid Cargo Pant. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to clean neutral White, not cream or beige. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "grey",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\transit-work-jacket-grey-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-fce7846a-7408-4656-a7fa-aada423992cd.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Transit Work Jacket. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to neutral medium Grey (#90928f), not black, blue or olive. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "white",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\drift-baggy-jean-white-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-964ff889-2f63-432f-860f-0fa93f8fffdc.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Drift Baggy Jean. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to clean neutral White, not cream or beige. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "grey",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\drift-baggy-jean-grey-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-ab151610-fd9b-4d67-8b4c-467a76bf8d17.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Drift Baggy Jean. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to neutral medium Grey (#90928f), not black, blue or olive. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "white",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\interval-utility-short-white-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-62168b5c-69fb-4151-83bb-3d7d5e11d570.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Interval Utility Short. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to clean neutral White, not cream or beige. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "black",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\offset-heavy-tee-black-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e28d95ef-3632-491d-985d-8806a91d537d.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the exact garment and color identity of SIDEFORM Offset Heavy Tee, Black. Generate ONE realistic macro/detail product photograph in portrait 4:5, focused on ribbed crew neckline joining the jersey and the nearby tiny two-bar chest emblem. Move the camera closer to this SAME garment; retain precisely the reference's material color, seam construction, thread color, hardware, branding and textile texture. Show believable scale, crisp fibers and stitches with gentle shallow depth of field, same neutral upper-left studio daylight and pale grey backdrop glimpsed at edges where appropriate. Do not invent a different garment, redesign a pocket, add labels or logos absent from reference, or recolor. No model, props, arrows, text overlays, collage, borders or watermarks. Photographic realism, not CGI."
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "grey",
+      "view": "front",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\interval-utility-short-grey-front.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-1a402d28-cbf5-4c31-8748-eabb0af43b19.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Reference 1 is the EDIT TARGET, the definitive garment identity for SIDEFORM Interval Utility Short. Create ONE portrait 4:5 photorealistic product photograph. Change only garment fabric color to neutral medium Grey (#90928f), not black, blue or olive. Preserve the reference's exact cut, body and sleeve proportions, every pocket, seam, hem, fold, material texture, camera framing, light grey backdrop, soft upper-left daylight and contact shadow. Keep all hardware and pocket configuration identical. If a small white chest emblem is present, preserve its size and location but make its ink charcoal for contrast; do not add a logo where there is none. Same product, no redesign. No model, mannequin, hanger, text overlay, border, watermark or collage."
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "black",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\plane-box-tee-black-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-bedc4003-122f-4466-8cf8-c2344adaf31c.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the definitive FRONT garment identity for SIDEFORM Plane Box Tee, not the requested viewpoint. Create ONE matching BACK-view photorealistic product photo, portrait 4:5. Show the same actual Black garment turned over, centered full garment visible, same cut and lengths, material, hem, cuffs, hood or collar, seams, studio background, soft upper-left lighting, contact shadow and camera scale. Design constraints: 260 gsm cotton jersey short-sleeve box tee; visibly shorter and squarer body than the reference tee, wide structured oversized sleeves, substantial clean ribbed crewneck, straight cropped hem. Plain exterior with no chest logo; small discreet SIDEFORM interior neck label only. Back should naturally correspond to this front. Do not place chest marks, front zipper, front fly, front kangaroo pocket or front jacket pockets on the back. Tops have clean plain backs. Pants/shorts retain their specified rear pockets and side cargo pockets. Hoodie back includes the same hood resting naturally over upper back. Full silhouette, 8% margins. No model, hanger, text, extra logo, graphic, watermark, frame or collage."
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "black",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\axis-long-sleeve-black-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-fa051975-02c7-4f90-8684-5a49d56871b8.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the definitive FRONT garment identity for SIDEFORM Axis Long Sleeve, not the requested viewpoint. Create ONE matching BACK-view photorealistic product photo, portrait 4:5. Show the same actual Black garment turned over, centered full garment visible, same cut and lengths, material, hem, cuffs, hood or collar, seams, studio background, soft upper-left lighting, contact shadow and camera scale. Design constraints: 220 gsm cotton jersey long-sleeve T-shirt; relaxed slightly longer body, dropped shoulder, full-length sleeves with narrow ribbed cuffs, ribbed crewneck, straight hem, tiny off-white offset two-horizontal-bar chest mark. Back should naturally correspond to this front. Do not place chest marks, front zipper, front fly, front kangaroo pocket or front jacket pockets on the back. Tops have clean plain backs. Pants/shorts retain their specified rear pockets and side cargo pockets. Hoodie back includes the same hood resting naturally over upper back. Full silhouette, 8% margins. No model, hanger, text, extra logo, graphic, watermark, frame or collage."
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "black",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\frame-long-sleeve-black-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-605ccd98-5134-49b8-b77e-7884f27d2a04.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the definitive FRONT garment identity for SIDEFORM Frame Long Sleeve, not the requested viewpoint. Create ONE matching BACK-view photorealistic product photo, portrait 4:5. Show the same actual Black garment turned over, centered full garment visible, same cut and lengths, material, hem, cuffs, hood or collar, seams, studio background, soft upper-left lighting, contact shadow and camera scale. Design constraints: 240 gsm cotton jersey long-sleeve T-shirt; wide straight body, dropped shoulders, full-length sleeves, clean crewneck, subtle vertical panel seams running just inside the side seams and across the upper shoulder, straight hem. Plain exterior; no large graphics. Back should naturally correspond to this front. Do not place chest marks, front zipper, front fly, front kangaroo pocket or front jacket pockets on the back. Tops have clean plain backs. Pants/shorts retain their specified rear pockets and side cargo pockets. Hoodie back includes the same hood resting naturally over upper back. Full silhouette, 8% margins. No model, hanger, text, extra logo, graphic, watermark, frame or collage."
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "black",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\axis-long-sleeve-black-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-df66daad-aec4-44e2-af5e-2c543c92a5d4.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the exact garment and color identity of SIDEFORM Axis Long Sleeve, Black. Generate ONE realistic macro/detail product photograph in portrait 4:5, focused on the ribbed sleeve cuff joining the fine cotton jersey sleeve. Move the camera closer to this SAME garment; retain precisely the reference's material color, seam construction, thread color, hardware, branding and textile texture. Show believable scale, crisp fibers and stitches with gentle shallow depth of field, same neutral upper-left studio daylight and pale grey backdrop glimpsed at edges where appropriate. Do not invent a different garment, redesign a pocket, add labels or logos absent from reference, or recolor. No model, props, arrows, text overlays, collage, borders or watermarks. Photographic realism, not CGI."
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "black",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\offset-heavy-tee-black-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-3a443ad7-9e5f-4f4c-9441-f1ca4e9e1e83.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the definitive FRONT garment identity for SIDEFORM Offset Heavy Tee, not the requested viewpoint. Create ONE matching BACK-view photorealistic product photo, portrait 4:5. Show the same actual Black garment turned over, centered full garment visible, same cut and lengths, material, hem, cuffs, hood or collar, seams, studio background, soft upper-left lighting, contact shadow and camera scale. Design constraints: 240 gsm cotton jersey oversized short-sleeve T-shirt; wide straight body, dropped shoulders, generous short sleeves, medium ribbed crewneck, straight double-stitched hem, tiny off-white offset two-horizontal-bar chest mark. Back should naturally correspond to this front. Do not place chest marks, front zipper, front fly, front kangaroo pocket or front jacket pockets on the back. Tops have clean plain backs. Pants/shorts retain their specified rear pockets and side cargo pockets. Hoodie back includes the same hood resting naturally over upper back. Full silhouette, 8% margins. No model, hanger, text, extra logo, graphic, watermark, frame or collage."
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "black",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\plane-box-tee-black-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-bcad2b86-1b68-4ff5-a766-c6360c4053e2.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the exact garment and color identity of SIDEFORM Plane Box Tee, Black. Generate ONE realistic macro/detail product photograph in portrait 4:5, focused on clean ribbed crewneck, dropped shoulder seam and dense cotton surface. Move the camera closer to this SAME garment; retain precisely the reference's material color, seam construction, thread color, hardware, branding and textile texture. Show believable scale, crisp fibers and stitches with gentle shallow depth of field, same neutral upper-left studio daylight and pale grey backdrop glimpsed at edges where appropriate. Do not invent a different garment, redesign a pocket, add labels or logos absent from reference, or recolor. No model, props, arrows, text overlays, collage, borders or watermarks. Photographic realism, not CGI."
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "black",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\frame-long-sleeve-black-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-405f7ef8-ae07-4a0f-a556-693039fcb9de.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the exact garment and color identity of SIDEFORM Frame Long Sleeve, Black. Generate ONE realistic macro/detail product photograph in portrait 4:5, focused on the distinctive subtle vertical body-panel seam and the adjacent hem stitching. Move the camera closer to this SAME garment; retain precisely the reference's material color, seam construction, thread color, hardware, branding and textile texture. Show believable scale, crisp fibers and stitches with gentle shallow depth of field, same neutral upper-left studio daylight and pale grey backdrop glimpsed at edges where appropriate. Do not invent a different garment, redesign a pocket, add labels or logos absent from reference, or recolor. No model, props, arrows, text overlays, collage, borders or watermarks. Photographic realism, not CGI."
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "black",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\volume-pullover-black-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-608d0cc6-ef8f-4926-936f-24743e7b5d8d.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the definitive FRONT garment identity for SIDEFORM Volume Pullover, not the requested viewpoint. Create ONE matching BACK-view photorealistic product photo, portrait 4:5. Show the same actual Black garment turned over, centered full garment visible, same cut and lengths, material, hem, cuffs, hood or collar, seams, studio background, soft upper-left lighting, contact shadow and camera scale. Design constraints: 400 gsm heavyweight cotton-rich loopback pullover hoodie; oversized full-length wide body, large double-layer hood, long dropped sleeves with deep ribbed cuffs, large single kangaroo pocket, ribbed hem. No zipper, no drawstrings, plain exterior with a discreet SIDEFORM interior neck label. Back should naturally correspond to this front. Do not place chest marks, front zipper, front fly, front kangaroo pocket or front jacket pockets on the back. Tops have clean plain backs. Pants/shorts retain their specified rear pockets and side cargo pockets. Hoodie back includes the same hood resting naturally over upper back. Full silhouette, 8% margins. No model, hanger, text, extra logo, graphic, watermark, frame or collage."
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "black",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\structure-hoodie-black-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9611d750-b296-471a-ac9e-1a221f7b1594.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the exact garment and color identity of SIDEFORM Structure Hoodie, Black. Generate ONE realistic macro/detail product photograph in portrait 4:5, focused on the small two-bar chest emblem and dense fleece fabric immediately around it. Move the camera closer to this SAME garment; retain precisely the reference's material color, seam construction, thread color, hardware, branding and textile texture. Show believable scale, crisp fibers and stitches with gentle shallow depth of field, same neutral upper-left studio daylight and pale grey backdrop glimpsed at edges where appropriate. Do not invent a different garment, redesign a pocket, add labels or logos absent from reference, or recolor. No model, props, arrows, text overlays, collage, borders or watermarks. Photographic realism, not CGI."
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "black",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\volume-pullover-black-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c7897ed1-0193-4af3-9c91-c2ae6a6e185a.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the exact garment and color identity of SIDEFORM Volume Pullover, Black. Generate ONE realistic macro/detail product photograph in portrait 4:5, focused on the kangaroo-pocket upper corner, its reinforced stitching and heavyweight loopback surface. Move the camera closer to this SAME garment; retain precisely the reference's material color, seam construction, thread color, hardware, branding and textile texture. Show believable scale, crisp fibers and stitches with gentle shallow depth of field, same neutral upper-left studio daylight and pale grey backdrop glimpsed at edges where appropriate. Do not invent a different garment, redesign a pocket, add labels or logos absent from reference, or recolor. No model, props, arrows, text overlays, collage, borders or watermarks. Photographic realism, not CGI."
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "black",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\structure-hoodie-black-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-e6f62030-c481-402b-99c7-eba677020098.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the definitive FRONT garment identity for SIDEFORM Structure Hoodie, not the requested viewpoint. Create ONE matching BACK-view photorealistic product photo, portrait 4:5. Show the same actual Black garment turned over, centered full garment visible, same cut and lengths, material, hem, cuffs, hood or collar, seams, studio background, soft upper-left lighting, contact shadow and camera scale. Design constraints: 420 gsm dense cotton-rich fleece pullover hoodie; distinctly cropped square body, very broad dropped shoulders, sculptural double-layer hood, long voluminous sleeves ending in wide ribbed cuffs, wide ribbed hem, no front pocket and no drawstrings. Tiny off-white offset two-horizontal-bar chest mark. Back should naturally correspond to this front. Do not place chest marks, front zipper, front fly, front kangaroo pocket or front jacket pockets on the back. Tops have clean plain backs. Pants/shorts retain their specified rear pockets and side cargo pockets. Hoodie back includes the same hood resting naturally over upper back. Full silhouette, 8% margins. No model, hanger, text, extra logo, graphic, watermark, frame or collage."
+    },
+    {
+      "handle": "contour-crew",
+      "color": "black",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\contour-crew-black-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-fc0221ce-b6bd-4296-8983-fd22944ae21e.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the exact garment and color identity of SIDEFORM Contour Crew, Black. Generate ONE realistic macro/detail product photograph in portrait 4:5, focused on the ribbed neckline joining the cotton-rich loopback chest and topstitching. Move the camera closer to this SAME garment; retain precisely the reference's material color, seam construction, thread color, hardware, branding and textile texture. Show believable scale, crisp fibers and stitches with gentle shallow depth of field, same neutral upper-left studio daylight and pale grey backdrop glimpsed at edges where appropriate. Do not invent a different garment, redesign a pocket, add labels or logos absent from reference, or recolor. No model, props, arrows, text overlays, collage, borders or watermarks. Photographic realism, not CGI."
+    },
+    {
+      "handle": "contour-crew",
+      "color": "black",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\contour-crew-black-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-8d183ad3-8202-4739-b38c-b519f9305118.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the definitive FRONT garment identity for SIDEFORM Contour Crew, not the requested viewpoint. Create ONE matching BACK-view photorealistic product photo, portrait 4:5. Show the same actual Black garment turned over, centered full garment visible, same cut and lengths, material, hem, cuffs, hood or collar, seams, studio background, soft upper-left lighting, contact shadow and camera scale. Design constraints: 380 gsm cotton-rich loopback crewneck sweatshirt; relaxed wide torso, dropped shoulder, full-length sleeves, deep restrained ribbed crew neckline, cuffs and straight hem, no hood, no pockets, no exterior graphics. Discreet SIDEFORM interior neck label. Back should naturally correspond to this front. Do not place chest marks, front zipper, front fly, front kangaroo pocket or front jacket pockets on the back. Tops have clean plain backs. Pants/shorts retain their specified rear pockets and side cargo pockets. Hoodie back includes the same hood resting naturally over upper back. Full silhouette, 8% margins. No model, hanger, text, extra logo, graphic, watermark, frame or collage."
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "black",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\shell-utility-jacket-black-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-74809b6d-6cce-4534-b5af-f37a9730df09.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the definitive FRONT garment identity for SIDEFORM Shell Utility Jacket, not the requested viewpoint. Create ONE matching BACK-view photorealistic product photo, portrait 4:5. Show the same actual Black garment turned over, centered full garment visible, same cut and lengths, material, hem, cuffs, hood or collar, seams, studio background, soft upper-left lighting, contact shadow and camera scale. Design constraints: Lightweight matte cotton-nylon woven oversized utility jacket; broad angular panels, center black coil zipper, low stand collar, two symmetrical rectangular flap pockets at lower front, long dropped sleeves with simple elastic cuffs, straight hip-length hem, no hood, no shiny coating. Small discreet tonal offset-bar woven label at side seam. Back should naturally correspond to this front. Do not place chest marks, front zipper, front fly, front kangaroo pocket or front jacket pockets on the back. Tops have clean plain backs. Pants/shorts retain their specified rear pockets and side cargo pockets. Hoodie back includes the same hood resting naturally over upper back. Full silhouette, 8% margins. No model, hanger, text, extra logo, graphic, watermark, frame or collage."
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "black",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\shell-utility-jacket-black-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-f705b7c6-c9af-438b-b03b-796a2e105fe3.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the exact garment and color identity of SIDEFORM Shell Utility Jacket, Black. Generate ONE realistic macro/detail product photograph in portrait 4:5, focused on one front pocket flap, its stitching and the adjacent matte zipper hardware. Move the camera closer to this SAME garment; retain precisely the reference's material color, seam construction, thread color, hardware, branding and textile texture. Show believable scale, crisp fibers and stitches with gentle shallow depth of field, same neutral upper-left studio daylight and pale grey backdrop glimpsed at edges where appropriate. Do not invent a different garment, redesign a pocket, add labels or logos absent from reference, or recolor. No model, props, arrows, text overlays, collage, borders or watermarks. Photographic realism, not CGI."
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "black",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\transit-work-jacket-black-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-8d6ef0f9-224a-4b6b-aef1-a5895d8ae5fb.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the definitive FRONT garment identity for SIDEFORM Transit Work Jacket, not the requested viewpoint. Create ONE matching BACK-view photorealistic product photo, portrait 4:5. Show the same actual Black garment turned over, centered full garment visible, same cut and lengths, material, hem, cuffs, hood or collar, seams, studio background, soft upper-left lighting, contact shadow and camera scale. Design constraints: 320 gsm substantial cotton canvas work jacket; square boxy waist-to-hip-length body, pointed fold-down shirt collar, matte dark center snap-button placket, two large open-top square patch pockets at lower front, long sleeves with button cuffs, straight hem. No zipper, no hood. Small discreet tonal offset-bar woven label on pocket edge. Back should naturally correspond to this front. Do not place chest marks, front zipper, front fly, front kangaroo pocket or front jacket pockets on the back. Tops have clean plain backs. Pants/shorts retain their specified rear pockets and side cargo pockets. Hoodie back includes the same hood resting naturally over upper back. Full silhouette, 8% margins. No model, hanger, text, extra logo, graphic, watermark, frame or collage."
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "black",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\grid-cargo-pant-black-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a2418dea-8f57-4ce1-b252-8e39ad8f6c91.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the definitive FRONT garment identity for SIDEFORM Grid Cargo Pant, not the requested viewpoint. Create ONE matching BACK-view photorealistic product photo, portrait 4:5. Show the same actual Black garment turned over, centered full garment visible, same cut and lengths, material, hem, cuffs, hood or collar, seams, studio background, soft upper-left lighting, contact shadow and camera scale. Design constraints: 260 gsm cotton twill cargo pants; full-length straight wide legs, loose hips and thighs, structured waistband with belt loops, matte center button and zipper fly, curved front hand pockets, one low-profile rectangular flap cargo pocket on the outer side of each thigh, plain hems, two flat welt rear pockets. No straps, no drawcords. Tiny tonal offset-bar woven side label. Back should naturally correspond to this front. Do not place chest marks, front zipper, front fly, front kangaroo pocket or front jacket pockets on the back. Tops have clean plain backs. Pants/shorts retain their specified rear pockets and side cargo pockets. Hoodie back includes the same hood resting naturally over upper back. Full silhouette, 8% margins. No model, hanger, text, extra logo, graphic, watermark, frame or collage."
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "black",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\transit-work-jacket-black-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c7aac6a1-645d-4bad-9ca3-162792ccd8f9.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the exact garment and color identity of SIDEFORM Transit Work Jacket, Black. Generate ONE realistic macro/detail product photograph in portrait 4:5, focused on the square patch-pocket edge, small woven mark and thick canvas stitching. Move the camera closer to this SAME garment; retain precisely the reference's material color, seam construction, thread color, hardware, branding and textile texture. Show believable scale, crisp fibers and stitches with gentle shallow depth of field, same neutral upper-left studio daylight and pale grey backdrop glimpsed at edges where appropriate. Do not invent a different garment, redesign a pocket, add labels or logos absent from reference, or recolor. No model, props, arrows, text overlays, collage, borders or watermarks. Photographic realism, not CGI."
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "black",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\grid-cargo-pant-black-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-04e23822-9bf3-4ff2-97f1-ed7c93f24df4.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the exact garment and color identity of SIDEFORM Grid Cargo Pant, Black. Generate ONE realistic macro/detail product photograph in portrait 4:5, focused on the exact outer thigh cargo pocket flap, its stitching and cotton twill weave. Move the camera closer to this SAME garment; retain precisely the reference's material color, seam construction, thread color, hardware, branding and textile texture. Show believable scale, crisp fibers and stitches with gentle shallow depth of field, same neutral upper-left studio daylight and pale grey backdrop glimpsed at edges where appropriate. Do not invent a different garment, redesign a pocket, add labels or logos absent from reference, or recolor. No model, props, arrows, text overlays, collage, borders or watermarks. Photographic realism, not CGI."
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "black",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\drift-baggy-jean-black-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-80b73254-3995-4ee6-b0da-87bc211f32fd.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the definitive FRONT garment identity for SIDEFORM Drift Baggy Jean, not the requested viewpoint. Create ONE matching BACK-view photorealistic product photo, portrait 4:5. Show the same actual Black garment turned over, centered full garment visible, same cut and lengths, material, hem, cuffs, hood or collar, seams, studio background, soft upper-left lighting, contact shadow and camera scale. Design constraints: 12 oz cotton denim baggy jeans; full-length extra-wide legs, relaxed seat, five-pocket construction, classic curved front pockets with coin pocket, belt loops, matte button and zip fly, two plain pentagonal back patch pockets, clean long hems. No tears, no distressing, no printed graphics. Tiny tonal offset-bar woven waistband label. Back should naturally correspond to this front. Do not place chest marks, front zipper, front fly, front kangaroo pocket or front jacket pockets on the back. Tops have clean plain backs. Pants/shorts retain their specified rear pockets and side cargo pockets. Hoodie back includes the same hood resting naturally over upper back. Full silhouette, 8% margins. No model, hanger, text, extra logo, graphic, watermark, frame or collage."
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "black",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\drift-baggy-jean-black-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-f79bd9fa-5cb9-4497-8207-f8ceffe20531.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the exact garment and color identity of SIDEFORM Drift Baggy Jean, Black. Generate ONE realistic macro/detail product photograph in portrait 4:5, focused on the waistband, matte front button and curved pocket with a clear denim weave. Move the camera closer to this SAME garment; retain precisely the reference's material color, seam construction, thread color, hardware, branding and textile texture. Show believable scale, crisp fibers and stitches with gentle shallow depth of field, same neutral upper-left studio daylight and pale grey backdrop glimpsed at edges where appropriate. Do not invent a different garment, redesign a pocket, add labels or logos absent from reference, or recolor. No model, props, arrows, text overlays, collage, borders or watermarks. Photographic realism, not CGI."
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "black",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\interval-utility-short-black-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-97576e19-4c72-430b-91b4-6993117bde1f.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the exact garment and color identity of SIDEFORM Interval Utility Short, Black. Generate ONE realistic macro/detail product photograph in portrait 4:5, focused on one compact utility pocket flap, seam reinforcement and cotton twill weave. Move the camera closer to this SAME garment; retain precisely the reference's material color, seam construction, thread color, hardware, branding and textile texture. Show believable scale, crisp fibers and stitches with gentle shallow depth of field, same neutral upper-left studio daylight and pale grey backdrop glimpsed at edges where appropriate. Do not invent a different garment, redesign a pocket, add labels or logos absent from reference, or recolor. No model, props, arrows, text overlays, collage, borders or watermarks. Photographic realism, not CGI."
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "black",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\interval-utility-short-black-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-5a180ea1-8964-474b-bed3-c06291b6903a.png",
+      "prompt": "Use case: product-mockup. Reference 1 is the definitive FRONT garment identity for SIDEFORM Interval Utility Short, not the requested viewpoint. Create ONE matching BACK-view photorealistic product photo, portrait 4:5. Show the same actual Black garment turned over, centered full garment visible, same cut and lengths, material, hem, cuffs, hood or collar, seams, studio background, soft upper-left lighting, contact shadow and camera scale. Design constraints: 240 gsm cotton twill utility shorts; knee-length wide leg openings, relaxed hip, structured waistband with belt loops, matte button and zip fly, front slash hand pockets, two compact low-profile outer-leg utility flap pockets, two flat rear welt pockets, straight hems. Tiny tonal offset-bar woven side label. Back should naturally correspond to this front. Do not place chest marks, front zipper, front fly, front kangaroo pocket or front jacket pockets on the back. Tops have clean plain backs. Pants/shorts retain their specified rear pockets and side cargo pockets. Hoodie back includes the same hood resting naturally over upper back. Full silhouette, 8% margins. No model, hanger, text, extra logo, graphic, watermark, frame or collage."
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "white",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\offset-heavy-tee-white-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-08fc28ea-e7dc-44e0-bd7b-725c6a5b6b53.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Offset Heavy Tee, WHITE. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "grey",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\offset-heavy-tee-grey-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-eeaf95b1-6ec4-47ce-b1fe-43ff07f4a5d5.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Offset Heavy Tee, GREY. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "grey",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\offset-heavy-tee-grey-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-10427fae-1a2a-4e44-a489-bf1569d0954f.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Offset Heavy Tee, GREY. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "offset-heavy-tee",
+      "color": "white",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\offset-heavy-tee-white-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-060dd31f-7990-4079-b617-7b04b1f65c35.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Offset Heavy Tee, WHITE. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "grey",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\plane-box-tee-grey-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-80c9f423-ab02-4753-85c6-02f99134e18c.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Plane Box Tee, GREY. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "white",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\axis-long-sleeve-white-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-af3ee169-2ef6-4b1a-bec0-82e5ab1bbb40.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Axis Long Sleeve, WHITE. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "white",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\plane-box-tee-white-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-83b5393d-6b95-4457-9d4d-aa9dcc64d16e.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Plane Box Tee, WHITE. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "white",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\plane-box-tee-white-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-8a5784eb-ecf4-4b21-880e-83ec1caeb279.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Plane Box Tee, WHITE. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "white",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\axis-long-sleeve-white-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-63955ff7-f0dd-45e7-9e4c-a7307a942579.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Axis Long Sleeve, WHITE. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "plane-box-tee",
+      "color": "grey",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\plane-box-tee-grey-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c02c5547-6928-42ee-b558-03adccd0f63b.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Plane Box Tee, GREY. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "grey",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\axis-long-sleeve-grey-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-17468e89-1022-484c-8d3b-639b278795b9.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Axis Long Sleeve, GREY. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "axis-long-sleeve",
+      "color": "grey",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\axis-long-sleeve-grey-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-a99b088e-15a7-4816-b7ef-b5bf0e319529.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Axis Long Sleeve, GREY. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "white",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\frame-long-sleeve-white-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-970eb03d-548a-45e5-9fbe-7dc9e5ee79e1.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Frame Long Sleeve, WHITE. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "grey",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\frame-long-sleeve-grey-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2a837bb5-0eaf-496b-8513-8101a6082002.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Frame Long Sleeve, GREY. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "white",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\frame-long-sleeve-white-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-36576945-3b3e-4a32-b348-7e828821d756.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Frame Long Sleeve, WHITE. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "frame-long-sleeve",
+      "color": "grey",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\frame-long-sleeve-grey-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-86fb89f5-b093-4263-98b0-c6c8227a732c.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Frame Long Sleeve, GREY. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "white",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\volume-pullover-white-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-78f3ba36-a3cb-43e0-8b03-0dfdefb4ed8b.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Volume Pullover, WHITE. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "white",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\volume-pullover-white-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-724cb4fb-b40a-4fdd-8d2d-a49a81ba0a07.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Volume Pullover, WHITE. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "grey",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\volume-pullover-grey-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-effc07d1-8285-42d1-bca2-11ad72a1105f.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Volume Pullover, GREY. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "volume-pullover",
+      "color": "grey",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\volume-pullover-grey-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-09a3dc6b-72a0-4e14-9240-8ae709474e0d.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Volume Pullover, GREY. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "white",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\structure-hoodie-white-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-4b3c3721-5923-4cee-9077-0499d682eaf8.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Structure Hoodie, WHITE. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "white",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\structure-hoodie-white-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-0f691491-9854-4f0f-a2a4-7e4244038a62.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Structure Hoodie, WHITE. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "grey",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\structure-hoodie-grey-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-32920015-e2b3-45bc-beea-b265d994b813.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Structure Hoodie, GREY. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "contour-crew",
+      "color": "white",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\contour-crew-white-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-282853b6-ac60-48f3-85d6-72525994ead1.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Contour Crew, WHITE. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "structure-hoodie",
+      "color": "grey",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\structure-hoodie-grey-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-8f9081b8-a81c-45d0-9c6b-7dcff298adb6.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Structure Hoodie, GREY. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "contour-crew",
+      "color": "white",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\contour-crew-white-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-532d65f6-b32e-4143-8c85-09c1cb84c3fa.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Contour Crew, WHITE. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "contour-crew",
+      "color": "grey",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\contour-crew-grey-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c4ac845e-def0-4ab3-affb-e2fd715dfa42.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Contour Crew, GREY. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "contour-crew",
+      "color": "grey",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\contour-crew-grey-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-4eff3e79-5db5-485e-bed7-2ca1c05d812c.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Contour Crew, GREY. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "white",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\shell-utility-jacket-white-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-06a6c254-bfea-45cc-84fd-35ded3d2070f.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Shell Utility Jacket, WHITE. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "grey",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\shell-utility-jacket-grey-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7a883460-e588-437e-a33e-5bed85eb8cc0.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Shell Utility Jacket, GREY. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "white",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\shell-utility-jacket-white-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-35716223-cf01-4d1d-b995-e1102e8af421.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Shell Utility Jacket, WHITE. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "shell-utility-jacket",
+      "color": "grey",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\shell-utility-jacket-grey-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-6d5135c7-1974-415b-9d0d-890bb586dd95.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Shell Utility Jacket, GREY. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "white",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\transit-work-jacket-white-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-6f7400e2-5f87-4119-8d07-3a81958c4353.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Transit Work Jacket, WHITE. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "grey",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\transit-work-jacket-grey-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-2af621e1-e5eb-44fd-af07-e8afc8cada6b.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Transit Work Jacket, GREY. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "white",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\transit-work-jacket-white-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-28ba4676-0f8c-4da8-b0d0-ff366a27b001.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Transit Work Jacket, WHITE. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "transit-work-jacket",
+      "color": "grey",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\transit-work-jacket-grey-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7bdc5b7c-ed8c-4b33-90d4-706d6fa41eda.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Transit Work Jacket, GREY. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "white",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\grid-cargo-pant-white-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-805eecba-f2fa-4114-b9ba-5fbef2b85258.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Grid Cargo Pant, WHITE. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "white",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\grid-cargo-pant-white-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-54744d9a-338e-40a0-80dd-379274a25f53.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Grid Cargo Pant, WHITE. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "grey",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\grid-cargo-pant-grey-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-b797a82a-51ce-412c-b1ab-5d97ab262ef3.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Grid Cargo Pant, GREY. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "white",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\drift-baggy-jean-white-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7e8de2c2-dc62-41d4-ae0a-9829a8b53f9b.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Drift Baggy Jean, WHITE. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "grid-cargo-pant",
+      "color": "grey",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\grid-cargo-pant-grey-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-72e9473c-f5bf-443d-addc-5b765d8d5d39.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Grid Cargo Pant, GREY. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "white",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\drift-baggy-jean-white-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-4b80f7d5-a707-417d-9213-9419b2fb65bb.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Drift Baggy Jean, WHITE. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "grey",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\drift-baggy-jean-grey-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-525dfce8-93b6-4bac-b866-4cb748a03b58.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Drift Baggy Jean, GREY. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "white",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\interval-utility-short-white-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-c826a399-fb61-4ee3-8686-dc87f79d1ef6.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Interval Utility Short, WHITE. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "white",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\interval-utility-short-white-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-3be8b61f-968c-4187-9cc1-c48c3261a735.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Interval Utility Short, WHITE. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding white front photograph of the same product. Recolor only the garment in image 1 to precisely match the clean neutral White fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "drift-baggy-jean",
+      "color": "grey",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\drift-baggy-jean-grey-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-20ab339d-a956-4582-8721-c62becd7c1ec.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Drift Baggy Jean, GREY. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "grey",
+      "view": "back",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\interval-utility-short-grey-back.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-92f24a26-4fff-4e91-bb2e-fe7fe1117e59.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 full BACK-view product photograph for SIDEFORM Interval Utility Short, GREY. Input 1 is the EDIT TARGET: the Black back photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's full back silhouette, proportions, seams, hood or collar, cuffs, hems and rear pocket configuration. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the back view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    },
+    {
+      "handle": "interval-utility-short",
+      "color": "grey",
+      "view": "detail",
+      "path": "C:\\Users\\david\\Documents\\Codex\\2026-10-18\\im\\SIDEFORM\\catalog\\product-photos\\interval-utility-short-grey-detail.png",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9303be5a-a63f-4f4a-afd6-caf9cd201f5e.png",
+      "prompt": "Use case: product-mockup, precise-object-edit. Create ONE photorealistic portrait 4:5 close-up DETAIL-view product photograph for SIDEFORM Interval Utility Short, GREY. Input 1 is the EDIT TARGET: the Black detail photograph of this exact garment. Input 2 is a COLOR REFERENCE ONLY: the corresponding grey front photograph of the same product. Recolor only the garment in image 1 to precisely match the neutral medium Grey fabric of image 2. Preserve image 1's exact close-up framing, seam paths, stitch size, pocket or collar construction, fabric weave and depth of field. Keep camera viewpoint, lighting, pale grey studio background, shadows and material realism from image 1 unchanged. Keep dark hardware dark. If image 1 contains a light chest emblem, recolor its two bars to the same dark charcoal as on image 2, retaining size and placement. No new labels, no logo on a plain back, no added pockets, no front-view features on backs, no redesign or invented detail. The output must be the detail view of image 1 in the color of image 2, not another front photograph. No models, props, captions, collage, watermark or borders."
+    }
+  ]
+}

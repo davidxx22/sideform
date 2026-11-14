@@ -1,0 +1,12 @@
+{
+  "handle": "drift-baggy-jean",
+  "color": "grey",
+  "view": "duofull",
+  "refs": [
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-7f152c0f-9305-4c8f-833b-d273318f4a7c.png",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-grey-front.webp"
+  ],
+  "prompt": "Edit image1 for SIDEFORM drift-baggy-jean grey color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to GREY matching image2. BOTH wear same selected grey product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. ",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-6ea0e3f6-67b7-491f-8a1d-c66103e7a652.png",
+  "tool": "built-in image_gen"
+}

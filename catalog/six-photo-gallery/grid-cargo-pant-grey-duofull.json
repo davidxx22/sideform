@@ -1,0 +1,12 @@
+{
+  "handle": "grid-cargo-pant",
+  "color": "grey",
+  "view": "duofull",
+  "refs": [
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-fe89bde7-143a-4a58-a07f-f27c38948651.png",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-grid-cargo-pant-grey-front.webp"
+  ],
+  "prompt": "Edit image1 for SIDEFORM grid-cargo-pant grey color variant. Image1 is edit target: preserve exactly both models identities, hairstyle, pose, composition, camera and warm pale greige studio wall/floor background and lighting. Image2 is ONLY exact selected bottom garment color and construction reference. Change BOTH models' bottoms from BLACK to GREY matching image2. BOTH wear same selected grey product with original pockets, seams, fit and fabric preserved. Keep BOTH GREY tee shirts and tiny black SIDEFORM two-bar upper-left chest logos unchanged. Preserve white sneakers and all body proportions. No new logos on bottoms. No text/UI, no collage, no accessories. ",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-16371d87-0133-4359-bc13-51424d89adc3.png",
+  "tool": "built-in image_gen"
+}

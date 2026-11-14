@@ -1,0 +1,35 @@
+{
+  "tool": "Built-in imagegen",
+  "original": "theme/assets/sideform-campaign.png",
+  "symbol": "theme/assets/sideform-symbol.png",
+  "stages": [
+    {
+      "prompt": "Use case: precise-object-edit. Image 1 is the exact SIDEFORM architectural campaign photograph to edit. Image 2 is the SIDEFORM logo-symbol reference only; ignore its pale paper background. Make only these garment edits: (1) change the woman's beige/cream oversized T-shirt to a clean neutral TRUE WHITE, consistent with a White retail colorway, with realistic white cotton texture and natural shadows, not ivory, beige or yellow; (2) add a small BLACK SIDEFORM two-rectangle mark to the woman's upper LEFT chest (image-right side of her chest), approximately 3cm wide; (3) add the same mark in OFF-WHITE to the man's black T-shirt, at his upper LEFT chest, about 3cm wide. Each mark has exactly TWO equal short horizontal rectangles, second offset diagonally DOWN AND RIGHT, separate with a clear gap, exact proportions/spacing like image 2. Not an equals sign, letter, cross or connected shape. The prints must follow shirt folds and perspective naturally. Preserve the man's washed-black shirt color. Preserve both adult models' exact identities, faces, hair, skin tones, anatomy, poses, clothing cuts and drape, camera angle, scale, all concrete architecture and texture, large empty wall on the LEFT for live website text, floor, sky and existing soft outdoor lighting. IMPORTANT: do not add any logos or markings to either model's pants. Keep the woman's olive pants and man's black pants and both pairs of shoes exactly as in image 1. Preserve full figures and clothing, and the landscape composition. Remove only the narrow black screenshot border and tiny unrelated screen-edge artifacts around image 1; output a clean edge-to-edge campaign photograph. No typography, captions, navigation, buttons, watermarks or extra objects.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-cb46206f-9fee-4cf9-b8a8-1605443c385d.png",
+      "saved": "catalog/campaign-shirt-edit.png"
+    },
+    {
+      "prompt": "Use case: precise-object-edit. Image 1 is the exact campaign photograph edit target. Image 2 is a garment-design reference ONLY: SIDEFORM Grid Cargo Pant in Black. Image 3 is a garment-design reference ONLY: SIDEFORM Interval Utility Short in Grey. Change only the bottoms worn by the two adults in image 1: dress the MAN in image 2's BLACK full-length wide-leg cotton-twill cargo pants with matching waistband, hand pockets, and low-profile rectangular flap cargo pockets on the outer thighs; dress the WOMAN in image 3's GREY knee-length wide-leg utility/cargo SHORTS, with matching waistband, belt loops, slash hand pockets, two low-profile outer-thigh rectangular flap pockets, straight stitched hems and cotton-twill fabric. The woman's bare lower legs should be naturally revealed below the knee-length shorts; preserve her walking stance, step and correct anatomy. Match the exact garment cuts and Grey/Black colors from references 2 and 3, adapting only their drape to the existing bodies and poses. IMPORTANT: both pants and shorts must remain UNBRANDED, no two-rectangle marks or text on either bottom. Preserve EVERYTHING else from image 1 exactly: adult faces, identities, hair, skin tones, body proportions, gaze, hands-in-pockets styling as compatible with the new pockets, their positions, the woman's TRUE WHITE oversized tee with small BLACK offset-two-rectangle chest logo, the man's washed BLACK tee with small OFF-WHITE offset-two-rectangle chest logo, neckline/sleeve/hem shapes, both pairs of original shoes, all architecture, floor, sky, camera perspective, natural outdoor lighting, contact shadows, wide landscape crop and large empty concrete wall on the LEFT for website copy. Keep both models' entire clothing, legs and shoes visible. No new people, accessory, border, caption, typography, watermark or interface. Single photorealistic fashion campaign photo.",
+      "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-45b29a20-3404-4f64-a5b3-e09907dacadc.png",
+      "saved": "catalog/campaign-branded.png",
+      "garment_references": [
+        "catalog/product-photos/grid-cargo-pant-black-front.png",
+        "catalog/product-photos/interval-utility-short-grey-front.png"
+      ]
+    }
+  ],
+  "delivery": [
+    "theme/assets/sideform-campaign-branded.jpg",
+    "theme/assets/sideform-campaign-branded-750.jpg"
+  ],
+  "outfits": {
+    "man": {
+      "shirt": "Black oversized tee with off-white two-rectangle chest mark",
+      "bottom": "Black Grid Cargo Pant, unbranded"
+    },
+    "woman": {
+      "shirt": "White oversized tee with black two-rectangle chest mark",
+      "bottom": "Grey Interval Utility Short, unbranded"
+    }
+  }
+}

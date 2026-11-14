@@ -10,9 +10,6 @@
       {% assign bottom_handles = 'grid-cargo-pant,drift-baggy-jean,interval-utility-short' | split: ',' %}
       {% if bottom_handles contains product.handle %}{% assign views = 'male,duoclose,duofull,female,lineup,detail' | split: ',' %}{% endif %}
       {% if product.handle == 'interval-utility-short' %}{% assign views = 'female,duoclose,duofull,male,lineup,detail' | split: ',' %}{% endif %}
-      {% if product.handle == 'offset-heavy-tee' %}
-        {% assign views = 'full,front,lineup,detail' | split: ',' %}
-      {% endif %}
       {% for view in views %}
         {% assign view_label = view %}
         {% case view %}
@@ -24,13 +21,7 @@
         {% endcase %}
         {% if bottom_handles contains product.handle %}{% assign view_label = view_label | replace: 'half-body', 'full-body' %}{% endif %}
         <button class="sf-photo-gallery__tile" type="button" data-sf-view="{{ view }}" data-sf-enlarge aria-label="Enlarge {{ view_label }} photograph">
-          {% if product.handle == 'offset-heavy-tee' %}
-            {% assign photo_loading = 'lazy' %}
-            {% if forloop.first %}{% assign photo_loading = 'eager' %}{% endif %}
-            {% render 'sf-product-image', product: product, color: initial_color, view: view, loading: photo_loading, sizes: '(min-width: 990px) 48vw, (min-width: 750px) 52vw, 92vw' %}
-          {% else %}
-            {% render 'sf-product-image', product: product, color: initial_color, view: view, sizes: '(min-width: 990px) 30vw, (min-width: 750px) 48vw, 92vw' %}
-          {% endif %}
+          {% render 'sf-product-image', product: product, color: initial_color, view: view, sizes: '(min-width: 990px) 30vw, (min-width: 750px) 48vw, 92vw' %}
           {% if view == 'male' or view == 'female' %}{% render 'sf-model-caption', product: product, gender: view %}{% elsif view == 'front' or view == 'full' %}{% render 'sf-model-caption', product: product %}{% endif %}
           <span class="sf-enlarge">+</span>
         </button>
@@ -42,15 +33,6 @@
       <button type="button" data-sf-gallery-step="1" aria-label="Next photo"><svg width="12" height="20" viewBox="0 0 16 24" fill="none" aria-hidden="true"><path d="m5 5 7 7-7 7" stroke="currentColor" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
       <span class="visually-hidden" role="status" data-sf-gallery-status>Photo 1 of {{ views.size }}</span>
     </div>
-    {% if product.handle == 'offset-heavy-tee' %}
-      <div class="sf-gallery-thumbnails" role="group" aria-label="Choose a product photo">
-        {% for view in views %}
-          <button type="button" data-sf-thumb-view="{{ view }}" aria-label="Show {{ view }} photograph"{% if forloop.first %} aria-current="true"{% endif %}>
-            {% render 'sf-product-image', product: product, color: initial_color, view: view, sizes: '44px' %}
-          </button>
-        {% endfor %}
-      </div>
-    {% endif %}
     </div>
     <sf-dialog>
       <dialog class="sf-dialog sf-image-dialog" aria-label="Enlarged product photograph">

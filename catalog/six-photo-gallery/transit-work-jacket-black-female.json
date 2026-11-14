@@ -1,0 +1,12 @@
+{
+  "handle": "transit-work-jacket",
+  "color": "black",
+  "view": "female",
+  "refs": [
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-transit-work-jacket-black-front-480.jpg",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-black-front-480.jpg"
+  ],
+  "prompt": "Create a new counterpart HALF-BODY catalog photograph for SIDEFORM Transit Work Jacket. Image 1 defines the EXACT PRODUCT, studio background, lighting and catalog shot. Image 2 is ONLY the identity reference for the female model who must wear the product from image 1. Preserve image 2's identical face, hair, skin tone, physique and age; do not copy its clothing. Product: black pointed-collar button work jacket with two large patch pockets. Match the actual garment construction, fabric weight, hem, sleeves, closure, pockets and tiny white offset two-bar chest symbol from image 1 precisely. Pose: relaxed standing, facing camera, neutral expression, arms naturally down or hands resting in grey trouser pockets. Frame from above the entire hair to mid-thigh, show the whole garment including cuffs and hem; head not cropped. Grey loose trousers visible at bottom. EXACT same softly lit pale warm-grey studio background as image 1. Photorealistic premium e-commerce studio photography, portrait 4:5 around 1122x1402, no text/captions/UI/watermark, no additional logos, no other person. This is the female companion view of the same unisex product, not a different garment.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-11ef0e5d-c3f8-4885-9393-8e027967185f.png",
+  "tool": "built-in image_gen"
+}

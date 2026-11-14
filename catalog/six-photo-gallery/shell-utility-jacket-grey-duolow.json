@@ -1,0 +1,12 @@
+{
+  "handle": "shell-utility-jacket",
+  "color": "grey",
+  "view": "duolow",
+  "refs": [
+    "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-316012ea-1762-469b-8a8d-b0af43557dd7.png",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-shell-utility-jacket-grey-front-480.jpg"
+  ],
+  "prompt": "Edit image 1 for SIDEFORM shell-utility-jacket GREY colorway. Change ONLY BOTH models' upper garments from black to the exact grey fabric and tiny chest-logo contrast in image 2. Image 2 is ONLY the garment color reference, not new people or poses. Preserve image 1's identical two people, faces/hair/skin/physiques, poses and camera angle, framing, grey trousers, white shoes, pale studio wall and floor and shadows. Preserve exact garment cut, fabric weight, seams, sleeves, closures, pockets and tiny offset two-bar chest mark. Rear stays entirely plain, no graphics. No captions/text/watermarks. Single continuous photograph, same aspect and composition as image 1.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-9790fe66-cc03-432f-b78c-39eb1d5cc659.png",
+  "tool": "built-in image_gen"
+}

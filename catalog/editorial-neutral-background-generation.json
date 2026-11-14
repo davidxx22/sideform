@@ -1,0 +1,7 @@
+{
+  "tool": "Built-in imagegen",
+  "prompt": "Edit this exact existing SIDEFORM full-body studio photo. Change only the background and floor color: remove the pink/violet/mauve cast completely and make the seamless studio wall and floor a neutral very pale gray, approximately RGB 231,231,227, with soft realistic neutral contact shadows. Preserve the exact same model identity, face, skin tone, hair, straight relaxed pose, white SIDEFORM hoodie, tiny black offset chest logo, black Grid Cargo Pant and white sneakers. Preserve full head-to-shoes visibility, image framing, subject size and right-side placement, ample empty space to the left, all fabric textures and clothing colors. No added text, no props, no graphic panels, no gradients with violet, no cropping. Background should feel like a clean neutral gray ecommerce studio, not pink or violet.",
+  "reference": "catalog/editorial-photos/white-hoodie-black-cargo-full.png",
+  "output": "catalog/editorial-photos/white-hoodie-black-cargo-neutral.png",
+  "asset": "theme/assets/sf-editorial-white-hoodie-black-cargo-neutral.jpg"
+}

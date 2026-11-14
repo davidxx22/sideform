@@ -1,0 +1,12 @@
+{
+  "handle": "drift-baggy-jean",
+  "color": "white",
+  "view": "front",
+  "refs": [
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-drift-baggy-jean-white-front.jpg",
+    "C:/Users/david/OneDrive/Documents/Projects/SIDEFORM/theme/assets/sf-photo-axis-long-sleeve-grey-front-480.jpg"
+  ],
+  "prompt": "Edit image 1 changing ONLY ONE detail: add the small BLACK SIDEFORM emblem from image 2 onto the GREY T-shirt, upper LEFT chest of wearer (viewer right). Exact emblem is two tiny short offset horizontal rectangular black bars, no words. Natural subtle print scale matching image2. Preserve image1's identical person, face/hair/skin, pose, tee fit and folds, pants/shorts color and construction, background, lighting and full-body framing. Do not add logos to the pants or shorts. No other changes, text, captions or watermarks.",
+  "source": "C:\\Users\\david\\.codex\\generated_images\\01a15203-7cb1-7930-9bdb-bef331087ae3\\exec-251286b0-0c35-4d94-bc4c-267119e3dd3b.png",
+  "tool": "built-in image_gen"
+}
