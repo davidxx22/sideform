@@ -874,3 +874,18 @@ body>#MainContent{flex:1 0 auto}
  .sf-mobile-sort summary,.sf-sort-options button{font-size:16px}
  .sf-mobile-sort summary{min-height:48px}
 }
+
+/* Homepage navbar: transparent over the campaign, white from New arrivals. */
+.section-header.sf-home-header { margin-bottom:calc(-1 * var(--sf-overlay-height,0px)); }
+.sf-home-header .header-wrapper { background:transparent; transition:background-color 260ms ease; }
+.sf-home-header--solid .header-wrapper,
+.sf-home-header .header-wrapper:has(.search-modal[open], header-drawer details[open]),
+.sf-home-header:has(details[open] .search-modal, header-drawer details[open]) .header-wrapper { background-color:#fff; }
+.sf-home-header:not(.sf-home-header--solid) .header__menu-item,
+.sf-home-header:not(.sf-home-header--solid) .header__heading-link,
+.sf-home-header:not(.sf-home-header--solid) .header__icon { color:#20231f; }
+.header .header__menu-item,.header .header__submenu .header__menu-item,
+.menu-drawer .menu-drawer__menu-item,.header .header__active-menu-item { font-weight:400; }
+.header .header__menu-item,.header .header__menu-item span,
+.header .header__active-menu-item,.menu-drawer .menu-drawer__menu-item { text-decoration:none; }
+@media(prefers-reduced-motion:reduce){.sf-home-header .header-wrapper{transition:none}}

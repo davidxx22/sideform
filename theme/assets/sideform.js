@@ -433,3 +433,34 @@
   document.addEventListener('shopify:section:load', () => initialize());
   document.addEventListener('product-info:loaded', event => setupProduct(event.target));
 })();
+/* Overlay the homepage hero until the next section reaches the sticky header. */
+(() => {
+  let update = () => {};
+  function init() {
+    const header = document.querySelector('.section-header');
+    const hero = document.querySelector('#MainContent .sf-campaign');
+    const arrivals = document.querySelector('#MainContent .sf-arrivals-section');
+    if (!header || !hero || !arrivals) return;
+    update = () => {
+      header.style.setProperty('--sf-overlay-height', header.offsetHeight + 'px');
+      header.classList.add('sf-home-header');
+      header.classList.toggle('sf-home-header--solid', arrivals.getBoundingClientRect().top <= header.getBoundingClientRect().bottom);
+    };
+    let frame = 0;
+    const schedule = () => {
+      if (frame) return;
+      frame = requestAnimationFrame(() => { frame = 0; update(); });
+    };
+    update();
+    window.addEventListener('scroll', schedule, { passive: true });
+    window.addEventListener('resize', schedule);
+    window.addEventListener('pageshow', schedule);
+    if (window.ResizeObserver) {
+      const observer = new ResizeObserver(schedule);
+      observer.observe(header);
+      observer.observe(hero);
+    }
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init, { once: true });
+  else init();
+})();
