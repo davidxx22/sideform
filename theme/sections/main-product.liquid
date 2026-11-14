@@ -96,8 +96,8 @@
                     class="product__text inline-richtext{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}"
                     {{ block.shopify_attributes }}
                   >
-                    {%- if block.settings.text == 'SIDEFORM / COLLECTION 001' and product.tags contains 'collection-002' -%}
-                      SIDEFORM / COLLECTION 002
+                    {%- if block.settings.text == 'Rummap / COLLECTION 001' and product.tags contains 'collection-002' -%}
+                      Rummap / COLLECTION 002
                     {%- else -%}
                       {{- block.settings.text -}}
                     {%- endif -%}

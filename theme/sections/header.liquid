@@ -185,7 +185,7 @@
         <h1 class="header__heading">
       {%- endif -%}
       <a href="{{ routes.root_url }}" class="header__heading-link link link--text focus-inset">
-        {%- if section.settings.sf_text_wordmark -%}<span class="sf-header-wordmark">SIDEFORM</span>{%- elsif settings.logo != blank -%}
+        {%- if section.settings.sf_text_wordmark -%}<span class="sf-header-wordmark">Rummap</span>{%- elsif settings.logo != blank -%}
           <div class="header__heading-logo-wrapper">
             {%- assign logo_alt = settings.logo.alt | default: shop.name | escape -%}
             {%- assign logo_height = settings.logo_width | divided_by: settings.logo.aspect_ratio -%}
@@ -228,7 +228,7 @@
         <h1 class="header__heading">
       {%- endif -%}
       <a href="{{ routes.root_url }}" class="header__heading-link link link--text focus-inset">
-        {%- if section.settings.sf_text_wordmark -%}<span class="sf-header-wordmark">SIDEFORM</span>{%- elsif settings.logo != blank -%}
+        {%- if section.settings.sf_text_wordmark -%}<span class="sf-header-wordmark">Rummap</span>{%- elsif settings.logo != blank -%}
           <div class="header__heading-logo-wrapper">
             {%- assign logo_alt = settings.logo.alt | default: shop.name | escape -%}
             {%- assign logo_height = settings.logo_width | divided_by: settings.logo.aspect_ratio -%}
@@ -465,7 +465,7 @@
   {
     "@context": "http://schema.org",
     "@type": "Organization",
-    "name": {{ shop.name | json }},
+    "name": {{ 'Rummap' | json }},
     {% if settings.logo %}
       "logo": {{ settings.logo | image_url: width: 500 | prepend: "https:" | json }},
     {% endif %}
@@ -490,7 +490,7 @@
     {
       "@context": "http://schema.org",
       "@type": "WebSite",
-      "name": {{ shop.name | json }},
+      "name": {{ 'Rummap' | json }},
       "potentialAction": {
         "@type": "SearchAction",
         "target": {{ potential_action_target | json }},
@@ -508,7 +508,7 @@
   "max_blocks": 3,
   "settings": [
     {"type":"checkbox","id":"sf_transparent_header","label":"Transparent header","default":false},
-    {"type":"checkbox","id":"sf_text_wordmark","label":"Use SIDEFORM text without symbol","default":true},
+    {"type":"checkbox","id":"sf_text_wordmark","label":"Use Rummap text without symbol","default":true},
     {
       "type": "select",
       "id": "logo_position",
