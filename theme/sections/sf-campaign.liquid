@@ -8,10 +8,12 @@
     </div>
     <a class="rummap-hero__cta" href="{{ routes.all_products_collection_url }}">Shop the rack <span aria-hidden="true">↗</span></a>
   </div>
-  <img class="rummap-hero__rack" src="{{ 'rummap-hero-rack.webp' | asset_url }}"
-    srcset="{{ 'rummap-hero-rack-800.webp' | asset_url }} 800w, {{ 'rummap-hero-rack.webp' | asset_url }} 1774w"
-    sizes="100vw" width="1774" height="887" fetchpriority="high"
-    alt="On one rail: a silver and blue football jersey, olive quilted jacket, brown cargo trousers and gray raw-hem shorts.">
+  <picture class="rummap-hero__picture">
+    <source media="(max-width:749px)" srcset="{{ 'rummap-hero-angled-mobile.webp' | asset_url }}">
+    <img class="rummap-hero__rack" src="{{ 'rummap-hero-angled.webp' | asset_url }}"
+      width="2061" height="763" fetchpriority="high"
+      alt="On one rail: a silver and blue football jersey, olive quilted jacket, brown cargo trousers and gray raw-hem shorts.">
+  </picture>
 </section>
 {% else %}
 <section class="sf-campaign" style="--sf-position:{{ section.settings.position }}%;--sf-mobile-position:{{ section.settings.mobile_position }}%;--sf-ink:{{ section.settings.text_color }};--sf-space:{{ section.settings.spacing }}px">
