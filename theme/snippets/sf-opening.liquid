@@ -1,0 +1,66 @@
+<style>
+  .sf-opening[hidden] { display: none; }
+
+  .sf-opening {
+    position: fixed;
+    inset: 0;
+    z-index: 100000;
+    display: grid;
+    place-items: center;
+    background: #fff;
+    color: #20231f;
+    opacity: 1;
+    transition: opacity .6s ease;
+  }
+
+  .sf-opening.is-done {
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .sf-opening__mark {
+    font: 800 24px/1 "DM Sans", Arial, sans-serif;
+    letter-spacing: -.06em;
+    animation: sf-opening-pulse 3s ease-in-out infinite;
+  }
+
+  @keyframes sf-opening-pulse {
+    50% { opacity: .2; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .sf-opening { display: none; }
+  }
+</style>
+<div class="sf-opening" aria-hidden="true" hidden>
+  <span class="sf-opening__mark">SIDEFORM</span>
+</div>
+<script>
+  (() => {
+    const opening = document.currentScript.previousElementSibling;
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+    let finished = false;
+    const dismiss = (immediate = false) => {
+      if (finished) return;
+      finished = true;
+      window.clearTimeout(fallback);
+      if (immediate) {
+        opening.remove();
+        return;
+      }
+      opening.classList.add('is-done');
+      window.setTimeout(() => opening.remove(), 650);
+    };
+
+    const fallback = window.setTimeout(() => dismiss(), 2500);
+    const ready = () => window.setTimeout(() => dismiss(), 500);
+
+    if (document.readyState === 'complete') ready();
+    else window.addEventListener('load', ready, { once: true });
+
+    document.addEventListener('focusin', () => dismiss(true), { once: true });
+    window.addEventListener('pagehide', () => dismiss(true), { once: true });
+    opening.hidden = false;
+  })();
+</script>
