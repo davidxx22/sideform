@@ -935,7 +935,7 @@ body:has(.rummap-hero) .sf-home-header:not(.sf-home-header--solid) .header-wrapp
  display:grid;
  place-items:center;
  color:#fff;
- font:800 min(15vw,255px)/1 "DM Sans",sans-serif;
+ font:800 min(13.5vw,230px)/1 "DM Sans",sans-serif;
  letter-spacing:-.055em;
  pointer-events:none;
 }
