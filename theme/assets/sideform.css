@@ -946,3 +946,16 @@ body:has(.sf-launch) .sf-home-header .header-wrapper{--sf-overlay-ink:#20231f}
  .product-card-wrapper .sf-card-photo img[src*="sf-packshot-"],
  #product-grid .product-card-wrapper .sf-card-photo img[src*="sf-packshot-"]{padding:6%}
 }
+
+/* Give the home and collection cards more room at the existing column counts. */
+.sf-arrivals-section.page-width {
+  max-width: 1660px;
+  padding-inline: 3vw;
+}
+
+#ProductGridContainer > .collection.page-width,
+.facets-wrapper.sf-shop-toolbar.page-width,
+.facets-vertical.page-width:has(> #ProductGridContainer) {
+  max-width: calc(var(--page-width) + 48px);
+  padding-inline: clamp(12px, 3vw, 44px);
+}
