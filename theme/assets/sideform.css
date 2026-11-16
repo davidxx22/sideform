@@ -926,7 +926,7 @@ body:has(.rummap-hero) .sf-home-header:not(.sf-home-header--solid) .header-wrapp
 }
 /* SIDEFORM new collection */
 .sf-header-wordmark,.sf-wordmark{font-family:"DM Sans",sans-serif;font-weight:800;letter-spacing:-.06em}
-.sf-launch{background:#d0cecf;color:#20231f}
+.sf-launch{background:linear-gradient(#0f0f13,#111215,#17181b,#1a1c1f,#222529,#373a3f,#5c6066);color:#fff}
 .sf-launch picture,.sf-launch__image{display:block;width:100%}
 .sf-launch__image{height:auto}
 .sf-launch__wordmark{
@@ -942,7 +942,7 @@ body:has(.rummap-hero) .sf-home-header:not(.sf-home-header--solid) .header-wrapp
 @media(min-width:1700px){
  .sf-launch picture{max-width:1700px;margin-inline:auto;mask-image:linear-gradient(to right,transparent,#000 16px,#000 calc(100% - 16px),transparent)}
 }
-body:has(.sf-launch) .sf-home-header:not(.sf-home-header--solid) .header-wrapper:not(:has(.header__search details[open],header-drawer details[open])){--sf-overlay-ink:#20231f}
+body:has(.sf-launch) .sf-home-header:not(.sf-home-header--solid) .header-wrapper:not(:has(.header__search details[open],header-drawer details[open])){--sf-overlay-ink:#fff}
 @media(min-width:750px) and (max-width:1199px){.sf-launch{padding-top:16px}}
 .sf-arrivals-section .sf-home-section-heading{font-weight:400}
 .product-card-wrapper .card__heading{font-weight:500}
