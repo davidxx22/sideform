@@ -929,6 +929,16 @@ body:has(.rummap-hero) .sf-home-header:not(.sf-home-header--solid) .header-wrapp
 .sf-launch{background:#d0cecf;color:#20231f}
 .sf-launch picture,.sf-launch__image{display:block;width:100%}
 .sf-launch__image{height:auto}
+.sf-launch__wordmark{
+ position:absolute;
+ inset:0;
+ display:grid;
+ place-items:center;
+ color:#fff;
+ font:800 min(15vw,255px)/1 "DM Sans",sans-serif;
+ letter-spacing:-.055em;
+ pointer-events:none;
+}
 @media(min-width:1700px){
  .sf-launch picture{max-width:1700px;margin-inline:auto;mask-image:linear-gradient(to right,transparent,#000 16px,#000 calc(100% - 16px),transparent)}
 }

@@ -2,11 +2,12 @@
 <section class="sf-campaign sf-launch" aria-labelledby="SideformLaunch-{{ section.id }}">
   <h1 class="visually-hidden" id="SideformLaunch-{{ section.id }}">SIDEFORM new collection</h1>
   <picture>
-    <source media="(max-width: 749px)" srcset="{{ 'sideform-hero-black-sweats-mobile.webp' | asset_url }}" width="704" height="1051">
-    <img class="sf-launch__image" src="{{ 'sideform-hero-black-sweats.webp' | asset_url }}"
+    <source media="(max-width: 749px)" srcset="{{ 'sideform-hero-studio-mobile.webp' | asset_url }}" width="704" height="1051">
+    <img class="sf-launch__image" src="{{ 'sideform-hero-studio.webp' | asset_url }}"
       width="1672" height="1023" loading="eager" fetchpriority="high"
-      alt="Model in black wraparound sunglasses, a black Boxy Fit Hoodie and black Baggy Sweatpants against a gray backdrop with oversized SIDEFORM lettering.">
+      alt="Model in black wraparound sunglasses, a black Boxy Fit Hoodie and black Baggy Sweatpants against a gray studio backdrop.">
   </picture>
+  <span class="sf-launch__wordmark" aria-hidden="true">SIDEFORM</span>
 </section>
 {% elsif section.settings.rummap_rack %}
 <section class="sf-campaign rummap-hero" aria-labelledby="RummapHeroHeading-{{ section.id }}">
