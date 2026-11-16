@@ -1,4 +1,12 @@
-{% if product.tags contains 'sf-new-edit' %}<p class="price sf-preview-price">Coming soon</p>{% else %}
+{%- liquid
+  assign show_coming_soon = false
+  if product.tags contains 'sf-new-edit'
+    if show_sample_price != true or product.price == 0
+      assign show_coming_soon = true
+    endif
+  endif
+-%}
+{% if show_coming_soon %}<p class="price sf-preview-price">Coming soon</p>{% else %}
 {% comment %}
   Renders a list of product's price (regular, sale)
 

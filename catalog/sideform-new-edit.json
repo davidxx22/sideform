@@ -5,7 +5,7 @@
     "type": "Hoodie",
     "description": "Boxy pullover with dropped shoulders and a kangaroo pocket.",
     "fit": "Boxy pullover with dropped shoulders and a kangaroo pocket.",
-    "price": 0,
+    "price": 64,
     "tags": [
       "sf-new-edit",
       "sf-four-photo-gallery",
@@ -18,42 +18,42 @@
       {
         "color": "Black",
         "size": "Small",
-        "price": 0,
+        "price": 64,
         "inventory": 0,
         "sku": "SFE-01-1-S"
       },
       {
         "color": "Black",
         "size": "Medium",
-        "price": 0,
+        "price": 64,
         "inventory": 0,
         "sku": "SFE-01-1-M"
       },
       {
         "color": "Black",
         "size": "Large",
-        "price": 0,
+        "price": 64,
         "inventory": 0,
         "sku": "SFE-01-1-L"
       },
       {
         "color": "Light Gray",
         "size": "Small",
-        "price": 0,
+        "price": 64,
         "inventory": 0,
         "sku": "SFE-01-2-S"
       },
       {
         "color": "Light Gray",
         "size": "Medium",
-        "price": 0,
+        "price": 64,
         "inventory": 0,
         "sku": "SFE-01-2-M"
       },
       {
         "color": "Light Gray",
         "size": "Large",
-        "price": 0,
+        "price": 64,
         "inventory": 0,
         "sku": "SFE-01-2-L"
       }
@@ -65,7 +65,7 @@
     "type": "Zip-up hoodie",
     "description": "Cropped hoodie with a full zipper and roomy sleeves.",
     "fit": "Cropped hoodie with a full zipper and roomy sleeves.",
-    "price": 0,
+    "price": 72,
     "tags": [
       "sf-new-edit",
       "sf-four-photo-gallery",
@@ -78,42 +78,42 @@
       {
         "color": "Black",
         "size": "Small",
-        "price": 0,
+        "price": 72,
         "inventory": 0,
         "sku": "SFE-02-1-S"
       },
       {
         "color": "Black",
         "size": "Medium",
-        "price": 0,
+        "price": 72,
         "inventory": 0,
         "sku": "SFE-02-1-M"
       },
       {
         "color": "Black",
         "size": "Large",
-        "price": 0,
+        "price": 72,
         "inventory": 0,
         "sku": "SFE-02-1-L"
       },
       {
         "color": "Light Gray",
         "size": "Small",
-        "price": 0,
+        "price": 72,
         "inventory": 0,
         "sku": "SFE-02-2-S"
       },
       {
         "color": "Light Gray",
         "size": "Medium",
-        "price": 0,
+        "price": 72,
         "inventory": 0,
         "sku": "SFE-02-2-M"
       },
       {
         "color": "Light Gray",
         "size": "Large",
-        "price": 0,
+        "price": 72,
         "inventory": 0,
         "sku": "SFE-02-2-L"
       }
@@ -125,7 +125,7 @@
     "type": "Long sleeve T-shirt",
     "description": "Boxy crew-neck with long sleeves and a straight hem.",
     "fit": "Boxy crew-neck with long sleeves and a straight hem.",
-    "price": 0,
+    "price": 38,
     "tags": [
       "sf-new-edit",
       "sf-four-photo-gallery",
@@ -138,42 +138,42 @@
       {
         "color": "Black",
         "size": "Small",
-        "price": 0,
+        "price": 38,
         "inventory": 0,
         "sku": "SFE-03-1-S"
       },
       {
         "color": "Black",
         "size": "Medium",
-        "price": 0,
+        "price": 38,
         "inventory": 0,
         "sku": "SFE-03-1-M"
       },
       {
         "color": "Black",
         "size": "Large",
-        "price": 0,
+        "price": 38,
         "inventory": 0,
         "sku": "SFE-03-1-L"
       },
       {
         "color": "White",
         "size": "Small",
-        "price": 0,
+        "price": 38,
         "inventory": 0,
         "sku": "SFE-03-2-S"
       },
       {
         "color": "White",
         "size": "Medium",
-        "price": 0,
+        "price": 38,
         "inventory": 0,
         "sku": "SFE-03-2-M"
       },
       {
         "color": "White",
         "size": "Large",
-        "price": 0,
+        "price": 38,
         "inventory": 0,
         "sku": "SFE-03-2-L"
       }
@@ -185,7 +185,7 @@
     "type": "T-shirt",
     "description": "Cropped crew-neck with wide short sleeves.",
     "fit": "Cropped crew-neck with wide short sleeves.",
-    "price": 0,
+    "price": 32,
     "tags": [
       "sf-new-edit",
       "sf-four-photo-gallery",
@@ -198,42 +198,42 @@
       {
         "color": "Black",
         "size": "Small",
-        "price": 0,
+        "price": 32,
         "inventory": 0,
         "sku": "SFE-04-1-S"
       },
       {
         "color": "Black",
         "size": "Medium",
-        "price": 0,
+        "price": 32,
         "inventory": 0,
         "sku": "SFE-04-1-M"
       },
       {
         "color": "Black",
         "size": "Large",
-        "price": 0,
+        "price": 32,
         "inventory": 0,
         "sku": "SFE-04-1-L"
       },
       {
         "color": "White",
         "size": "Small",
-        "price": 0,
+        "price": 32,
         "inventory": 0,
         "sku": "SFE-04-2-S"
       },
       {
         "color": "White",
         "size": "Medium",
-        "price": 0,
+        "price": 32,
         "inventory": 0,
         "sku": "SFE-04-2-M"
       },
       {
         "color": "White",
         "size": "Large",
-        "price": 0,
+        "price": 32,
         "inventory": 0,
         "sku": "SFE-04-2-L"
       }
@@ -245,7 +245,7 @@
     "type": "Sando",
     "description": "Boxy sleeveless crew-neck with bound armholes.",
     "fit": "Boxy sleeveless crew-neck with bound armholes.",
-    "price": 0,
+    "price": 28,
     "tags": [
       "sf-new-edit",
       "sf-four-photo-gallery",
@@ -258,42 +258,42 @@
       {
         "color": "Black",
         "size": "Small",
-        "price": 0,
+        "price": 28,
         "inventory": 0,
         "sku": "SFE-05-1-S"
       },
       {
         "color": "Black",
         "size": "Medium",
-        "price": 0,
+        "price": 28,
         "inventory": 0,
         "sku": "SFE-05-1-M"
       },
       {
         "color": "Black",
         "size": "Large",
-        "price": 0,
+        "price": 28,
         "inventory": 0,
         "sku": "SFE-05-1-L"
       },
       {
         "color": "White",
         "size": "Small",
-        "price": 0,
+        "price": 28,
         "inventory": 0,
         "sku": "SFE-05-2-S"
       },
       {
         "color": "White",
         "size": "Medium",
-        "price": 0,
+        "price": 28,
         "inventory": 0,
         "sku": "SFE-05-2-M"
       },
       {
         "color": "White",
         "size": "Large",
-        "price": 0,
+        "price": 28,
         "inventory": 0,
         "sku": "SFE-05-2-L"
       }
@@ -305,7 +305,7 @@
     "type": "Quarter zip",
     "description": "Relaxed polo with a fold-down collar and quarter zip.",
     "fit": "Relaxed polo with a fold-down collar and quarter zip.",
-    "price": 0,
+    "price": 54,
     "tags": [
       "sf-new-edit",
       "sf-four-photo-gallery",
@@ -318,42 +318,42 @@
       {
         "color": "Black",
         "size": "Small",
-        "price": 0,
+        "price": 54,
         "inventory": 0,
         "sku": "SFE-06-1-S"
       },
       {
         "color": "Black",
         "size": "Medium",
-        "price": 0,
+        "price": 54,
         "inventory": 0,
         "sku": "SFE-06-1-M"
       },
       {
         "color": "Black",
         "size": "Large",
-        "price": 0,
+        "price": 54,
         "inventory": 0,
         "sku": "SFE-06-1-L"
       },
       {
         "color": "Light Gray",
         "size": "Small",
-        "price": 0,
+        "price": 54,
         "inventory": 0,
         "sku": "SFE-06-2-S"
       },
       {
         "color": "Light Gray",
         "size": "Medium",
-        "price": 0,
+        "price": 54,
         "inventory": 0,
         "sku": "SFE-06-2-M"
       },
       {
         "color": "Light Gray",
         "size": "Large",
-        "price": 0,
+        "price": 54,
         "inventory": 0,
         "sku": "SFE-06-2-L"
       }
@@ -365,7 +365,7 @@
     "type": "Sweatshorts",
     "description": "Wide knee-length legs, raw hems and a gathered elastic waistband.",
     "fit": "Wide knee-length legs, raw hems and a gathered elastic waistband.",
-    "price": 0,
+    "price": 42,
     "tags": [
       "sf-new-edit",
       "sf-four-photo-gallery",
@@ -378,42 +378,42 @@
       {
         "color": "Black",
         "size": "Small",
-        "price": 0,
+        "price": 42,
         "inventory": 0,
         "sku": "SFE-07-1-S"
       },
       {
         "color": "Black",
         "size": "Medium",
-        "price": 0,
+        "price": 42,
         "inventory": 0,
         "sku": "SFE-07-1-M"
       },
       {
         "color": "Black",
         "size": "Large",
-        "price": 0,
+        "price": 42,
         "inventory": 0,
         "sku": "SFE-07-1-L"
       },
       {
         "color": "Light Gray",
         "size": "Small",
-        "price": 0,
+        "price": 42,
         "inventory": 0,
         "sku": "SFE-07-2-S"
       },
       {
         "color": "Light Gray",
         "size": "Medium",
-        "price": 0,
+        "price": 42,
         "inventory": 0,
         "sku": "SFE-07-2-M"
       },
       {
         "color": "Light Gray",
         "size": "Large",
-        "price": 0,
+        "price": 42,
         "inventory": 0,
         "sku": "SFE-07-2-L"
       }
@@ -425,7 +425,7 @@
     "type": "Sweatpants",
     "description": "Full-length baggy legs with open hems and the same gathered waistband as the sweatshorts.",
     "fit": "Full-length baggy legs with open hems and the same gathered waistband as the sweatshorts.",
-    "price": 0,
+    "price": 58,
     "tags": [
       "sf-new-edit",
       "sf-four-photo-gallery",
@@ -438,42 +438,42 @@
       {
         "color": "Black",
         "size": "Small",
-        "price": 0,
+        "price": 58,
         "inventory": 0,
         "sku": "SFE-08-1-S"
       },
       {
         "color": "Black",
         "size": "Medium",
-        "price": 0,
+        "price": 58,
         "inventory": 0,
         "sku": "SFE-08-1-M"
       },
       {
         "color": "Black",
         "size": "Large",
-        "price": 0,
+        "price": 58,
         "inventory": 0,
         "sku": "SFE-08-1-L"
       },
       {
         "color": "Light Gray",
         "size": "Small",
-        "price": 0,
+        "price": 58,
         "inventory": 0,
         "sku": "SFE-08-2-S"
       },
       {
         "color": "Light Gray",
         "size": "Medium",
-        "price": 0,
+        "price": 58,
         "inventory": 0,
         "sku": "SFE-08-2-M"
       },
       {
         "color": "Light Gray",
         "size": "Large",
-        "price": 0,
+        "price": 58,
         "inventory": 0,
         "sku": "SFE-08-2-L"
       }

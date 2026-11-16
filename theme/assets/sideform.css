@@ -991,3 +991,14 @@ body:has(#ProductGridContainer) .header.page-width,
     translate: -12px;
   }
 }
+
+.product-card-wrapper .card-information > .price,
+.product-card-wrapper .card-information > .price .price-item {
+  font-family: "DM Sans", sans-serif;
+  font-weight: 700;
+}
+
+.product-card-wrapper .card-information > .price {
+  font-size: clamp(17px, 1.4vw, 21px);
+  margin-top: 4px;
+}
