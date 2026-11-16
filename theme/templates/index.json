@@ -5,7 +5,8 @@
       "settings": {
         "eyebrow": "",
         "label": "Shop now",
-        "rummap_rack": true
+        "rummap_rack": false,
+        "sideform_new_edit": true
       }
     },
     "new_arrivals": {
@@ -13,12 +14,7 @@
       "settings": {
         "heading": "New arrivals",
         "collection": "new-arrivals",
-        "products": [
-          "volume-pullover",
-          "structure-hoodie",
-          "shell-utility-jacket",
-          "transit-work-jacket"
-        ]
+        "products": []
       }
     },
     "perspective": {
@@ -85,7 +81,8 @@
         "outerwear",
         "bottoms",
         "collection"
-      ]
+      ],
+      "disabled": true
     }
   },
   "order": [

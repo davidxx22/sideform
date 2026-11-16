@@ -267,14 +267,14 @@
         this.querySelector('sf-dialog').open(event.currentTarget);
       }));
     }
-    selectColor(color) { const next = color.toLowerCase(); if (next === this.color) return; this.color = next; this.view = this.querySelector('[data-sf-view]')?.dataset.sfView || 'front'; this.querySelector('.sf-photo-gallery__grid').scrollTo({left:0,behavior:'instant'}); this.render(); }
+    selectColor(color) { const next = color.toLowerCase().replace(/\s+/g, '-'); if (next === this.color) return; this.color = next; this.view = this.querySelector('[data-sf-view]')?.dataset.sfView || 'front'; this.querySelector('.sf-photo-gallery__grid').scrollTo({left:0,behavior:'instant'}); this.render(); }
     async render() {
       const color = this.color;
       const request = Symbol();
       this.sfPhotoRequest = request;
       const updates = [...this.querySelectorAll('.sf-photo-gallery__grid img')].map(img => {
         const view = img.closest('[data-sf-view]')?.dataset.sfView || this.view;
-        const replacePhoto = url => url.replace(/-(black|white|grey)-(front|back|detail|full|lineup|male|female|duolow|duofull|duoclose)(-480)?\.(?:webp|jpg)/g, (_, previous, angle, small) => `-${color}-${view}${small || ''}.webp`);
+        const replacePhoto = url => url.replace(/-(black|white|grey|light-gray)-(front|back|detail|full|lineup|male|female|duolow|duofull|duoclose)(-480)?\.(?:webp|jpg)/g, (_, previous, angle, small) => `-${color}-${view}${small || ''}.webp`);
         return { img, view, src: replacePhoto(img.src), srcset: replacePhoto(img.srcset) };
       });
       this.setAttribute('aria-busy', 'true');
@@ -293,7 +293,7 @@
           if (srcset) img.srcset = srcset;
           else img.removeAttribute('srcset');
           img.src = src;
-          img.alt = img.alt.replace(/, (black|white|grey),/i, ', ' + color + ',');
+          img.alt = img.alt.replace(/, (black|white|grey|light-gray),/i, ', ' + color + ',');
         });
         this.dataset.color = color;
         this.querySelectorAll('[data-sf-view]').forEach(button => {
@@ -351,15 +351,15 @@
     if (!color) return;
     info.querySelector('sf-photo-gallery')?.selectColor(color);
     document.querySelectorAll('[data-sf-feature-photo] img').forEach(image => {
-      const replace = url => url.replace(/-(black|white|grey)-(front|detail)(-480)?\.webp/g, (_, previous, view, small) => `-${color.toLowerCase()}-${view}${small || ''}.webp`);
+      const replace = url => url.replace(/-(black|white|grey|light-gray)-(front|detail)(-480)?\.webp/g, (_, previous, view, small) => `-${color.toLowerCase().replace(/\s+/g, '-')}-${view}${small || ''}.webp`);
       image.src = replace(image.src); if (image.srcset) image.srcset = replace(image.srcset);
-      image.alt = image.alt.replace(/, (black|white|grey),/i, `, ${color.toLowerCase()},`);
+      image.alt = image.alt.replace(/, (black|white|grey|light-gray),/i, `, ${color.toLowerCase().replace(/\s+/g, '-')},`);
     });
     const gallery = info.querySelector('media-gallery');
     if (!gallery) return;
     gallery.querySelectorAll('[data-sf-media-alt]').forEach(item => {
       const match = item.dataset.sfMediaAlt.match(/\[color:([^\]]+)\]/i);
-      item.classList.toggle('sf-color-hidden', !!match && match[1].toLowerCase() !== color.toLowerCase());
+      item.classList.toggle('sf-color-hidden', !!match && match[1].toLowerCase() !== color.toLowerCase().replace(/\s+/g, '-'));
     });
     const active = gallery.querySelector('[data-media-id].is-active');
     if (active?.classList.contains('sf-color-hidden')) {

@@ -1,4 +1,12 @@
-{% if section.settings.rummap_rack %}
+{% if section.settings.sideform_new_edit %}
+<section class="sf-campaign sf-launch" aria-labelledby="SideformLaunch-{{ section.id }}">
+  <div class="page-width sf-launch__copy">
+    <p class="sf-kicker">THE NEW EDIT</p>
+    <h1 id="SideformLaunch-{{ section.id }}">Everyday shapes.<br>Room to move.</h1>
+    <a class="button" href="{{ routes.all_products_collection_url }}">Shop now</a>
+  </div>
+</section>
+{% elsif section.settings.rummap_rack %}
 <section class="sf-campaign rummap-hero" aria-labelledby="RummapHeroHeading-{{ section.id }}">
   <div class="rummap-hero__intro page-width">
     <div>
@@ -38,6 +46,7 @@
   "name": "Rummap campaign",
   "tag": "section",
   "settings": [
+    {"type":"checkbox","id":"sideform_new_edit","label":"Show SIDEFORM new edit","default":false},
     {"type":"checkbox","id":"rummap_rack","label":"Show Rummap thrift rack hero","default":false},
     {
       "type": "image_picker",

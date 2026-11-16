@@ -1,7 +1,7 @@
 {% assign photo_handles = 'offset-heavy-tee,plane-box-tee,axis-long-sleeve,frame-long-sleeve,volume-pullover,structure-hoodie,contour-crew,shell-utility-jacket,transit-work-jacket,grid-cargo-pant,drift-baggy-jean,interval-utility-short' | split: ',' %}
-{% if photo_handles contains product.handle %}
-  {% assign initial_color = product.selected_or_first_available_variant.option1 | default: 'Black' | downcase %}
-  <sf-photo-gallery class="sf-photo-gallery" data-color="{{ initial_color }}" data-section="{{ section.id }}">
+{% if photo_handles contains product.handle or product.tags contains 'sf-new-edit' %}
+  {% assign initial_color = product.selected_or_first_available_variant.option1 | default: 'Black' | handleize %}
+  <sf-photo-gallery class="sf-photo-gallery{% if product.tags contains 'sf-new-edit' %} sf-photo-gallery--single{% endif %}" data-color="{{ initial_color }}" data-section="{{ section.id }}">
     <div class="sf-photo-gallery__viewport">
     <div class="sf-photo-gallery__grid" tabindex="0" aria-label="Product photographs">
       {% assign views = 'front,back,detail' | split: ',' %}
@@ -10,6 +10,7 @@
       {% assign bottom_handles = 'grid-cargo-pant,drift-baggy-jean,interval-utility-short' | split: ',' %}
       {% if bottom_handles contains product.handle %}{% assign views = 'male,duoclose,duofull,female,lineup,detail' | split: ',' %}{% endif %}
       {% if product.handle == 'interval-utility-short' %}{% assign views = 'female,duoclose,duofull,male,lineup,detail' | split: ',' %}{% endif %}
+      {% if product.tags contains 'sf-new-edit' %}{% assign views = 'front' | split: ',' %}{% endif %}
       {% for view in views %}
         {% assign view_label = view %}
         {% case view %}
@@ -22,7 +23,7 @@
         {% if bottom_handles contains product.handle %}{% assign view_label = view_label | replace: 'half-body', 'full-body' %}{% endif %}
         <button class="sf-photo-gallery__tile" type="button" data-sf-view="{{ view }}" data-sf-enlarge aria-label="Enlarge {{ view_label }} photograph">
           {% render 'sf-product-image', product: product, color: initial_color, view: view, sizes: '(min-width: 990px) 30vw, (min-width: 750px) 48vw, 92vw' %}
-          {% if view == 'male' or view == 'female' %}{% render 'sf-model-caption', product: product, gender: view %}{% elsif view == 'front' or view == 'full' %}{% render 'sf-model-caption', product: product %}{% endif %}
+          {% if view == 'male' or view == 'female' %}{% render 'sf-model-caption', product: product, gender: view %}{% elsif view == 'front' or view == 'full' %}{% unless product.tags contains 'sf-new-edit' %}{% render 'sf-model-caption', product: product %}{% endunless %}{% endif %}
           <span class="sf-enlarge">+</span>
         </button>
       {% endfor %}

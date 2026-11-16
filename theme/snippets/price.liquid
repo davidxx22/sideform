@@ -1,3 +1,4 @@
+{% if product.tags contains 'sf-new-edit' %}<p class="price sf-preview-price">Coming soon</p>{% else %}
 {% comment %}
   Renders a list of product's price (regular, sale)
 
@@ -120,3 +121,5 @@
     {%- endif -%}
   </div>
 {% endunless %}
+
+{% endif %}

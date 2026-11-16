@@ -96,8 +96,8 @@
                     class="product__text inline-richtext{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}"
                     {{ block.shopify_attributes }}
                   >
-                    {%- if block.settings.text == 'Rummap / COLLECTION 001' and product.tags contains 'collection-002' -%}
-                      Rummap / COLLECTION 002
+                    {%- if block.settings.text == 'SIDEFORM / COLLECTION 001' and product.tags contains 'collection-002' -%}
+                      SIDEFORM / COLLECTION 002
                     {%- else -%}
                       {{- block.settings.text -}}
                     {%- endif -%}
@@ -505,7 +505,7 @@
                     show_pickup_availability: true
                   -%}
                   <sf-product-subtotal class="sf-product-subtotal" data-unit-price="{{ product.selected_or_first_available_variant.price }}" data-currency="{{ cart.currency.iso_code | default: 'USD' }}" role="status" aria-live="polite" aria-atomic="true" hidden></sf-product-subtotal>
-                  <p class="sf-stock-status" id="SfStock-{{ section.id }}" role="status">{% if product.selected_or_first_available_variant.available %}{{ 'products.product.inventory_in_stock' | t }}{% else %}{{ 'products.product.inventory_out_of_stock' | t }}{% endif %}</p>
+                  <p class="sf-stock-status" id="SfStock-{{ section.id }}" role="status">{% if product.tags contains 'sf-new-edit' %}Pricing and stock to be announced{% elsif product.selected_or_first_available_variant.available %}{{ 'products.product.inventory_in_stock' | t }}{% else %}{{ 'products.product.inventory_out_of_stock' | t }}{% endif %}</p>
                   {% render 'sf-favorite-button', product: product %}
                 {%- when 'rating' -%}
                   {%- if product.metafields.reviews.rating.value != blank -%}

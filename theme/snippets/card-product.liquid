@@ -35,6 +35,9 @@
     assign sf_palette = 'Black,White,Grey' | split: ','
     assign sf_palette_index = sf_color_index | default: card_product.id | modulo: 3
     assign sf_card_color = sf_palette[sf_palette_index]
+    if card_product.tags contains 'sf-new-edit'
+      assign sf_card_color = card_product.selected_or_first_available_variant.option1
+    endif
     for variant in card_product.variants
       if variant.option1 == sf_card_color and variant.featured_media != blank
         assign sf_card_media = variant.featured_media

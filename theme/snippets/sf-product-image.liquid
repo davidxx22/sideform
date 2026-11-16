@@ -1,3 +1,10 @@
+{% if product.tags contains 'sf-new-edit' %}
+  {% assign new_shade = color | default: 'Black' | handleize %}
+  {% capture new_photo %}sf-packshot-{{ product.handle }}-{{ new_shade }}-front{% endcapture %}
+  {% assign large = new_photo | append: '.webp' %}
+  {% assign small = new_photo | append: '-480.webp' %}
+  <img src="{{ large | asset_url }}" srcset="{{ small | asset_url }} 480w, {{ large | asset_url }} 1122w" sizes="{{ sizes | default: '(min-width: 990px) 25vw, 50vw' }}" width="1122" height="1122" loading="{{ loading | default: 'lazy' }}" alt="{{ product.title | escape }}, {{ color | escape }}, front view.">
+{% else %}
 {% comment %}Generated photo assets are product-specific. Merchant product media takes precedence in Dawn.{% endcomment %}
 {% assign photo_handles = 'offset-heavy-tee,plane-box-tee,axis-long-sleeve,frame-long-sleeve,volume-pullover,structure-hoodie,contour-crew,shell-utility-jacket,transit-work-jacket,grid-cargo-pant,drift-baggy-jean,interval-utility-short' | split: ',' %}
 {% if photo_handles contains product.handle %}
@@ -26,4 +33,5 @@
   <img src="{{ full_filename | asset_url }}" srcset="{{ small_filename | asset_url }} 480w, {{ full_filename | asset_url }} 1122w" sizes="{{ sizes | default: '(min-width: 990px) 25vw, 50vw' }}" width="1122" height="1402" loading="{{ loading | default: 'lazy' }}" alt="AI-generated sample photograph — {{ product.title | escape }}, {{ shade | escape }}, {{ presentation | escape }} view.">
 {% else %}
   <div class="sf-sample-note">Product imagery pending — {{ product.title | escape }}. Add product photographs in Shopify.</div>
+{% endif %}
 {% endif %}
