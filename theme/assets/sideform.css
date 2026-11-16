@@ -938,3 +938,11 @@ body:has(.sf-launch) .sf-home-header .header-wrapper{--sf-overlay-ink:#20231f}
 .sf-swatch--light-gray{background:#c9c9c7}
 .sf-photo-gallery--single .sf-photo-gallery__grid{grid-template-columns:minmax(0,1fr)}
 .sf-photo-gallery--single .sf-gallery-controls{display:none}
+
+/* Leave more space around garment packshots without changing card dimensions. */
+.product-card-wrapper .sf-card-photo img[src*="sf-packshot-"]{box-sizing:border-box;padding:12%}
+#product-grid .product-card-wrapper .sf-card-photo img[src*="sf-packshot-"]{padding:12%}
+@media(max-width:749px){
+ .product-card-wrapper .sf-card-photo img[src*="sf-packshot-"],
+ #product-grid .product-card-wrapper .sf-card-photo img[src*="sf-packshot-"]{padding:10%}
+}
