@@ -1021,6 +1021,8 @@ body:has(#ProductGridContainer) .header.page-width,
   padding-inline: clamp(10px, 3.125vw, 52px);
  }
 
+ /* Account for the desktop storefront scale so the photo covers the first screen. */
+ .sf-launch__image { min-height: calc(125svh + 1px); object-fit: cover; }
  .sf-launch__wordmark { font-size: min(16.875vw, 230px); }
  .product-card-wrapper .card-information > .price { font-size: clamp(17px, 1.75vw, 21px); }
 
