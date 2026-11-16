@@ -947,15 +947,38 @@ body:has(.sf-launch) .sf-home-header .header-wrapper{--sf-overlay-ink:#20231f}
  #product-grid .product-card-wrapper .sf-card-photo img[src*="sf-packshot-"]{padding:6%}
 }
 
-/* Give the home and collection cards more room at the existing column counts. */
+/* Align header controls with the product grid on each storefront page. */
+body:has(.sf-arrivals-section) .header.page-width,
 .sf-arrivals-section.page-width {
   max-width: 1660px;
   padding-inline: 3vw;
 }
 
+body:has(#ProductGridContainer) .header.page-width,
 #ProductGridContainer > .collection.page-width,
 .facets-wrapper.sf-shop-toolbar.page-width,
 .facets-vertical.page-width:has(> #ProductGridContainer) {
   max-width: calc(var(--page-width) + 48px);
   padding-inline: clamp(12px, 3vw, 44px);
+}
+
+@media (min-width: 990px) {
+  body:has(.sf-arrivals-section, #ProductGridContainer)
+    .header__inline-menu > .list-menu > li:first-child > .header__menu-item {
+    padding-inline-start: 0;
+  }
+
+  body:has(.sf-arrivals-section, #ProductGridContainer) .header__icons {
+    margin-inline-end: -8px;
+  }
+}
+
+@media (max-width: 749px) {
+  body:has(.sf-arrivals-section, #ProductGridContainer) .header__icons {
+    margin-inline-end: -2px;
+  }
+
+  body:has(.sf-arrivals-section, #ProductGridContainer) header-drawer .icon-hamburger {
+    translate: -12px;
+  }
 }
