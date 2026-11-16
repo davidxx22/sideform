@@ -939,9 +939,6 @@ body:has(.rummap-hero) .sf-home-header:not(.sf-home-header--solid) .header-wrapp
  letter-spacing:-.055em;
  pointer-events:none;
 }
-@media(min-width:1700px){
- .sf-launch picture{max-width:1700px;margin-inline:auto;mask-image:linear-gradient(to right,transparent,#000 16px,#000 calc(100% - 16px),transparent)}
-}
 body:has(.sf-launch) .sf-home-header:not(.sf-home-header--solid) .header-wrapper:not(:has(.header__search details[open],header-drawer details[open])){--sf-overlay-ink:#fff}
 @media(min-width:750px) and (max-width:1199px){.sf-launch{padding-top:16px}}
 .sf-arrivals-section .sf-home-section-heading{font-weight:400}
