@@ -1011,3 +1011,22 @@ body:has(#ProductGridContainer) .header.page-width,
   font-size: clamp(17px, 1.4vw, 21px);
   margin-top: 4px;
 }
+
+/* Match the compact desktop storefront proportions at normal browser zoom. */
+@media (min-width: 1200px) {
+ html { zoom: .8; }
+
+ body:has(.sf-arrivals-section) .header.page-width,
+ .sf-arrivals-section.page-width {
+  padding-inline: clamp(10px, 3.125vw, 52px);
+ }
+
+ .sf-launch__wordmark { font-size: min(16.875vw, 230px); }
+ .product-card-wrapper .card-information > .price { font-size: clamp(17px, 1.75vw, 21px); }
+
+ .header__search details[open] > .search-modal {
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+ }
+}
