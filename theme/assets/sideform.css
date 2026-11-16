@@ -926,7 +926,11 @@ body:has(.rummap-hero) .sf-home-header:not(.sf-home-header--solid) .header-wrapp
 }
 /* SIDEFORM new collection */
 .sf-header-wordmark,.sf-wordmark{font-family:"DM Sans",sans-serif;font-weight:800;letter-spacing:-.06em}
-.sf-launch{background:#d0cecf;color:#20231f}
+.sf-launch{
+ background:#d0cecf;
+ color:#20231f;
+ mask-image:linear-gradient(to bottom,#000 calc(100% - 20px),transparent);
+}
 .sf-launch picture,.sf-launch__image{display:block;width:100%}
 .sf-launch__image{height:auto}
 @media(min-width:1700px){
