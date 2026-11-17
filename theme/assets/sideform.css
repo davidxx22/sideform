@@ -977,6 +977,7 @@ body:has(.rummap-hero) .sf-home-header:not(.sf-home-header--solid) .header-wrapp
  text-shadow:0 1px 8px #000, 0 1px 3px #000;
 }
 .sf-launch__collection a {
+ gap:16px;
  display:inline-flex;
  align-items:center;
  min-height:44px;
