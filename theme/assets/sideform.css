@@ -950,12 +950,7 @@ body:has(.sf-launch) .sf-home-header:not(.sf-home-header--solid) .header-wrapper
 .sf-photo-gallery--single .sf-photo-gallery__grid{grid-template-columns:minmax(0,1fr)}
 .sf-photo-gallery--single .sf-gallery-controls{display:none}
 
-/* Give all listing photos the same neutral surface without clipping white highlights. */
-#MainContent:has(.sf-arrivals-section, #ProductGridContainer),
-collection-component > .gradient:has(#ProductGridContainer) {
-  background: #eee;
-}
-
+/* Preserve product photo highlights against the storefront background. */
 .product-card-wrapper:has(.sf-card-photo img[src*="sf-packshot-"]) .card__inner {
   background: transparent;
 }
