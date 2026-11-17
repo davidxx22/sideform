@@ -441,10 +441,36 @@
     const hero = document.querySelector('#MainContent .sf-campaign');
     const arrivals = document.querySelector('#MainContent .sf-arrivals-section');
     if (!header || !hero || !arrivals) return;
+    const stage = hero.querySelector('.sf-launch__wordmark');
+    const lettering = stage?.firstElementChild;
+    const logo = header.querySelector('.sf-header-wordmark');
+    const motion = window.matchMedia('(prefers-reduced-motion: reduce)');
     update = () => {
       header.style.setProperty('--sf-overlay-height', header.offsetHeight + 'px');
       header.classList.add('sf-home-header');
       header.classList.toggle('sf-home-header--solid', arrivals.getBoundingClientRect().top <= header.getBoundingClientRect().bottom);
+      if (!lettering || !logo) return;
+
+      const origin = stage.getBoundingClientRect();
+      const progress = Math.max(0, Math.min(1, -origin.top / (origin.height * .45)));
+      const docked = progress >= 1;
+      header.classList.toggle('sf-wordmark-in-flight', !docked);
+      hero.classList.toggle('sf-wordmark-docked', docked);
+
+      if (docked || motion.matches || progress === 0) {
+        lettering.style.transform = '';
+        return;
+      }
+
+      const target = logo.getBoundingClientRect();
+      // The desktop storefront applies a scale, while DOM rectangles use screen coordinates.
+      const zoom = origin.width / stage.offsetWidth;
+      const x = (target.left + target.width / 2 - origin.left - origin.width / 2) / zoom;
+      const y = (target.top + target.height / 2 - origin.top - origin.height / 2) / zoom;
+      const targetScale = target.width / (lettering.offsetWidth * zoom);
+      const eased = progress * progress * (3 - 2 * progress);
+      const scale = 1 + (targetScale - 1) * eased;
+      lettering.style.transform = `translate(${x * eased}px, ${y * eased}px) scale(${scale})`;
     };
     let frame = 0;
     const schedule = () => {
@@ -455,6 +481,8 @@
     window.addEventListener('scroll', schedule, { passive: true });
     window.addEventListener('resize', schedule);
     window.addEventListener('pageshow', schedule);
+    motion.addEventListener('change', schedule);
+    document.fonts?.ready.then(schedule);
     if (window.ResizeObserver) {
       const observer = new ResizeObserver(schedule);
       observer.observe(header);

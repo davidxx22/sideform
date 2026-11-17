@@ -929,6 +929,8 @@ body:has(.rummap-hero) .sf-home-header:not(.sf-home-header--solid) .header-wrapp
 .sf-launch{background:linear-gradient(#0f0f13,#111215,#17181b,#1a1c1f,#222529,#373a3f,#5c6066);color:#fff}
 .sf-launch picture,.sf-launch__image{display:block;width:100%}
 .sf-launch__image{height:auto}
+.sf-wordmark-in-flight .header__heading-link,
+.sf-wordmark-docked .sf-launch__wordmark { visibility:hidden; }
 .sf-launch__wordmark{
  position:absolute;
  inset:0;
