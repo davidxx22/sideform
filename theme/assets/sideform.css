@@ -961,9 +961,7 @@ body:has(.sf-launch) .sf-home-header:not(.sf-home-header--solid) .header-wrapper
   padding: 0;
   background: transparent;
   filter: brightness(1.05);
-  mask-image: linear-gradient(to right, transparent, #000 6%, #000 94%, transparent),
-    linear-gradient(to bottom, transparent, #000 13%, #000 87%, transparent);
-  mask-composite: intersect;
+  mask-image: linear-gradient(to right, transparent, #000 6%, #000 94%, transparent);
 }
 
 /* Align header controls with the product grid on each storefront page. */
