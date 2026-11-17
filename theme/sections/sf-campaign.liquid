@@ -1,6 +1,5 @@
 {% if section.settings.sideform_new_edit %}
 <section class="sf-campaign sf-launch" aria-labelledby="SideformLaunch-{{ section.id }}">
-  <h1 class="visually-hidden" id="SideformLaunch-{{ section.id }}">SIDEFORM new collection</h1>
   <picture>
     <source media="(max-width: 749px)" srcset="{{ 'sideform-hero-spotlight-mobile.webp' | asset_url }}" width="579" height="768">
     <img class="sf-launch__image" src="{{ 'sideform-hero-spotlight.webp' | asset_url }}"
@@ -8,6 +7,10 @@
       alt="Full-body shot of a model with his hood up, looking down and holding the pocket of a black Boxy Fit Hoodie, styled with black Baggy Sweatpants and silver-and-white sneakers under a studio spotlight.">
   </picture>
   <span class="sf-launch__wordmark" aria-hidden="true"><span>SIDEFORM</span></span>
+  <div class="sf-launch__collection">
+    <h1 id="SideformLaunch-{{ section.id }}">Soft Structure</h1>
+    <a href="{{ routes.all_products_collection_url }}">Shop collection</a>
+  </div>
 </section>
 {% elsif section.settings.rummap_rack %}
 <section class="sf-campaign rummap-hero" aria-labelledby="RummapHeroHeading-{{ section.id }}">
