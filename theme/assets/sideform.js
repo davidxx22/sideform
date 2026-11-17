@@ -442,6 +442,7 @@
     const arrivals = document.querySelector('#MainContent .sf-arrivals-section');
     if (!header || !hero || !arrivals) return;
     const stage = hero.querySelector('.sf-launch__wordmark');
+    const campaignPhoto = hero.querySelector('.sf-launch > picture');
     const lettering = stage?.firstElementChild;
     const logo = header.querySelector('.sf-header-wordmark');
     const motion = window.matchMedia('(prefers-reduced-motion: reduce)');
@@ -449,6 +450,15 @@
       header.style.setProperty('--sf-overlay-height', header.offsetHeight + 'px');
       header.classList.add('sf-home-header');
       header.classList.toggle('sf-home-header--solid', arrivals.getBoundingClientRect().top <= header.getBoundingClientRect().bottom);
+      if (campaignPhoto) {
+        const photoFrame = hero.getBoundingClientRect();
+        // Keep the photo moving more slowly than the section rising in front of it.
+        const travel = Math.min(photoFrame.height, Math.max(0, -photoFrame.top));
+        const zoom = photoFrame.width / hero.offsetWidth;
+        campaignPhoto.style.transform = !motion.matches && travel > 0
+          ? `translate3d(0, ${travel * .7 / zoom}px, 0)`
+          : '';
+      }
       if (!lettering || !logo) return;
 
       const origin = stage.getBoundingClientRect();
