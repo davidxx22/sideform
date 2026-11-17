@@ -963,6 +963,15 @@ body:has(.sf-launch) .sf-home-header:not(.sf-home-header--solid) .header-wrapper
   filter: brightness(1.08);
 }
 
+/* Preserve the pale studio backdrop and fabric detail on white packshots. */
+.product-card-wrapper .sf-card-photo img[src*="sf-packshot-"][src*="-white-"],
+#product-grid .product-card-wrapper .sf-card-photo img[src*="sf-packshot-"][src*="-white-"] {
+  filter: none;
+  mask-image: linear-gradient(to right, transparent, #000 6%, #000 94%, transparent),
+    linear-gradient(to bottom, transparent, #000 13%, #000 87%, transparent);
+  mask-composite: intersect;
+}
+
 .product-grid:has(.sf-card-photo img[src*="sf-packshot-"]) {
   mix-blend-mode: darken;
 }
