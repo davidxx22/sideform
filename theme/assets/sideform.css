@@ -950,7 +950,12 @@ body:has(.sf-launch) .sf-home-header:not(.sf-home-header--solid) .header-wrapper
 .sf-photo-gallery--single .sf-photo-gallery__grid{grid-template-columns:minmax(0,1fr)}
 .sf-photo-gallery--single .sf-gallery-controls{display:none}
 
-/* Let the listing photos blend into the storefront background. */
+/* Give all listing photos the same neutral surface without clipping white highlights. */
+#MainContent:has(.sf-arrivals-section, #ProductGridContainer),
+collection-component > .gradient:has(#ProductGridContainer) {
+  background: #eee;
+}
+
 .product-card-wrapper:has(.sf-card-photo img[src*="sf-packshot-"]) .card__inner {
   background: transparent;
 }
@@ -960,20 +965,9 @@ body:has(.sf-launch) .sf-home-header:not(.sf-home-header--solid) .header-wrapper
   box-sizing: border-box;
   padding: 0;
   background: transparent;
-  filter: brightness(1.08);
-}
-
-/* Preserve the pale studio backdrop and fabric detail on white packshots. */
-.product-card-wrapper .sf-card-photo img[src*="sf-packshot-"][src*="-white-"],
-#product-grid .product-card-wrapper .sf-card-photo img[src*="sf-packshot-"][src*="-white-"] {
-  filter: none;
   mask-image: linear-gradient(to right, transparent, #000 6%, #000 94%, transparent),
     linear-gradient(to bottom, transparent, #000 13%, #000 87%, transparent);
   mask-composite: intersect;
-}
-
-.product-grid:has(.sf-card-photo img[src*="sf-packshot-"]) {
-  mix-blend-mode: darken;
 }
 
 /* Align header controls with the product grid on each storefront page. */
