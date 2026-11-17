@@ -960,7 +960,7 @@ body:has(.sf-launch) .sf-home-header:not(.sf-home-header--solid) .header-wrapper
   box-sizing: border-box;
   padding: 0;
   background: transparent;
-  filter: brightness(1.05);
+  filter: brightness(1.06);
   mask-image: linear-gradient(to right, transparent, #000 6%, #000 94%, transparent);
 }
 
