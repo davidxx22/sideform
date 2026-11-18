@@ -1087,7 +1087,11 @@ body:has(#ProductGridContainer) .header.page-width,
 @media (min-width: 1200px) {
  html { zoom: .8; }
 
- body:has(.sf-arrivals-section) .header.page-width,
+ body:has(.sf-arrivals-section) .header.page-width {
+  max-width:none;
+  padding-inline:3.125vw;
+ }
+
  .sf-arrivals-section.page-width {
   padding-inline: clamp(10px, 3.125vw, 52px);
  }
