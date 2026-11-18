@@ -1104,3 +1104,22 @@ body:has(#ProductGridContainer) .header.page-width,
   min-height: 100%;
  }
 }
+
+/* Highlight navigation controls without underlining their labels. */
+.header .header__menu-item,
+.header .header__menu-item span,
+.header .header__menu-item:is(:hover, :focus-visible) span,
+.header .header__active-menu-item,
+.header .menu-drawer__menu-item {
+  text-decoration:none;
+}
+
+.header :is(.header__menu-item, .header__icon, .header__heading-link, .menu-drawer__menu-item):is(:hover, :focus-visible) {
+  text-decoration:none;
+  border-radius:6px;
+  background-color:color-mix(in srgb, currentColor 10%, transparent);
+}
+
+.header :is(.header__menu-item, .header__icon, .header__heading-link, .menu-drawer__menu-item):focus-visible {
+  outline-color:currentColor !important;
+}
