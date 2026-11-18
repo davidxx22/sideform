@@ -1105,7 +1105,7 @@ body:has(#ProductGridContainer) .header.page-width,
  }
 }
 
-/* Use a medium weight for hover and focus without changing the link color. */
+/* Increase the weight for hover and focus without changing the link color. */
 .header .header__menu-item,
 .header .header__menu-item span,
 .header .header__active-menu-item,
@@ -1116,5 +1116,5 @@ body:has(#ProductGridContainer) .header.page-width,
 .header :is(.header__menu-item, .menu-drawer__menu-item):is(:hover, :focus-visible),
 .header :is(.header__menu-item, .menu-drawer__menu-item):is(:hover, :focus-visible) span {
   text-decoration:none;
-  font-weight:500;
+  font-weight:600;
 }
