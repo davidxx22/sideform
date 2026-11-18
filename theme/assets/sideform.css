@@ -960,7 +960,7 @@ body:has(.rummap-hero) .sf-home-header:not(.sf-home-header--solid) .header-wrapp
  max-width:1700px;
  height:100%;
  margin-inline:auto;
- padding:0 clamp(16px, 2.5vw, 52px) clamp(18px, 3vw, 48px);
+ padding:0 clamp(10px, 2.5vw, 52px) clamp(18px, 3vw, 48px);
  display:flex;
  flex-direction:column;
  align-items:flex-start;
@@ -998,7 +998,6 @@ body:has(.rummap-hero) .sf-home-header:not(.sf-home-header--solid) .header-wrapp
 @media (min-width:1200px) {
  .sf-launch__collection {
   height:min(100%, 125svh);
-  padding-inline:clamp(10px, 3.125vw, 52px);
  }
 }
 .sf-wordmark-in-flight .header__heading-link,
@@ -1087,13 +1086,11 @@ body:has(#ProductGridContainer) .header.page-width,
 @media (min-width: 1200px) {
  html { zoom: .8; }
 
- body:has(.sf-arrivals-section) .header.page-width {
+ body:has(.sf-arrivals-section) .header.page-width,
+ .sf-arrivals-section.page-width,
+ .sf-launch__collection {
   max-width:none;
   padding-inline:3.125vw;
- }
-
- .sf-arrivals-section.page-width {
-  padding-inline: clamp(10px, 3.125vw, 52px);
  }
 
  /* Account for the desktop storefront scale so the photo covers the first screen. */
