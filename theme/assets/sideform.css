@@ -1,3 +1,4 @@
+@font-face{font-family:"DM Sans";font-style:normal;font-weight:800;font-display:swap;src:url("sf-dm-sans-800.woff2") format("woff2")}
 @font-face{font-family:Inter;font-style:normal;font-weight:400 800;font-display:swap;src:url("sf-inter-latin.woff2") format("woff2")}
 @font-face{font-family:Poppins;font-style:normal;font-weight:400;font-display:swap;src:url("sf-poppins-400.ttf") format("truetype")}
 @font-face{font-family:Poppins;font-style:normal;font-weight:500;font-display:swap;src:url("sf-poppins-500.ttf") format("truetype")}
@@ -951,7 +952,7 @@ body:has(.rummap-hero) .sf-home-header:not(.sf-home-header--solid) .header-wrapp
  .rummap-hero__picture{aspect-ratio:900/385}
 }
 /* SIDEFORM new collection */
-.sf-header-wordmark,.sf-wordmark{font-family:"Inter",sans-serif;font-weight:800;letter-spacing:-.06em}
+.sf-header-wordmark,.sf-wordmark{font-family:"DM Sans",sans-serif;font-weight:800;letter-spacing:-.06em}
 .sf-launch{background:linear-gradient(#0f0f13,#111215,#17181b,#1a1c1f,#222529,#373a3f,#5c6066);color:#fff}
 .sf-launch picture,.sf-launch__image{display:block;width:100%}
 .sf-launch__image{height:auto}
@@ -1009,7 +1010,7 @@ body:has(.rummap-hero) .sf-home-header:not(.sf-home-header--solid) .header-wrapp
  display:grid;
  place-items:center;
  color:#fff;
- font:800 min(13.5vw,230px)/1 "Inter",sans-serif;
+ font:800 min(13.5vw,230px)/1 "DM Sans",sans-serif;
  letter-spacing:-.055em;
  pointer-events:none;
 }
